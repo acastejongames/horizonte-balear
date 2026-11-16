@@ -1,0 +1,22 @@
+---
+import Base from '../../../layouts/Base.astro';
+import StoryGrid from '../../../components/StoryGrid.astro';
+import ListingHeader from '../../../components/ListingHeader.astro';
+import { getStories } from '../../../lib/data.js';
+import { t, LANGS } from '../../../lib/i18n.js';
+
+export function getStaticPaths({ paginate }) {
+  const verified = getStories().filter((s) => s.status === 'verified');
+  return LANGS.flatMap((lang) => paginate(verified, { params: { lang }, pageSize: 30 }));
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const { page } = Astro.props;
+const L = t(lang);
+const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+---
+<Base lang={lang} title={L.verifiedOnly} path={`/contrastadas/${suffix}`}>
+  <div class="page container">
+  <ListingHeader lang={lang} title={`✓ ${L.verifiedOnly}`} total={page.total} kind="verified" intro={L.status.verified.desc(2).replace('2', '2+')} />
+  <StoryGrid stories={page.data} lang={lang} page={page} />
+  </div>
+</Base>

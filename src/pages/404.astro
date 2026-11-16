@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import { href } from '../lib/url.js';
+---
+<Base lang="es" title="404" path="/" noindex>
+  <section class="notfound container">
+    <h1 class="page-title">404</h1>
+    <p>Página no encontrada · Pàgina no trobada</p>
+    <p><a href={href('/es/')}>Volver a la portada</a> · <a href={href('/ca/')}>Tornar a la portada</a></p>
+  </section>
+</Base>

@@ -1,0 +1,149 @@
+---
+import Base from '../../../layouts/Base.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import NewsCard from '../../../components/NewsCard.astro';
+import RelTime from '../../../components/RelTime.astro';
+import { getStories, getRedirects, storySources, related, sourceName, storyImage } from '../../../lib/data.js';
+import { t, LANGS, formatDate, SITE_NAME } from '../../../lib/i18n.js';
+import { href, storyUrl } from '../../../lib/url.js';
+
+export function getStaticPaths() {
+  const pages = getStories().flatMap((story) => LANGS.map((lang) => ({ params: { lang, slug: story.slug }, props: { story } })));
+  // Noticias fusionadas: la dirección antigua redirige a la noticia que queda.
+  const redirects = getRedirects().flatMap(({ from, to }) => LANGS.map((lang) => ({ params: { lang, slug: from }, props: { redirectTo: to } })));
+  return [...pages, ...redirects];
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+if (Astro.props.redirectTo) return Astro.redirect(storyUrl(lang, Astro.props.redirectTo), 301);
+const { story } = Astro.props;
+const L = t(lang);
+const c = story[lang];
+const sources = storySources(story);
+const img = storyImage(story);
+if (img) ((Astro.locals as any).vtUsed ??= new Set()).add(story.id);
+const rel = related(story, 3);
+const firstSource = sourceName(story.articles[0].sourceId);
+const statusDesc = L.status[story.status].desc(story.groups.length, firstSource);
+const chip = (ids: string[]) => ids.map(sourceName).join(' · ');
+const updated = story.updatedAt && Date.parse(story.updatedAt) - Date.parse(story.date) > 30 * 60000;
+const url = new URL(storyUrl(lang, story), Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: c.title,
+  description: c.summary,
+  datePublished: story.date,
+  dateModified: story.updatedAt ?? story.date,
+  inLanguage: lang,
+  mainEntityOfPage: url,
+  ...(img ? { image: [img.url] } : {}),
+  publisher: { '@type': 'Organization', name: SITE_NAME },
+  isBasedOn: sources.map((s) => s.url),
+};
+---
+<Base lang={lang} title={c.title} description={c.summary} path={`/noticia/${story.slug}/`} type="article" image={img?.url} jsonLd={jsonLd}>
+  <div class={`container article-page topic-${story.topic}`}>
+    <header class="article-head">
+      <nav class="crumbs mono" aria-label="Ruta">
+        {story.islands.map((i, n) => <>{n > 0 && <span class="dot">·</span>}<a href={href(`/${lang}/${i}/`)}>{L.islands[i]}</a></>)}
+        <span class="dot">/</span>
+        <a href={href(`/${lang}/tema/${story.topic}/`)}>{L.topics[story.topic]}</a>
+      </nav>
+      <h1 class="article-title">{c.title}</h1>
+      <p class="article-lead">{c.summary}</p>
+      <div class="article-meta mono">
+        <span>{L.published} <RelTime iso={story.date} lang={lang} /></span>
+        {updated && <span>{L.updated} <RelTime iso={story.updatedAt} lang={lang} /></span>}
+        <button type="button" class="btn btn-ghost btn-sm" data-share>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7M16 6l-4-4-4 4M12 2v13" /></svg>
+          {L.share}
+        </button>
+      </div>
+    </header>
+
+    {img && (
+      <figure class="article-figure">
+        <div class="article-figure-media">
+          <img src={img.url} alt="" referrerpolicy="no-referrer" fetchpriority="high" style={`view-transition-name:img-${story.id}`}
+            onload="this.classList.add('is-loaded')" onerror="this.closest('figure').remove()" />
+        </div>
+        <figcaption class="mono">{L.photo}: {img.credit} · <a href={img.articleUrl} target="_blank" rel="noopener nofollow">{L.photoOriginal} ↗</a></figcaption>
+      </figure>
+    )}
+
+    <div class="article-grid">
+      <aside class={`status-card verify-${story.status}`} aria-label={L.verification}>
+        <StatusBadge lang={lang} status={story.status} count={story.groups.length} large />
+        <p>{statusDesc}</p>
+        <div class="status-meter" aria-hidden="true">
+          {Array.from({ length: Math.max(story.groups.length, 4) }, (_, i) => <span class={i < story.groups.length ? 'on' : ''}></span>)}
+        </div>
+        <p class="status-count mono">{L.mediaCount(story.media.length, story.groups.length)}</p>
+      </aside>
+
+      <div class="article-main">
+        <div class="article-body">
+          {c.body.map((p) => <p>{p}</p>)}
+        </div>
+
+        {(story.facts?.length > 0 || story.discrepancies?.length > 0) && (
+          <section class="panel" aria-labelledby="verif">
+            <h2 id="verif" class="mono">{L.verification}</h2>
+            {story.facts?.length > 0 && (
+              <ul class="facts">
+                {story.facts.map((f) => (
+                  <li>
+                    <span class="fact-icon ok" aria-hidden="true">✓</span>
+                    <div>
+                      <p>{f[lang] ?? f.es}</p>
+                      {f.sources?.length > 0 && <span class="fact-sources mono">{L.confirmedBy}: {chip(f.sources)}</span>}
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            )}
+            {story.discrepancies?.length > 0 && (
+              <>
+                <h3 class="warn">{L.discrepancies}</h3>
+                <ul class="facts">
+                  {story.discrepancies.map((d) => (
+                    <li>
+                      <span class="fact-icon bad" aria-hidden="true">!</span>
+                      <div>
+                        <p>{d[lang] ?? d.es}</p>
+                        {d.sources?.length > 0 && <span class="fact-sources mono">{chip(d.sources)}</span>}
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
+          </section>
+        )}
+        <p class="ai-notice">{L.aiNotice} <a href={href(`/${lang}/metodologia/`)}>{L.methodology} →</a></p>
+      </div>
+
+      <aside class="sources-card" aria-labelledby="fonts">
+        <h2 id="fonts" class="mono">{L.sources}</h2>
+        <ol class="sources">
+          {sources.map((s) => (
+            <li>
+              <a href={s.url} target="_blank" rel="noopener nofollow" hreflang={s.lang}>
+                <span class="source-name mono">{s.name} <span aria-hidden="true">↗</span></span>
+                <span class="source-title">{s.title}</span>
+                <time class="mono" datetime={s.published}>{formatDate(s.published, lang)}</time>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </aside>
+    </div>
+  </div>
+
+  {rel.length > 0 && (
+    <section class="section container">
+      <div class="section-head"><h2 class="section-heading">{L.related}</h2></div>
+      <div class="grid-3">{rel.map((s) => <NewsCard story={s} lang={lang} />)}</div>
+    </section>
+  )}
+</Base>

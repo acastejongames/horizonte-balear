@@ -1,0 +1,27 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import StoryGrid from '../../../../components/StoryGrid.astro';
+import ListingHeader from '../../../../components/ListingHeader.astro';
+import { getStories } from '../../../../lib/data.js';
+import { t, LANGS, TOPIC_KEYS } from '../../../../lib/i18n.js';
+
+export function getStaticPaths({ paginate }) {
+  const all = getStories();
+  return LANGS.flatMap((lang) =>
+    TOPIC_KEYS.flatMap((topic) =>
+      paginate(all.filter((s) => s.topic === topic), { params: { lang, topic }, pageSize: 30 }),
+    ),
+  );
+}
+const { lang, topic } = Astro.params as { lang: 'es' | 'ca'; topic: string };
+const { page } = Astro.props;
+const L = t(lang);
+const name = L.topics[topic];
+const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+---
+<Base lang={lang} title={name} description={`${L.tagline}: ${name}`} path={`/tema/${topic}/${suffix}`}>
+  <div class="page container">
+  <ListingHeader lang={lang} title={name} total={page.total} kind="topic" current={topic} />
+  <StoryGrid stories={page.data} lang={lang} page={page} />
+  </div>
+</Base>

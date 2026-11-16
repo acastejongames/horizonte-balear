@@ -1,0 +1,26 @@
+---
+import { t } from '../lib/i18n.js';
+import { storyUrl } from '../lib/url.js';
+interface Props { lang: 'es' | 'ca'; stories: any[] }
+const { lang, stories } = Astro.props;
+const L = t(lang);
+---
+{stories.length > 0 && (
+  <div class="ticker">
+    <div class="container ticker-row">
+      <span class="ticker-label">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2L4 14h7l-1 8 9-12h-7z" /></svg>
+        {L.breaking}
+      </span>
+      <div class="marquee ticker-marquee">
+        <div class="marquee-track">
+          {[0, 1].map((n) => (
+            <div class="marquee-group" aria-hidden={n === 1 ? 'true' : undefined}>
+              {stories.map((s) => <a href={storyUrl(lang, s)} tabindex={n === 1 ? -1 : undefined}>{s[lang].title}</a>)}
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+)}

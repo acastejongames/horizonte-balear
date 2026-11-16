@@ -1,0 +1,20 @@
+---
+import { t, ISLAND_KEYS, TOPIC_KEYS } from '../lib/i18n.js';
+import { href } from '../lib/url.js';
+interface Props { lang: 'es' | 'ca'; title: string; total: number; kind: 'island' | 'topic' | 'verified'; current?: string; intro?: string }
+const { lang, title, total, kind, current, intro } = Astro.props;
+const L = t(lang);
+const chips = kind === 'topic'
+  ? TOPIC_KEYS.map((k) => ({ k, label: L.topics[k], url: href(`/${lang}/tema/${k}/`) }))
+  : ISLAND_KEYS.map((k) => ({ k, label: L.islands[k], url: href(`/${lang}/${k}/`) }));
+---
+<header class="listing-head">
+  <div>
+    <h1 class="page-title">{title}</h1>
+    <p class="listing-count mono">{L.storiesCount(total)}</p>
+    {intro && <p class="page-intro">{intro}</p>}
+  </div>
+  <nav class="chips" aria-label={kind === 'topic' ? L.topic : L.islandsTitle}>
+    {chips.map((c) => <a class="chip" href={c.url} aria-current={c.k === current ? 'page' : undefined}>{c.label}</a>)}
+  </nav>
+</header>

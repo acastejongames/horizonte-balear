@@ -1,0 +1,87 @@
+---
+import Base from '../../../layouts/Base.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import { t, LANGS, formatDate } from '../../../lib/i18n.js';
+import { SOURCES, getMeta } from '../../../lib/data.js';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const L = t(lang);
+const meta = getMeta();
+const groups = Object.entries(
+  SOURCES.reduce((acc, s) => ((acc[s.group] ??= []).push(s), acc), {} as Record<string, typeof SOURCES>),
+);
+const es = lang === 'es';
+---
+<Base lang={lang} title={L.methodology} path="/metodologia/">
+  <article class="page container"><div class="prose">
+    <h1 class="page-title">{L.methodology}</h1>
+    {es ? (
+      <>
+        <p class="article-lead">Una inteligencia artificial no puede saber por sí sola si algo ha ocurrido. Por eso no le preguntamos «¿es verdad?»: comparamos lo que publican medios distintos y solo damos una noticia por contrastada cuando varios medios independientes coinciden en los datos.</p>
+        <h2>El proceso, paso a paso</h2>
+        <ol>
+          <li><strong>Recogida.</strong> Cada 30 minutos leemos los canales públicos (RSS) de los medios de la lista de abajo.</li>
+          <li><strong>Agrupación.</strong> Una IA identifica qué artículos de medios distintos —en castellano o en catalán— cuentan el mismo hecho concreto. Se descartan columnas de opinión, publicidad y noticias sin relación con Baleares.</li>
+          <li><strong>Espera.</strong> Si solo un medio ha publicado un hecho, esperamos un tiempo por si otros lo confirman antes de publicarlo.</li>
+          <li><strong>Contraste.</strong> La IA compara los datos concretos de cada versión (cifras, nombres, lugares, fechas) y señala las contradicciones.</li>
+          <li><strong>Redacción.</strong> Se redacta un resumen propio, neutral y bilingüe, usando solo la información de las fuentes y sin copiar sus textos. Siempre enlazamos a los artículos originales.</li>
+          <li><strong>Actualización.</strong> Si más tarde otro medio publica el mismo hecho, la noticia se vuelve a contrastar y su etiqueta cambia.</li>
+        </ol>
+        <h2>Qué significa cada etiqueta</h2>
+      </>
+    ) : (
+      <>
+        <p class="article-lead">Una intel·ligència artificial no pot saber per si mateixa si una cosa ha passat. Per això no li demanam «és ver?»: comparam el que publiquen mitjans diferents i només donam una notícia per contrastada quan diversos mitjans independents coincideixen en les dades.</p>
+        <h2>El procés, pas a pas</h2>
+        <ol>
+          <li><strong>Recollida.</strong> Cada 30 minuts llegim els canals públics (RSS) dels mitjans de la llista de baix.</li>
+          <li><strong>Agrupació.</strong> Una IA identifica quins articles de mitjans diferents —en català o en castellà— conten el mateix fet concret. Es descarten columnes d'opinió, publicitat i notícies sense relació amb les Balears.</li>
+          <li><strong>Espera.</strong> Si només un mitjà ha publicat un fet, esperam un temps per si altres el confirmen abans de publicar-lo.</li>
+          <li><strong>Contrast.</strong> La IA compara les dades concretes de cada versió (xifres, noms, llocs, dates) i assenyala les contradiccions.</li>
+          <li><strong>Redacció.</strong> Es redacta un resum propi, neutral i bilingüe, usant només la informació de les fonts i sense copiar-ne els textos. Sempre enllaçam els articles originals.</li>
+          <li><strong>Actualització.</strong> Si més tard un altre mitjà publica el mateix fet, la notícia es torna a contrastar i l'etiqueta canvia.</li>
+        </ol>
+        <h2>Què vol dir cada etiqueta</h2>
+      </>
+    )}
+    <dl class="status-list">
+      <dt><StatusBadge lang={lang} status="verified" /></dt>
+      <dd>{es ? 'La publican al menos dos medios de grupos empresariales distintos y sus datos coinciden.' : 'La publiquen almenys dos mitjans de grups empresarials diferents i les seves dades coincideixen.'}</dd>
+      <dt><StatusBadge lang={lang} status="single" /></dt>
+      <dd>{es ? 'Por ahora solo la publica un medio (o varios del mismo grupo). No significa que sea falsa, sino que aún no está confirmada por otra fuente independiente.' : 'De moment només la publica un mitjà (o diversos del mateix grup). No vol dir que sigui falsa, sinó que encara no està confirmada per una altra font independent.'}</dd>
+      <dt><StatusBadge lang={lang} status="disputed" /></dt>
+      <dd>{es ? 'Los medios no coinciden en algún dato importante. Mostramos qué dice cada uno.' : 'Els mitjans no coincideixen en alguna dada important. Mostram què diu cadascun.'}</dd>
+    </dl>
+
+    <h2>{es ? 'Medios y grupos' : 'Mitjans i grups'}</h2>
+    <p>{es
+      ? 'Los medios de un mismo grupo empresarial comparten a menudo redacción y contenidos, así que cuentan como una sola fuente al contrastar.'
+      : 'Els mitjans d\'un mateix grup empresarial sovint comparteixen redacció i continguts, així que compten com una sola font en contrastar.'}</p>
+    <ul class="groups">
+      {groups.map(([g, list]) => (
+        <li><strong>{g}:</strong> {list.map((s, i) => <>{i > 0 && ', '}<a href={s.homepage} target="_blank" rel="noopener">{s.name}</a></>)}</li>
+      ))}
+    </ul>
+
+    <h2>{es ? 'Limitaciones' : 'Limitacions'}</h2>
+    <ul>
+      {es ? (
+        <>
+          <li>Contrastar entre medios reduce los errores, pero no los elimina: si todos los medios reproducen el mismo dato erróneo, aquí también aparecerá.</li>
+          <li>Trabajamos con los extractos públicos que ofrecen los medios, no con sus artículos completos.</li>
+          <li>Los textos los redacta una IA y pueden contener imprecisiones. Las fuentes originales son siempre la referencia.</li>
+        </>
+      ) : (
+        <>
+          <li>Contrastar entre mitjans redueix els errors, però no els elimina: si tots els mitjans reprodueixen la mateixa dada errònia, aquí també hi apareixerà.</li>
+          <li>Treballam amb els extractes públics que ofereixen els mitjans, no amb els articles complets.</li>
+          <li>Els textos els redacta una IA i poden contenir imprecisions. Les fonts originals són sempre la referència.</li>
+        </>
+      )}
+    </ul>
+    {meta.lastRun && <p class="small">{L.lastUpdate}: {formatDate(meta.lastRun, lang)}</p>}
+  </div></article>
+</Base>

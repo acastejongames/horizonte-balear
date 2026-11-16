@@ -1,0 +1,25 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { t, LANGS } from '../../../lib/i18n.js';
+import { OWNER } from '../../../site.config.js';
+
+export function getStaticPaths() {
+  return OWNER.email ? LANGS.map((lang) => ({ params: { lang } })) : [];
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const L = t(lang);
+const es = lang === 'es';
+---
+<Base lang={lang} title={L.contact} path="/contacto/">
+  <div class="page container"><div class="prose">
+    <h1 class="page-title">{L.contact}</h1>
+    <p class="article-lead">{es
+      ? 'Si encuentras un error en una noticia, quieres proponer un medio o eres titular de un contenido que aparece en esta web, escríbenos.'
+      : 'Si trobes un error en una notícia, vols proposar un mitjà o ets titular d\'un contingut que apareix en aquest web, escriu-nos.'}</p>
+    <p><strong>{es ? 'Correo' : 'Correu'}:</strong> {OWNER.email ? <a href={`mailto:${OWNER.email}`}>{OWNER.email}</a> : <span class="todo">[correo pendiente]</span>}</p>
+    <h2>{es ? 'Medios y titulares de derechos' : 'Mitjans i titulars de drets'}</h2>
+    <p>{es
+      ? 'Las fotografías pertenecen a los medios que las publicaron, que se citan junto a cada imagen con un enlace a la noticia original. Si eres titular de una fotografía o de un contenido y quieres que lo retiremos, indícanos el enlace y lo eliminaremos lo antes posible.'
+      : 'Les fotografies pertanyen als mitjans que les varen publicar, que se citen al costat de cada imatge amb un enllaç a la notícia original. Si ets titular d\'una fotografia o d\'un contingut i vols que el retirem, indica\'ns l\'enllaç i l\'eliminarem al més aviat possible.'}</p>
+  </div></div>
+</Base>

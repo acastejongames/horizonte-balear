@@ -1,0 +1,40 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { t, LANGS } from '../../../lib/i18n.js';
+import { OWNER } from '../../../site.config.js';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const L = t(lang);
+const es = lang === 'es';
+---
+<Base lang={lang} title={L.privacy} path="/privacidad/">
+  <div class="page container"><div class="prose">
+    <h1 class="page-title">{L.privacy}</h1>
+    {es ? (
+      <>
+        <p class="article-lead">Esta web no tiene registro de usuarios, no usa cookies y no incluye herramientas de analítica ni publicidad.</p>
+        <h2>Servicios externos</h2>
+        <ul>
+          <li><strong>Alojamiento:</strong> la web se sirve desde GitHub Pages (GitHub Inc.), que puede registrar la dirección IP de las visitas por motivos técnicos y de seguridad.</li>
+          <li><strong>El tiempo:</strong> los datos meteorológicos se piden a Open-Meteo desde tu navegador, que recibe tu dirección IP para responder.</li>
+          <li><strong>Fotografías:</strong> las imágenes se cargan directamente desde los servidores de los medios que las publicaron, que reciben tu dirección IP.</li>
+        </ul>
+        {OWNER.email && <><h2>Derechos</h2><p>Para cualquier consulta sobre privacidad escribe a <a href={`mailto:${OWNER.email}`}>{OWNER.email}</a>.</p></>}
+      </>
+    ) : (
+      <>
+        <p class="article-lead">Aquest web no té registre d'usuaris, no utilitza galetes i no inclou eines d'analítica ni publicitat.</p>
+        <h2>Serveis externs</h2>
+        <ul>
+          <li><strong>Allotjament:</strong> el web se serveix des de GitHub Pages (GitHub Inc.), que pot registrar l'adreça IP de les visites per motius tècnics i de seguretat.</li>
+          <li><strong>El temps:</strong> les dades meteorològiques es demanen a Open-Meteo des del teu navegador, que rep la teva adreça IP per respondre.</li>
+          <li><strong>Fotografies:</strong> les imatges es carreguen directament des dels servidors dels mitjans que les varen publicar, que reben la teva adreça IP.</li>
+        </ul>
+        {OWNER.email && <><h2>Drets</h2><p>Per a qualsevol consulta sobre privacitat escriu a <a href={`mailto:${OWNER.email}`}>{OWNER.email}</a>.</p></>}
+      </>
+    )}
+  </div></div>
+</Base>

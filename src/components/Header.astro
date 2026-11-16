@@ -1,0 +1,36 @@
+---
+import { t, ISLAND_KEYS } from '../lib/i18n.js';
+import { href } from '../lib/url.js';
+interface Props { lang: 'es' | 'ca'; path: string }
+const { lang, path } = Astro.props;
+const L = t(lang);
+const NAV = ['politica', 'sucesos', 'sociedad', 'economia', 'turismo', 'cultura', 'deportes'];
+const current = Astro.url.pathname;
+const active = (p: string) => (current.startsWith(href(`/${lang}${p}`)) ? 'page' : undefined);
+---
+<header class="site-header">
+  <div class="container header-row">
+    <a href={href(`/${lang}/`)} class="logo">Horizonte <span>Balear</span></a>
+    <nav class="nav" id="main-nav" aria-label={L.sections}>
+      {NAV.map((k) => <a href={href(`/${lang}/tema/${k}/`)} aria-current={active(`/tema/${k}/`)}>{L.topics[k]}</a>)}
+      <a href={href(`/${lang}/contrastadas/`)} class="nav-verified" aria-current={active('/contrastadas/')}>✓ {L.verifiedOnly}</a>
+      <div class="nav-islands" aria-label={L.islandsTitle}>
+        {ISLAND_KEYS.filter((k) => k !== 'baleares').map((k) => <a href={href(`/${lang}/${k}/`)} aria-current={active(`/${k}/`)}>{L.islands[k]}</a>)}
+      </div>
+    </nav>
+    <div class="header-tools">
+      <a href={href(`/${lang}/buscar/`)} class="search-pill" data-search-link aria-label={L.search}>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="M20 20l-3.5-3.5" /></svg>
+        <span>{L.search}</span>
+        <kbd data-kbd>Ctrl K</kbd>
+      </a>
+      <span class="lang-pill" role="group" aria-label="Idioma">
+        <a href={href(`/es${path}`)} aria-current={lang === 'es' ? 'true' : undefined} hreflang="es" lang="es">ES</a>
+        <a href={href(`/ca${path}`)} aria-current={lang === 'ca' ? 'true' : undefined} hreflang="ca" lang="ca">CA</a>
+      </span>
+      <button class="menu-btn" type="button" aria-label="Menú" aria-expanded="false" aria-controls="main-nav" data-menu-btn>
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>

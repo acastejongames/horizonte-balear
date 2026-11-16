@@ -1,0 +1,33 @@
+---
+import StatusBadge from './StatusBadge.astro';
+import RelTime from './RelTime.astro';
+import { t } from '../lib/i18n.js';
+import { storyUrl } from '../lib/url.js';
+import { storyImage } from '../lib/data.js';
+interface Props { story: any; lang: 'es' | 'ca' }
+const { story, lang } = Astro.props;
+const L = t(lang);
+const c = story[lang];
+const img = storyImage(story);
+const used: Set<string> = ((Astro.locals as any).vtUsed ??= new Set());
+if (img) used.add(story.id);
+---
+<section class={`hero topic-${story.topic}${img ? '' : ' hero-noimg'}`}>
+  {img && (
+    <img class="hero-img" src={img.url} alt="" fetchpriority="high" referrerpolicy="no-referrer"
+      style={`view-transition-name:img-${story.id}`}
+      onload="this.classList.add('is-loaded')" onerror="this.remove()" />
+  )}
+  <div class="hero-shade"></div>
+  <div class="container hero-content">
+    <span class="hero-kicker mono">{L.islands[story.islands[0]]} · {L.topics[story.topic]}</span>
+    <h1 class="hero-title"><a href={storyUrl(lang, story)}>{c.title}</a></h1>
+    <p class="hero-summary">{c.summary}</p>
+    <div class="hero-actions">
+      <a href={storyUrl(lang, story)} class="btn btn-light">{L.readMore} <span class="btn-arrow" aria-hidden="true">→</span></a>
+      <StatusBadge lang={lang} status={story.status} count={story.groups.length} />
+      <RelTime iso={story.date} lang={lang} class="hero-when mono" />
+    </div>
+  </div>
+  {img && <a class="hero-credit mono" href={img.articleUrl} target="_blank" rel="noopener nofollow">{L.photo}: {img.credit}</a>}
+</section>

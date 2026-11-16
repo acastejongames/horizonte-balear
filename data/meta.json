@@ -1,0 +1,89 @@
+{
+ "lastRun": "2026-11-16T19:56:29.416Z",
+ "lastPublishAt": "2026-11-16T19:56:29.416Z",
+ "run": {
+  "fetched": 349,
+  "new": 1,
+  "clustered": 1,
+  "written": 4,
+  "archived": 0,
+  "minutes": 0.4
+ },
+ "sources": {
+  "ultimahora": {
+   "ok": 1,
+   "failed": 0,
+   "items": 40
+  },
+  "diariodemallorca": {
+   "ok": 4,
+   "failed": 0,
+   "items": 39
+  },
+  "cronicabalear": {
+   "ok": 1,
+   "failed": 0,
+   "items": 78
+  },
+  "diariodeibiza": {
+   "ok": 4,
+   "failed": 0,
+   "items": 23
+  },
+  "periodicodeibiza": {
+   "ok": 1,
+   "failed": 0,
+   "items": 40
+  },
+  "menorcainfo": {
+   "ok": 1,
+   "failed": 0,
+   "items": 40
+  },
+  "arabalears": {
+   "ok": 1,
+   "failed": 0,
+   "items": 26
+  },
+  "dbalears": {
+   "ok": 1,
+   "failed": 0,
+   "items": 18
+  },
+  "ib3": {
+   "ok": 1,
+   "failed": 0,
+   "items": 14
+  },
+  "europapress": {
+   "ok": 1,
+   "failed": 0,
+   "items": 10
+  },
+  "elmundobaleares": {
+   "ok": 1,
+   "failed": 0,
+   "items": 1
+  },
+  "mallorcadiario": {
+   "ok": 1,
+   "failed": 0,
+   "items": 10
+  },
+  "noudiari": {
+   "ok": 1,
+   "failed": 0,
+   "items": 10
+  }
+ },
+ "aiUsage": {
+  "groq/openai/gpt-oss-120b": {
+   "calls": 3,
+   "tokens": 4181
+  },
+  "groq/openai/gpt-oss-20b": {
+   "calls": 4,
+   "tokens": 6941
+  }
+ }
+}

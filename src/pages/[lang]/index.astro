@@ -1,0 +1,85 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/Hero.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { frontPage } from '../../lib/data.js';
+import { t, LANGS } from '../../lib/i18n.js';
+import { href } from '../../lib/url.js';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const L = t(lang);
+const { lead, top, ranking, more, byIsland, rest } = frontPage();
+const islands = Object.entries(byIsland).filter(([, list]) => list.length > 0);
+const PAGE = 9;
+---
+<Base lang={lang} path="/" image={lead?.image?.url}>
+  {!lead ? <div class="container"><p class="empty">{L.noStories}</p></div> : (
+    <>
+      <Hero story={lead} lang={lang} />
+
+      <section class="section container" aria-labelledby="h-latest">
+        <div class="section-head">
+          <h2 class="section-heading" id="h-latest">{L.latest}</h2>
+          <a class="section-link" href={href(`/${lang}/contrastadas/`)}>✓ {L.verifiedOnly} <span class="btn-arrow">→</span></a>
+        </div>
+        <div class="grid-2">
+          {top.map((s, i) => <NewsCard story={s} lang={lang} variant="overlay" eager={i < 2} />)}
+        </div>
+      </section>
+
+      {(more.length > 0 || ranking.length > 0) && (
+        <section class="section container split">
+          <div>
+            <div class="section-head"><h2 class="section-heading">{L.moreNews}</h2></div>
+            <div class="grid-2">{more.map((s) => <NewsCard story={s} lang={lang} />)}</div>
+          </div>
+          {ranking.length > 0 && (
+            <aside class="ranking" aria-labelledby="h-ranking">
+              <div class="ranking-inner">
+                <div class="section-head"><h2 class="section-heading" id="h-ranking">{L.mostVerified}</h2></div>
+                {ranking.map((s, i) => <NewsCard story={s} lang={lang} variant="compact" rank={i + 1} />)}
+              </div>
+            </aside>
+          )}
+        </section>
+      )}
+
+      {islands.length > 0 && (
+        <section class="section container" aria-labelledby="h-islands" data-tabs>
+          <div class="section-head">
+            <h2 class="section-heading" id="h-islands">{L.byIsland}</h2>
+            <div class="tabs" role="tablist" aria-labelledby="h-islands">
+              <span class="tab-indicator" aria-hidden="true"></span>
+              {islands.map(([k], i) => (
+                <button role="tab" type="button" class="tab" id={`tab-${k}`} aria-controls={`panel-${k}`} aria-selected={i === 0 ? 'true' : 'false'} tabindex={i === 0 ? 0 : -1}>{L.islands[k]}</button>
+              ))}
+            </div>
+          </div>
+          {islands.map(([k, list], i) => (
+            <div role="tabpanel" class="tabpanel" id={`panel-${k}`} aria-labelledby={`tab-${k}`} hidden={i !== 0 || undefined}>
+              <div class="grid-3">{list.map((s) => <NewsCard story={s} lang={lang} />)}</div>
+              <a class="section-link panel-link" href={href(`/${lang}/${k}/`)}>{L.seeAll}: {L.islands[k]} <span class="btn-arrow">→</span></a>
+            </div>
+          ))}
+        </section>
+      )}
+
+      {rest.length > 0 && (
+        <section class="section container" aria-labelledby="h-all" data-loadmore={PAGE}>
+          <div class="section-head"><h2 class="section-heading" id="h-all">{L.allNews}</h2></div>
+          <div class="grid-3">
+            {rest.map((s, i) => <NewsCard story={s} lang={lang} hidden={i >= PAGE} />)}
+          </div>
+          {rest.length > PAGE && (
+            <div class="loadmore">
+              <button type="button" class="btn btn-ghost" data-loadmore-btn data-label={L.loadMore(999)}>{L.loadMore(rest.length - PAGE)}</button>
+            </div>
+          )}
+        </section>
+      )}
+    </>
+  )}
+</Base>

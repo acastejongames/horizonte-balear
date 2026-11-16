@@ -1,0 +1,19 @@
+---
+import { href } from '../lib/url.js';
+const es = href('/es/');
+const ca = href('/ca/');
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Horizonte Balear</title>
+    <meta http-equiv="refresh" content={`0; url=${es}`} />
+    <link rel="canonical" href={es} />
+    <script is:inline define:vars={{ es, ca }}>
+      const pref = (navigator.languages || [navigator.language]).join(',').toLowerCase();
+      location.replace(/(^|,)ca/.test(pref) ? ca : es);
+    </script>
+  </head>
+  <body><a href={es}>Castellano</a> · <a href={ca}>Català</a></body>
+</html>

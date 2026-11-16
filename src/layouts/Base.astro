@@ -1,0 +1,94 @@
+---
+import '@fontsource-variable/playfair-display';
+import '@fontsource-variable/inter';
+import '@fontsource/jetbrains-mono/400.css';
+import '@fontsource/jetbrains-mono/600.css';
+import '../styles/global.css';
+import InfoBar from '../components/InfoBar.astro';
+import Header from '../components/Header.astro';
+import Ticker from '../components/Ticker.astro';
+import Footer from '../components/Footer.astro';
+import { t, otherLang, SITE_NAME } from '../lib/i18n.js';
+import { href } from '../lib/url.js';
+import { breakingNews } from '../lib/data.js';
+
+interface Props {
+  lang: 'es' | 'ca';
+  title?: string;
+  description?: string;
+  path: string; // ruta sin idioma, p. ej. "/noticia/xyz/"
+  type?: 'website' | 'article';
+  image?: string;
+  jsonLd?: object;
+  noindex?: boolean;
+}
+const { lang, title, description, path, type = 'website', image, jsonLd, noindex = false } = Astro.props;
+const L = t(lang);
+const other = otherLang(lang);
+const fullTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} — ${L.tagline}`;
+const desc = description ?? L.tagline;
+const canonical = new URL(href(`/${lang}${path}`), Astro.site).toString();
+const alternate = new URL(href(`/${other}${path}`), Astro.site).toString();
+const breaking = breakingNews();
+// Textos que necesita el script de interacciones (ui.js).
+const ui = {
+  locale: lang === 'es' ? 'es-ES' : 'ca-ES',
+  rel: { now: L.rel.now, min: L.rel.min('{n}'), h: L.rel.h('{n}'), yesterday: L.rel.yesterday },
+  copied: L.copied,
+};
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang={lang} href={canonical} />
+    <link rel="alternate" hreflang={other} href={alternate} />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE_NAME} (${L.langName})`} href={href(`/${lang}/rss.xml`)} />
+    <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
+    <link rel="preconnect" href="https://api.open-meteo.com" crossorigin />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={title ?? SITE_NAME} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={lang === 'es' ? 'es_ES' : 'ca_ES'} />
+    {image && <meta property="og:image" content={image} />}
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <meta name="theme-color" content="#f8f7f3" />
+    {noindex && <meta name="robots" content="noindex" />}
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <script is:inline>
+      // Sentido de la transición: al volver atrás, la página se desliza al revés.
+      addEventListener('pagereveal', (e) => {
+        if (!e.viewTransition) return;
+        const a = window.navigation && navigation.activation;
+        const back = a && a.navigationType === 'traverse' && a.from && a.entry && a.entry.index < a.from.index;
+        e.viewTransition.types.add(back ? 'back' : 'forward');
+      });
+    </script>
+  </head>
+  <body data-ui={JSON.stringify(ui)}>
+    <a class="skip" href="#main">{lang === 'es' ? 'Saltar al contenido' : 'Saltar al contingut'}</a>
+    <div class="topbars">
+      <InfoBar lang={lang} />
+      <Header lang={lang} path={path} />
+      <div class="read-progress" aria-hidden="true"></div>
+    </div>
+    <Ticker lang={lang} stories={breaking} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer lang={lang} />
+    <button type="button" class="back-top" aria-label={L.backTop} title={L.backTop}>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7" /></svg>
+    </button>
+    <div class="toast" role="status" aria-live="polite"></div>
+    <script>
+      import '../scripts/ui.js';
+    </script>
+  </body>
+</html>

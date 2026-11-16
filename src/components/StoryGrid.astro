@@ -1,0 +1,19 @@
+---
+import NewsCard from './NewsCard.astro';
+import { t } from '../lib/i18n.js';
+interface Props { stories: any[]; lang: 'es' | 'ca'; page?: any }
+const { stories, lang, page } = Astro.props;
+const L = t(lang);
+---
+{stories.length === 0 ? <p class="empty">{L.noStories}</p> : (
+  <div class="grid-3">
+    {stories.map((s, i) => <NewsCard story={s} lang={lang} eager={i < 3} />)}
+  </div>
+)}
+{page && page.lastPage > 1 && (
+  <nav class="pager" aria-label={L.page}>
+    {page.url.prev ? <a href={page.url.prev}>{L.prev}</a> : <span />}
+    <span>{L.page} {page.currentPage} / {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next}>{L.next}</a> : <span />}
+  </nav>
+)}

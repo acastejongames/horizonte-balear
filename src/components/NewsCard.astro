@@ -1,0 +1,39 @@
+---
+import StatusBadge from './StatusBadge.astro';
+import RelTime from './RelTime.astro';
+import { t } from '../lib/i18n.js';
+import { storyUrl } from '../lib/url.js';
+import { storyImage } from '../lib/data.js';
+
+interface Props { story: any; lang: 'es' | 'ca'; variant?: 'overlay' | 'standard' | 'compact'; eager?: boolean; rank?: number; hidden?: boolean }
+const { story, lang, variant = 'standard', eager = false, rank, hidden = false } = Astro.props;
+const L = t(lang);
+const c = story[lang];
+const img = storyImage(story);
+// Nombre para la transición animada foto → noticia (único por página).
+const used: Set<string> = ((Astro.locals as any).vtUsed ??= new Set());
+const vt = img && !used.has(story.id) ? `img-${story.id}` : null;
+if (vt) used.add(story.id);
+---
+<article class={`card card-${variant} topic-${story.topic}`} data-reveal hidden={hidden || undefined}>
+  <a href={storyUrl(lang, story)} class="card-link" aria-label={c.title}></a>
+  <div class={`card-media${img ? ' has-img' : ''}`}>
+    {img && (
+      <img src={img.url} alt="" loading={eager ? 'eager' : 'lazy'} decoding="async" referrerpolicy="no-referrer"
+        style={vt ? `view-transition-name:${vt}` : undefined}
+        onload="this.classList.add('is-loaded')" onerror="this.parentElement.classList.remove('has-img');this.remove()" />
+    )}
+    {rank && <span class="card-rank">{rank}</span>}
+    {variant !== 'compact' && <span class="card-tag">{L.topics[story.topic]}</span>}
+  </div>
+  <div class="card-body">
+    <h3 class="card-title">{c.title}</h3>
+    {variant !== 'compact' && <p class="card-summary">{c.summary}</p>}
+    <div class="card-meta">
+      <StatusBadge lang={lang} status={story.status} count={story.groups.length} />
+      <span class="card-when">{L.islands[story.islands[0]]} · <RelTime iso={story.date} lang={lang} /></span>
+    </div>
+  </div>
+  {img && variant !== 'compact' && <span class="card-credit">{L.photo}: {img.credit}</span>}
+  <span class="card-go" aria-hidden="true">→</span>
+</article>

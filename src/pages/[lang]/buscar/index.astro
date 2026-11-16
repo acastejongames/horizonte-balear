@@ -1,0 +1,120 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { t, LANGS } from '../../../lib/i18n.js';
+import { href } from '../../../lib/url.js';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const L = t(lang);
+const suggestions = lang === 'es'
+  ? ['Palma', 'vivienda', 'Govern', 'detenido', 'Ibiza', 'huelga', 'turismo']
+  : ['Palma', 'habitatge', 'Govern', 'detingut', 'Eivissa', 'vaga', 'turisme'];
+const cfg = {
+  index: href(`/${lang}/search.json`),
+  locale: lang === 'es' ? 'es-ES' : 'ca-ES',
+  none: L.searchNone,
+  one: L.searchCount(1),
+  many: L.searchCount(2).replace('2', '{n}'),
+  status: Object.fromEntries(Object.entries(L.status).map(([k, v]) => [k, v.label])),
+  verifiedMedia: L.mediaShort(999),
+  islands: L.islands,
+  topics: L.topics,
+  photo: L.photo,
+};
+---
+<Base lang={lang} title={L.search} path="/buscar/">
+  <div class="page container search-page">
+    <h1 class="page-title">{L.search}</h1>
+    <form class="search-form" role="search" action="" onsubmit="return false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="M20 20l-3.5-3.5" /></svg>
+      <input id="q" type="search" name="q" placeholder={L.searchPlaceholder} autocomplete="off" aria-label={L.search} autofocus />
+      <kbd class="mono">/</kbd>
+    </form>
+    <div class="search-suggest" id="suggest">
+      <span class="mono">{L.searchHint}:</span>
+      {suggestions.map((s) => <button type="button" class="chip" data-q={s}>{s}</button>)}
+    </div>
+    <p id="count" class="search-count mono" aria-live="polite"></p>
+    <div id="results" class="grid-3"></div>
+  </div>
+
+  <script is:inline define:vars={{ cfg }}>
+    const fold = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+    const fmt = new Intl.DateTimeFormat(cfg.locale, { timeZone: 'Europe/Madrid', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+    const icon = { verified: '✓', single: '◔', disputed: '!' };
+    const q = document.getElementById('q');
+    const out = document.getElementById('results');
+    const count = document.getElementById('count');
+    const suggest = document.getElementById('suggest');
+    let data = null;
+
+    // Resalta los términos buscados ignorando tildes.
+    function highlight(text, terms) {
+      const f = fold(text);
+      const marks = [];
+      for (const w of terms) {
+        let i = f.indexOf(w);
+        while (i >= 0) { marks.push([i, i + w.length]); i = f.indexOf(w, i + w.length); }
+      }
+      if (!marks.length) return esc(text);
+      marks.sort((a, b) => a[0] - b[0]);
+      let html = '', pos = 0;
+      for (const [a, b] of marks) {
+        if (a < pos) continue;
+        html += esc(text.slice(pos, a)) + '<mark>' + esc(text.slice(a, b)) + '</mark>';
+        pos = b;
+      }
+      return html + esc(text.slice(pos));
+    }
+
+    const skeleton = () => Array.from({ length: 6 }, () => '<div class="card card-standard is-skeleton"><div class="card-media"></div><div class="card-body"><span></span><span></span><span></span></div></div>').join('');
+
+    function render() {
+      const terms = fold(q.value).split(/\s+/).filter((w) => w.length > 1);
+      const url = new URL(location.href);
+      if (q.value) url.searchParams.set('q', q.value); else url.searchParams.delete('q');
+      history.replaceState(null, '', url);
+      suggest.hidden = terms.length > 0;
+      if (!terms.length) { out.innerHTML = ''; count.textContent = ''; return; }
+      if (!data) { out.innerHTML = skeleton(); return; }
+      const hits = data.filter((x) => terms.every((w) => x._f.includes(w)));
+      count.textContent = !hits.length ? cfg.none : hits.length === 1 ? cfg.one : cfg.many.replace('{n}', hits.length);
+      out.innerHTML = hits.slice(0, 60).map((x, i) => `
+        <article class="card card-standard topic-${x.p} is-visible" style="animation-delay:${Math.min(i, 8) * 35}ms">
+          <a href="${x.u}" class="card-link" aria-label="${esc(x.t)}"></a>
+          <div class="card-media${x.im ? ' has-img' : ''}">
+            ${x.im ? `<img src="${esc(x.im)}" alt="" loading="lazy" referrerpolicy="no-referrer" onload="this.classList.add('is-loaded')" onerror="this.parentElement.classList.remove('has-img');this.remove()">` : ''}
+            <span class="card-tag">${esc(cfg.topics[x.p] || '')}</span>
+          </div>
+          <div class="card-body">
+            <h3 class="card-title">${highlight(x.t, terms)}</h3>
+            <p class="card-summary">${highlight(x.s, terms)}</p>
+            <div class="card-meta">
+              <span class="badge badge-${x.st}"><span class="badge-icon">${icon[x.st]}</span>${esc(cfg.status[x.st])}${x.st === 'verified' ? ' · ' + esc(cfg.verifiedMedia.replace('999', x.g)) : ''}</span>
+              <span class="card-when">${esc(cfg.islands[x.i[0]] || '')} · ${fmt.format(new Date(x.d))}</span>
+            </div>
+          </div>
+        </article>`).join('');
+    }
+
+    fetch(cfg.index).then((r) => r.json()).then((items) => {
+      data = items.map((x) => ({ ...x, _f: fold(`${x.t} ${x.s} ${cfg.topics[x.p]} ${x.i.map((i) => cfg.islands[i]).join(' ')}`) }));
+      render();
+    });
+    const initial = new URL(location.href).searchParams.get('q');
+    if (initial) q.value = initial;
+    render();
+    let timer;
+    q.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(render, 120); });
+    suggest.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-q]');
+      if (!b) return;
+      q.value = b.dataset.q;
+      q.focus();
+      render();
+    });
+  </script>
+</Base>

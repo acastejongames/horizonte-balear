@@ -1,0 +1,7 @@
+---
+// Fecha que el navegador convierte en relativa ("hace 25 min") y mantiene al día.
+import { formatDate } from '../lib/i18n.js';
+interface Props { iso: string; lang: 'es' | 'ca'; class?: string }
+const { iso, lang, class: cls } = Astro.props;
+---
+<time datetime={iso} data-rel class={cls}>{formatDate(iso, lang)}</time>

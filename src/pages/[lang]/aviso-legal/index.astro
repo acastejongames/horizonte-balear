@@ -1,0 +1,48 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { t, LANGS } from '../../../lib/i18n.js';
+import { OWNER } from '../../../site.config.js';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as 'es' | 'ca';
+const L = t(lang);
+const es = lang === 'es';
+const hasOwner = Object.values(OWNER).some(Boolean);
+---
+<Base lang={lang} title={L.legal} path="/aviso-legal/">
+  <div class="page container"><div class="prose">
+    <h1 class="page-title">{L.legal}</h1>
+    {hasOwner && (
+      <>
+        <h2>Titular</h2>
+        <ul>
+          {OWNER.name && <li>{OWNER.name}</li>}
+          {OWNER.nif && <li>NIF: {OWNER.nif}</li>}
+          {OWNER.address && <li>{OWNER.address}</li>}
+          {OWNER.email && <li><a href={`mailto:${OWNER.email}`}>{OWNER.email}</a></li>}
+        </ul>
+      </>
+    )}
+    {es ? (
+      <>
+        <h2>Objeto</h2>
+        <p>Horizonte Balear es un servicio informativo que recopila noticias publicadas por medios de comunicación de las Illes Balears, las compara entre sí y publica un resumen propio redactado de forma automatizada con inteligencia artificial, enlazando siempre a las noticias originales.</p>
+        <h2>Contenidos de terceros</h2>
+        <p>Los titulares citados, las fotografías y las noticias enlazadas pertenecen a sus respectivos medios. Las fotografías se muestran con indicación del medio y enlace a la noticia original. Los titulares de derechos pueden solicitar la retirada de cualquier contenido.</p>
+        <h2>Responsabilidad</h2>
+        <p>Los resúmenes se generan automáticamente y pueden contener errores. No sustituyen a las fuentes originales, que deben consultarse para cualquier decisión. El titular no se hace responsable del contenido de las webs enlazadas.</p>
+      </>
+    ) : (
+      <>
+        <h2>Objecte</h2>
+        <p>Horizonte Balear és un servei informatiu que recull notícies publicades per mitjans de comunicació de les Illes Balears, les compara entre si i publica un resum propi redactat de forma automatitzada amb intel·ligència artificial, enllaçant sempre les notícies originals.</p>
+        <h2>Continguts de tercers</h2>
+        <p>Els titulars citats, les fotografies i les notícies enllaçades pertanyen als seus respectius mitjans. Les fotografies es mostren amb indicació del mitjà i enllaç a la notícia original. Els titulars de drets poden sol·licitar la retirada de qualsevol contingut.</p>
+        <h2>Responsabilitat</h2>
+        <p>Els resums es generen automàticament i poden contenir errors. No substitueixen les fonts originals, que s'han de consultar per a qualsevol decisió. El titular no es fa responsable del contingut dels webs enllaçats.</p>
+      </>
+    )}
+  </div></div>
+</Base>

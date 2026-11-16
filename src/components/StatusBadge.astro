@@ -1,0 +1,11 @@
+---
+import { t } from '../lib/i18n.js';
+interface Props { lang: 'es' | 'ca'; status: 'verified' | 'single' | 'disputed'; count?: number; large?: boolean }
+const { lang, status, count, large = false } = Astro.props;
+const L = t(lang);
+const icon = { verified: '✓', single: '◔', disputed: '!' }[status];
+const label = status === 'verified' && count ? `${L.status.verified.label} · ${L.mediaShort(count)}` : L.status[status].label;
+---
+<span class={`badge badge-${status}${large ? ' badge-lg' : ''}`} title={L.status[status].desc(count ?? 1, lang === 'es' ? 'un solo medio' : 'un sol mitjà')}>
+  <span class="badge-icon" aria-hidden="true">{icon}</span>{label}
+</span>

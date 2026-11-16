@@ -1,0 +1,40 @@
+---
+import { t, ISLAND_KEYS } from '../lib/i18n.js';
+import { href } from '../lib/url.js';
+import { OWNER } from '../site.config.js';
+interface Props { lang: 'es' | 'ca' }
+const { lang } = Astro.props;
+const L = t(lang);
+const SECTIONS = ['politica', 'sucesos', 'sociedad', 'economia', 'turismo', 'cultura', 'deportes', 'vivienda'];
+---
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-about">
+      <a href={href(`/${lang}/`)} class="logo">Horizonte <span>Balear</span></a>
+      <p>{L.footerAbout}</p>
+      <p class="footer-ai">{L.aiNotice}</p>
+    </div>
+    <div>
+      <p class="footer-title mono">{L.sections}</p>
+      <ul>{SECTIONS.map((k) => <li><a href={href(`/${lang}/tema/${k}/`)}>{L.topics[k]}</a></li>)}</ul>
+    </div>
+    <div>
+      <p class="footer-title mono">{L.islandsTitle}</p>
+      <ul>{ISLAND_KEYS.map((k) => <li><a href={href(`/${lang}/${k}/`)}>{L.islands[k]}</a></li>)}</ul>
+    </div>
+    <div>
+      <p class="footer-title mono">{L.info}</p>
+      <ul>
+        <li><a href={href(`/${lang}/metodologia/`)}>{L.methodology}</a></li>
+        {OWNER.email && <li><a href={href(`/${lang}/contacto/`)}>{L.contact}</a></li>}
+        <li><a href={href(`/${lang}/aviso-legal/`)}>{L.legal}</a></li>
+        <li><a href={href(`/${lang}/privacidad/`)}>{L.privacy}</a></li>
+        <li><a href={href(`/${lang}/rss.xml`)}>RSS</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-bottom mono">
+    <span>© {new Date().getFullYear()} Horizonte Balear. {L.rights}.</span>
+    <span>{L.footerTag}</span>
+  </div>
+</footer>

@@ -1,0 +1,73 @@
+name: Actualizar noticias y publicar
+
+on:
+  schedule:
+    - cron: '7,37 * * * *' # cada 30 minutos (se evita el minuto 0, que GitHub satura)
+  workflow_dispatch: # botón "Run workflow" para lanzarlo a mano
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', '**.md']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Buscar, contrastar y redactar noticias
+        if: github.event_name != 'push'
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run update
+
+      - name: Guardar los datos en el repositorio
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "horizonte-balear-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Noticias $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase
+          git push
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Construir la web
+        env:
+          SITE_URL: ${{ steps.pages.outputs.origin }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: npm run build
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  publicar:
+    needs: actualizar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
