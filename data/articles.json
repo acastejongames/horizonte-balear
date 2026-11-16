@@ -4631,5 +4631,44 @@
   "image": "https://estaticos-cdn.prensaiberica.es/clip/b2460a27-3771-43a1-818c-5dd6b93fcc57_16-9-aspect-ratio_default_0_x1200y533.jpg",
   "status": "irrelevant",
   "fetchedAt": "2026-11-16T19:56:05.283Z"
+ },
+ {
+  "id": "700d61da8f4d",
+  "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/16/2751383/atribuyen-pareja-rosario-sanchez-propiedades-mallorca.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Atribuyen a la pareja de Rosario Sánchez 40 propiedades en Mallorca",
+  "summary": "La pareja de Rosario Sánchez, secretaria de Estado de Turismo y candidata del PSIB a la Presidencia del Govern en las autonómicas de 2027, tendría cerca de 40 propiedades en Mallorca a través de una empresa, según una información publicada este lunes por El Debate. Desde el PSIB rechazaron hacer comentarios y achacaron la noticia a «cloacas del PP». «Entendemos que en el PP estén nerviosos por la movilización de la izquierda, pero no todo vale», se limitaron a señalar en el partido. La candidata tampoco respondió a la consulta de este diario.",
+  "published": "2026-11-16T20:00:44.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4851889.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-16T20:05:08.800Z",
+  "storyId": "staff8106709"
+ },
+ {
+  "id": "9ed2204204b1",
+  "url": "https://www.diariodemallorca.es/mallorca/2026/11/16/vivienda-inmigracion-centran-enfrentamientos-debate-136515570.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "La vivienda y la inmigración centran los enfrentamientos en el debate electoral de Diario de Mallorca por el 29N",
+  "summary": "La vivienda ha abierto el primer gran enfrentamiento entre los candidatos por Baleares a las elecciones generales del 29 de noviembre, aunque la inmigración tampoco ha tardado en irrumpir en el debate. Francina Armengol (PSIB), José Vicente Marí Bosó (PP), Carme Gomila (Ara Més-Front Ampli) y Maribel Cerezo (Vox) han confrontado esta tarde sus propuestas para afrontar el encarecimiento del coste de vida y garantizar los servicios públicos en el debate electoral organizado por Diario de Mallorca. La cita, celebrada en un Club Diario de Mallorca lleno de público y moderada por la periodista y directora Marisa Goñi, ha dejado al descubierto las diferencias entre los cuatro partidos sobre las responsabilidades de la crisis de vivienda y las medidas necesarias para afrontarla.",
+  "published": "2026-11-16T19:56:17.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/5640a8c4-486d-4d71-a71e-79219c8ed9a1_16-9-aspect-ratio_default_0_x1000y444.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-16T20:05:08.800Z",
+  "storyId": "stf2bd754058"
+ },
+ {
+  "id": "c7ef7df69f64",
+  "url": "https://www.arabalears.cat/societat/consell-no-reduira-places-turistiques-piat_1_5912470.html",
+  "sourceId": "arabalears",
+  "lang": "ca",
+  "title": "El Consell no reduirà places turístiques amb el PIAT",
+  "summary": "El Consell de Mallorca no farà servir el Pla d’Intervenció en Àmbits Turístics (PIAT), l’instrument que ordena l’activitat turística a l’illa. Regula, entre altres qüestions, la distribució i la capacitat de les places turístiques, les zones turístiques i les infraestructures i serveis vinculats al turisme. El conseller insular de Turisme vol reduir el sostre de places turístiques amb un acord del ple i deixar per a més endavant la incorporació de la mesura en el PIAT. El conseller de Turisme, Guillem Ginard, ha assegurat que “hem trobat la manera” de fer-ho sense modificar ara el pla, una via que, segons ha dit, permetria estalviar “anys de tramitació”. Tot i això, no ha concretat quantes places pensa eliminar.",
+  "published": "2026-11-16T19:57:57.000Z",
+  "image": "https://static1.ara.cat/clip/51f44f9d-9b3b-47d8-8eb3-e690077a255f_16-9-aspect-ratio_default_0.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-16T20:05:08.800Z",
+  "storyId": "st368e6da88a"
  }
 ]

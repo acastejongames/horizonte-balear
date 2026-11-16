@@ -1,13 +1,13 @@
 {
- "lastRun": "2026-11-16T19:56:29.416Z",
- "lastPublishAt": "2026-11-16T19:56:29.416Z",
+ "lastRun": "2026-11-16T20:11:17.589Z",
+ "lastPublishAt": "2026-11-16T20:11:17.589Z",
  "run": {
-  "fetched": 349,
-  "new": 1,
-  "clustered": 1,
-  "written": 4,
+  "fetched": 272,
+  "new": 3,
+  "clustered": 3,
+  "written": 25,
   "archived": 0,
-  "minutes": 0.4
+  "minutes": 6.2
  },
  "sources": {
   "ultimahora": {
@@ -21,9 +21,9 @@
    "items": 39
   },
   "cronicabalear": {
-   "ok": 1,
-   "failed": 0,
-   "items": 78
+   "ok": 0,
+   "failed": 1,
+   "items": 0
   },
   "diariodeibiza": {
    "ok": 4,
@@ -43,7 +43,7 @@
   "arabalears": {
    "ok": 1,
    "failed": 0,
-   "items": 26
+   "items": 27
   },
   "dbalears": {
    "ok": 1,
@@ -78,12 +78,16 @@
  },
  "aiUsage": {
   "groq/openai/gpt-oss-120b": {
-   "calls": 3,
-   "tokens": 4181
+   "calls": 6,
+   "tokens": 10427
+  },
+  "groq/qwen/qwen3.8-27b": {
+   "calls": 6,
+   "tokens": 10975
   },
   "groq/openai/gpt-oss-20b": {
-   "calls": 4,
-   "tokens": 6941
+   "calls": 15,
+   "tokens": 24857
   }
  }
 }

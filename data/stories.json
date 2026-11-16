@@ -1,5 +1,22 @@
 [
  {
+  "id": "st368e6da88a",
+  "createdAt": "2026-11-16T20:05:09.887Z",
+  "firstPublished": "2026-11-16T19:57:57.000Z",
+  "articles": [
+   {
+    "id": "c7ef7df69f64",
+    "url": "https://www.arabalears.cat/societat/consell-no-reduira-places-turistiques-piat_1_5912470.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "El Consell no reduirà places turístiques amb el PIAT",
+    "published": "2026-11-16T19:57:57.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-16T19:57:57.000Z"
+ },
+ {
   "id": "stc44fa905e2",
   "createdAt": "2026-11-16T19:50:33.931Z",
   "firstPublished": "2026-11-16T19:46:23.000Z",
@@ -96,10 +113,18 @@
     "lang": "es",
     "title": "La empresa de la pareja de Rosario Sánchez, candidata del PSOE a la presidencia del Govern, suma 40 fincas en Andratx",
     "published": "2026-11-16T19:21:00.000Z"
+   },
+   {
+    "id": "700d61da8f4d",
+    "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/16/2751383/atribuyen-pareja-rosario-sanchez-propiedades-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Atribuyen a la pareja de Rosario Sánchez 40 propiedades en Mallorca",
+    "published": "2026-11-16T20:00:44.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:21:00.000Z"
+  "lastArticleAt": "2026-11-16T20:00:44.000Z"
  },
  {
   "id": "stf3900a9469",
@@ -771,10 +796,18 @@
     "lang": "es",
     "title": "En directo | Debate electoral entre los candidatos al Congreso por Baleares en el Club Diario de Mallorca",
     "published": "2026-11-16T16:52:34.000Z"
+   },
+   {
+    "id": "9ed2204204b1",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/16/vivienda-inmigracion-centran-enfrentamientos-debate-136515570.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "La vivienda y la inmigración centran los enfrentamientos en el debate electoral de Diario de Mallorca por el 29N",
+    "published": "2026-11-16T19:56:17.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-16T18:48:30.000Z",
+  "lastArticleAt": "2026-11-16T19:56:17.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-16T19:21:07.275Z",
   "islands": [
@@ -1486,8 +1519,70 @@
     "published": "2026-11-16T15:04:12.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T15:04:12.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T15:04:12.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-16T20:05:13.718Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Ayuntamiento de Sant Antoni celebrará una jornada sobre emergencias e inundaciones",
+   "summary": "El Consistorio de Sant Antoni de Portmany organizará el próximo miércoles 18 de noviembre una sesión informativa abierta a la ciudadanía para explicar cómo actuar ante desastres naturales.",
+   "body": [
+    "El Ayuntamiento de Sant Antoni de Portmany ha programado para el miércoles 18 de noviembre una jornada informativa destinada a los vecinos. El objetivo principal de esta iniciativa es detallar los protocolos de actuación ante posibles situaciones de emergencia, con especial atención a los casos de inundaciones y fenómenos meteorológicos adversos.",
+    "La sesión se celebrará a las 18.30 horas en el salón de plenos del Consistorio. Según informa Diario de Ibiza, el evento estará abierto a toda la ciudadanía, permitiendo así la participación de cualquier residente interesado en conocer las medidas de seguridad y prevención establecidas por las autoridades locales."
+   ]
+  },
+  "ca": {
+   "title": "L'Ajuntament de Sant Antoni organitzarà una jornada sobre emergències i inundacions",
+   "summary": "L'Ajuntament de Sant Antoni de Portmany celebrarà el proper dimecres 18 de novembre una sessió informativa oberta a la ciutadania per explicar com actuar davant de desastres naturals.",
+   "body": [
+    "L'Ajuntament de Sant Antoni de Portmany ha programat per al dimecres 18 de novembre una jornada informativa destinada als veïns. L'objectiu principal d'aquesta iniciativa és detallar els protocols d'actuació davant de possibles situacions d'emergència, amb especial atenció als casos d'inundacions i fenòmens meteorològics adversos.",
+    "La sessió tindrà lloc a les 18.30 hores al saló de plens de l'Ajuntament. Segons informa el Diario de Ibiza, l'esdeveniment estarà obert a tota la ciutadania, permetent així la participació de qualsevol resident interessat a conèixer les mesures de seguretat i prevenció establertes per les autoritats locals."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La jornada informativa se celebrará el miércoles 18 de noviembre.",
+    "ca": "La jornada informativa se celebrarà el dimecres 18 de novembre.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "El evento tendrá lugar a las 18.30 horas en el salón de plenos del Ayuntamiento.",
+    "ca": "L'esdeveniment tindrà lloc a les 18.30 hores al saló de plens de l'Ajuntament.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "La sesión está abierta a toda la ciudadanía.",
+    "ca": "La sessió està oberta a tota la ciutadania.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "El tema central será cómo actuar ante inundaciones y fenómenos meteorológicos adversos.",
+    "ca": "El tema central serà com actuar davant d'inundacions i fenòmens meteorològics adversos.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:05:13.718Z",
+  "slug": "el-ayuntamiento-de-sant-antoni-celebrara-una-jornada-sobre-b1e72",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/07d4d807-7bd7-4abc-888b-9c4fc77f976a_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/16/sant-antoni-explicara-vecinos-actuar-136504585.html"
+  }
  },
  {
   "id": "st3905f181ae",
@@ -1595,8 +1690,70 @@
     "published": "2026-11-16T14:44:39.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:44:39.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:44:39.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-16T20:05:25.899Z",
+  "islands": [
+   "formentera"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Vicent Tur celebrará su primer acto público en la Mola",
+   "summary": "El candidato de Sa Unió al Senado por Formentera reunirá a asociaciones y vecinos en la Casa del Poble.",
+   "body": [
+    "Vicent Tur, candidato de Sa Unió al Senado por la circunscripción de Formentera, celebrará su primer acto público este martes a las 19.00 horas. La cita tendrá lugar en la Casa del Poble de la Mola.",
+    "Según informa Periódico de Ibiza y Formentera, el evento está dirigido a asociaciones, colectivos y vecinos de la isla, quienes participarán en esta primera presentación pública del candidato."
+   ]
+  },
+  "ca": {
+   "title": "Vicent Tur farà el seu primer acte públic a la Mola",
+   "summary": "El candidat de Sa Unió al Senat per Formentera reunirà associacions i veïns a la Casa del Poble.",
+   "body": [
+    "Vicent Tur, candidat de Sa Unió al Senat per la circumscripció de Formentera, celebrarà el seu primer acte públic aquest dimarts a les 19.00 hores. La trobada tindrà lloc a la Casa del Poble de la Mola.",
+    "Segons informa el Periòdic de Ibiza i Formentera, l'acte està dirigit a associacions, col·lectius i veïns de la illa, que participaran en aquesta primera presentació pública del candidat."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Vicent Tur es candidato de Sa Unió al Senado por Formentera.",
+    "ca": "Vicent Tur és candidat de Sa Unió al Senat per Formentera.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El acto público será el martes a las 19.00 horas.",
+    "ca": "L'acte públic serà el dimarts a les 19.00 hores.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El lugar elegido es la Casa del Poble de la Mola.",
+    "ca": "El lloc escollit és la Casa del Poble de la Mola.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Asistirán asociaciones, colectivos y vecinos de la isla.",
+    "ca": "Hi assistiran associacions, col·lectius i veïns de la illa.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:05:25.899Z",
+  "slug": "vicent-tur-celebrara-su-primer-acto-publico-en-la-mola-ad1f4",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/social/4851421.jpg",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/16/2751155/vicent-tur-candidato-unio-senado-por-formentera-hara-primer-acto-publico-mola.html"
+  }
  },
  {
   "id": "st28f694eace",
@@ -1612,8 +1769,56 @@
     "published": "2026-11-16T14:44:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:44:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:44:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-16T20:08:38.806Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "educacion",
+  "es": {
+   "title": "Baleares recibirá 392.390 euros para mejorar la atención a alumnos con autismo",
+   "summary": "El Govern balear destinará 392.390 euros, parte de los 7,7 millones que el Gobierno central asignará a todas las comunidades, para reforzar recursos educativos y apoyo al profesorado en materia de autismo.",
+   "body": [
+    "El Gobierno de España distribuirá 7,7 millones de euros entre las comunidades autónomas con el objetivo de reforzar los recursos educativos, la atención temprana y el apoyo al profesorado. De esa partida, Baleares recibirá 392.390 euros para mejorar la atención a los alumnos con autismo en los colegios.",
+    "Con esta financiación se pretende fortalecer la detección precoz, la intervención especializada y la formación del personal docente, garantizando una mejor respuesta educativa a las necesidades de los estudiantes con trastorno del espectro autista."
+   ]
+  },
+  "ca": {
+   "title": "Les Illes Balears rebran 392.390 euros per millorar l'atenció als alumnes amb autisme",
+   "summary": "El Govern balear destinarà 392.390 euros, part dels 7,7 milions que el Govern central assignarà a totes les comunitats, per reforçar recursos educatius i suport al professorat en matèria d'autisme.",
+   "body": [
+    "El Govern d'Espanya distribuirà 7,7 milions d'euros entre les comunitats autònomes amb l'objectiu de reforçar els recursos educatius, l'atenció precoç i el suport al professorat. D'aquesta partida, les Illes Balears rebran 392.390 euros per millorar l'atenció als alumnes amb autisme a les escoles.",
+    "Amb aquesta finançació es pretén enfortir la detecció precoç, la intervenció especialitzada i la formació del personal docent, garantint una millor resposta educativa a les necessitats dels estudiants amb trastorn de l'espectre autista."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Baleares recibirá 392.390 euros para la atención al autismo",
+    "ca": "Les Illes Balears rebran 392.390 euros per a l'atenció de l'autisme",
+    "sources": [
+     "cronicabalear"
+    ]
+   },
+   {
+    "es": "El Gobierno asignará 7,7 millones de euros a todas las comunidades autónomas",
+    "ca": "El Govern assignarà 7,7 milions d'euros a totes les comunitats autònomes",
+    "sources": [
+     "cronicabalear"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:08:38.806Z",
+  "slug": "baleares-recibira-392-390-euros-para-mejorar-la-atencion-a-alumnos-4eace",
+  "status": "single",
+  "image": {
+   "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1739697411.jpg",
+   "sourceId": "cronicabalear",
+   "articleUrl": "https://www.cronicabalear.es/mallorca/2026-11-16/baleares-recibira-392390-euros-para-mejorar-la-atencion-a-los-alumnos-con-autismo-en-los-colegios/"
+  }
  },
  {
   "id": "st62f9f273f6",
@@ -1629,8 +1834,63 @@
     "published": "2026-11-16T14:34:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:34:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:34:00.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-16T20:08:40.713Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Sant Antoni de Portmany activará un simulacro de emergencia por inundaciones este miércoles",
+   "summary": "El Ayuntamiento de Sant Antoni de Portmany llevará a cabo un simulacro para evaluar su plan de respuesta ante inundaciones.",
+   "body": [
+    "El consistorio de Sant Antoni de Portmany continuará este miércoles con las jornadas de implantación del Plan de Emergencia Municipal (PEMU) y del Plan de Actuación Municipal ante el Riesgo de Inundaciones (PAMIN). La iniciativa busca avanzar en la preparación y coordinación de los servicios municipales para mejorar la respuesta ante posibles situaciones de emergencia.",
+    "Según informa Periódico de Ibiza y Formentera, la actividad forma parte de las medidas de preparación que está desarrollando el ayuntamiento para garantizar una gestión eficaz ante riesgos naturales como las inundaciones."
+   ]
+  },
+  "ca": {
+   "title": "Sant Antoni de Portmany activarà un simulacre d'emergència per inundacions aquest dimecres",
+   "summary": "L'Ajuntament de Sant Antoni de Portmany durà a terme un simulacre per avaluar el seu pla de resposta davant d'inundacions.",
+   "body": [
+    "L'ajuntament de Sant Antoni de Portmany continuarà aquest dimecres amb les jornades d'implantació del Pla d'Emergència Municipal (PEMU) i del Pla d'Actuació Municipal davant el Risc d'Inundacions (PAMIN). L'objectiu és avançar en la preparació i la coordinació dels serveis municipals per millorar la resposta davant de possibles situacions d'emergència.",
+    "Segons informa el Periódico de Ibiza i Formentera, l'activitat forma part de les mesures de preparació que està desenvolupant l'ajuntament per garantir una gestió eficaç davant de riscos naturals com les inundacions."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El simulacro se celebrará este miércoles en Sant Antoni de Portmany.",
+    "ca": "El simulacre se celebrarà aquest dimecres a Sant Antoni de Portmany.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "La actividad forma parte de la implantación del PEMU y el PAMIN.",
+    "ca": "L'activitat forma part de la implantació del PEMU i el PAMIN.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El objetivo es mejorar la coordinación de los servicios municipales ante emergencias.",
+    "ca": "L'objectiu és millorar la coordinació dels serveis municipals davant d'emergències.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:08:40.713Z",
+  "slug": "sant-antoni-de-portmany-activara-un-simulacro-de-emergencia-por-273f6",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4851399.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/pitiusas/ibiza/2026/11/16/2751139/sant-antoni-explicara-vecinos-como-actuar-ante-inundaciones-emergencias.html"
+  }
  },
  {
   "id": "st85a0e4e61c",
@@ -1647,7 +1907,8 @@
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:20:00.000Z"
+  "lastArticleAt": "2026-11-16T14:20:00.000Z",
+  "writeErrors": 1
  },
  {
   "id": "st97c031825b",
@@ -1663,8 +1924,49 @@
     "published": "2026-11-16T14:15:09.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:15:09.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:15:09.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-16T20:09:01.597Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Policía local de Manacor investiga el abandono de 13 cachorros en una caja",
+   "summary": "La Policía Local de Manacor actuó el miércoles pasado alrededor de las 20:50 tras recibir información sobre 13 cachorros abandonados dentro de una caja en el carrer de l'Escrivania Reial.",
+   "body": [
+    "La Policía Local de Manacor abrió una investigación tras el hallazgo de trece cachorros abandonados dentro de una caja situada en el carrer de l'Escrivania Reial, en Manacor. Los agentes se desplazaron al lugar el miércoles pasado, aproximadamente a las 20:50, después de que se les informara de la situación.",
+    "Según el informe de la autoridad, los animales fueron encontrados sin signos de maltrato evidente, pero la circunstancia del abandono ha motivado la apertura de diligencias para determinar responsabilidades y garantizar su bienestar."
+   ]
+  },
+  "ca": {
+   "title": "La policia local de Manacor investiga l'abandonament de 13 cadells en una caixa",
+   "summary": "La policia local de Manacor va actuar el dimecres passat cap a les 20:50 després de rebre informació sobre 13 cadells abandonats dins d'una caixa al carrer de l'Escrivania Reial.",
+   "body": [
+    "La policia local de Manacor ha obert una investigació després de trobar tretze cadells abandonats dins d'una caixa situada al carrer de l'Escrivania Reial, a Manacor. Els agents es van desplaçar al lloc el dimecres passat, aproximadament a les 20:50, en resposta a la denúncia rebuda.",
+    "Segons l'informe de l'autoritat, els animals no presentaven signes evidents de maltractament, però la circumstància de l'abandonament ha motivat l'inici de diligències per determinar les responsabilitats i garantir el seu benestar."
+   ]
+  },
+  "facts": [
+   {
+    "es": "13 cachorros encontrados dentro de una caja en el carrer de l'Escrivania Reial, Manacor",
+    "ca": "13 cadells trobats dins una caixa al carrer de l'Escrivania Reial, Manacor",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:01.597Z",
+  "slug": "policia-local-de-manacor-investiga-el-abandono-de-13-cachorros-en-una-1825b",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/2cb6bc7c-b4bc-42a7-9b38-f5c894ff6fdd_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/suplements/abandonen-13-cans-capsa-manacor_1_5912385.html"
+  }
  },
  {
   "id": "sta7d5b5bc2e",
@@ -1680,8 +1982,56 @@
     "published": "2026-11-16T14:13:52.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:13:52.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:13:52.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-16T20:09:03.808Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Los calendarios solidarios de Sonrisa Médica 2027 ya están a la venta en Mallorca",
+   "summary": "La organización Sonrisa Médica ha puesto a disposición en Mallorca los calendarios solidarios de 2027, destinados a financiar sus proyectos sociales en los hospitales baleares.",
+   "body": [
+    "Los calendarios solidarios de Sonrisa Médica para el año 2027 se encuentran en venta en la isla de Mallorca. La iniciativa, que se repite anualmente, tiene como objetivo recaudar fondos para los proyectos sociales que la entidad desarrolla en los hospitales de las Islas Baleares, donde sus payasos profesionales acompañan a niños hospitalizados y a sus familias.",
+    "Según el propio comunicado de la organización, los ingresos obtenidos se destinarán a financiar la labor de los payasos en los centros sanitarios baleares, ofreciendo apoyo emocional a los menores y a sus familiares durante el proceso de hospitalización."
+   ]
+  },
+  "ca": {
+   "title": "Els calendaris solidaris de Somriure Mèdica 2027 ja són a la venda a Mallorca",
+   "summary": "L'organització Somriure Mèdica ha posat a disposició a Mallorca els calendaris solidaris de 2027, destinats a finançar els seus projectes socials als hospitals balears.",
+   "body": [
+    "Els calendaris solidaris de Somriure Mèdica per a l'any 2027 es troben a la venda a l'illa de Mallorca. La iniciativa, que es repeteix cada any, té com a objectiu recaptar fons per als projectes socials que l'entitat desenvolupa als hospitals de les Illes Balears, on els seus pallassos professionals acompanyen els nens hospitalitzats i les seves famílies.",
+    "Segons el propi comunicat de l'organització, els ingressos obtinguts es destinaran a finançar la tasca dels pallassos als centres sanitaris balears, oferint suport emocional als menors i a les seves famílies durant el procés d'hospitalització."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Los calendarios solidarios de Sonrisa Médica 2027 están a la venta en Mallorca",
+    "ca": "Els calendaris solidaris de Somriure Mèdica 2027 es troben a la venda a Mallorca",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Los fondos recaudados financiarán proyectos sociales en hospitales de Baleares",
+    "ca": "Els fons recaptats finançaran projectes socials als hospitals de les Illes Balears",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:03.808Z",
+  "slug": "los-calendarios-solidarios-de-sonrisa-medica-2027-ya-estan-a-la-venta-5bc2e",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/5b16024a-66d7-4d0f-84ff-619c77a065ef_16-9-aspect-ratio_default_0_x941y466.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/16/comprar-calendarios-solidarios-sonrisa-medica-2027-mallorca-dvl-136502343.html"
+  }
  },
  {
   "id": "st309d6a0f63",
@@ -1697,8 +2047,56 @@
     "published": "2026-11-16T14:10:17.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:10:17.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:10:17.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-16T20:09:06.576Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Aitor Ortiz retrata la intervención de Gaudí en la Catedral de Mallorca",
+   "summary": "El fotógrafo Aitor Ortiz ha añadido a su proyecto sobre Gaudí una serie de 18 imágenes que documentan la obra del arquitecto en la Catedral de Mallorca, disponibles en la exposición “Gaudí. Impresiones íntimas”.",
+   "body": [
+    "La exposición “Gaudí. Impresiones íntimas”, que se encuentra en Can Balaguer y permanecerá abierta hasta finales de esta semana, ha sido ampliada con una nueva serie de fotografías realizadas por Aitor Ortiz. El objetivo del fotógrafo es capturar la intervención del arquitecto catalán en la Catedral de Mallorca, obra que forma parte del patrimonio cultural de la isla.",
+    "Ortiz ha producido un total de 18 fotografías que forman parte de esta ampliación del proyecto sobre Gaudí. La muestra, que combina imágenes históricas y contemporáneas, permite al público apreciar los detalles de la intervención arquitectónica dentro del contexto de la catedral."
+   ]
+  },
+  "ca": {
+   "title": "Aitor Ortiz retrata la intervenció de Gaudí a la Catedral de Mallorca",
+   "summary": "El fotògraf Aitor Ortiz ha afegit al seu projecte sobre Gaudí una sèrie de 18 imatges que documenten l'obra de l'arquitecte a la Catedral de Mallorca, disponibles a l'exposició “Gaudí. Impresiones íntimas”.",
+   "body": [
+    "L'exposició “Gaudí. Impresiones íntimas”, que es troba a Can Balaguer i romandrà oberta fins a finals d’aquesta setmana, s'ha ampliat amb una nova sèrie de fotografies realitzades per Aitor Ortiz. L'objectiu del fotògraf és capturar la intervenció de l'arquitecte català a la Catedral de Mallorca, obra que forma part del patrimoni cultural de l'illa.",
+    "Ortiz ha produït un total de 18 fotografies que formen part d'aquesta ampliació del projecte sobre Gaudí. La mostra, que combina imatges històriques i contemporànies, permet al públic apreciar els detalls de la intervenció arquitectònica dins del context de la catedral."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La exposición “Gaudí. Impresiones íntimas” está en Can Balaguer y se prolonga hasta finales de esta semana",
+    "ca": "L'exposició “Gaudí. Impresiones íntimas” es troba a Can Balaguer i es prolonga fins a finals d’aquesta setmana",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Aitor Ortiz ha realizado 18 fotografías de la intervención de Gaudí en la Catedral de Mallorca",
+    "ca": "Aitor Ortiz ha realitzat 18 fotografies de la intervenció de Gaudí a la Catedral de Mallorca",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:06.576Z",
+  "slug": "aitor-ortiz-retrata-la-intervencion-de-gaudi-en-la-catedral-de-a0f63",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20321828_1.webp",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/aitor-ortiz-retrata-la-intervencio-de-gaudi-a-la-seu"
+  }
  },
  {
   "id": "std0b761db0b",
@@ -1714,8 +2112,65 @@
     "published": "2026-11-16T14:05:31.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:05:31.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:05:31.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:10.937Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Ayuntamiento de Ibiza y Tanit Ibiza Conexión organizan el evento Tanit Conecta 2026",
+   "summary": "El 14 de noviembre se celebró en el Casal d’Igualtat la iniciativa Tanit Conecta 2026, que reunió a empresarias, emprendedoras y profesionales de la isla.",
+   "body": [
+    "El Ayuntamiento de Ibiza y Tanit Ibiza Conexión llevaron a cabo el evento Tanit Conecta 2026 el 14 de noviembre, en el Casal d’Igualtat. La jornada contó con la presencia de empresarias, emprendedoras, autónomas y profesionales de distintos sectores económicos de la isla, con el objetivo de fomentar el talento femenino, el espíritu emprendedor y la creación de redes profesionales sólidas.",
+    "Durante la jornada se destacaron las alianzas entre las distintas empresas y la importancia de la colaboración para impulsar el desarrollo económico local. Los asistentes tuvieron la oportunidad de intercambiar experiencias y establecer contactos que podrían traducirse en nuevas oportunidades de negocio y crecimiento.",
+    "El evento se enmarcó dentro de la estrategia de la municipalidad para promover la igualdad de género y el emprendimiento femenino, reforzando el compromiso de la ciudad con la innovación y la sostenibilidad en el sector empresarial."
+   ]
+  },
+  "ca": {
+   "title": "El Ajuntament d'Ibiza i Tanit Ibiza Conexió organitzen l'esdeveniment Tanit Conecta 2026",
+   "summary": "El 14 de novembre es va celebrar a la Casa d'Igualtat la iniciativa Tanit Conecta 2026, que va reunir empresàries, emprenedores i professionals de l'illa.",
+   "body": [
+    "L'Ajuntament d'Ibiza i Tanit Ibiza Conexió van organitzar l'esdeveniment Tanit Conecta 2026 el 14 de novembre, a la Casa d'Igualtat. La jornada va comptar amb la presència d'empresàries, emprenedores, autònomes i professionals de diversos sectors econòmics de l'illa, amb l'objectiu de fomentar el talent femení, l'esperit emprenedor i la creació de xarxes professionals sòlides.",
+    "Durant la jornada es van destacar les aliances entre les diferents empreses i la importància de la col·laboració per impulsar el desenvolupament econòmic local. Els assistents van tenir l'oportunitat d'intercanviar experiències i establir contactes que podrien traduir-se en noves oportunitats de negoci i creixement.",
+    "L'esdeveniment es va enmarcar dins de la estratègia de la municipalitat per promoure la igualtat de gènere i l'emprenedoria femenina, reforçant l'objectiu de la ciutat amb la innovació i la sostenibilitat en el sector empresarial."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El 14 de noviembre se celebró Tanit Conecta 2026 en el Casal d’Igualtat",
+    "ca": "El 14 de novembre es va celebrar Tanit Conecta 2026 a la Casa d'Igualtat",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Organizadores: Ayuntamiento de Ibiza y Tanit Ibiza Conexión",
+    "ca": "Organitzadors: Ajuntament d'Ibiza i Tanit Ibiza Conexió",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Participaron empresarias, emprendedoras, autónomas y profesionales de diversos sectores económicos",
+    "ca": "Participaren empresàries, emprenedores, autònomes i professionals de diversos sectors econòmics",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:10.937Z",
+  "slug": "el-ayuntamiento-de-ibiza-y-tanit-ibiza-conexion-organizan-el-evento-1db0b",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4851385.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/16/2751135/talento-femenino-alianzas-profesionales-protagonizan-encuentro-tanit-conecta-2026-ibiza.html"
+  }
  },
  {
   "id": "st2fd3c9a63e",
@@ -1833,8 +2288,60 @@
     "published": "2026-11-16T14:01:31.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:01:31.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:01:31.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:13.211Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "3.000 plazas para aprender competencias digitales en una nueva edición de Grans Actius",
+   "summary": "El programa Grans Actius abre 3.000 plazas para mayores de 55 años que deseen aprender a usar el móvil y realizar trámites en línea.",
+   "body": [
+    "El programa Grans Actius, que se ha extendido a todas las Islas Baleares, abre una nueva edición con 3.000 plazas disponibles para personas mayores de 55 años.",
+    "Según IB3 Notícies, más de 1.400 usuarios mayores de 55 años ya están inscritos y desean formar parte del entorno digital.",
+    "El objetivo es enseñar a manejar un teléfono móvil, realizar trámites administrativos por internet y prevenir fraudes.",
+    "La iniciativa se ha promocionado en Mallorca y otras islas, con la intención de fomentar la inclusión digital de la población mayor."
+   ]
+  },
+  "ca": {
+   "title": "3.000 places per aprendre competències digitals en una nova edició de Grans Actius",
+   "summary": "El programa Grans Actius obre 3.000 places per a majors de 55 anys que vulguin aprendre a usar el mòbil i fer tràmits en línia.",
+   "body": [
+    "El programa Grans Actius, que s'ha estès a totes les Illes Balears, obre una nova edició amb 3.000 places disponibles per a persones majors de 55 anys.",
+    "Segons IB3 Notícies, més de 1.400 usuaris majors de 55 anys ja estan inscrits i volen formar part de l’entorn digital.",
+    "L’objectiu és ensenyar a manejar un telèfon mòbil, realitzar tràmits administratius per internet i prevenir fraus.",
+    "La iniciativa s’ha promocionat a Mallorca i altres illes, amb la intenció de fomentar la inclusió digital de la població major."
+   ]
+  },
+  "facts": [
+   {
+    "es": "3.000 plazas disponibles",
+    "ca": "3.000 places disponibles",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Más de 1.400 usuarios mayores de 55 años inscritos",
+    "ca": "Més de 1.400 usuaris majors de 55 anys inscrits",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:13.211Z",
+  "slug": "3-000-plazas-para-aprender-competencias-digitales-en-una-nueva-f1129",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20321318_1.webp",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/3-000-places-per-aprendre-competencies-digitals-en-una-nova-edicio-de-grans-actius"
+  }
  },
  {
   "id": "st5b1b74b9f9",
@@ -1850,8 +2357,72 @@
     "published": "2026-11-16T14:00:41.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T14:00:41.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T14:00:41.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-16T20:09:16.625Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El patinador Joan Miquel Mulet acumula siete títulos de Mallorca y dos copas de Europa",
+   "summary": "El joven de Sencelles, nacido en 2007, destaca por su palmarés en patinaje artístico sobre ruedas, un deporte minoritario.",
+   "body": [
+    "Joan Miquel Mulet Aloy, natural de Sencelles y nacido en 2007, ha conseguido un notable palmarés en patinaje artístico sobre ruedas. Según Ara Balears, el deportista cuenta con dos medallas de subcampeonato de España consecutivas, dos copas de Europa como campeón y una como subcampeón.",
+    "Además de sus logros internacionales, Mulet ha sido séptimo en la Copa del Mundo en una ocasión. A nivel local, acumula siete títulos de campeón de Mallorca y siete de campeón de las Islas Baleares, considerando ambas modalidades de la disciplina.",
+    "La publicación señala que el patinaje artístico sobre ruedas es un deporte minoritario que a menudo queda al margen de la atención mediática. Asimismo, destaca la dificultad que tiene esta disciplina para conseguir patrocinadores que permitan afrontar los costes de las competiciones."
+   ]
+  },
+  "ca": {
+   "title": "El patinador Joan Miquel Mulet acumula set títols de Mallorca i dues copes d'Europa",
+   "summary": "El jove de Sencelles, nascut el 2007, destaca pel seu palmarès en patinatge artístic sobre rodes, un esport minoritari.",
+   "body": [
+    "Joan Miquel Mulet Aloy, de Sencelles i nascut el 2007, ha aconseguit un notable palmarès en patinatge artístic sobre rodes. Segons Ara Balears, l'atleta compta amb dues medalles de subcampionat d'Espanya consecutius, dues copes d'Europa com a campió i una com a subcampió.",
+    "A més dels seus èxits internacionals, Mulet ha estat setè a la Copa del Món en una ocasió. A nivell local, acumula set títols de campió de Mallorca i set de campió de les Illes Balears, comptant les dues modalitats de la disciplina.",
+    "La publicació assenyala que el patinatge artístic sobre rodes és un esport minoritari que sovint queda al marge de l'atenció mediàtica. Així mateix, destaca la dificultat que té aquesta disciplina per aconseguir patrocinadors que permetin afrontar els costos de les competicions."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Joan Miquel Mulet Aloy nació en Sencelles en 2007.",
+    "ca": "Joan Miquel Mulet Aloy va néixer a Sencelles el 2007.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Tiene dos medallas de subcampeonato de España consecutivas.",
+    "ca": "Té dues medalles de subcampionat d'Espanya consecutius.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Es dos veces campeón de la Copa de Europa y una vez subcampeón.",
+    "ca": "És dues vegades campió de la Copa d'Europa i una vegada subcampió.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Ha sido siete veces campeón de Mallorca y siete veces campeón de las Islas Baleares.",
+    "ca": "Ha estat set vegades campió de Mallorca i set vegades campió de les Illes Balears.",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:16.625Z",
+  "slug": "el-patinador-joan-miquel-mulet-acumula-siete-titulos-de-mallorca-y-4b9f9",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/0440b870-200b-497a-9dc4-24b53ceb9422_16-9-aspect-ratio_default_0.png",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/esports/des-d-poble-petit-tambe-viure-experiencies-mai-hauries-imaginat_128_5912332.html"
+  }
  },
  {
   "id": "st957af922c2",
@@ -1867,8 +2438,56 @@
     "published": "2026-11-16T13:55:31.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:55:31.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:55:31.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:20.622Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Los vecinos de Santa Gertrudis celebran su día gros",
+   "summary": "El día gros de Santa Gertrudis se celebró con misa, baile pagés y actos en la plaza del pueblo.",
+   "body": [
+    "El día gros de Santa Gertrudis se celebró con una misa y una exhibición de baile pagés dirigida por el grupo de balls tradicionales de Santa Gertrudis. La jornada continuó con actos en la plaza del pueblo, donde el señor Corrales ofreció un monólogo de humor. El programa de festividades se extendió durante el fin de semana, con una carrera el sábado.",
+    "La celebración se llevó a cabo en la localidad de Santa Gertrudis, situada en la isla de Mallorca. No se han informado de incidentes ni de problemas durante los eventos."
+   ]
+  },
+  "ca": {
+   "title": "Els veïns de Santa Gertrudis celebren el seu dia gros",
+   "summary": "El dia gros de Santa Gertrudis es va celebrar amb missa, ball pagès i actes a la plaça del poble.",
+   "body": [
+    "El dia gros de Santa Gertrudis es va celebrar amb una missa i una exhibició de ball pagès dirigida pel grup de balls tradicionals de Santa Gertrudis. La jornada va continuar amb actes a la plaça del poble, on el senyor Corrales va oferir un monòleg d’humor. El programa de festes es va allargar durant el cap de setmana, amb una cursa el dissabte.",
+    "La celebració es va dur a terme a la localitat de Santa Gertrudis, situada a l’illa de Mallorca. No s’ha informat d’incidents ni problemes durant els esdeveniments."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El día gros de Santa Gertrudis se celebró con misa y baile pagés",
+    "ca": "El dia gros de Santa Gertrudis es va celebrar amb missa i ball pagès",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "El monólogo de humor del señor Corrales se presentó en la plaza del pueblo",
+    "ca": "El monòleg d’humor del senyor Corrales es va presentar a la plaça del poble",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:20.622Z",
+  "slug": "los-vecinos-de-santa-gertrudis-celebran-su-dia-gros-922c2",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/14310-festessantagertru.png",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/els-vesins-de-santa-gertrudis-celebren-el-seu-dia-gros"
+  }
  },
  {
   "id": "st210f33577b",
@@ -1997,8 +2616,53 @@
     "published": "2026-11-16T13:51:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:51:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:51:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:23.257Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El juzgado rechaza desahuciar a la 'Maricarmen mallorquina' por impagos sin mala fe",
+   "summary": "El tribunal de Mallorca ha decidido no desahuciar a la inquilina Maricarmen, citando impagos puntuales y su enfermedad.",
+   "body": [
+    "El juzgado de la ciudad de Palma ha dictado una sentencia que evita el desahucio de la inquilina Maricarmen, de origen mallorquín, alegando que los impagos se debieron a su enfermedad y que no hubo mala fe por su parte.",
+    "Según el documento, la inquilina no incumplió el contrato de forma intencional y los pagos pendientes se consideraron puntuales. El juez ha considerado que la situación de salud de la inquilina justifica la suspensión del proceso de desahucio.",
+    "La decisión se ha publicado el 16 de noviembre de 2026 y se basa en la interpretación de la normativa de vivienda de la isla. No se han mencionado cifras concretas de impago ni se ha indicado la duración del proceso.",
+    "El caso ha generado debate sobre la protección de los derechos de los inquilinos con problemas de salud en la comunidad autónoma."
+   ]
+  },
+  "ca": {
+   "title": "El jutjat rebutja desahudir la 'Maricarmen mallorquina' per impagaments sense mala fe",
+   "summary": "El tribunal de Palma ha decidit no desahudir la llogarissa Maricarmen, citant impagaments puntuals i la seva malaltia.",
+   "body": [
+    "El jutjat de la ciutat de Palma ha dictat una sentència que evita el desahut de la llogarissa Maricarmen, de origen mallorquí, alegant que els impagaments es van deu a la seva malaltia i que no hi havia mala fe per part seva.",
+    "Segons el document, la llogarissa no va infringir el contracte de forma intencional i els pagaments pendents es van considerar puntuals. El jutjat ha considerat que la situació de salut de la llogarissa justifica la suspensió del procés de desahut.",
+    "La decisió es va publicar el 16 de novembre de 2026 i es basa en la interpretació de la normativa de lloguer de l'illa. No s'han mencionat xifres concretes d'impago ni s'ha indicat la durada del procés.",
+    "El cas ha generat debat sobre la protecció dels drets dels llogaristes amb problemes de salut a la comunitat autònoma."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El juzgado de Palma rechazó desahuciar a la inquilina Maricarmen por impagos puntuales y enfermedad",
+    "ca": "El jutjat de Palma rebutja desahudir la llogarissa Maricarmen per impagaments puntuals i malaltia",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:23.257Z",
+  "slug": "el-juzgado-rechaza-desahuciar-a-la-maricarmen-mallorquina-por-impagos-9b4e3",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851371.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/16/2751129/juzgado-rechaza-desahuciar-maricarmen-mallorquina-porque-quiso-incumplir-contrato.html"
+  }
  },
  {
   "id": "st1776c90879",
@@ -2014,8 +2678,47 @@
     "published": "2026-11-16T13:51:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:51:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:51:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:26.024Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Alarma en Bunyola por la presencia de una ladrona en varias viviendas",
+   "summary": "Una mujer de unos 40 años fue sorprendida intentando robar en dos viviendas de Bunyola, generando alarma entre los vecinos.",
+   "body": [
+    "La mañana del lunes, varios vecinos de Bunyola reportaron la presencia sospechosa de una mujer que logró entrar en una vivienda para robar y fue detenida al intentar acceder a otra propiedad en la localidad. La noticia se difundió rápidamente entre los residentes de la Serra, que se pusieron en alerta y, gracias a varios testimonios, identificaron a la sospechosa como una mujer de unos 40 años, vestida con ropa oscura y con el pelo largo y negro. Según los testigos, la mujer había estado a punto de cometer varios hurtos antes de ser sorprendida. La comunidad local ha reforzado la vigilancia y ha pedido a los vecinos que informen cualquier actividad sospechosa. La policía local está investigando el caso y ha solicitado la colaboración de los residentes para esclarecer los hechos."
+   ]
+  },
+  "ca": {
+   "title": "Alarma a Bunyola per la presència d'una ladrona en diverses vivendes",
+   "summary": "Una dona d'uns 40 anys va ser atrapada intentant robar en dues vivendes de Bunyola, provocant alarma entre els veïns.",
+   "body": [
+    "La matinada del dilluns, diversos veïns de Bunyola van informar de la presència sospitosa d'una dona que va aconseguir entrar en una vivenda per robar i va ser detinguda quan intentava accedir a una altra propietat a la localitat. La notícia es va difondre ràpidament entre els residents de la Serra, que es van posar en alerta i, gràcies a diversos testimonis, van identificar la sospitosa com una dona d'uns 40 anys, vestida amb roba fosca i amb el cabell llarg i negre. Segons els testimonis, la dona havia estat a punt de cometre diversos hurtos abans de ser atrapada. La comunitat local ha reforçat la vigilància i ha demanat als veïns que informin qualsevol activitat sospitosa. La policia local està investigant el cas i ha sol·licitat la col·laboració dels residents per aclarir els fets."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La mujer de unos 40 años fue sorprendida intentando robar en dos viviendas de Bunyola",
+    "ca": "La dona d'uns 40 anys va ser atrapada intentant robar en dues vivendes de Bunyola",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:26.024Z",
+  "slug": "alarma-en-bunyola-por-la-presencia-de-una-ladrona-en-varias-viviendas-90879",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851373.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/16/2751125/alarma-bunyola-por-presencia-ladrona-varias-viviendas-del-pueblo.html"
+  }
  },
  {
   "id": "st5dc9b1c48a",
@@ -2031,8 +2734,53 @@
     "published": "2026-11-16T13:49:22.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:49:22.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:49:22.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:29.068Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Gobierno adjudica la redacción del proyecto de ampliación de la depuradora de Vilafranca",
+   "summary": "El Gobierno de las Islas Baleares ha asignado el contrato para redactar el proyecto de ampliación, reforma y mejora de la Estación Depuradora de Aguas Residuales de Vilafranca de Bonany.",
+   "body": [
+    "El Gobierno de las Islas Baleares, a través de la Agencia Balear de la Agua y de la Calidad Ambiental (Abaqua), ha adjudicado formalmente el contrato para redactar el proyecto de ampliación, reforma y mejora del tratamiento de la planta de la Estación Depuradora de Aguas Residuales (EDAR) de Vilafranca de Bonany.",
+    "La decisión se toma como parte de la modernización de la EDAR, con el objetivo de mejorar la eficiencia y la calidad del tratamiento de aguas residuales en la zona.",
+    "Según el comunicado del Gobierno, el proyecto incluirá la ampliación de la capacidad de la planta y la incorporación de nuevas tecnologías para el tratamiento de aguas.",
+    "El contrato se adjudicará a una empresa especializada en la elaboración de proyectos de depuración de aguas residuales, aunque el nombre de la empresa no se ha revelado en la nota."
+   ]
+  },
+  "ca": {
+   "title": "El Govern adjudica la redacció del projecte d’ampliació de la depuradora de Vilafranca",
+   "summary": "El Govern de les Illes Balears ha assignat el contracte per redactar el projecte d’ampliació, reforma i millora de l’Estació Depuradora d’Aigües Residuals de Vilafranca de Bonany.",
+   "body": [
+    "El Govern de les Illes Balears, a través de l’Agència Balear de l’Aigua i de la Qualitat Ambiental (Abaqua), ha adjudicat formalment el contracte per redactar el projecte d’ampliació, reforma i millora del tractament de la planta de l’Estació Depuradora d’Aigües Residuals (EDAR) de Vilafranca de Bonany.",
+    "La decisió es pren com a part de la modernització de l’EDAR, amb l’objectiu d’millorar l’eficiència i la qualitat del tractament d’aigües residuals a la zona.",
+    "Segons el comunicat del Govern, el projecte inclourà l’ampliació de la capacitat de la planta i la incorporació de noves tecnologies per al tractament d’aigües.",
+    "El contracte s’adjudicará a una empresa especialitzada en l’elaboració de projectes de depuració d’aigües residuals, tot i que el nom de l’empresa no s’ha revelat en la nota."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Gobierno de las Islas Baleares adjudicó el contrato para redactar el proyecto de ampliación de la EDAR de Vilafranca de Bonany",
+    "ca": "El Govern de les Illes Balears adjudicà el contracte per redactar el projecte d’ampliació de l’EDAR de Vilafranca de Bonany",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:29.068Z",
+  "slug": "el-gobierno-adjudica-la-redaccion-del-proyecto-de-ampliacion-de-la-1c48a",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/55983ea4-6fa9-47e2-8d62-f2b19cb15b45_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/societat/govern-adjudica-redaccio-projecte-ampliar-depuradora-vilafranca_1_5912322.html"
+  }
  },
  {
   "id": "st27005ec61e",
@@ -2048,8 +2796,56 @@
     "published": "2026-11-16T13:49:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:49:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:49:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:37.603Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "El Gobierno aprobará un aumento del 5,3 % del salario mínimo en Baleares para 2027",
+   "summary": "El salario mínimo bruto anual alcanzará los 18.004 € en catorce pagas tras la subida del 5,3 % aprobada por el Gobierno.",
+   "body": [
+    "El Gobierno español aprobó este martes un incremento del 5,3 % del salario mínimo interprofesional (SMI). Con esta medida, el SMI bruto anual en Baleares se situará en 18.004 € distribuidos en catorce pagas.",
+    "El aumento se aplica a todas las islas del archipiélago, sin diferenciación entre Mallorca, Menorca, Ibiza o Formentera. La medida forma parte de la política salarial del Gobierno para 2027 y se implementará a partir del 1 de enero de ese año."
+   ]
+  },
+  "ca": {
+   "title": "El Govern aprovarà un augment del 5,3 % del salari mínim a les Illes Balears per a 2027",
+   "summary": "El salari mínim brut anual arribarà als 18.004 € en catorze pagaments després de l'augment del 5,3 % aprovat pel Govern.",
+   "body": [
+    "El Govern espanyol va aprovar aquest dimarts un augment del 5,3 % del salari mínim interprofessional (SMI). Amb aquesta mesura, el SMI brut anual a les Illes Balears es situarà a 18.004 € distribuïts en catorze pagaments.",
+    "L'augment s'aplica a totes les illes de l'arxipèlag, sense diferència entre Mallorca, Menorca, Ibiza o Formentera. La mesura forma part de la política salarial del Govern per a 2027 i s'aplicarà a partir del 1 de gener d'aquest any."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El aumento del 5,3 % del SMI",
+    "ca": "L'augment del 5,3 % del SMI",
+    "sources": [
+     "cronicabalear"
+    ]
+   },
+   {
+    "es": "El SMI bruto anual será de 18.004 € en catorce pagas",
+    "ca": "El SMI brut anual serà de 18.004 € en catorze pagaments",
+    "sources": [
+     "cronicabalear"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:37.603Z",
+  "slug": "el-gobierno-aprobara-un-aumento-del-5-3-del-salario-minimo-en-ec61e",
+  "status": "single",
+  "image": {
+   "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1794834951.jpg",
+   "sourceId": "cronicabalear",
+   "articleUrl": "https://www.cronicabalear.es/mallorca/2026-11-16/asi-quedara-el-salario-minimo-en-baleares-en-2027-tras-la-nueva-subida-del-gobierno/"
+  }
  },
  {
   "id": "st0183f73cd0",
@@ -2065,8 +2861,72 @@
     "published": "2026-11-16T13:46:55.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:46:55.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:46:55.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-16T20:09:41.163Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Pau Vizcaíno gana el Pop-Rock de Palma 2026 tras convencer al jurado",
+   "summary": "El artista Pau Vizcaíno ha sido declarado ganador del concurso Pop-Rock de Palma 2026. Los grupos Ulls secs y Espurna han recibido el segundo y tercer premio, respectivamente.",
+   "body": [
+    "El jurado del Pop-Rock de Palma 2026 ha otorgado el primer premio a Pau Vizcaíno, cuya actuación fue la que más convenció a los miembros del panel. Según IB3 Notícies, esta decisión se tomó tras evaluar las propuestas de los participantes en la fase final del certamen.",
+    "Además del ganador, el jurado decidió premiar a otros dos grupos. Ulls secs se ha llevado el segundo premio, mientras que Espurna ha obtenido el tercero. Estos galardones reconocen la calidad musical de las bandas en la competición.",
+    "En total, se han entregado hasta 16 accésits entre los 15 semifinalistas del concurso. Entre los reconocimientos adicionales, se incluyen conciertos remunerados en el festival Satèl·lit Fest, según informa la fuente."
+   ]
+  },
+  "ca": {
+   "title": "Pau Vizcaíno guanya el Pop-Rock de Palma 2026 després de convèncer el jurat",
+   "summary": "L'artista Pau Vizcaíno ha estat declarat guanyador del concurs Pop-Rock de Palma 2026. Els grups Ulls secs i Espurna han rebut el segon i el tercer premi, respectivament.",
+   "body": [
+    "El jurat del Pop-Rock de Palma 2026 ha atorgat el primer premi a Pau Vizcaíno, la cui actuació va ser la que més va convèncer els membres del panel. Segons IB3 Notícies, aquesta decisió es va prendre després d'avaluar les propostes dels participants en la fase final del certamen.",
+    "A més del guanyador, el jurat va decidir premiar dos grups més. Ulls secs s'ha endut el segon premi, mentre que Espurna ha obtingut el tercer. Aquests guardons reconeixen la qualitat musical de les bandes en la competició.",
+    "En total, s'han lliurat fins a 16 accèssits entre els 15 semifinalistes del concurs. Entre els reconeixements addicionals, s'inclouen concerts remunerats al festival Satèl·lit Fest, segons informa la font."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Pau Vizcaíno ha ganado el primer premio del Pop-Rock de Palma 2026.",
+    "ca": "Pau Vizcaíno ha guanyat el primer premi del Pop-Rock de Palma 2026.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Ulls secs ha obtenido el segundo premio y Espurna el tercero.",
+    "ca": "Ulls secs ha obtingut el segon premi i Espurna el tercer.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Se han entregado 16 accésits entre los 15 semifinalistas.",
+    "ca": "S'han lliurat 16 accèssits entre els 15 semifinalistes.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Entre los premios hay conciertos remunerados en el Satèl·lit Fest.",
+    "ca": "Entre els premis hi ha concerts remunerats al Satèl·lit Fest.",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:41.163Z",
+  "slug": "pau-vizcaino-gana-el-pop-rock-de-palma-2026-tras-convencer-al-jurado-73cd0",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/42495-pau.png",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/pau-vizcaino-guanya-el-pop-rock-de-palma-2026"
+  }
  },
  {
   "id": "st4c77323529",
@@ -2082,8 +2942,70 @@
     "published": "2026-11-16T13:46:10.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:46:10.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:46:10.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:09:49.441Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "La Conselleria de Agricultura muestra experiencias en fincas en Palma",
+   "summary": "La Conselleria de Agricultura de las Islas Baleares organizó una jornada en Palma para enseñar a los productores cómo ofrecer experiencias a los visitantes en sus fincas.",
+   "body": [
+    "La jornada, celebrada en Palma, contó con la presencia de la Conselleria de Agricultura, que mostró a los participantes cómo convertir las fincas en destinos de experiencias para los visitantes. Se presentaron ejemplos de productos locales, como la ensaïmada y el queso, que ya se han convertido en souvenirs. La iniciativa busca acercar el sector agroalimentario a los consumidores, ofreciendo actividades que permitan conocer el proceso de producción y la vida rural.",
+    "Durante la jornada, se mostraron vídeos en Instagram y se destacó la participación de la cooperativa de quesos Sa Cabreta, que ha sabido aprovechar la tendencia de la gastronomía experiencial. La Conselleria de Agricultura pretende que los productores adopten este modelo para diversificar sus ingresos y fortalecer la economía local."
+   ]
+  },
+  "ca": {
+   "title": "La Conselleria d’Agricultura mostra experiències a les finques a Palma",
+   "summary": "La Conselleria d’Agricultura de les Illes Balears va organitzar una jornada a Palma per ensenyar als productors com oferir experiències als visitants a les seves finques.",
+   "body": [
+    "La jornada, celebrada a Palma, va comptar amb la presència de la Conselleria d’Agricultura, que va mostrar als participants com convertir les finques en destins d’experiències per als visitants. Es van presentar exemples de productes locals, com l’ensaïmada i el formatge, que ja s’han convertit en souvenirs. L’iniciativa busca acostar el sector agroalimentari als consumidors, oferint activitats que permetin conèixer el procés de producció i la vida rural.",
+    "Durant la jornada, es van mostrar vídeos a Instagram i es va destacar la participació de la cooperativa de formatges Sa Cabreta, que ha sabut aprofitar la tendència de la gastronomia experiencial. La Conselleria d’Agricultura pretén que els productors adopten aquest model per diversificar els seus ingressos i enfortir l’economia local."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La jornada se celebró en Palma",
+    "ca": "La jornada es va celebrar a Palma",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "La Conselleria de Agricultura mostró cómo ofrecer experiencias en fincas",
+    "ca": "La Conselleria d’Agricultura va mostrar com oferir experiències a les finques",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Se presentaron ejemplos de productos locales como la ensaïmada y el queso",
+    "ca": "Es van presentar exemples de productes locals com l’ensaïmada i el formatge",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "La cooperativa de quesos Sa Cabreta participó en la jornada",
+    "ca": "La cooperativa de formatges Sa Cabreta va participar en la jornada",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:09:49.441Z",
+  "slug": "la-conselleria-de-agricultura-muestra-experiencias-en-fincas-en-palma-23529",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20321373_1.webp",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/les-explotacions-agraries-es-llancen-al-mon-de-les-experiencies"
+  }
  },
  {
   "id": "stf5709322a8",
@@ -2099,8 +3021,47 @@
     "published": "2026-11-16T13:45:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:45:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:45:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:10:00.193Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Los sindicatos amenazan con huelga en la sanidad privada de Baleares tras diez meses sin acuerdo",
+   "summary": "UGT, CCOO, Satse y USAE denuncian el bloqueo de las negociaciones del convenio colectivo y convocan una nueva protesta este miércoles.",
+   "body": [
+    "Los sindicatos UGT, CCOO, Satse y USAE han denunciado que las negociaciones del convenio colectivo en la sanidad privada de Baleares se han visto bloqueadas durante diez meses. Según la crónica, las organizaciones han decidido convocar una nueva protesta que tendrá lugar este miércoles.\n\nLa medida se produce tras la falta de avances en las negociaciones, lo que ha llevado a los sindicatos a amenazar con una huelga. No se han proporcionado detalles sobre el número de trabajadores afectados ni sobre las demandas específicas de los sindicatos."
+   ]
+  },
+  "ca": {
+   "title": "Els sindicats amenacen amb una vaga a la sanitat privada de les Illes Balears després de deu mesos sense acords",
+   "summary": "UGT, CCOO, Satse i USAE denuncien el bloqueig de les negociacions del conveni col·lectiu i convoca una nova protesta aquest dimecres.",
+   "body": [
+    "Els sindicats UGT, CCOO, Satse i USAE han denunciat que les negociacions del conveni col·lectiu a la sanitat privada de les Illes Balears han estat bloquejades durant deu mesos. Segons la crònica, les organitzacions han decidit convocar una nova protesta que tindrà lloc aquest dimecres.\n\nLa mesura es produeix després de la manca d’avanç en les negociacions, cosa que ha portat els sindicats a amenaçar amb una vaga. No s’han proporcionat detalls sobre el nombre de treballadors afectats ni sobre les demandes específiques dels sindicats."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Los sindicatos UGT, CCOO, Satse y USAE denuncian bloqueo de negociaciones del convenio colectivo en la sanidad privada de Baleares",
+    "ca": "Els sindicats UGT, CCOO, Satse i USAE denuncien bloqueig de negociacions del conveni col·lectiu a la sanitat privada de les Illes Balears",
+    "sources": [
+     "cronicabalear"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:10:00.193Z",
+  "slug": "los-sindicatos-amenazan-con-huelga-en-la-sanidad-privada-de-baleares-322a8",
+  "status": "single",
+  "image": {
+   "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1791647690.jpg",
+   "sourceId": "cronicabalear",
+   "articleUrl": "https://www.cronicabalear.es/mallorca/2026-11-16/los-sindicatos-amenazan-con-una-huelga-en-la-sanidad-privada-de-baleares-tras-diez-meses-sin-acuerdo/"
+  }
  },
  {
   "id": "st1db93fcbcd",
@@ -2116,8 +3077,63 @@
     "published": "2026-11-16T13:35:55.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:35:55.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:35:55.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:10:11.204Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Set de comercios emblemáticos del Mercadal reciben reconocimiento del Gobierno balear",
+   "summary": "El Gobierno de las Islas Baleares ha otorgado la categoría de Emblemáticos Balears a siete establecimientos del Mercadal, aumentando el número total a 71 en la isla.",
+   "body": [
+    "El Gobierno de las Islas Baleares ha concedido la categoría de Emblemáticos Balears a siete comercios del Mercadal, según informa IB3 Notícies. Con esta designación, la isla cuenta ahora con 71 establecimientos que se consideran emblemáticos, valorados por su historia, patrimonio y relevancia social dentro de los pueblos. La iniciativa, que se inició en 1970, reconoce a la carnissería Febrer, entre otros, por su actividad que combina la tradición con la modernidad. La medida pretende destacar la importancia de estos negocios en la identidad y economía local.",
+    "El reconocimiento se produce en el marco de una campaña del Gobierno para promover la cultura empresarial y el turismo de calidad en Mallorca. Los establecimientos beneficiados podrán acceder a apoyos y visibilidad que favorezcan su desarrollo y la preservación de su carácter histórico. La designación no implica cambios legislativos, sino un reconocimiento simbólico y promocional."
+   ]
+  },
+  "ca": {
+   "title": "Set de comerços emblemàtics del Mercadal reben reconeixement del Govern balear",
+   "summary": "El Govern de les Illes Balears ha concedit la categoria d'Emblemàtics Balears a set establiments del Mercadal, portant el total a 71 a l'illa.",
+   "body": [
+    "El Govern de les Illes Balears ha concedit la categoria d'Emblemàtics Balears a set comerços del Mercadal, segons informa IB3 Notícies. Amb aquesta designació, l'illa compta ara amb 71 establiments que es consideren emblemàtics, valorats per la seva història, patrimoni i rellevància social dins dels pobles. La iniciativa, iniciada el 1970, reconeix la carnisseria Febrer, entre altres, per la seva activitat que combina la tradició amb la modernitat. La mesura pretén destacar la importància d'aquests negocis en la identitat i economia local.",
+    "El reconeixement es produeix dins del marc d'una campanya del Govern per promoure la cultura empresarial i el turisme de qualitat a Mallorca. Els establiments beneficiats podran accedir a suport i visibilitat que afavoreixin el seu desenvolupament i la preservació del seu caràcter històric. La designació no implica canvis legislatius, sinó un reconeixement simbòlic i promocional."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Gobierno balear ha otorgado la categoría de Emblemáticos Balears a siete comercios del Mercadal",
+    "ca": "El Govern balear ha concedit la categoria d'Emblemàtics Balears a set comerços del Mercadal",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Con esta designación, la isla cuenta ahora con 71 establecimientos emblemáticos",
+    "ca": "Amb aquesta designació, l'illa compta ara amb 71 establiments emblemàtics",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "La iniciativa se inició en 1970",
+    "ca": "La iniciativa es va iniciar el 1970",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:10:11.204Z",
+  "slug": "set-de-comercios-emblematicos-del-mercadal-reciben-reconocimiento-del-fcbcd",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20320091_1.webp",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/set-negocis-mes-des-mercadal-obtenen-la-placa-demblematics-balears-del-govern"
+  }
  },
  {
   "id": "st89ceb03043",
@@ -2236,8 +3252,49 @@
     "published": "2026-11-16T13:33:40.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:33:40.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:33:40.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:10:25.852Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "turismo",
+  "es": {
+   "title": "El Consell d’Eivissa planea un plebiscit sobre las zonas turísticas en las próximas elecciones locales",
+   "summary": "El Consell d’Eivissa propone usar las elecciones de mayo como un plebiscito para decidir el futuro de las zonas turísticas de la isla, con la presentación del PIAT prevista para ese mes.",
+   "body": [
+    "El Consell d’Eivissa ha anunciado que las próximas elecciones locales de mayo se usarán también como un plebiscito para decidir el futuro de las zonas turísticas de la isla. La propuesta se basa en el PIAT, el Plan de Intervención en Ámbitos Turísticos, que ha sido aprobado inicialmente y que el Consell espera presentar antes de mayo. La iniciativa pretende que la ciudadanía exprese su opinión sobre la gestión y el desarrollo de las áreas turísticas, con la intención de que el resultado de las elecciones refleje la voluntad popular en este tema.",
+    "El Consell destaca que el PIAT incluye medidas para equilibrar el turismo con la sostenibilidad y la calidad de vida de los residentes, aunque no se detallan en el comunicado los puntos específicos del plan. La propuesta se presenta como una forma de dar voz a la población y de garantizar que las decisiones sobre el turismo se tomen con la participación directa de los electores."
+   ]
+  },
+  "ca": {
+   "title": "El Consell d’Eivissa proposa un plebiscit sobre les zones turístiques en les properes eleccions locals",
+   "summary": "El Consell d’Eivissa vol usar les eleccions de maig com a plebiscit per decidir el futur de les zones turístiques de l’illa, amb la presentació del PIAT prevista per a aquell moment.",
+   "body": [
+    "El Consell d’Eivissa ha anunciat que les properes eleccions locals de maig s’utilitzaran també com a plebiscit per decidir el futur de les zones turístiques de l’illa. La proposta es basa en el PIAT, el Pla d’Intervenció en Àmbits Turístics, que ha estat aprovat inicialment i que el Consell espera presentar abans de maig. L’iniciativa pretén que la ciutadania expressi la seva opinió sobre la gestió i el desenvolupament de les àrees turístiques, amb l’intenció que el resultat de les eleccions reflecteixi la voluntat popular en aquest tema.",
+    "El Consell destaca que el PIAT inclou mesures per equilibrar el turisme amb la sostenibilitat i la qualitat de vida dels residents, tot i que no es detallen en el comunicat els punts específics del pla. La proposta es presenta com una forma de donar veu a la població i de garantir que les decisions sobre el turisme es prenguin amb la participació directa dels electors."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Consell d’Eivissa planea usar las elecciones de mayo como plebiscito sobre zonas turísticas",
+    "ca": "El Consell d’Eivissa proposa usar les eleccions de maig com a plebiscit sobre zones turístiques",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:10:25.852Z",
+  "slug": "el-consell-d-eivissa-planea-un-plebiscit-sobre-las-zonas-turisticas-e094d",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20320936_1.webp",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/hi-haura-6-000-places-turistiques-menys-a-eivissa"
+  }
  },
  {
   "id": "stddbb819df9",
@@ -2347,8 +3404,61 @@
     "published": "2026-11-16T13:15:26.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:15:26.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:15:26.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:10:40.902Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "Detenido por homicidio imprudente un hombre tras accidente de moto en Ibiza",
+   "summary": "La Guardia Civil ha detenido a un hombre acusado de homicidio imprudente tras un accidente de moto que ocurrió en Ibiza el domingo por la madrugada, en el que falleció una persona.",
+   "body": [
+    "La Guardia Civil confirmó la detención de un hombre por homicidio imprudente el lunes, tras el accidente de moto que tuvo lugar en Ibiza el domingo por la madrugada. El incidente dejó a una persona fallecida. La autoridad policial no ha revelado el nombre del detenido ni los detalles del accidente. Según el comunicado de la Guardia Civil, la investigación continúa y se están recopilando las pruebas necesarias para determinar las causas del accidente y la responsabilidad del conductor. La comunidad local ha expresado su preocupación por la seguridad vial en la zona y ha pedido una mayor vigilancia de las carreteras de la isla."
+   ]
+  },
+  "ca": {
+   "title": "Detingut per homicidi imprudent un home després d’un accident de moto a l’Ibiza",
+   "summary": "La Guardia Civil ha detingut un home acusat d’homicidi imprudent després d’un accident de moto que va tenir lloc a l’Ibiza el diumenge per la nit, en el qual va morir una persona.",
+   "body": [
+    "La Guardia Civil ha confirmat la detenció d’un home per homicidi imprudent el dilluns, després de l’accident de moto que va ocórrer a l’Ibiza el diumenge per la nit. L’incident va deixar una persona morta. L’autoritat policial no ha revelat el nom del detingut ni els detalls de l’accident. Segons el comunicat de la Guardia Civil, la investigació continua i es recopilen les proves necessàries per determinar les causes de l’accident i la responsabilitat del conductor. La comunitat local ha expressat la seva preocupació per la seguretat vial a la zona i ha demanat una major vigilància de les carreteres de l’illa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Accidente de moto en Ibiza el domingo por la madrugada",
+    "ca": "Accident de moto a l’Ibiza el diumenge per la nit",
+    "sources": [
+     "europapress"
+    ]
+   },
+   {
+    "es": "Una persona falleció",
+    "ca": "Una persona va morir",
+    "sources": [
+     "europapress"
+    ]
+   },
+   {
+    "es": "Detención de un hombre por homicidio imprudente",
+    "ca": "Detingut d’un home per homicidi imprudent",
+    "sources": [
+     "europapress"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:10:40.902Z",
+  "slug": "detenido-por-homicidio-imprudente-un-hombre-tras-accidente-de-moto-en-604ed",
+  "status": "single",
+  "image": {
+   "url": "https://img.europapress.es/fotoweb/fotonoticia_20261116141526_800.jpg",
+   "sourceId": "europapress",
+   "articleUrl": "https://www.europapress.es/illes-balears/noticia-detenido-homicidio-imprudente-hombre-relacionado-accidente-moto-eivissa-20261116141526.html"
+  }
  },
  {
   "id": "st63b9bc7b75",
@@ -2629,8 +3739,70 @@
     "published": "2026-11-16T13:03:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T13:03:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T13:03:00.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-16T20:10:43.003Z",
+  "islands": [
+   "menorca"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "Detenido un hombre por lanzar una silla a un policía tras el mitin de Abascal en Maó",
+   "summary": "La Policía Nacional ha detenido a un vecino de s’Algar de unos 45 años por presuntamente agredir a un agente durante los incidentes posteriores a un acto político en Maó.",
+   "body": [
+    "La Comisaría de la Policía Nacional en Maó detuvo el pasado sábado a un hombre de nacionalidad española, de aproximadamente 45 años y residente en s’Algar. El individuo ha sido acusado de los delitos de altercado y atentado a agentes de la autoridad.",
+    "Según informa Es Diari, los hechos ocurrieron tras el mitin celebrado por Santiago Abascal en Maó. El detenido presuntamente lanzó una silla contra un policía nacional, lo que motivó su inmediata detención por parte de los agentes de la comisaría local."
+   ]
+  },
+  "ca": {
+   "title": "Detingut un home per llançar una cadira a un policia nacional després del míting d'Abascal a Maó",
+   "summary": "La Policia Nacional ha detingut un veí de s'Algar, d'uns 45 anys, per presumptament agredir un agent durant els incidents posteriors a un acte polític a Maó.",
+   "body": [
+    "La Comissaria de la Policia Nacional de Maó va detenir el passat dissabte un home de nacionalitat espanyola, d'aproximadament 45 anys i resident a s'Algar. L'individu ha estat acusat dels delictes d'altercat i atemptat contra agents de l'autoritat.",
+    "Segons informa Es Diari, els fets van ocórrer després del míting celebrat per Santiago Abascal a Maó. El detingut presumptament va llançar una cadira contra un policia nacional, fet que va motivar la seva detenció immediata per part dels agents de la comissaria local."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Detenido un hombre español de unos 45 años residente en s’Algar.",
+    "ca": "Detingut un home espanyol d'uns 45 anys resident a s'Algar.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Acusado de altercado y atentado a agentes de la autoridad.",
+    "ca": "Acusat d'altercat i atemptat contra agents de l'autoritat.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "La detención ocurrió el sábado tras el mitin de Abascal en Maó.",
+    "ca": "La detenció va ocórrer el dissabte després del míting d'Abascal a Maó.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "El detenido lanzó una silla a un policía nacional.",
+    "ca": "El detingut va llançar una cadira a un policia nacional.",
+    "sources": [
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:10:43.003Z",
+  "slug": "detenido-un-hombre-por-lanzar-una-silla-a-un-policia-tras-el-mitin-de-a8f21",
+  "status": "single",
+  "image": {
+   "url": "https://men.gsstatic.es/sfAttachPlugin/4850831.webp",
+   "sourceId": "menorcainfo",
+   "articleUrl": "https://www.menorca.info/menorca/local/2026/11/16/2750785/detenido-por-lanzar-silla-policia-nacional-tras-mitin-abascal.html"
+  }
  },
  {
   "id": "stf99f0b6abf",
@@ -2646,8 +3818,70 @@
     "published": "2026-11-16T12:59:36.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T12:59:36.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T12:59:36.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:10:51.652Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sanidad",
+  "es": {
+   "title": "El hospital Sant Joan de Déu recibe diez certificaciones de calidad",
+   "summary": "El centro concertado de Mallorca ha sido reconocido con diez sellos de calidad en ámbitos asistencial, informático y ambiental por la empresa Applus.",
+   "body": [
+    "El hospital Sant Joan de Déu, situado en Mallorca, ha obtenido recientemente diez certificaciones de calidad que abarcan el servicio asistencial, la gestión informática y la gestión ambiental. La empresa Applus, reconocida internacionalmente por sus inspecciones y emisión de certificados, confirmó que el centro concertado ha cumplido con todos los requisitos necesarios para recibir los reconocimientos.",
+    "Entre los sellos otorgados destaca la excelencia en ciberseguridad sanitaria, un ámbito en el que el hospital se ha posicionado a la vanguardia de las Islas Baleares. La obtención de estos diez reconocimientos refuerza la reputación del Sant Joan de Déu como referencia en la prestación de servicios de salud de alta calidad en la región."
+   ]
+  },
+  "ca": {
+   "title": "El hospital Sant Joan de Déu rep deu certificacions de qualitat",
+   "summary": "El centre concertat de Mallorca ha rebut deu distintius de qualitat en els àmbits asistencial, informàtic i ambiental per part de l'empresa Applus.",
+   "body": [
+    "El hospital Sant Joan de Déu, situat a Mallorca, ha aconseguit recentment deu certificacions de qualitat que abasten el servei assistencial, la gestió informàtica i la gestió ambiental. L'empresa Applus, reconeguda internacionalment per les seves inspeccions i emissió de certificats, va confirmar que el centre concertat ha complert amb tots els requisits necessaris per rebre els reconeixements.",
+    "Entre els distintius concedits destaca l'excel·lència en ciberseguretat sanitària, un àmbit en el qual el hospital s'ha posat a la vanguardia de les Illes Balears. L'obtenció d'aquests deu reconeixements reforça la reputació del Sant Joan de Déu com a referència en la prestació de serveis de salut d'alta qualitat a la regió."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El hospital Sant Joan de Déu ha recibido diez certificaciones de calidad",
+    "ca": "El hospital Sant Joan de Déu ha rebut deu certificacions de qualitat",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Las certificaciones abarcan los ámbitos asistencial, informático y ambiental",
+    "ca": "Els distintius abasten els àmbits assistencial, informàtic i ambiental",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La empresa Applus otorgó los reconocimientos",
+    "ca": "L'empresa Applus concedí els distintius",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Destaca la excelencia en ciberseguridad sanitaria",
+    "ca": "Destaca l'excel·lència en ciberseguretat sanitària",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:10:51.652Z",
+  "slug": "el-hospital-sant-joan-de-deu-recibe-diez-certificaciones-de-calidad-b6abf",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851275.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/16/2751061/sant-joan-deu-recibe-diez-certificaciones-calidad-ambito-asistencial-informatico-ambiental.html"
+  }
  },
  {
   "id": "st56a50351ba",
@@ -2663,8 +3897,56 @@
     "published": "2026-11-16T12:54:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T12:54:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T12:54:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:11:06.252Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Rubén Forcada deja el Real Mallorca para emprender su propia agencia de desarrollo de negocio",
+   "summary": "El ejecutivo Rubén Forcada dejará el RCD Mallorca a finales de este mes para iniciar una nueva etapa profesional como empresario.",
+   "body": [
+    "Rubén Forcada dejará el RCD Mallorca a finales de este mes para iniciar una nueva etapa profesional como empresario. El ejecutivo ha decidido poner fin, por voluntad propia, a su trayectoria en el club balear, donde ha desarrollado durante casi tres años distintas responsabilidades vinculadas a las áreas comerciales y de negocio.",
+    "Según la publicación de Última Hora, Forcada ha trabajado en el club durante casi tres años, desempeñando funciones en las áreas comerciales y de negocio, y ha optado por emprender su propia agencia de desarrollo de negocio."
+   ]
+  },
+  "ca": {
+   "title": "Rubén Forcada deixa el Real Mallorca per emprendre la seva pròpia agència de desenvolupament de negoci",
+   "summary": "L’executiu Rubén Forcada deixarà el RCD Mallorca al final d’aquest mes per iniciar una nova etapa professional com a empresari.",
+   "body": [
+    "Rubén Forcada deixarà el RCD Mallorca al final d’aquest mes per iniciar una nova etapa professional com a empresari. L’executiu ha decidit posar fi, per voluntat pròpia, a la seva trajectòria al club balear, on ha desenvolupat durant gairebé tres anys diferents responsabilitats vinculades a les àrees comercials i de negoci.",
+    "Segons la publicació d’Última Hora, Forcada ha treballat al club durant gairebé tres anys, exercint funcions en les àrees comercials i de negoci, i ha optat per emprendre la seva pròpia agència de desenvolupament de negoci."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Rubén Forcada dejará el RCD Mallorca a finales de este mes",
+    "ca": "Rubén Forcada deixarà el RCD Mallorca al final d’aquest mes",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Ha trabajado en el club durante casi tres años en áreas comerciales y de negocio",
+    "ca": "Ha treballat al club durant gairebé tres anys en àrees comercials i de negoci",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:11:06.252Z",
+  "slug": "ruben-forcada-deja-el-real-mallorca-para-emprender-su-propia-agencia-351ba",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851273.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/16/2751057/ruben-forcada-deja-real-mallorca-para-emprender-propia-agencia-desarrollo-negocio.html"
+  }
  },
  {
   "id": "st3dab318a54",
@@ -2869,8 +4151,47 @@
     "published": "2026-11-16T12:51:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T12:51:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T12:51:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-16T20:11:15.068Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Real Mallorca busca nuevo director deportivo tras la salida de Pablo Ortells",
+   "summary": "El club de Son Bibiloni está en proceso de contratar a un nuevo director deportivo, tras la decisión de Andy Kohlberg de despedir a Pablo Ortells.",
+   "body": [
+    "El presidente y máximo accionista del Real Mallorca, Andy Kohlberg, ha encargado a Alfonso Díaz la tarea de encontrar un sustituto de Pablo Ortells, quien ha sido despedido. La decisión también provocó la salida de la primera plantilla del club el domingo, coincidiendo con la despedida del jugador castellonense. Desde entonces, el despacho del CEO corporativo ha recibido numerosas ofertas de perfiles para ocupar el cargo. Según Última Hora, la decisión final aún no se ha tomado y el proceso continúa en marcha."
+   ]
+  },
+  "ca": {
+   "title": "El Real Mallorca busca un nou director esportiu després de la sortida de Pablo Ortells",
+   "summary": "El club de Son Bibiloni està en procés de contractar un nou director esportiu, després de la decisió d'Andy Kohlberg de desfer a Pablo Ortells.",
+   "body": [
+    "El president i major accionista del Real Mallorca, Andy Kohlberg, ha encarregat a Alfonso Díaz la tasca de trobar un substitut de Pablo Ortells, que ha estat desfer. La decisió també va provocar la sortida de la primera plantilla del club el diumenge, coincint amb la desfer del jugador castellonenc. Des de llavors, el despatx del CEO corporatiu ha rebut nombroses ofertes de perfils per ocupar el càrrec. Segons Última Hora, la decisió final encara no s'ha pres i el procés continua en marxa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Andy Kohlberg ha despedido a Pablo Ortells y busca un nuevo director deportivo",
+    "ca": "Andy Kohlberg ha desfer a Pablo Ortells i busca un nou director esportiu",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-16T20:11:15.068Z",
+  "slug": "el-real-mallorca-busca-nuevo-director-deportivo-tras-la-salida-de-60b84",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851243.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/16/2751029/michu-entra-casting-para-direccion-deportiva-del-real-mallorca.html"
+  }
  },
  {
   "id": "st53618fa320",
