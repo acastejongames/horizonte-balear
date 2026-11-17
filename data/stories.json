@@ -1,5 +1,710 @@
 [
  {
+  "id": "st87d01f93c4",
+  "createdAt": "2026-11-17T02:53:59.370Z",
+  "firstPublished": "2026-11-16T23:20:00.000Z",
+  "articles": [
+   {
+    "id": "2f83f8dcb93d",
+    "url": "https://www.dbalears.cat/opinio/bon-dia/2026/11/17/424129/tertuliana-ona-mediterrania-presidenta-abat.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "De tertuliana d’Ona Mediterrània a Presidenta… d’Abat a…",
+    "published": "2026-11-16T23:20:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T23:20:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:58:43.781Z",
+  "hidden": true
+ },
+ {
+  "id": "st20fe040c6c",
+  "createdAt": "2026-11-17T02:53:59.370Z",
+  "firstPublished": "2026-11-16T22:45:23.000Z",
+  "articles": [
+   {
+    "id": "cb6e98a77006",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/16/2751423/ocio-nocturno-balear-reclama-mayor-reconocimiento-como-atractivo-turistico.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El ocio nocturno balear reclama un mayor reconocimiento como atractivo turístico",
+    "published": "2026-11-16T22:45:23.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T22:45:23.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:58:55.437Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "turismo",
+  "es": {
+   "title": "El ocio nocturno balear pide mayor reconocimiento como atractivo turístico",
+   "summary": "El director de Grupo Cursach y presidente de ABONE solicitó que las administraciones consideren el ocio nocturno como un componente esencial del turismo balear.",
+   "body": [
+    "Miguel Pérez‑Marsá, director general del Grupo Cursach y presidente de la Asociación Balear de Ocio y Entretenimiento (ABONE), expresó el lunes que el sector del ocio nocturno necesita ser reconocido como un atractivo turístico propio y no solo como un complemento de la actividad turística. La intervención tuvo lugar durante el sexto Congreso Nacional de Ocio Nocturno, celebrado en la histórica Sala La Paloma de Barcelona.",
+    "Según Pérez‑Marsá, las administraciones deben incluir al ocio nocturno en las estrategias de promoción y planificación turística de las Islas Baleares, garantizando recursos y apoyo institucional para su desarrollo sostenible."
+   ]
+  },
+  "ca": {
+   "title": "L'oci nocturn balear demana més reconeixement com a atractiu turístic",
+   "summary": "El director del Grup Cursach i president d'ABONE ha sol·licitat que les administracions considerin l'oci nocturn com a component essencial del turisme balear.",
+   "body": [
+    "Miguel Pérez‑Marsá, director general del Grup Cursach i president de l'Associació Balear d'Oci i Entreteniment (ABONE), ha manifestat dilluns que el sector de l'oci nocturn necessita ser reconegut com a atractiu turístic propi i no només com a complement de l'activitat turística. La intervenció s'ha realitzat durant el sisè Congrés Nacional d'Oci Nocturn, celebrat a la històrica Sala La Paloma de Barcelona.",
+    "Segons Pérez‑Marsá, les administracions haurien d'incloure l'oci nocturn en les estratègies de promoció i planificació turística de les Illes Balears, garantint recursos i suport institucional per al seu desenvolupament sostenible."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Miguel Pérez‑Marsá, director general del Grupo Cursach y presidente de ABONE, habló en el Congreso Nacional de Ocio Nocturno en Barcelona",
+    "ca": "Miguel Pérez‑Marsá, director general del Grup Cursach i president d'ABONE, va parlar al Congrés Nacional d'Oci Nocturn a Barcelona",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:58:55.437Z",
+  "slug": "el-ocio-nocturno-balear-pide-mayor-reconocimiento-como-atractivo-40c6c",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4852007.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/16/2751423/ocio-nocturno-balear-reclama-mayor-reconocimiento-como-atractivo-turistico.html"
+  }
+ },
+ {
+  "id": "stced217bec7",
+  "createdAt": "2026-11-17T02:53:59.370Z",
+  "firstPublished": "2026-11-16T22:34:50.000Z",
+  "articles": [
+   {
+    "id": "c1990a2519ee",
+    "url": "https://www.diariodemallorca.es/cultura/2026/11/16/concierto-agorazein-hambre-c-tangana-comen-madrid-10-anos-despues-136519020.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Agorazein vuelve a tener hambre: C. Tangana y los suyos se comen Madrid 10 años después",
+    "published": "2026-11-16T22:34:50.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T22:34:50.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-17T02:58:57.683Z",
+  "hidden": true
+ },
+ {
+  "id": "ste32ba38b78",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T22:18:00.000Z",
+  "articles": [
+   {
+    "id": "a683687fa64c",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/16/2751419/controlar-riesgos-desde-ecosistemas-hospitales.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Controlar los riesgos desde ecosistemas a los hospitales",
+    "published": "2026-11-16T22:25:27.000Z"
+   },
+   {
+    "id": "bd3a35377cd5",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/16/2751417/del-val-invita-vigilar-para-evitar-otra-posible-crisis-infecciosa.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Del Val invita a vigilar para evitar otra posible crisis infecciosa",
+    "published": "2026-11-16T22:18:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T22:25:27.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-17T02:59:04.153Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "sanidad",
+  "es": {
+   "title": "Margarita del Val aboga por fortalecer los sistemas sanitarios frente a crisis infecciosas",
+   "summary": "La viróloga ha clausurado el ciclo 'Los Desafíos de la Biomedicina del Futuro' en Baleares, organizado por Última Hora y la Fundació La Caixa.",
+   "body": [
+    "La investigadora del Centro de Biología Molecular Severo Ochoa, Margarita del Val, ha cerrado este lunes el ciclo 'Los Desafíos de la Biomedicina del Futuro'. El evento, organizado por Última Hora y la Fundació La Caixa, ha servido para analizar la evolución de la respuesta sanitaria ante las enfermedades infecciosas desde la pandemia de COVID-19.",
+    "Durante su intervención, la viróloga ha destacado la necesidad de que los sistemas de salud sean más potentes y reaccionen con mayor antelación. Según sus palabras, el objetivo debe ser que la labor diaria se centre en la vigilancia continua para evitar que las situaciones se conviertan en emergencias.",
+    "Del Val ha señalado que diversos factores actuales hacen más necesario adelantarse a la aparición de nuevas crisis infecciosas. Su análisis ha puesto el foco en la importancia de la prevención y la preparación estructural de los servicios sanitarios."
+   ]
+  },
+  "ca": {
+   "title": "Margarita del Val defensa reforçar els sistemes sanitaris davant crisis infeccioses",
+   "summary": "La viròloga ha tancat el cicle 'Els reptes de la biomedicina del futur' a les Illes, organitzat per Última Hora i la Fundació La Caixa.",
+   "body": [
+    "La investigadora del Centre de Biologia Molecular Severo Ochoa, Margarita del Val, ha tancat aquest dilluns el cicle 'Els reptes de la biomedicina del futur'. L'acte, organitzat per Última Hora i la Fundació La Caixa, ha servit per analitzar l'evolució de la resposta sanitària davant les malalties infeccioses des de la pandèmia de la COVID-19.",
+    "Durant la seva intervenció, la viròloga ha destacat la necessitat que els sistemes de salut siguin més potents i reaccionin amb més antelació. Segons les seves paraules, l'objectiu ha de ser que la feina diària es centri en la vigilància contínua per evitar que les situacions es converteixin en emergències.",
+    "Del Val ha assenyalat que diversos factors actuals fan més necessari anticipar-se a l'aparició de noves crisis infeccioses. El seu anàlisi ha posat l'èmfasi en la importància de la prevenció i la preparació estructural dels serveis sanitaris."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Margarita del Val es viróloga e investigadora del Centro de Biología Molecular Severo Ochoa.",
+    "ca": "Margarita del Val és viròloga i investigadora del Centre de Biologia Molecular Severo Ochoa.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El ciclo 'Los Desafíos de la Biomedicina del Futuro' fue organizado por Última Hora y la Fundació La Caixa.",
+    "ca": "El cicle 'Els reptes de la biomedicina del futur' va ser organitzat per Última Hora i la Fundació La Caixa.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La clausura del ciclo tuvo lugar el lunes 16 de noviembre de 2026.",
+    "ca": "El tancament del cicle va tenir lloc el dilluns 16 de novembre de 2026.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La experta abogó por que los sistemas sanitarios sean más potentes y reaccionen antes.",
+    "ca": "L'experta va defensar que els sistemes sanitaris siguin més potents i reaccionin abans.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:59:04.153Z",
+  "slug": "margarita-del-val-aboga-por-fortalecer-los-sistemas-sanitarios-frente-38b78",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4852003.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/16/2751419/controlar-riesgos-desde-ecosistemas-hospitales.html"
+  }
+ },
+ {
+  "id": "staf2d513afe",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T22:03:00.000Z",
+  "articles": [
+   {
+    "id": "b4a245420fe6",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/16/2751415/apagon-deja-municipio-oscuras-desconectado-durante-minutos.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Un apagón deja al municipio a oscuras y desconectado durante unos 15 minutos",
+    "published": "2026-11-16T22:03:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T22:03:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:59:08.150Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "Un apagón deja a Sóller sin luz ni internet durante unos 15 minutos",
+   "summary": "El municipio de Sóller sufrió un corte generalizado del suministro eléctrico el lunes por la noche, que dejó a los vecinos sin electricidad ni conexión a internet durante aproximadamente quince minutos.",
+   "body": [
+    "El lunes 16 de noviembre, alrededor de las 21:15 horas, el municipio de Sóller experimentó un apagón que afectó a todo el suministro eléctrico y a la red de internet. Según informa Última Hora, la interrupción dejó a los residentes sin luz y sin posibilidad de contactar el teléfono de averías, generando una situación de oscuridad total en la localidad.",
+    "La duración del corte fue de unos quince minutos, tras los cuales el servicio eléctrico se restableció y la conectividad volvió a la normalidad. No se reportaron daños materiales ni heridos como consecuencia del apagón."
+   ]
+  },
+  "ca": {
+   "title": "Un apagó deixa Sóller sense llum ni internet durant uns 15 minuts",
+   "summary": "El municipi de Sóller va patir un tall generalitzat del subministrament elèctric el dilluns a la nit, que va deixar els veïns sense electricitat ni connexió a internet durant aproximadament quinze minuts.",
+   "body": [
+    "Dilluns 16 de novembre, al voltant de les 21:15 hores, el municipi de Sóller va experimentar un apagó que va afectar tot el subministrament elèctric i la xarxa d’internet. Segons informa Última Hora, la interrupció va deixar els residents a la foscor total i sense possibilitat de trucar al telèfon d’avaries.",
+    "La durada del tall va ser d’uns quinze minuts, després dels quals el servei elèctric es va restablir i la connectivitat va tornar a la normalitat. No es van registrar danys materials ni ferits com a conseqüència de l’apagó."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Corte generalizado de luz e internet en Sóller el 16/11/2026 a las 21:15",
+    "ca": "Tall generalitzat de llum i internet a Sóller el 16/11/2026 a les 21:15",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Duración aproximada de 15 minutos",
+    "ca": "Durada aproximada de quinze minuts",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:59:08.150Z",
+  "slug": "un-apagon-deja-a-soller-sin-luz-ni-internet-durante-unos-15-minutos-13afe",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851993.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/part-forana/2026/11/16/2751415/apagon-deja-municipio-oscuras-desconectado-durante-minutos.html"
+  }
+ },
+ {
+  "id": "stbf2a63afde",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T21:54:33.000Z",
+  "articles": [
+   {
+    "id": "9c64891e4ad1",
+    "url": "https://www.diariodemallorca.es/sociedad/2026/11/16/premios-woman-madame-figaro-136518592.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Los Premios Woman celebran por todo lo alto su décimo aniversario en Madrid reconociendo a 10 mujeres icónicas",
+    "published": "2026-11-16T21:54:33.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T21:54:33.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:59:16.015Z",
+  "hidden": true
+ },
+ {
+  "id": "st4598c8501e",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T21:15:19.000Z",
+  "articles": [
+   {
+    "id": "769938cd80cf",
+    "url": "https://www.diariodemallorca.es/deportes/2026/11/16/valores-caben-palmares-136518059.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Los valores que no caben en un palmarés",
+    "published": "2026-11-16T21:15:19.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T21:15:19.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:59:25.973Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "La Pedrera celebra la IX edición de los Premios Valores del Deporte de SPORT y Prensa Ibérica",
+   "summary": "El lunes 16 de noviembre, La Pedrera recibió a deportistas y personalidades para la novena edición de los Premios Valores del Deporte organizados por SPORT y Prensa Ibérica.",
+   "body": [
+    "La Pedrera se vistió de gala este lunes para celebrar la IX edición de los Premios Valores del Deporte de SPORT y Prensa Ibérica. Antes de las 19.30 horas, el auditorio ya estaba lleno de llegadas, saludos y abrazos entre protagonistas de distintas generaciones y disciplinas.",
+    "La alfombra roja abrió una noche en la que los valores deportivos se pusieron en práctica, con la presencia de deportistas, entrenadores y representantes de la prensa que compartieron sus experiencias y reconocimientos."
+   ]
+  },
+  "ca": {
+   "title": "La Pedrera celebra la IX edició dels Premis Valors de l'Esport de SPORT i Premsa Ibèrica",
+   "summary": "El dilluns 16 de novembre, La Pedrera va rebre esportistes i personalitats per a la novena edició dels Premis Valors de l'Esport organitzats per SPORT i Premsa Ibèrica.",
+   "body": [
+    "La Pedrera es va vestir de gala aquest dilluns per celebrar la IX edició dels Premis Valors de l'Esport de SPORT i Premsa Ibèrica. Abans de les 19.30 hores, l'auditori ja era un ir i venir d'arribades, salutacions i abraços entre protagonistes de diferents generacions i disciplines.",
+    "La catifa vermella va obrir una nit en què els valors esportius es van posar en pràctica, amb la presència d'esportistes, entrenadors i representants de la premsa que van compartir les seves experiències i reconeixements."
+   ]
+  },
+  "facts": [
+   {
+    "es": "IX edición de los Premios Valores del Deporte de SPORT y Prensa Ibérica",
+    "ca": "IX edició dels Premis Valors de l'Esport de SPORT i Premsa Ibèrica",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Celebración el lunes 16 de noviembre de 2026",
+    "ca": "Celebració el dilluns 16 de novembre de 2026",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El auditorio estaba activo antes de las 19.30 horas",
+    "ca": "L'auditori ja era actiu abans de les 19.30 hores",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:59:25.973Z",
+  "slug": "la-pedrera-celebra-la-ix-edicion-de-los-premios-valores-del-deporte-8501e",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/daec0a84-b77d-44c8-8a6d-6aa15f32441b_16-9-aspect-ratio_default_0_x512y227.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/deportes/2026/11/16/valores-caben-palmares-136518059.html"
+  }
+ },
+ {
+  "id": "stf7fa18cf2c",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T20:46:31.000Z",
+  "articles": [
+   {
+    "id": "fbb301975200",
+    "url": "https://www.arabalears.cat/societat/decret-maricarmen-atura-cop-no-resol-crisi-l-habitatge-desbocada_1_5909390.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "El decret Maricarmen atura el primer cop, però no resol una crisi de l’habitatge desbocada",
+    "published": "2026-11-16T20:46:31.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T20:46:31.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:59:39.166Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "vivienda",
+  "es": {
+   "title": "El decreto Maricarmen protege parcialmente a familias vulnerables frente a desahucios",
+   "summary": "El nuevo decreto ha permitido ganar tiempo a personas en riesgo de perder su vivienda, aunque profesionales advierten que la normativa sigue siendo insuficiente.",
+   "body": [
+    "El decreto Maricarmen ha tenido efectos positivos, aunque limitados, en la protección de familias vulnerables ante los desahucios, según constatan la Plataforma de Afectados por la Hipoteca (PAH) y el movimiento por la vivienda. Ambas organizaciones destacan que las medidas han permitido a los afectados ganar tiempo y evitar que algunos conflictos por la finalización de contratos de alquiler lleguen a los tribunales.",
+    "Sin embargo, los profesionales que trabajan directamente con los afectados señalan que la normativa es insuficiente y no cubre todos los casos que deberían estar protegidos, lo que limita su alcance y efectividad."
+   ]
+  },
+  "ca": {
+   "title": "El decret Maricarmen protege parcialment les famílies vulnerables davant els desnonaments",
+   "summary": "El nou decret ha permès guanyar temps a les persones en risc de perdre la seva llar, tot i que les professionals adverteixen que la normativa continua sent insuficient.",
+   "body": [
+    "El decret Maricarmen ha tingut efectes positius, encara que limitats, en la protecció de les famílies vulnerables davant els desnonaments, segons constaten la Plataforma d’Afectats per la Hipoteca (PAH) i el moviment per l’habitatge. Ambdues organitzacions destaquen que les mesures han permès guanyar temps a les persones en risc de perdre la seva llar i evitar que alguns conflictes per la finalització dels contractes de lloguer arribin als tribunals.",
+    "No obstant això, les professionals que treballen directament amb els afectats adverteixen que la normativa és insuficient i que no arriba a tots els casos que haurien de quedar protegits, limitant-ne l’abast i l’eficàcia."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El decret Maricarmen ha permitido ganar tiempo a familias vulnerables y evitar que algunos conflictos de alquiler lleguen a los tribunales",
+    "ca": "El decret Maricarmen ha permès guanyar temps a les famílies vulnerables i evitar que alguns conflictes de lloguer arribin als tribunals",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:59:39.166Z",
+  "slug": "el-decreto-maricarmen-protege-parcialmente-a-familias-vulnerables-8cf2c",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/017a53f9-d568-4e3c-aa66-9ecd6a8cd496_source-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/societat/decret-maricarmen-atura-cop-no-resol-crisi-l-habitatge-desbocada_1_5909390.html"
+  }
+ },
+ {
+  "id": "st9b38839001",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T20:23:59.000Z",
+  "articles": [
+   {
+    "id": "f2e70f097db5",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/16/vivienda-inmigracion-centran-enfrentamientos-debate-136517091.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "La vivienda y la inmigración centran los enfrentamientos en el debate electoral de los candidatos de Baleares por el 29N",
+    "published": "2026-11-16T20:23:59.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T20:23:59.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:00:00.044Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Los candidatos de Baleares debaten vivienda e inmigración de cara al 29N",
+   "summary": "En un debate organizado por Diario de Mallorca, los principales candidatos baleares abordaron la crisis de la vivienda y la inmigración como ejes del encarecimiento del coste de vida.",
+   "body": [
+    "El pasado 16 de noviembre, el Diario de Ibiza informó de la primera gran confrontación entre los candidatos de Baleares para las elecciones generales del 29 de noviembre. El debate, organizado por el Diario de Mallorca, estuvo centrado en la vivienda y la inmigración como factores que inciden en el aumento del coste de vida y la garantía de los servicios públicos.",
+    "Participaron Francina Armengol (PSIB), José Vicente Marí Bosó (PP), Carme Gomila (Ara Més‑Front Ampli) y Maribel Cerezo (Vox). Cada uno expuso sus propuestas para afrontar el encarecimiento del alquiler y los retos vinculados a la inmigración, sin llegar a consensos claros."
+   ]
+  },
+  "ca": {
+   "title": "Els candidats de les Illes Balears debaten habitatge i immigració de cara al 29N",
+   "summary": "En un debat organitzat per Diario de Mallorca, els principals candidats balears van abordar la crisi de l'habitatge i la immigració com a eixos de l'augment del cost de vida.",
+   "body": [
+    "El passat 16 de novembre, el Diario d'Eivissa va informar de la primera gran confrontació entre els candidats de les Illes Balears per a les eleccions generals del 29 de novembre. El debat, organitzat per Diario de Mallorca, es va centrar en l'habitatge i la immigració com a factors que incideixen en l'augment del cost de vida i la garantia dels serveis públics.",
+    "Van participar Francina Armengol (PSIB), José Vicente Marí Bosó (PP), Carme Gomila (Ara Més‑Front Ampli) i Maribel Cerezo (Vox). Cada un va exposar les seves propostes per afrontar l'encariment del lloguer i els reptes vinculats a la immigració, sense arribar a consensos clars."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Debat organizado por Diario de Mallorca el 16 de noviembre de 2026",
+    "ca": "Debat organitzat per Diario de Mallorca el 16 de novembre de 2026",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Participaron Francina Armengol (PSIB), José Vicente Marí Bosó (PP), Carme Gomila (Ara Més‑Front Ampli) y Maribel Cerezo (Vox)",
+    "ca": "Van participar Francina Armengol (PSIB), José Vicente Marí Bosó (PP), Carme Gomila (Ara Més‑Front Ampli) i Maribel Cerezo (Vox)",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Temas principales: vivienda e inmigración y su relación con el encarecimiento del coste de vida",
+    "ca": "Temes principals: habitatge i immigració i la seva relació amb l'augment del cost de vida",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:00:00.044Z",
+  "slug": "los-candidatos-de-baleares-debaten-vivienda-e-inmigracion-de-cara-al-39001",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/5640a8c4-486d-4d71-a71e-79219c8ed9a1_16-9-aspect-ratio_default_0_x1000y444.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/16/vivienda-inmigracion-centran-enfrentamientos-debate-136517091.html"
+  }
+ },
+ {
+  "id": "st7e7fdd9c67",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T20:18:35.000Z",
+  "articles": [
+   {
+    "id": "5b5388b11b39",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/16/financiacion-aeropuertos-candidatos-baleares-29n-136517526.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "De la financiación a los aeropuertos: los candidatos de Baleares al 29N exponen su visión sobre la relación entre las islas y Madrid",
+    "published": "2026-11-16T20:42:09.000Z"
+   },
+   {
+    "id": "34dec593aa5a",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/16/financiacion-aeropuertos-candidatos-baleares-29n-136516998.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "De la financiación a los aeropuertos: los candidatos de Baleares al 29N exponen su visión sobre la relación entre las islas y Madrid",
+    "published": "2026-11-16T20:18:35.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T20:42:09.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:59:50.494Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Los candidatos baleares debaten la financiación y gestión de los aeropuertos",
+   "summary": "En el Club Diario de Mallorca, representantes del PP, PSIB, Vox y Ara Més‑Front Ampli expusieron sus posiciones sobre los recursos estatales y competencias aeroportuarias en Baleares.",
+   "body": [
+    "El debate electoral organizado por Diario de Mallorca tuvo lugar esta tarde en el Club Diario de Mallorca, reuniendo a los principales partidos que concurren a las elecciones del 29N. Los participantes abordaron la financiación autonómica que reciben las islas y la gestión de los aeropuertos, señalando discrepancias sobre el nivel de recursos asignados por el Estado y las competencias que deberían asumir a nivel autonómico.",
+    "Según los discursos, el PP defendió la necesidad de mantener o incrementar los fondos estatales, mientras que el PSIB propuso una mayor autonomía en la gestión aeroportuaria. Vox subrayó la importancia de la eficiencia en el uso de los recursos, y Ara Més‑Front Ampli reclamó una distribución más equitativa entre las islas. El intercambio de ideas reflejó la diversidad de propuestas que cada formación presentará a los votantes en las próximas elecciones."
+   ]
+  },
+  "ca": {
+   "title": "Els candidats balears debaten la finançament i gestió dels aeroports",
+   "summary": "Al Club Diario de Mallorca, representants del PP, PSIB, Vox i Ara Més‑Front Ampli van exposar les seves posicions sobre els recursos estatals i les competències aeroportuàries a les Illes Balears.",
+   "body": [
+    "El debat electoral organitzat per Diario de Mallorca es va celebrar aquesta tarda al Club Diario de Mallorca, reunint els principals partits que concorren a les eleccions del 29N. Els participants van tractar la finançament autonòmica que reben les illes i la gestió dels aeroports, assenyalant discrepàncies sobre el nivell de recursos assignats per l'Estat i les competències que haurien d'assumir a nivell autonòmic.",
+    "Segons els discursos, el PP va defensar la necessitat de mantenir o incrementar els fons estatals, mentre que el PSIB va proposar una major autonomia en la gestió aeroportuària. Vox va subratllar la importància de l'eficiència en l'ús dels recursos, i Ara Més‑Front Ampli va reclamar una distribució més equitativa entre les illes. L'intercanvi d'idees va reflectir la diversitat de propostes que cada formació presentarà als votants en les properes eleccions."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El debate se celebró esta tarde en el Club Diario de Mallorca",
+    "ca": "El debat es va celebrar aquesta tarda al Club Diario de Mallorca",
+    "sources": [
+     "diariodemallorca",
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Participaron representantes del PP, PSIB, Vox y Ara Més‑Front Ampli",
+    "ca": "Van participar representants del PP, PSIB, Vox i Ara Més‑Front Ampli",
+    "sources": [
+     "diariodemallorca",
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "El tema central fue la financiación autonómica y la gestión de los aeropuertos",
+    "ca": "El tema central va ser la finançament autonòmica i la gestió dels aeroports",
+    "sources": [
+     "diariodemallorca",
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:59:50.494Z",
+  "slug": "los-candidatos-baleares-debaten-la-financiacion-y-gestion-de-los-d9c67",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/55b103a7-6a34-4afb-bdc6-897ab1fce975_16-9-aspect-ratio_default_0_x1000y444.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/16/financiacion-aeropuertos-candidatos-baleares-29n-136516998.html"
+  }
+ },
+ {
+  "id": "st549a8b2d23",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T20:17:18.000Z",
+  "articles": [
+   {
+    "id": "f468f4e75943",
+    "url": "https://www.arabalears.cat/educacio/catala-enfonsa-escoles-privades-concertades-palma-nomes-38-53-dels-examens-selectivitat_1_5912076.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "El català s’enfonsa a les concertades i privades de Palma: només el 38,53% dels alumnes fan la selectivitat en aquesta llengua",
+    "published": "2026-11-16T20:17:18.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T20:17:18.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-17T03:00:03.559Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "educacion",
+  "es": {
+   "title": "El catalán cae al 38,53% en la selectividad de centros privados y concertados de Palma",
+   "summary": "Los datos de la edición 2026 de las pruebas de acceso a la universidad muestran una brecha lingüística significativa en la capital mallorquina.",
+   "body": [
+    "El uso del catalán en las pruebas de acceso a la universidad (PAU) presenta diferencias notables según la titularidad de los centros educativos en Palma. Según los datos de la edición de 2026, solo el 38,53% de los exámenes realizados por alumnos de centros privados y concertados se han respondido en catalán.",
+    "Esta cifra significa que menos de cuatro de cada diez pruebas se han realizado en la lengua propia. En contraste, en los centros públicos de la capital, el catalán representa el 68,36% de los exámenes, lo que supone una diferencia de casi 30 puntos porcentuales entre ambos sectores."
+   ]
+  },
+  "ca": {
+   "title": "El català cau al 38,53% a la selectivitat dels centres privats i concertats de Palma",
+   "summary": "Les dades de l'edició 2026 de les proves d'accés a la universitat mostren una bretxa lingüística significativa a la capital mallorquina.",
+   "body": [
+    "L'ús del català a les proves d'accés a la universitat (PAU) presenta diferències notables segons la titularitat dels centres educatius a Palma. Segons les dades de l'edició del 2026, només el 38,53% dels exàmens realitzats per alumnes de centres privats i concertats s'han respost en català.",
+    "Aquesta xifra significa que menys de quatre de cada deu proves s'han fet en la llengua pròpia. En contrast, als centres públics de la capital, el català representa el 68,36% dels exàmens, la qual cosa suposa una diferència de gairebé 30 punts percentuals entre ambdós sectors."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El 38,53% de los exámenes de centros privados y concertados en Palma se hicieron en catalán en 2026.",
+    "ca": "El 38,53% dels exàmens de centres privats i concertats a Palma s'han fet en català el 2026.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "El 68,36% de los exámenes de centros públicos en Palma se hicieron en catalán en 2026.",
+    "ca": "El 68,36% dels exàmens de centres públics a Palma s'han fet en català el 2026.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "La diferencia entre centros públicos y privados/concertados es de casi 30 puntos porcentuales.",
+    "ca": "La diferència entre centres públics i privats/concertats és de gairebé 30 punts percentuals.",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:00:03.559Z",
+  "slug": "el-catalan-cae-al-38-53-en-la-selectividad-de-centros-privados-y-b2d23",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/f9c93350-6f40-4ca7-8fa6-96e54ffcaa51_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/educacio/catala-enfonsa-escoles-privades-concertades-palma-nomes-38-53-dels-examens-selectivitat_1_5912076.html"
+  }
+ },
+ {
+  "id": "st71aea22fe8",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T20:11:46.000Z",
+  "articles": [
+   {
+    "id": "9ce4965b8a8a",
+    "url": "https://ib3.org/un-centenar-destudiant-pitiusos-reben-un-reconeixement-al-seu-esforc",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Un centenar d’estudiant pitiüsos reben un reconeixement al seu esforç",
+    "published": "2026-11-16T20:11:46.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-16T20:11:46.000Z",
+  "writeErrors": 1
+ },
+ {
+  "id": "st86762a9724",
+  "createdAt": "2026-11-17T02:53:59.371Z",
+  "firstPublished": "2026-11-16T20:01:51.000Z",
+  "articles": [
+   {
+    "id": "2984f377f495",
+    "url": "https://ib3.org/la-cursa-dels-regals-els-balears-preveuen-gastar-prop-de-600-euros",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "La cursa dels regals: els balears preveuen gastar-hi prop de 600 euros",
+    "published": "2026-11-16T20:01:51.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T20:01:51.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:00:29.376Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "Los balears estiman gastar cerca de 600 euros en regalos de Navidad",
+   "summary": "Según una encuesta, los residentes de las Islas Baleares prevén destinar aproximadamente 600 euros a la compra de regalos navideños, superando la media nacional de 395 euros.",
+   "body": [
+    "Una reciente encuesta publicada por IB3 Notícies muestra que, de cara a la próxima Navidad, los habitantes de las Islas Baleares esperan gastar alrededor de 600 euros en regalos. La cifra supera notablemente la media española, que se sitúa en 395 euros según el mismo estudio.",
+    "Los datos recogen que, mientras algunos consumidores ya están comparando precios y adquiriendo los primeros obsequios, otros aún no han iniciado sus compras. La encuesta también indica que los comercios locales ya han comenzado a promocionar productos típicos de la temporada, como luces, decoraciones y calcetines navideños."
+   ]
+  },
+  "ca": {
+   "title": "Els balears preveuen gastar prop de 600 euros en regals de Nadal",
+   "summary": "Una enquesta indica que els residents de les Illes Balears preveuen destinar uns 600 euros a la compra de regals de Nadal, superant la mitjana nacional de 395 euros.",
+   "body": [
+    "Una recent enquesta publicada per IB3 Notícies mostra que, d’entrada de Nadal, els habitants de les Illes Balears esperen gastar al voltant de 600 euros en regals. Aquesta xifra supera notablement la mitjana espanyola, que es situa en 395 euros segons el mateix estudi.",
+    "Les dades recullen que, mentre alguns consumidors ja comparen preus i adquireixen els primers regals, altres encara no han iniciat les compres. L’enquesta també indica que els comerços locals ja han començat a promocionar productes típics de la temporada, com llums, decoració i mitjons nadalencs."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Los balears estiman gastar cerca de 600 euros en regalos de Navidad",
+    "ca": "Els balears preveuen gastar prop de 600 euros en regals de Nadal",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:00:29.376Z",
+  "slug": "los-balears-estiman-gastar-cerca-de-600-euros-en-regalos-de-navidad-a9724",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20327258_1.webp",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/la-cursa-dels-regals-els-balears-preveuen-gastar-prop-de-600-euros"
+  }
+ },
+ {
   "id": "st368e6da88a",
   "createdAt": "2026-11-16T20:05:09.887Z",
   "firstPublished": "2026-11-16T19:57:57.000Z",
@@ -13,8 +718,49 @@
     "published": "2026-11-16T19:57:57.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:57:57.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:57:57.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:02:32.980Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El Consell de Mallorca decide no aplicar el PIAT para reducir plazas turísticas",
+   "summary": "El Consell de Mallorca ha comunicado que no utilizará el Pla d’Intervenció en Àmbits Turístics (PIAT) para limitar el número de plazas turísticas, posponiendo la medida para una futura incorporación.",
+   "body": [
+    "El Consell insular de Mallorca ha anunciado que no hará uso del Pla d’Intervenció en Àmbits Turístics (PIAT), la herramienta que regula la actividad turística en la isla. El PIAT contempla la distribució i la capacitat de les places turístiques, les zones turístiques i les infraestructures i serveis vinculats al turisme.",
+    "El conseller insular de Turisme ha manifestat que, tot i la intenció de reduir el sostre de places turístiques, la decisió es prengui amb acord del ple i que la incorporació d’aquesta mesura al PIAT es deixi per a un moment posterior."
+   ]
+  },
+  "ca": {
+   "title": "El Consell de Mallorca decideix no aplicar el PIAT per reduir places turístiques",
+   "summary": "El Consell de Mallorca ha comunicat que no utilitzarà el Pla d’Intervenció en Àmbits Turístics (PIAT) per limitar el nombre de places turístiques, posant la mesura en espera per a una futura incorporació.",
+   "body": [
+    "El Consell insular de Mallorca ha anunciat que no farà servir el Pla d’Intervenció en Àmbits Turístics (PIAT), l’instrument que ordena l’activitat turística a l’illa. El PIAT regula la distribució i la capacitat de les places turístiques, les zones turístiques i les infraestructures i serveis vinculats al turisme.",
+    "El conseller insular de Turisme ha indicat que, tot i la voluntat de reduir el sostre de places turístiques, la decisió es prengui amb acord del ple i que la incorporació d’aquesta mesura al PIAT es deixi per a un moment posterior."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Consell de Mallorca no farà servir el PIAT per reduir les places turístiques",
+    "ca": "El Consell de Mallorca no farà servir el PIAT per reduir les places turístiques",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:02:32.980Z",
+  "slug": "el-consell-de-mallorca-decide-no-aplicar-el-piat-para-reducir-plazas-da88a",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/51f44f9d-9b3b-47d8-8eb3-e690077a255f_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/societat/consell-no-reduira-places-turistiques-piat_1_5912470.html"
+  }
  },
  {
   "id": "stc44fa905e2",
@@ -30,8 +776,72 @@
     "published": "2026-11-16T19:46:23.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:46:23.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:46:23.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-17T03:02:36.017Z",
+  "islands": [
+   "menorca"
+  ],
+  "topic": "vivienda",
+  "es": {
+   "title": "El Consell de Menorca insta a ceder 36 viviendas de la Sareb al IBAVI",
+   "summary": "El pleno del Consell de Menorca ha aprobado por unanimidad solicitar al Gobierno de España que facilite la cesión de 36 viviendas vacantes de la Sareb al Instituto Balear de la Vivienda.",
+   "body": [
+    "El Consell de Menorca ha aprobado en su sesión plenaria una moción para instar al Gobierno de España a facilitar los mecanismos necesarios para que 36 viviendas vacantes de la Sociedad de Activos Reestructurados (Sareb) pasen a manos del Instituto Balear de la Vivienda (IBAVI).",
+    "Según IB3 Notícies, estas 36 viviendas están repartidas entre las ciudades de Maó y Ciutadella. La propuesta ha sido aprobada por unanimidad por los miembros del pleno.",
+    "El objetivo de la institución insular es que el Estado, a través de la Sareb y la entidad Casa 47, permita la transferencia de estos inmuebles para destinarlos al parque público de vivienda."
+   ]
+  },
+  "ca": {
+   "title": "El Consell de Menorca vol que 36 habitatges de la Sareb passin a l’IBAVI",
+   "summary": "El ple del Consell de Menorca ha aprovat per unanimitat instar el Govern d’Espanya a facilitar la cessió de 36 habitatges buits de la Sareb a l’Institut Balear de l’Habitatge.",
+   "body": [
+    "El Consell de Menorca ha aprovat en ple una moció per instar el Govern d’Espanya a facilitar els mecanismes necessaris perquè 36 habitatges buits de la Sareb passin a mans de l’Institut Balear de l’Habitatge (IBAVI).",
+    "Segons IB3 Notícies, aquests 36 habitatges es reparteixen entre Maó i Ciutadella. La proposta ha estat aprovada per unanimitat pels membres del ple.",
+    "L’objectiu de la institució insular és que l’Estat, a través de la Sareb i l’entitat Casa 47, permeti la transferència d’aquests immobles per destinar-los al parc públic d’habitatge."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Consell de Menorca aprobó por unanimidad la moción.",
+    "ca": "El Consell de Menorca va aprovar per unanimitat la moció.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Se trata de 36 viviendas vacantes de la Sareb.",
+    "ca": "Es tracta de 36 habitatges buits de la Sareb.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Las viviendas están ubicadas en Maó y Ciutadella.",
+    "ca": "Els habitatges estan ubicats a Maó i Ciutadella.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "El destino propuesto es el IBAVI.",
+    "ca": "El destí proposat és l’IBAVI.",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:02:36.017Z",
+  "slug": "el-consell-de-menorca-insta-a-ceder-36-viviendas-de-la-sareb-al-ibavi-905e2",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/46792-gfgfgfg.png",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/el-consell-de-menorca-vol-que-36-habitatges-buits-de-la-sareb-passin-a-libavi"
+  }
  },
  {
   "id": "st4b3a8138fd",
@@ -48,7 +858,8 @@
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:43:47.000Z"
+  "lastArticleAt": "2026-11-16T19:43:47.000Z",
+  "writeErrors": 1
  },
  {
   "id": "st67de2bbe28",
@@ -64,8 +875,49 @@
     "published": "2026-11-16T19:43:17.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:43:17.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:43:17.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:02:54.239Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "María Borrás Ciurana será la nueva directora de eventos del Real Mallorca",
+   "summary": "El club de fútbol del Real Mallorca incorpora a la ejecutiva del Real Madrid, María Borrás Ciurana, como directora de eventos.",
+   "body": [
+    "El Real Mallorca ha anunciado la incorporación de María Borrás Ciurana, procedente del Real Madrid, al cargo de directora de eventos del club. Según el comunicado, la decisión forma parte de una reestructuración interna iniciada recientemente por el CEO corporativo, Alfonso Díaz, quien busca reforzar la estructura directiva con profesionales de alto nivel.",
+    "Borrás Ciurana asumirá sus funciones en los próximos días, continuando con la estrategia de mejora organizativa del Mallorca. La noticia ha sido publicada por el diario Última Hora el 16 de noviembre de 2026."
+   ]
+  },
+  "ca": {
+   "title": "María Borrás Ciurana serà la nova directora d'esdeveniments del Real Mallorca",
+   "summary": "El club de futbol del Real Mallorca incorpora l'executiva del Real Madrid, María Borrás Ciurana, com a directora d'esdeveniments.",
+   "body": [
+    "El Real Mallorca ha anunciat la incorporació de María Borrás Ciurana, procedent del Real Madrid, al càrrec de directora d'esdeveniments del club. Segons el comunicat, la decisió forma part d'una reestructuració interna iniciada recentment pel CEO corporatiu, Alfonso Díaz, que pretén reforçar l'estructura directiva amb professionals d'alt nivell.",
+    "Borrás Ciurana assumirà les seves funcions en els propers dies, continuant amb l'estratègia de millora organitzativa del Mallorca. La notícia ha estat publicada pel diari Última Hora el 16 de novembre de 2026."
+   ]
+  },
+  "facts": [
+   {
+    "es": "María Borrás Ciurana será la nueva directora de eventos del Real Mallorca",
+    "ca": "María Borrás Ciurana serà la nova directora d'esdeveniments del Real Mallorca",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:02:54.239Z",
+  "slug": "maria-borras-ciurana-sera-la-nueva-directora-de-eventos-del-real-bbe28",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851879.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/16/2751377/mallorca-ficha-ejecutiva-primer-nivel-real-madrid-maria-borras-llega-club-como-nueva-directora-eventos.html"
+  }
  },
  {
   "id": "std8e47bc452",
@@ -81,8 +933,63 @@
     "published": "2026-11-16T19:41:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:41:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:41:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:02:57.190Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Nora Ancarola presenta la exposición “La ferida de la llengua LA_LANGUE” sobre migraciones y lenguas",
+   "summary": "El programa Bon Dia i Bona Vida de Ona Mediterrània dedicó el lunes 16 de noviembre a la exposición de Nora Ancarola que aborda migraciones, exilios y lenguas.",
+   "body": [
+    "El programa de radio Bon Dia i Bona Vida, emitido por Ona Mediterrània (88.8 FM), dedicó el lunes 16 de noviembre a la exposición titulada “La ferida de la llengua LA_LANGUE”, creada por la artista Nora Ancarola. La muestra, según la propia artista, trata sobre los procesos de migración, los exilios y la diversidad lingüística.",
+    "La exposición forma parte de la programación cultural de la emisora y se presentó en el marco de la iniciativa “Bon Dia i Bona Vida”. No se especifican fechas de apertura ni ubicación concreta de la muestra, pero se destaca su enfoque en la relación entre lengua y movimiento de personas."
+   ]
+  },
+  "ca": {
+   "title": "Nora Ancarola presenta l'exposició “La ferida de la llengua LA_LANGUE” sobre migracions i llengües",
+   "summary": "El programa Bon Dia i Bona Vida d'Ona Mediterrània va dedicar el dilluns 16 de novembre a l'exposició de Nora Ancarola que aborda migracions, exilis i llengües.",
+   "body": [
+    "El programa de ràdio Bon Dia i Bona Vida, emès per Ona Mediterrània (88.8 FM), va dedicar el dilluns 16 de novembre a l'exposició titulada “La ferida de la llengua LA_LANGUE”, creada per l'artista Nora Ancarola. La mostra, segons la mateixa artista, tracta sobre els processos de migració, els exilis i la diversitat lingüística.",
+    "L'exposició s'integra en la programació cultural de l'emissora i es va presentar dins de la iniciativa “Bon Dia i Bona Vida”. No s'especifiquen dates d'obertura ni la ubicació concreta de la mostra, però es destaca el seu enfocament en la relació entre llengua i moviment de persones."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La exposición se titula “La ferida de la llengua LA_LANGUE”",
+    "ca": "L'exposició es titula “La ferida de la llengua LA_LANGUE”",
+    "sources": [
+     "dbalears"
+    ]
+   },
+   {
+    "es": "Fue presentada el lunes 16 de noviembre de 2026 en el programa Bon Dia i Bona Vida",
+    "ca": "Va ser presentada el dilluns 16 de novembre de 2026 al programa Bon Dia i Bona Vida",
+    "sources": [
+     "dbalears"
+    ]
+   },
+   {
+    "es": "La artista Nora Ancarola indica que la muestra trata de migraciones, exilios y lenguas",
+    "ca": "L'artista Nora Ancarola indica que la mostra tracta de migracions, exilis i llengües",
+    "sources": [
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:02:57.190Z",
+  "slug": "nora-ancarola-presenta-la-exposicion-la-ferida-de-la-llengua-la-bc452",
+  "status": "single",
+  "image": {
+   "url": "https://db.gsstatic.es/sfAttachPlugin/266141.webp",
+   "sourceId": "dbalears",
+   "articleUrl": "https://www.dbalears.cat/mitjans-mallorquins/ona-mediterrania/2026/11/16/424123/nora-ancarola-exposicio-ferida-llengua-la_langue-parla-migracions-exilis-llengues.html"
+  }
  },
  {
   "id": "st3db934b140",
@@ -98,8 +1005,65 @@
     "published": "2026-11-16T19:36:33.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:36:33.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:36:33.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:02:59.888Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Toni Melis y Gisela Solange ganan la X CxM Puigpunyent",
+   "summary": "Toni Melis (CA Artà) y Gisela Solange (Malift Mallorca) se adjudicaron la victoria de la décima edición de la CxM Puigpunyent, una carrera de 16,1 km con salida y llegada en el municipio.",
+   "body": [
+    "La X CxM Puigpunyent se celebró en el municipio de Puigpunyent, con un recorrido circular de 16,1 kilómetros que recorre caminos rurales tradicionales. Los participantes pasaron por lugares emblemáticos como sa Taulera, la Font de l’Albelló y el Pas de na Sabatera antes de ascender a la cima del Puig des Galatzó.",
+    "Los corredores Toni Melis, perteneciente al Club Atlético de Artà, y Gisela Solange, del equipo Malift Mallorca, cruzaron la meta en primer lugar en sus respectivas categorías, obteniendo la victoria de la prueba.",
+    "Según el Diario de Mallorca, la carrera se desarrolló sin incidentes y contó con la participación de varios atletas locales y de otras islas, consolidándose como una de las pruebas más esperadas del calendario deportivo de Mallorca."
+   ]
+  },
+  "ca": {
+   "title": "Toni Melis i Gisela Solange guanyen la X CxM Puigpunyent",
+   "summary": "Toni Melis (CA Artà) i Gisela Solange (Malift Mallorca) s’adjudicaren la victòria de la dècima edició de la CxM Puigpunyent, una cursa de 16,1 km amb sortida i arribada al municipi.",
+   "body": [
+    "La X CxM Puigpunyent es va celebrar al municipi de Puigpunyent, amb un recorregut circular de 16,1 quilòmetres que travessa camins rurals tradicionals. Els participants van passar per llocs emblemàtics com sa Taulera, la Font de l’Albelló i el Pas de na Sabatera abans d’assaltar la cimera del Puig des Galatzó.",
+    "Els corredors Toni Melis, del Club Atlètic d’Artà, i Gisela Solange, de l’equip Malift Mallorca, van creuar la meta en primer lloc a les seves respectives categories, obtenint la victòria de la prova.",
+    "Segons el Diario de Mallorca, la cursa es va desenvolupar sense incidents i va comptar amb la participació d’atlètics locals i d’altres illes, consolidant-se com una de les proves més esperades del calendari esportiu de Mallorca."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Toni Melis (CA Artà) y Gisela Solange (Malift Mallorca) ganaron la X CxM Puigpunyent",
+    "ca": "Toni Melis (CA Artà) i Gisela Solange (Malift Mallorca) guanyaren la X CxM Puigpunyent",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Recorrido de 16,1 km con salida y llegada en Puigpunyent",
+    "ca": "Recorregut de 16,1 km amb sortida i arribada a Puigpunyent",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El recorrido incluye sa Taulera, la Font de l’Albelló y el Pas de na Sabatera",
+    "ca": "El recorregut inclou sa Taulera, la Font de l’Albelló i el Pas de na Sabatera",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:02:59.888Z",
+  "slug": "toni-melis-y-gisela-solange-ganan-la-x-cxm-puigpunyent-4b140",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/075d7880-21ee-4c61-9b29-9b6c558c0608_16-9-aspect-ratio_default_0_x779y1152.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/deportes/2026/11/16/toni-melis-gisela-solange-imponen-136515635.html"
+  }
  },
  {
   "id": "staff8106709",
@@ -121,10 +1085,65 @@
     "lang": "es",
     "title": "Atribuyen a la pareja de Rosario Sánchez 40 propiedades en Mallorca",
     "published": "2026-11-16T20:00:44.000Z"
+   },
+   {
+    "id": "6913d037efa1",
+    "url": "https://ib3.org/la-parella-de-rosario-sanchez-seria-administrador-duna-quarantena-de-propietats-a-mallorca-segons-un-diari-digital",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "La parella de Rosario Sánchez seria administrador d’una quarantena de propietats a Mallorca, segons un diari digital",
+    "published": "2026-11-16T20:16:17.000Z"
+   },
+   {
+    "id": "2dc4bbb7db9a",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/16/2751383/atribuyen-pareja-rosario-sanchez-propiedades-mallorca.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Atribuyen a la pareja de Rosario Sánchez 40 propiedades en Mallorca",
+    "published": "2026-11-16T20:00:44.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T20:00:44.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T20:16:17.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:58:32.852Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "La pareja de Rosario Sánchez vinculada a una empresa con 40 fincas en Andratx",
+   "summary": "Según información publicada por El Debate y citada por varios medios, la empresa de la pareja de la candidata del PSIB a la presidencia del Govern balear posee alrededor de 40 fincas en el Port d’Andratx.",
+   "body": [
+    "La secretaria de Estado de Turismo y candidata del PSIB a la presidencia del Govern, Rosario Sánchez Grau, mantiene una relación con José E. P., con quien tiene dos hijas. El diario digital El Debate indica que José E. P. es administrador único de la sociedad Menefta 2000 SL, dedicada al alquiler de inmuebles y titular de al menos 40 fincas en el Port d’Andratx, Mallorca.",
+    "El PSIB ha rechazado comentar la información y ha atribuido la noticia a «cloacas del PP». La propia candidata no ha respondido a la consulta de los medios. La información ha sido reproducida por varios periódicos baleares, entre ellos el Periódico de Ibiza y Formentera, IB3 Notícies, Última Hora y Menorca·Es Diari."
+   ]
+  },
+  "ca": {
+   "title": "La parella de Rosario Sánchez vinculada a una empresa amb 40 finques a Andratx",
+   "summary": "Segons informació publicada per El Debate i citada per diversos mitjans, l’empresa de la parella de la candidata del PSIB a la presidència del Govern balear disposa d’uns 40 finques al Port d’Andratx.",
+   "body": [
+    "La secretària d’Estat de Turisme i candidata del PSIB a la presidència del Govern, Rosario Sánchez Grau, manté una relació amb José E. P., amb qui té dues filles. El diari digital El Debate indica que José E. P. és administrador únic de la societat Menefta 2000 SL, dedicada al lloguer d’immobles i titular d’almenys 40 finques al Port d’Andratx, Mallorca.",
+    "El PSIB ha rebutjat comentar la informació i l’ha atribuïda a les «cloagues del PP». La mateixa candidata no ha respost a la consulta dels mitjans. La informació ha estat reproduïda per diversos diaris balears, entre ells el Periódico de Ibiza i Formentera, IB3 Notícies, Última Hora i Menorca·Es Diari."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La empresa Menefta 2000 SL, administrada por José E. P., posee al menos 40 fincas en el Port d’Andratx (F1,F2,F3,F4)",
+    "ca": "L’empresa Menefta 2000 SL, administrada per José E. P., disposa d’almenys 40 finques al Port d’Andratx (F1,F2,F3,F4)",
+    "sources": []
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:58:32.852Z",
+  "slug": "la-pareja-de-rosario-sanchez-vinculada-a-una-empresa-con-40-fincas-en-06709",
+  "status": "verified",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851889.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/16/2751383/atribuyen-pareja-rosario-sanchez-propiedades-mallorca.html"
+  }
  },
  {
   "id": "stf3900a9469",
@@ -140,8 +1159,49 @@
     "published": "2026-11-16T19:09:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:09:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:09:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:03:01.752Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "Los vecinos de Palma pagan una media de 11.285 euros al año en impuestos",
+   "summary": "Según Crónica Balear, la capital balear ocupa el duodécimo puesto entre los municipios con mayor aportación tributaria por habitante.",
+   "body": [
+    "La publicación indica que, en promedio, cada residente de Palma de Mallorca abona 11.285 euros al año en concepto de impuestos. Este cálculo se basa en los datos recabados por la entidad y refleja la carga fiscal que soportan los ciudadanos de la ciudad.",
+    "Con esta cifra, Palma se sitúa en el puesto 12 a nivel nacional entre los municipios con mayor tributación per cápita, situándose por encima de muchas otras capitales y grandes ciudades del país."
+   ]
+  },
+  "ca": {
+   "title": "Els veïns de Palma paguen una mitjana de 11.285 euros l'any en impostos",
+   "summary": "Segons Crònica Balear, la capital balear ocupa el dotzè lloc entre els municipis amb major aportació tributària per habitant.",
+   "body": [
+    "La publicació indica que, en mitjana, cada resident de Palma de Mallorca paga 11.285 euros anuals en concepte d'impostos. Aquest càlcul es basa en les dades recollides per l'entitat i reflecteix la càrrega fiscal que suporten els ciutadans de la ciutat.",
+    "Amb aquesta xifra, Palma es situa al lloc 12 a nivell nacional entre els municipis amb major tributació per càpita, superant moltes altres capitals i grans ciutats del país."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Media de 11.285 euros anuales por habitante",
+    "ca": "Mitjana de 11.285 euros anuals per habitant",
+    "sources": [
+     "cronicabalear"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:03:01.752Z",
+  "slug": "los-vecinos-de-palma-pagan-una-media-de-11-285-euros-al-ano-en-a9469",
+  "status": "single",
+  "image": {
+   "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1773055964.jpg",
+   "sourceId": "cronicabalear",
+   "articleUrl": "https://www.cronicabalear.es/mallorca/2026-11-16/los-vecinos-de-palma-pagan-una-media-estimada-de-11285-euros-al-ano-en-impuestos/"
+  }
  },
  {
   "id": "stf7a0588965",
@@ -157,8 +1217,49 @@
     "published": "2026-11-16T19:07:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T19:07:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T19:07:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:03:04.235Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "La Asamblea Sobiranista de Mallorca pide boicot a las elecciones generales",
+   "summary": "La ASM ha instado a los ciudadanos mallorquines a abstenerse de participar en las próximas elecciones españolas, argumentando que no representan los intereses de la isla.",
+   "body": [
+    "La Asamblea Sobiranista de Mallorca (ASM) ha emitido un comunicado en el que solicita a la población de la isla que no vote en las elecciones generales de España previstas para los próximos meses. Según el comunicado, la ASM considera que el sistema electoral español no garantiza la representación adecuada de los intereses y la autonomía de Mallorca.",
+    "El llamado al boicot electoral forma parte de la estrategia de la ASM para presionar al Gobierno central y a los partidos políticos a que reconozcan la singularidad del archipiélago balear y sus demandas de mayor autogobierno. La organización no ha especificado sanciones para quienes decidan participar en la votación."
+   ]
+  },
+  "ca": {
+   "title": "L’ASM demana boicot a les eleccions generals",
+   "summary": "L’ASM ha instat la població mallorquina a abstindre’s de les properes eleccions espanyoles, argumentant que no representen els interessos de l’illa.",
+   "body": [
+    "L’Assemblea Sobiranista de Mallorca (ASM) ha publicat un comunicat en el qual demana a la població de l’illa que no voti a les eleccions generals d’Espanya que es celebraran en els propers mesos. Segons el comunicat, l’ASM considera que el sistema electoral espanyol no garanteix una representació adequada dels interessos i l’autonomia de Mallorca.",
+    "L’anomenada al boicot electoral forma part de l’estratègia de l’ASM per pressionar el Govern central i els partits polítics perquè reconeguin la singularitat de l’arxipèlag balear i les seves demandes d’un major autogovern. L’organització no ha especificat sancions per a qui decideixi participar en la votació."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La ASM ha llamado a no participar en las elecciones generales de España",
+    "ca": "L’ASM ha demanat a no participar a les eleccions generals d’Espanya",
+    "sources": [
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:03:04.235Z",
+  "slug": "la-asamblea-sobiranista-de-mallorca-pide-boicot-a-las-elecciones-88965",
+  "status": "single",
+  "image": {
+   "url": "https://db.gsstatic.es/sfAttachPlugin/266139.webp",
+   "sourceId": "dbalears",
+   "articleUrl": "https://www.dbalears.cat/balears/balears/2026/11/16/424121/asm-crida-participar-les-eleccions-espanyoles.html"
+  }
  },
  {
   "id": "st762f8798e8",
@@ -651,67 +1752,75 @@
     "lang": "es",
     "title": "Rels B, Maria Jaume, Fades y Pitxorines optarán a los Premis Enderrock de la Música Balear en su 9ª edición",
     "published": "2026-11-16T17:21:00.000Z"
+   },
+   {
+    "id": "5482b1697858",
+    "url": "https://www.dbalears.cat/balears/cultura/2026/11/16/424125/tot-punt-per-gala-dels-premis-enderrock-guia-per-perdre-res.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Tot a punt per la gala dels premis Enderrock: guia per no perdre’s res",
+    "published": "2026-11-16T22:10:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-16T17:21:00.000Z",
-  "model": "groq/qwen/qwen3.8-27b",
-  "writtenAt": "2026-11-16T19:53:38.599Z",
+  "lastArticleAt": "2026-11-16T22:10:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:58:24.409Z",
   "islands": [
    "mallorca"
   ],
   "topic": "cultura",
   "es": {
-   "title": "Rels B, Maria Jaume, Fades y Pitxorines optan a los Premis Enderrock de Música Balear",
-   "summary": "La novena edición de los Premis Enderrock de la Música Balear celebrará su gala este miércoles a las 20:00 horas en el Teatre Principal de Palma.",
+   "title": "Los Premis Enderrock 2026 se celebrarán el 16 de noviembre en el Teatre Principal de Palma",
+   "summary": "Este miércoles 16 de noviembre, la novena edición de los Premis Enderrock tendrá lugar a las 20:00 en el Teatre Principal de Palma, con la participación de Rels B, Maria Jaume, Fades y Pitxorines entre los nominados.",
    "body": [
-    "Los grupos Rels B, Maria Jaume, Fades y Pitxorines figuran entre los nominados a los Premis Enderrock de la Música Balear, que cumplen su novena edición. El evento reconoce la trayectoria y el trabajo de la escena musical de las Islas Baleares.",
-    "La ceremonia de entrega de premios se celebrará este miércoles a las 20:00 horas. El recinto elegido para el acto es el Teatre Principal de Palma, según ha informado Crónica Balear."
+    "El Govern de les Illes Balears ha confirmat que la gala dels Premis Enderrock, que reconeixen la millor música balear, se celebrarà aquest dimecres 16 de novembre a les 20:00 hores al Teatre Principal de Palma. La novena edició compta amb una llista de nominats que inclou grups i artistes com Rels B, Maria Jaume, Fades i Pitxorines, segons informa Crónica Balear.",
+    "Segons dBalears, la mateixa nit es publicarà la llista completa de guanyadors de la novena edició, encara que els detalls no s'han revelat en aquest moment. La cerimònia esdevindrà un punt de referència per a la música de les Illes Balears, reunint artistes, professionals del sector i públic interessat en la cultura musical de la regió."
    ]
   },
   "ca": {
-   "title": "Rels B, Maria Jaume, Fades i Pitxorines opten als Premis Enderrock de Música Balear",
-   "summary": "La novena edició dels Premis Enderrock de Música Balear celebrarà la seva gala aquest dimecres a les 20:00 h al Teatre Principal de Palma.",
+   "title": "Els Premis Enderrock 2026 es celebraran el 16 de novembre al Teatre Principal de Palma",
+   "summary": "Aquest dimecres 16 de novembre, la novena edició dels Premis Enderrock tindrà lloc a les 20:00 al Teatre Principal de Palma, amb la participació de Rels B, Maria Jaume, Fades i Pitxorines entre els nominats.",
    "body": [
-    "Els grups Rels B, Maria Jaume, Fades i Pitxorines figuren entre els nominats als Premis Enderrock de Música Balear, que compleixen la novena edició. L'esdeveniment reconeix la trajectòria i el treball de l'escena musical de les Illes Balears.",
-    "La cerimònia de lliurament de premis se celebrarà aquest dimecres a les 20:00 h. El recinte triat per a l'acte és el Teatre Principal de Palma, segons ha informat Crònica Balear."
+    "El Govern de les Illes Balears ha confirmat que la gala dels Premis Enderrock, que reconeixen la millor música balear, se celebrarà aquest dimecres 16 de novembre a les 20:00 hores al Teatre Principal de Palma. La novena edició compta amb una llista de nominats que inclou grups i artistes com Rels B, Maria Jaume, Fades i Pitxorines, segons informa Crónica Balear.",
+    "Segons dBalears, la mateixa nit es publicarà la llista completa de guanyadors de la novena edició, encara que els detalls no s'han revelat en aquest moment. La cerimònia esdevindrà un punt de referència per a la música de les Illes Balears, reunint artistes, professionals del sector i públic interessat en la cultura musical de la regió."
    ]
   },
   "facts": [
    {
-    "es": "Los nominados son Rels B, Maria Jaume, Fades y Pitxorines.",
-    "ca": "Els nominats són Rels B, Maria Jaume, Fades i Pitxorines.",
+    "es": "La gala tindrà lloc el 16 de novembre a les 20:00 al Teatre Principal de Palma",
+    "ca": "La gala tindrà lloc el 16 de novembre a les 20:00 al Teatre Principal de Palma",
     "sources": [
      "cronicabalear"
     ]
    },
    {
-    "es": "Es la novena edición de los Premis Enderrock de la Música Balear.",
-    "ca": "És la novena edició dels Premis Enderrock de Música Balear.",
+    "es": "Només la novena edició dels Premis Enderrock",
+    "ca": "Només la novena edició dels Premis Enderrock",
     "sources": [
      "cronicabalear"
     ]
    },
    {
-    "es": "El acto será este miércoles a las 20:00 horas.",
-    "ca": "L'acte serà aquest dimecres a les 20:00 h.",
+    "es": "Nominats: Rels B, Maria Jaume, Fades i Pitxorines",
+    "ca": "Nominats: Rels B, Maria Jaume, Fades i Pitxorines",
     "sources": [
      "cronicabalear"
     ]
    },
    {
-    "es": "El lugar de la gala es el Teatre Principal de Palma.",
-    "ca": "El lloc de la gala és el Teatre Principal de Palma.",
+    "es": "dBalears publicarà la llista completa de guanyadors",
+    "ca": "dBalears publicarà la llista completa de guanyadors",
     "sources": [
-     "cronicabalear"
+     "dbalears"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-16T19:53:38.599Z",
+  "updatedAt": "2026-11-17T02:58:24.409Z",
   "slug": "rels-b-maria-jaume-fades-y-pitxorines-optan-a-los-premis-enderrock-de-96227",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1788289669.jpg",
    "sourceId": "cronicabalear",
@@ -1051,73 +2160,6 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4851597.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/16/2751233/dias-trail-ibiza-cierra-inscripciones-1550-participantes-nacionalidades.html"
-  }
- },
- {
-  "id": "stb5b32d9d80",
-  "createdAt": "2026-11-16T18:55:21.797Z",
-  "firstPublished": "2026-11-16T16:24:00.000Z",
-  "articles": [
-   {
-    "id": "12897b140415",
-    "url": "https://www.diariodeibiza.es/ibiza/2026/11/16/concordia-ibiza-136507622.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "Ante todo mucha \"concordia\" en Ibiza",
-    "published": "2026-11-16T16:41:25.000Z"
-   },
-   {
-    "id": "7f5e34dabe73",
-    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/16/2751229/homenaje-tradicion-bajo-sol-veraniego-por-dia-grande-santa-gertrudis.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Homenaje a la tradición bajo un sol veraniego por el Día Grande de Santa Gertrudis",
-    "published": "2026-11-16T16:24:00.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-16T16:41:25.000Z",
-  "writeErrors": 1,
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-16T19:56:24.367Z",
-  "islands": [
-   "ibiza",
-   "formentera"
-  ],
-  "topic": "sociedad",
-  "es": {
-   "title": "Celebración del Día Grande de Santa Gertrudis en Ibiza con sol veraniego",
-   "summary": "El lunes 16 de noviembre la parroquia de Santa Gertrudis celebró su Día Grande bajo un sol cálido, con misa, procesión y baile folklórico.",
-   "body": [
-    "El 16 de noviembre, la parroquia de Santa Gertrudis en Ibiza celebró su Día Grande con una misa que abrió la jornada, seguida de una procesión y un cierre con el tradicional ball pagès. Según el Periódico de Ibiza y Formentera, el sol de verano acompañó la celebración, algo inusual para noviembre. En la misa, el vicario general de la Diócesis de Ibiza, José Martínez, recordó la frase «La concordia fue posible» al concluir la ceremonia, haciendo referencia al epitafio de la tumba de Adolfo Suárez. El presidente de la Conferencia Episcopal, Luis Argüello, también participó, comentando la importancia de la concordia en tiempos convulsos. La celebración incluyó la exaltación de la tradición y la participación de la comunidad local."
-   ]
-  },
-  "ca": {
-   "title": "Celebració del Dia Gran de Santa Gertrudis a Ibiza amb sol veranieg",
-   "summary": "El dilluns 16 de novembre la paròquia de Santa Gertrudis va celebrar el seu Dia Gran sota un sol càlid, amb missa, processó i ball folklòric.",
-   "body": [
-    "El 16 de novembre, la paròquia de Santa Gertrudis a Ibiza va celebrar el seu Dia Gran amb una missa que va obrir la jornada, seguida d’una processó i un tancament amb el tradicional ball pagès. Segons el Periódico d'Ibiza i Formentera, el sol d’estiu va companyar la celebració, una cosa inusual per a novembre. A la missa, el vicari general de la Diócesi d'Ibiza, José Martínez, va recordar la frase «La concordia va ser possible» al concloure la cerimònia, fent referència a l’epitaf de la tumba d’Adolfo Suárez. El president de la Conferència Episcopal, Luis Argüello, també va participar, comentant la importància de la concordia en temps convulsos. La celebració va incloure l’exaltació de la tradició i la participació de la comunitat local."
-   ]
-  },
-  "facts": [
-   {
-    "es": "El 16 de noviembre se celebró el Día Grande de Santa Gertrudis en Ibiza con misa, procesión y ball pagès",
-    "ca": "El 16 de novembre es va celebrar el Dia Gran de Santa Gertrudis a Ibiza amb missa, processó i ball pagès",
-    "sources": [
-     "periodicodeibiza",
-     "diariodeibiza"
-    ]
-   }
-  ],
-  "discrepancies": [],
-  "contradiction": false,
-  "updatedAt": "2026-11-16T19:56:24.367Z",
-  "slug": "el-vicario-general-celebra-misa-en-santa-gertrudis-y-recuerda-a-d9d80",
-  "status": "verified",
-  "image": {
-   "url": "https://estaticos-cdn.prensaiberica.es/clip/a135cfe6-d7b6-486a-992d-49dcafb8af85_16-9-aspect-ratio_default_0_x1000y444.jpg",
-   "sourceId": "diariodeibiza",
-   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/16/concordia-ibiza-136507622.html"
   }
  },
  {
@@ -1582,7 +2624,11 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/07d4d807-7bd7-4abc-888b-9c4fc77f976a_16-9-aspect-ratio_default_0.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/16/sant-antoni-explicara-vecinos-actuar-136504585.html"
-  }
+  },
+  "distinctFrom": [
+   "st62f9f273f6",
+   "st16752f3fad"
+  ]
  },
  {
   "id": "st3905f181ae",
@@ -1818,7 +2864,10 @@
    "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1739697411.jpg",
    "sourceId": "cronicabalear",
    "articleUrl": "https://www.cronicabalear.es/mallorca/2026-11-16/baleares-recibira-392390-euros-para-mejorar-la-atencion-a-los-alumnos-con-autismo-en-los-colegios/"
-  }
+  },
+  "distinctFrom": [
+   "st2fd3c9a63e"
+  ]
  },
  {
   "id": "st62f9f273f6",
@@ -1906,9 +2955,65 @@
     "published": "2026-11-16T14:20:00.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-16T14:20:00.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:03:14.490Z",
+  "islands": [
+   "mallorca",
+   "menorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El Govern aprueba la homologación de cuatro nuevos planes municipales de emergencias",
+   "summary": "El lunes 16 de noviembre el Govern de les Illes Balears homologó los planes de Felanitx, Pollença, Llubí y Es Migjorn Gran, elevando a 18 el número de municipios con un PEMU.",
+   "body": [
+    "El Govern de les Illes Balears ha aprobado este lunes 16 de noviembre la homologación de cuatro nuevos Planes Municipales de Emergencias (PEMU): Felanitx, Pollença y Llubí en Mallorca, y Es Migjorn Gran en Menorca. La certificación se realizó durante el pleno de la Comissió d'Emergències i Protecció Civil, presidido por la consellera de Presidència, Antònia Maria Estarellas.",
+    "Con esta homologación, el total de municipios balears que ya cuentan con un PEMU asciende a 18. Además de los planes ya aprobados, existen otros en proceso de tramitación para su posterior certificación."
+   ]
+  },
+  "ca": {
+   "title": "El Govern aprova la homologació de quatre nous plans municipals d'emergència",
+   "summary": "Dilluns 16 de novembre el Govern de les Illes Balears va homologar els plans de Felanitx, Pollença, Llubí i Es Migjorn Gran, portant a 18 el nombre de municipis amb un PEMU.",
+   "body": [
+    "El Govern de les Illes Balears ha aprovat aquest dilluns 16 de novembre la homologació de quatre nous Plans Municipals d'Emergència (PEMU): Felanitx, Pollença i Llubí a Mallorca, i Es Migjorn Gran a Menorca. La certificació es va dur a terme durant el ple de la Comissió d'Emergències i Protecció Civil, presidida per la consellera de Presidència, Antònia Maria Estarellas.",
+    "Amb aquesta homologació, el total de municipis balears que ja compten amb un PEMU arriba a 18. A més dels plans ja aprovats, hi ha altres en tràmit per a la seva posterior certificació."
+   ]
+  },
+  "facts": [
+   {
+    "es": "18 municipios ya cuentan con un PEMU",
+    "ca": "18 municipis ja compten amb un PEMU",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Se homologaron los planes de Felanitx, Pollença, Llubí y Es Migjorn Gran",
+    "ca": "Es van homologar els plans de Felanitx, Pollença, Llubí i Es Migjorn Gran",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La certificación tuvo lugar el 16 de noviembre en el pleno de la Comissió d'Emergències i Protecció Civil",
+    "ca": "La certificació va tenir lloc el 16 de novembre al ple de la Comissió d'Emergències i Protecció Civil",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:03:14.490Z",
+  "slug": "el-govern-aprueba-la-homologacion-de-cuatro-nuevos-planes-municipales-4e61c",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4851389.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/part-forana/2026/11/16/2751141/plan-municipal-emergencias-municipios-aprobado.html"
+  }
  },
  {
   "id": "st97c031825b",
@@ -2272,7 +3377,11 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/54435716-706a-47cd-bc4c-574a28caa534_16-9-aspect-ratio_default_0_x670y268.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/16/gobierno-destina-20-millones-inversiones-136508544.html"
-  }
+  },
+  "distinctFrom": [
+   "st5dc9b1c48a",
+   "st1db93fcbcd"
+  ]
  },
  {
   "id": "sta659cf1129",
@@ -2425,6 +3534,104 @@
   }
  },
  {
+  "id": "stb5b32d9d80",
+  "createdAt": "2026-11-16T18:55:21.797Z",
+  "firstPublished": "2026-11-16T13:55:31.000Z",
+  "articles": [
+   {
+    "id": "12897b140415",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/16/concordia-ibiza-136507622.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Ante todo mucha \"concordia\" en Ibiza",
+    "published": "2026-11-16T16:41:25.000Z"
+   },
+   {
+    "id": "7f5e34dabe73",
+    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/16/2751229/homenaje-tradicion-bajo-sol-veraniego-por-dia-grande-santa-gertrudis.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Homenaje a la tradición bajo un sol veraniego por el Día Grande de Santa Gertrudis",
+    "published": "2026-11-16T16:24:00.000Z"
+   },
+   {
+    "id": "0130370d4fc5",
+    "url": "https://ib3.org/els-vesins-de-santa-gertrudis-celebren-el-seu-dia-gros",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Els vesins de Santa Gertrudis celebren el seu dia gros",
+    "published": "2026-11-16T13:55:31.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T16:41:25.000Z",
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:58:16.815Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "El Día Grande de Santa Gertrudis se celebra con misa, procesión y ball pagès en Ibiza",
+   "summary": "La parroquia de Santa Gertrudis abrió la jornada con misa y continuó con una procesión y una exhibición de ball pagès, culminando con el monòleg d’humor de Senyor Corrales.",
+   "body": [
+    "El lunes por la mañana se celebró la misa de la patrona de Santa Gertrudis en la parroquia del municipio, según informa el Periódico de Ibiza y Formentera. Tras la liturgia, la comunidad participó en la tradicional procesión que recorre las calles del pueblo bajo un clima veraniego inesperado para la época.",
+    "Posteriormente, el programa cultural incluyó una exhibición de ball pagès a cargo del grup de balls tradicionals de Santa Gertrudis, como indica IB3 Notícies. Los actos continuaron en la plaça del poble con el monòleg d’humor del Senyor Corrales, cerrando la jornada festiva. El vicario general de la Diócesi d’Eivissa, José Martínez, destacó la concordia que se vivió durante la celebración, según el Diario de Ibiza."
+   ]
+  },
+  "ca": {
+   "title": "El Dia Gran de Santa Gertrudis es celebra amb missa, processó i ball pagès a Eivissa",
+   "summary": "La parròquia de Santa Gertrudis va obrir la jornada amb missa i va continuar amb una processó i una exhibició de ball pagès, culminant amb el monòleg d’humor del Senyor Corrales.",
+   "body": [
+    "Dilluns al matí es va celebrar la missa de la patrona de Santa Gertrudis a la parròquia del municipi, segons informa el Periódico de Ibiza y Formentera. Després de la litúrgia, la comunitat va participar en la tradicional processó que recorre els carrers del poble sota un clima d’estiu inesperat per a l’època.",
+    "Posteriorment, el programa cultural va incloure una exhibició de ball pagès a càrrec del grup de balls tradicionals de Santa Gertrudis, com indica IB3 Notícies. Els actes van continuar a la plaça del poble amb el monòleg d’humor del Senyor Corrales, tancant la jornada festiva. El vicari general de la Diòcesi d’Eivissa, Josep Martínez, va destacar la concordia que es va viure durant la celebració, segons el Diario de Ibiza."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Misa y procesión en la parroquia de Santa Gertrudis",
+    "ca": "Missa i processó a la parròquia de Santa Gertrudis",
+    "sources": [
+     "periodicodeibiza",
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Exhibición de ball pagès a cargo del grupo de bailes tradicionales",
+    "ca": "Exhibició de ball pagès a càrrec del grup de balls tradicionals",
+    "sources": [
+     "ib3",
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Monólogo de humor de Senyor Corrales en la plaça del pueblo",
+    "ca": "Monòleg d’humor del Senyor Corrales a la plaça del poble",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Vicario José Martínez destacó la concordia durante la celebración",
+    "ca": "Vicari Josep Martínez va destacar la concordia durant la celebració",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T02:58:16.815Z",
+  "slug": "el-vicario-general-celebra-misa-en-santa-gertrudis-y-recuerda-a-d9d80",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/a135cfe6-d7b6-486a-992d-49dcafb8af85_16-9-aspect-ratio_default_0_x1000y444.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/16/concordia-ibiza-136507622.html"
+  }
+ },
+ {
   "id": "st957af922c2",
   "createdAt": "2026-11-16T18:55:21.798Z",
   "firstPublished": "2026-11-16T13:55:31.000Z",
@@ -2487,7 +3694,9 @@
    "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/14310-festessantagertru.png",
    "sourceId": "ib3",
    "articleUrl": "https://ib3.org/els-vesins-de-santa-gertrudis-celebren-el-seu-dia-gros"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "stb5b32d9d80"
  },
  {
   "id": "st210f33577b",
@@ -2600,7 +3809,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/4c0e0100-4d0e-41c7-b652-3818e0464974_16-9-aspect-ratio_default_0_x800y327.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/16/juez-da-razon-margalida-87-136508576.html"
-  }
+  },
+  "distinctFrom": [
+   "st237de9b4e3"
+  ]
  },
  {
   "id": "st237de9b4e3",
@@ -3458,7 +4670,12 @@
    "url": "https://img.europapress.es/fotoweb/fotonoticia_20261116141526_800.jpg",
    "sourceId": "europapress",
    "articleUrl": "https://www.europapress.es/illes-balears/noticia-detenido-homicidio-imprudente-hombre-relacionado-accidente-moto-eivissa-20261116141526.html"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "steeeac5e607",
+  "distinctFrom": [
+   "st6fcc51d798"
+  ]
  },
  {
   "id": "st63b9bc7b75",
@@ -3802,7 +5019,11 @@
    "url": "https://men.gsstatic.es/sfAttachPlugin/4850831.webp",
    "sourceId": "menorcainfo",
    "articleUrl": "https://www.menorca.info/menorca/local/2026/11/16/2750785/detenido-por-lanzar-silla-policia-nacional-tras-mitin-abascal.html"
-  }
+  },
+  "distinctFrom": [
+   "staab28de376",
+   "steb872c8ddf"
+  ]
  },
  {
   "id": "stf99f0b6abf",
@@ -4350,8 +5571,49 @@
     "published": "2026-11-16T12:31:48.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T12:31:48.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T12:31:48.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:03:24.369Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Eivissa al Senat propone una fiscalidad ecológica que grava el consumo masivo de agua",
+   "summary": "La coalición Eivissa al Senat incluye en su programa electoral medidas para proteger el medio ambiente mediante una nueva fiscalidad sobre el uso intensivo de agua.",
+   "body": [
+    "La coalición Eivissa al Senat ha presentado su programa electoral con varias propuestas orientadas a la protección del medio ambiente. Entre ellas destaca la creación de una fiscalidad ecológica que gravaría los consumos masivos y privados de agua, con el objetivo de fomentar un uso más sostenible del recurso.",
+    "Según el propio programa, la medida buscaría incentivar la reducción del consumo excesivo y financiar acciones de conservación, sin especificar el tipo de gravamen ni su nivel. La iniciativa forma parte de un conjunto de propuestas que la coalición espera presentar al electorado de Ibiza en los próximos comicios."
+   ]
+  },
+  "ca": {
+   "title": "Eivissa al Senat proposa una fiscalitat ecològica que grava el consum massiu d'aigua",
+   "summary": "La coalició Eivissa al Senat inclou al seu programa electoral mesures per protegir el medi ambient mitjançant una nova fiscalitat sobre l'ús intensiu d'aigua.",
+   "body": [
+    "La coalició Eivissa al Senat ha presentat el seu programa electoral amb diverses propostes orientades a la protecció del medi ambient. Entre elles destaca la creació d'una fiscalitat ecològica que gravaria els consums massius i privats d'aigua, amb l'objectiu de fomentar un ús més sostenible del recurs.",
+    "Segons el propi programa, la mesura pretén incentivar la reducció del consum excessiu i finançar accions de conservació, sense especificar el tipus d'impost ni el seu nivell. La iniciativa forma part d'un conjunt de propostes que la coalició espera presentar a l'electorat d'Eivissa en les properes eleccions."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La coalició Eivissa al Senat presenta una fiscalitat ecològica que grava els consums massius i privats d'aigua",
+    "ca": "La coalició Eivissa al Senat proposa una fiscalitat ecològica que grava els consums massius i privats d'aigua",
+    "sources": [
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:03:24.369Z",
+  "slug": "eivissa-al-senat-propone-una-fiscalidad-ecologica-que-grava-el-8c8aa",
+  "status": "single",
+  "image": {
+   "url": "https://db.gsstatic.es/sfAttachPlugin/266137.webp",
+   "sourceId": "dbalears",
+   "articleUrl": "https://www.dbalears.cat/balears/medi-ambient/2026/11/16/424119/eivissa-senat-defensa-fiscalitat-ecologica-gravi-els-consums-aigua-massius-privats.html"
+  }
  },
  {
   "id": "stf228eeefee",
@@ -4367,8 +5629,70 @@
     "published": "2026-11-16T12:30:44.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T12:30:44.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T12:30:44.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-17T03:03:27.270Z",
+  "islands": [
+   "menorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "La final de la Copa de la División de Honor se jugará en Alaior",
+   "summary": "La Junta Insular de Menorca de la Federació de Futbol de les Illes Balears ha fijado la fecha y el escenario para el partido decisivo de la temporada.",
+   "body": [
+    "La Junta Insular de Menorca de la Federació de Futbol de les Illes Balears, presidida por Vicente Martínez, ha acordado con los clubes Penya Ciutadella y Sporting de Mahón los detalles de la gran final de la Copa de la División de Honor 2026-27.",
+    "El encuentro se disputará este sábado a las 18:30 horas en el estadio Municipal de Los Pinos, situado en Alaior. Esta decisión se tomó durante una reunión mantenida este lunes por la mañana entre la federación y los representantes de ambos equipos."
+   ]
+  },
+  "ca": {
+   "title": "La final de la Copa de la Divisió d'Honor es jugarà a Alaior",
+   "summary": "La Junta Insular de Menorca de la Federació de Futbol de les Illes Balears ha fixat la data i l'escenari per al partit decisiu de la temporada.",
+   "body": [
+    "La Junta Insular de Menorca de la Federació de Futbol de les Illes Balears, presidida per Vicente Martínez, ha acordat amb els clubs Penya Ciutadella i Sporting de Mahó els detalls de la gran final de la Copa de la Divisió d'Honor 2026-27.",
+    "El partit es disputarà aquest dissabte a les 18:30 hores a l'estadi Municipal de Los Pinos, situat a Alaior. Aquesta decisió es va prendre durant una reunió mantinguda aquest dilluns al matí entre la federació i els representants de tots dos equips."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La final se jugará el sábado a las 18:30 horas.",
+    "ca": "La final es jugarà el dissabte a les 18:30 hores.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "El partido se disputará en el Municipal de Los Pinos de Alaior.",
+    "ca": "El partit es disputarà al Municipal de Los Pinos d'Alaior.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Los finalistas son el Penya Ciutadella y el Sporting de Mahón.",
+    "ca": "Els finalistes són el Penya Ciutadella i el Sporting de Mahó.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Vicente Martínez preside la Junta Insular de Menorca de la federación.",
+    "ca": "Vicente Martínez presideix la Junta Insular de Menorca de la federació.",
+    "sources": [
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:03:27.270Z",
+  "slug": "la-final-de-la-copa-de-la-division-de-honor-se-jugara-en-alaior-eefee",
+  "status": "single",
+  "image": {
+   "url": "https://men.gsstatic.es/sfAttachPlugin/4851195.webp",
+   "sourceId": "menorcainfo",
+   "articleUrl": "https://www.menorca.info/deportes/futbol/2026/11/16/2751011/gran-final-copa-regional-tiene-fecha-campo.html"
+  }
  },
  {
   "id": "st8e5254578e",
@@ -4384,8 +5708,49 @@
     "published": "2026-11-16T12:29:38.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T12:29:38.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-16T12:29:38.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T03:03:36.896Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "La Fiscalía solicita cinco años de prisión y multa de 50.000 euros por alijo de éxtasis en Ibiza",
+   "summary": "La Fiscalía ha pedido al juzgado de la Audiencia Provincial de Baleares cinco años de cárcel y una multa de 50.000 euros para G.A.M., de 40 años, por presunto alijo de éxtasis líquido destinado a la distribución en Ibiza.",
+   "body": [
+    "La Fiscalía ha presentado una acusación contra G. A. M., español de 40 años, por un delito contra la salud pública. Según la denuncia, el imputado poseía sustancias estupefacientes, concretamente éxtasis en forma líquida, con la presunta intención de distribuirlas a terceros en la isla de Ibiza.",
+    "El pedido de la Fiscalía incluye una pena de cinco años de prisión y una multa de 50.000 euros. El proceso judicial se celebrará este lunes ante la Audiencia Provincial de Baleares, donde se decidirá la responsabilidad penal del acusado."
+   ]
+  },
+  "ca": {
+   "title": "La Fiscalia demana cinc anys de presó i multa de 50.000 euros per al·lici d'èxtasi a Eivissa",
+   "summary": "La Fiscalia ha sol·licitat al jutge de l'Audiència Provincial de les Illes Balears cinc anys de presó i una multa de 50.000 euros per a G.A.M., de 40 anys, per suposat al·lici d'èxtasi líquid destinat a la distribució a Eivissa.",
+   "body": [
+    "La Fiscalia ha presentat una acusació contra G. A. M., espanyol de 40 anys, per un delicte contra la salut pública. Segons la denúncia, el imputat posseïa substàncies estupefaents, concretament èxtasi en forma líquida, amb la presumpte intenció de distribuir-les a tercers a l'illa d'Eivissa.",
+    "La sol·licitud de la Fiscalia inclou una pena de cinc anys de presó i una multa de 50.000 euros. El procés judicial es celebrarà aquest dilluns davant l'Audiència Provincial de les Illes Balears, on es decidirà la responsabilitat penal de l'acusat."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Fiscalía solicita 5 años de prisión y multa de 50.000 euros para G. A. M., 40 años, por alijo de éxtasis líquido en Ibiza",
+    "ca": "Fiscalia demana 5 anys de presó i multa de 50.000 euros per a G. A. M., de 40 anys, per al·lici d'èxtasi líquid a Eivissa",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-17T03:03:36.896Z",
+  "slug": "la-fiscalia-solicita-cinco-anos-de-prision-y-multa-de-50-000-euros-4578e",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4851199.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/cronica-negra/local/2026/11/16/2751019/fiscalia-pide-cinco-anos-prision-por-alijo-extasis-liquido-intervenido-ibiza.html"
+  }
  },
  {
   "id": "st990dafb030",
@@ -5409,10 +6774,66 @@
     "lang": "es",
     "title": "El Illes Balears Palma Futsal arrolla al AlUla en su estreno en la Copa Intercontinental",
     "published": "2026-11-16T10:50:58.000Z"
+   },
+   {
+    "id": "b8e0a6d164f4",
+    "url": "https://www.diariodemallorca.es/deportes/2026/11/17/palma-futsal-asusta-mundo-goleada-136520246.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Palma Futsal asusta al mundo: goleada al anfitrión en Brasil y a semifinales",
+    "published": "2026-11-17T00:45:05.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T10:50:58.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T00:45:05.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-17T02:58:21.692Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Palma Futsal triunfa en su debut de la Copa Intercontinental",
+   "summary": "El Illes Balears Palma Futsal ganó su primer partido en la Copa Intercontinental y se clasificó como primero del Grupo A.",
+   "body": [
+    "El Illes Balears Palma Futsal abrió su participación en la Copa Intercontinental con una victoria contundente, según informa Mallorcadiario.com. El equipo venció 6-0 al AlUla en su primer encuentro, lo que le dejó en una posición favorable para avanzar en la fase de grupos.",
+    "Por otro lado, Diario de Mallorca indica que el Palma Futsal superó al anfitrión Paton Futsal con un marcador de 1-5, lo que le permitió clasificarse como primero del Grupo A y acceder a las semifinales, donde se enfrentará al campeón Carlos Barbosa el próximo miércoles a las 21 horas."
+   ]
+  },
+  "ca": {
+   "title": "El Palma Futsal triomfa en el seu debut a la Copa Intercontinental",
+   "summary": "L'Illes Balears Palma Futsal va guanyar el seu primer partit a la Copa Intercontinental i es va classificar primer del grup A.",
+   "body": [
+    "L'Illes Balears Palma Futsal va obrir la seva participació a la Copa Intercontinental amb una victòria contundent, segons informa Mallorcadiario.com. L'equip va vèncer 6-0 a l'AlUla en el seu primer enfrontament, deixant-lo en una posició favorable per avançar a la fase de grups.",
+    "D'altra banda, Diario de Mallorca indica que el Palma Futsal va superar l'amfitrió Paton Futsal amb un marcador de 1-5, la qual cosa li va permetre classificar-se primer del grup A i accedir a les semifinals, on s'enfrontarà al campió Carlos Barbosa el proper dimecres a les 21 hores."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Palma Futsal venció 6-0 al AlUla en su debut (F1)",
+    "ca": "El Palma Futsal va vèncer 6-0 a l'AlUla en el seu debut (F1)",
+    "sources": [
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "Palma Futsal ganó 5-1 al Paton Futsal y clasificó como primero del grupo (F2)",
+    "ca": "El Palma Futsal va guanyar 5-1 al Paton Futsal i es va classificar primer del grup (F2)",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": true,
+  "updatedAt": "2026-11-17T02:58:21.692Z",
+  "slug": "el-palma-futsal-triunfa-en-su-debut-de-la-copa-intercontinental-5b486",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/fd8634f9-912b-47b6-84fa-2cabf56b68c1_16-9-aspect-ratio_default_0_x576y408.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/deportes/2026/11/17/palma-futsal-asusta-mundo-goleada-136520246.html"
+  }
  },
  {
   "id": "st51adbbdee1",
@@ -5501,37 +6922,54 @@
     "lang": "es",
     "title": "Detienen al hombre implicado en el accidente en el que murió un motorista de 75 años en Ibiza",
     "published": "2026-11-16T10:37:00.000Z"
+   },
+   {
+    "id": "d52891fa2674",
+    "url": "https://www.europapress.es/illes-balears/noticia-detenido-homicidio-imprudente-hombre-relacionado-accidente-moto-eivissa-20261116141526.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Detenido por homicidio imprudente un hombre relacionado con el accidente de moto de Eivissa",
+    "published": "2026-11-16T13:15:26.000Z"
    }
   ],
   "needsWrite": false,
   "lastArticleAt": "2026-11-16T14:05:53.000Z",
   "writeErrors": 1,
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-16T19:10:35.769Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-17T02:54:08.780Z",
   "islands": [
    "ibiza"
   ],
-  "topic": "sociedad",
+  "topic": "sucesos",
   "es": {
-   "title": "Detenido el conductor que causó la muerte de un motorista de 75 años en Ibiza",
-   "summary": "Un hombre de 34 años fue detenido por la Guardia Civil tras causar la muerte de un motorista de 75 años en la madrugada de domingo en la EI‑20, a la altura de la rotonda d'en Mateu.",
+   "title": "Detenido un conductor ebrio que mató a un motorista de 75 años en Ibiza",
+   "summary": "La Guardia Civil ha detenido a un hombre de 34 años que causó la muerte de un motorista en la EI-20 y huyó del lugar. El conductor dio positivo en alcohol y se entregó esa misma madrugada.",
    "body": [
-    "El conductor del turismo, de 34 años, fue detenido en Ibiza por la Guardia Civil tras el accidente que provocó la muerte de un motorista de 75 años. El choque tuvo lugar alrededor de la 1:45 h del domingo en la EI‑20, a la altura de la rotonda d'en Mateu, donde los sanitarios confirmaron el fallecimiento de la víctima.",
-    "El detenido dio positivo en la prueba de alcoholemia y se le acusa de homicidio imprudente, abandono del lugar del accidente y conducción bajo la influencia del alcohol. Según la información publicada, el conductor se entregó a la madrugada y reconoció los hechos."
+    "La Guardia Civil ha detenido en Ibiza a un hombre de 34 años, investigado por los presuntos delitos de homicidio imprudente, abandono del lugar del accidente y conducción bajo la influencia del alcohol. El incidente se produjo la madrugada del domingo, alrededor de las 1:45 horas, en la carretera EI-20, a la altura de la rotonda d'en Mateu.",
+    "Según los datos disponibles, el vehículo del detenido colisionó con una moto, cuyo conductor, de 75 años, falleció en el acto. Los servicios sanitarios solo pudieron confirmar el deceso de la víctima en el lugar de los hechos. El conductor del turismo se dio a la fuga sin prestar auxilio, aunque se entregó a las autoridades esa misma madrugada y reconoció los hechos.",
+    "Durante la detención, el hombre dio positivo en la prueba de alcoholemia. La Guardia Civil ha confirmado la detención por homicidio imprudente, mientras que otros medios señalan que también enfrenta cargos por el abandono del lugar y la conducción bajo efectos del alcohol."
    ]
   },
   "ca": {
-   "title": "Detingut el conductor que va causar la mort d’un motorista de 75 anys a Ibiza",
-   "summary": "Un home de 34 anys ha estat detingut per la guardia civil després de provocar la mort d’un motorista de 75 anys a la madrugada del diumenge a la EI‑20, a la rotonda d’en Mateu.",
+   "title": "Detingut un conductor embriac que va matar un motorista de 75 anys a Eivissa",
+   "summary": "La Guàrdia Civil ha detingut un home de 34 anys que va causar la mort d'un motorista a la EI-20 i va fugir del lloc. El conductor va donar positiu en alcohol i es va entregar aquella mateixa matinada.",
    "body": [
-    "El conductor del turisme, de 34 anys, ha estat detingut per la guardia civil a Ibiza després del accident que va provocar la mort d’un motorista de 75 anys. L’accident es va produir al voltant de les 1:45 h del diumenge a la EI‑20, a la rotonda d’en Mateu, on els sanitaris van confirmar el deces de la víctima.",
-    "El detingut va donar positiu a la prova d’alcohol i es l’acusa de homicidi imprudent, abandonament del lloc de l’accident i conducció sota la influència de l’alcohol. Segons la informació publicada, el conductor es va entregar a la madrugada i va reconèixer els fets."
+    "La Guàrdia Civil ha detingut a Eivissa un home de 34 anys, investigat pels presumptes delictes d'homicidi imprudent, abandonament del lloc de l'accident i conducció sota la influència de l'alcohol. L'incident es va produir la matinada de diumenge, cap a les 1:45 hores, a la carretera EI-20, a l'alçada de la rotonda d'en Mateu.",
+    "Segons les dades disponibles, el vehicle del detingut va col·lidir amb una moto, el conductor de la qual, de 75 anys, va morir en l'acte. Els serveis sanitaris només van poder confirmar el decés de la víctima al lloc dels fets. El conductor del turisme va fugir sense prestar auxili, tot i que es va entregar a les autoritats aquella mateixa matinada i va reconèixer els fets.",
+    "Durant la detenció, l'home va donar positiu en la prova d'alcoholemia. La Guàrdia Civil ha confirmat la detenció per homicidi imprudent, mentre que altres mitjans apunten que també enfronta càrrecs per l'abandonament del lloc i la conducció sota els efectes de l'alcohol."
    ]
   },
   "facts": [
    {
-    "es": "Edad del motorista fallecido: 75 años",
-    "ca": "Edat del motorista falç: 75 anys",
+    "es": "El detenido es un hombre de 34 años.",
+    "ca": "El detingut és un home de 34 anys.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La víctima era un motorista de 75 años.",
+    "ca": "La víctima era un motorista de 75 anys.",
     "sources": [
      "periodicodeibiza",
      "diariodemallorca",
@@ -5540,38 +6978,34 @@
     ]
    },
    {
-    "es": "Edad del conductor detenido: 34 años",
-    "ca": "Edat del conductor detingut: 34 anys",
+    "es": "El accidente ocurrió en la EI-20, a la altura de la rotonda d'en Mateu, a las 1:45 h del domingo.",
+    "ca": "L'accident va ocórrer a la EI-20, a l'alçada de la rotonda d'en Mateu, a les 1:45 h de diumenge.",
     "sources": [
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Lugar del accidente: EI‑20, rotonda d'en Mateu",
-    "ca": "Lloc de l’accident: EI‑20, rotonda d’en Mateu",
-    "sources": [
-     "cronicabalear"
-    ]
-   },
-   {
-    "es": "Hora aproximada del accidente: 1:45 h del domingo",
-    "ca": "Hora aproximada de l’accident: 1:45 h del diumenge",
-    "sources": [
+     "cronicabalear",
      "noudiari"
     ]
    },
    {
-    "es": "El conductor dio positivo en la prueba de alcoholemia",
-    "ca": "El conductor va donar positiu a la prova d’alcohol",
+    "es": "El conductor dio positivo en alcoholemia y se entregó reconociendo los hechos.",
+    "ca": "El conductor va donar positiu en l'alcoholemia i es va entregar reconeixent els fets.",
     "sources": [
      "diariodemallorca",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Es investigado por homicidio imprudente, abandono del lugar y conducción bajo influencia del alcohol.",
+    "ca": "És investigat per homicidi imprudent, abandonament del lloc i conducció sota la influència de l'alcohol.",
+    "sources": [
+     "diariodemallorca",
+     "europapress",
      "noudiari"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-16T19:10:35.769Z",
+  "updatedAt": "2026-11-17T02:54:08.780Z",
   "slug": "detenido-el-conductor-que-causo-la-muerte-de-un-motorista-de-75-anos-5e607",
   "status": "verified",
   "image": {

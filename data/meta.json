@@ -1,13 +1,13 @@
 {
- "lastRun": "2026-11-16T20:11:17.589Z",
- "lastPublishAt": "2026-11-16T20:11:17.589Z",
+ "lastRun": "2026-11-17T03:03:37.549Z",
+ "lastPublishAt": "2026-11-17T03:03:37.549Z",
  "run": {
-  "fetched": 272,
-  "new": 3,
-  "clustered": 3,
+  "fetched": 273,
+  "new": 25,
+  "clustered": 25,
   "written": 25,
   "archived": 0,
-  "minutes": 6.2
+  "minutes": 9.7
  },
  "sources": {
   "ultimahora": {
@@ -18,7 +18,7 @@
   "diariodemallorca": {
    "ok": 4,
    "failed": 0,
-   "items": 39
+   "items": 37
   },
   "cronicabalear": {
    "ok": 0,
@@ -43,12 +43,12 @@
   "arabalears": {
    "ok": 1,
    "failed": 0,
-   "items": 27
+   "items": 28
   },
   "dbalears": {
    "ok": 1,
    "failed": 0,
-   "items": 18
+   "items": 20
   },
   "ib3": {
    "ok": 1,
@@ -78,16 +78,12 @@
  },
  "aiUsage": {
   "groq/openai/gpt-oss-120b": {
-   "calls": 6,
-   "tokens": 10427
+   "calls": 27,
+   "tokens": 49605
   },
   "groq/qwen/qwen3.8-27b": {
    "calls": 6,
-   "tokens": 10975
-  },
-  "groq/openai/gpt-oss-20b": {
-   "calls": 15,
-   "tokens": 24857
+   "tokens": 12224
   }
  }
 }
