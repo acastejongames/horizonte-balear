@@ -1,13 +1,13 @@
 {
- "lastRun": "2026-11-17T21:01:02.623Z",
- "lastPublishAt": "2026-11-17T21:01:02.623Z",
+ "lastRun": "2026-11-18T02:58:09.187Z",
+ "lastPublishAt": "2026-11-18T02:58:09.187Z",
  "run": {
-  "fetched": 290,
-  "new": 176,
+  "fetched": 292,
+  "new": 20,
   "clustered": 120,
-  "written": 15,
+  "written": 25,
   "archived": 0,
-  "minutes": 13.1
+  "minutes": 6.1
  },
  "sources": {
   "ultimahora": {
@@ -18,7 +18,7 @@
   "diariodemallorca": {
    "ok": 4,
    "failed": 0,
-   "items": 41
+   "items": 40
   },
   "cronicabalear": {
    "ok": 0,
@@ -48,7 +48,7 @@
   "dbalears": {
    "ok": 1,
    "failed": 0,
-   "items": 19
+   "items": 22
   },
   "ib3": {
    "ok": 1,
@@ -78,20 +78,20 @@
  },
  "aiUsage": {
   "groq/openai/gpt-oss-120b": {
-   "calls": 16,
-   "tokens": 35814
+   "calls": 21,
+   "tokens": 44671
   },
   "groq/qwen/qwen3.8-27b": {
-   "calls": 7,
-   "tokens": 22386
+   "calls": 3,
+   "tokens": 10115
   },
   "groq/openai/gpt-oss-20b": {
-   "calls": 2,
-   "tokens": 9425
+   "calls": 7,
+   "tokens": 19371
   },
   "gemini/gemini-flash-lite-latest": {
    "calls": 1,
-   "tokens": 2147
+   "tokens": 4630
   }
  }
 }

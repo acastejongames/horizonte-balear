@@ -1,5 +1,255 @@
 [
  {
+  "id": "st2873dae09b",
+  "createdAt": "2026-11-18T02:54:47.071Z",
+  "firstPublished": "2026-11-17T22:20:00.000Z",
+  "articles": [
+   {
+    "id": "0c1462b3eb0a",
+    "url": "https://www.dbalears.cat/balears/politica/2026/11/17/424147/ara-mes-front-ampli-proposa-els-treballadors-vulguin-dediquin-hora-feina-aprendre-catala.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Ara Més–Front Ampli proposa que els treballadors que ho vulguin dediquin una hora de feina a aprendre català",
+    "published": "2026-11-17T22:20:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T22:20:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:57:45.234Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "educacion",
+  "es": {
+   "title": "Una hora semanal de trabajo para aprender catalán propuesta por Ara Més–Front Ampli",
+   "summary": "Ara Més–Front Ampli ha presentado una iniciativa que sugiere que los empleados que lo deseen dediquen una hora de su jornada laboral al aprendizaje del catalán.",
+   "body": [
+    "La coalición Ara Més–Front Ampli ha presentado una propuesta dirigida a los empleadores de las Islas Baleares. La iniciativa plantea que los trabajadores que lo quieran puedan destinar una hora semanal de su tiempo de trabajo a recibir formación en lengua catalana.",
+    "Según el documento presentado, la medida busca facilitar el acceso al catalán sin afectar la productividad, ya que la hora se contabilizaría dentro de la jornada laboral habitual. La propuesta aún está en fase de discusión y no se ha anunciado su posible adopción por parte del Govern ni de los sindicatos."
+   ]
+  },
+  "ca": {
+   "title": "Una hora setmanal de feina per aprendre català proposada per Ara Més–Front Ampli",
+   "summary": "Ara Més–Front Ampli ha presentat una iniciativa que suggereix que els empleats que ho desitgin dediquin una hora de la seva jornada laboral a l’aprenentatge del català.",
+   "body": [
+    "La coalició Ara Més–Front Ampli ha presentat una proposta dirigida als ocupadors de les Illes Balears. La iniciativa planteja que els treballadors que ho vulguin puguin destinar una hora setmanal del seu temps de feina a rebre formació en llengua catalana.",
+    "Segons el document presentat, la mesura pretén facilitar l’accés al català sense afectar la productivitat, ja que l’hora es comptabilitzaria dins de la jornada laboral habitual. La proposta encara es troba en fase de debat i no s’ha anunciat la seva possible adopció per part del Govern ni dels sindicats."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Ara Més–Front Ampli propone que los trabajadores que lo deseen dediquen una hora semanal de su jornada laboral al aprendizaje del catalán",
+    "ca": "Ara Més–Front Ampli proposa que els treballadors que ho vulguin dediquin una hora setmanal de la seva jornada laboral a aprendre català",
+    "sources": [
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:57:45.234Z",
+  "slug": "una-hora-semanal-de-trabajo-para-aprender-catalan-propuesta-por-ara-ae09b",
+  "status": "single",
+  "image": {
+   "url": "https://db.gsstatic.es/sfAttachPlugin/266171.webp",
+   "sourceId": "dbalears",
+   "articleUrl": "https://www.dbalears.cat/balears/politica/2026/11/17/424147/ara-mes-front-ampli-proposa-els-treballadors-vulguin-dediquin-hora-feina-aprendre-catala.html"
+  }
+ },
+ {
+  "id": "st0f90692f80",
+  "createdAt": "2026-11-18T02:54:47.071Z",
+  "firstPublished": "2026-11-17T21:33:54.000Z",
+  "articles": [
+   {
+    "id": "cf1711998051",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2752191/asociacion-periodistas-entrega-premios-undecima-edicion.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "La Asociación de Periodistas entrega sus premios en su undécima edición",
+    "published": "2026-11-17T21:33:54.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T21:33:54.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:57:54.682Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "La Asociación de Periodistas entrega sus XI premios en Palma",
+   "summary": "El hotel Valparaíso acogió la undécima edición de los Premios de Periodismo de la APIB, con la participación de 60 piezas y la presencia del alcalde de Palma y la presidenta de la asociación.",
+   "body": [
+    "El hotel Valparaíso fue el escenario de la entrega de los XI Premios de Periodismo de la Asociación de Periodistas de las Islas Baleares (APIB) el pasado viernes. Un total de 60 trabajos periodísticos fueron presentados para la condecoración, y el acto contó con la asistencia de periodistas, directores de medios, autoridades y representantes de la sociedad balear.",
+    "Durante la ceremonia intervinieron el alcalde de Palma, Jaime Martínez, y la presidenta de la APIB, Ángeles Durán, quienes resaltaron la importancia del periodismo local y la calidad de las piezas premiadas."
+   ]
+  },
+  "ca": {
+   "title": "L'Associació de Periodistes entrega els seus XI premis a Palma",
+   "summary": "L'hotel Valparaíso va acollir la onzena edició dels Premis de Periodisme de l'APIB, amb la participació de 60 treballs i la presència de l'alcalde de Palma i la presidenta de l'associació.",
+   "body": [
+    "L'hotel Valparaíso va ser l'escenari de la entrega dels XI Premis de Periodisme de l'Associació de Periodistes de les Illes Balears (APIB) el passat divendres. Un total de 60 treballs periodístics van ser presentats per a la condecoració, i l'acte va comptar amb la presència de periodistes, directors de mitjans, autoritats i representants de la societat balear.",
+    "Durant la cerimònia van intervenir l'alcalde de Palma, Jaime Martínez, i la presidenta de l'APIB, Ángeles Durán, que van destacar la importància del periodisme local i la qualitat dels treballs premiats."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Entrega de los XI Premios de Periodismo de la APIB",
+    "ca": "Entrega dels XI Premis de Periodisme de l'APIB",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "60 piezas periodísticas presentadas",
+    "ca": "60 treballs periodístics presentats",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Acto en el hotel Valparaíso, Palma",
+    "ca": "Acte a l'hotel Valparaíso, Palma",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Intervención del alcalde Jaime Martínez y la presidenta Ángeles Durán",
+    "ca": "Intervenció de l'alcalde Jaime Martínez i la presidenta Ángeles Durán",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:57:54.682Z",
+  "slug": "la-asociacion-de-periodistas-entrega-sus-xi-premios-en-palma-92f80",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4853241.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/17/2752191/asociacion-periodistas-entrega-premios-undecima-edicion.html"
+  }
+ },
+ {
+  "id": "st97929abc7c",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T21:30:17.000Z",
+  "articles": [
+   {
+    "id": "99f7cd00462d",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/17/unvrs-ibiza-mejor-club-mundo-136550110.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "[UNVRS] Ibiza repite como mejor club del mundo por segundo año consecutivo",
+    "published": "2026-11-17T21:30:17.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T21:30:17.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:58:09.183Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Ibiza es elegido mejor club del mundo 2026 por segundo año consecutivo",
+   "summary": "El club ibicenco ha ganado el primer puesto en la clasificación The World’s 100 Best Clubs™ 2026, superando a 645 locales de 76 países.",
+   "body": [
+    "Ibiza ha sido seleccionado como el mejor club del mundo en la 11ª edición de los Golden Moon Awards, celebrada el martes en la Sala La Paloma de Barcelona. La votación incluyó a 646 establecimientos de 76 naciones y el club ibicenco encabeza la lista The World’s 100 Best Clubs™ 2026 por segunda vez consecutiva.",
+    "El reconocimiento también sitúa a tres locales de la isla entre los cinco primeros del ranking mundial y a siete dentro de los cien mejores, consolidando la posición de Ibiza como referente internacional en la vida nocturna."
+   ]
+  },
+  "ca": {
+   "title": "Ibiza és elegit millor club del món 2026 per segon any consecutiu",
+   "summary": "El club ibicenc ha guanyat el primer lloc a la classificació The World’s 100 Best Clubs™ 2026, superant 645 locals de 76 països.",
+   "body": [
+    "Ibiza ha estat seleccionat com el millor club del món en la 11a edició dels Golden Moon Awards, celebrada dimarts a la Sala La Paloma de Barcelona. La votació va incloure 646 establiments de 76 nacions i el club ibicenc encapçala la llista The World’s 100 Best Clubs™ 2026 per segon any consecutiu.",
+    "El reconeixement també situa tres locals de l’illa entre els cinc primers del rànquing mundial i set dins dels cent millors, consolidant la posició d'Ibiza com a referent internacional en la vida nocturna."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Ibiza ha sido elegido mejor club del mundo 2026 en la 11ª edición de los Golden Moon Awards",
+    "ca": "Ibiza ha estat seleccionat com el millor club del món 2026 en la 11a edició dels Golden Moon Awards",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "La edición contó con 646 locales nominados de 76 países",
+    "ca": "L’edició va comptar amb 646 locals nominats de 76 països",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Ibiza encabeza la clasificación The World’s 100 Best Clubs™ 2026 por segundo año consecutivo",
+    "ca": "Ibiza encapçala la classificació The World’s 100 Best Clubs™ 2026 per segon any consecutiu",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Tres establecimientos ibicencos están entre los cinco primeros del mundo y siete entre los cien mejores",
+    "ca": "Tres establiments ibicencs estan entre els cinc primers del món i set entre els cent millors",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:58:09.183Z",
+  "slug": "ibiza-es-elegido-mejor-club-del-mundo-2026-por-segundo-ano-consecutivo-abc7c",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/2464f116-54dd-41ea-80d0-cfce658c3659_16-9-aspect-ratio_default_0_x603y316.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/17/unvrs-ibiza-mejor-club-mundo-136550110.html"
+  }
+ },
+ {
+  "id": "st32b4300f15",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T20:57:00.000Z",
+  "articles": [
+   {
+    "id": "f07070341dbe",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2752165/bartolome-cursach-recibe-premio-internacional-por-anos-ocio-nocturno.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Bartolomé Cursach recibe un premio internacional por sus 60 años en el ocio nocturno",
+    "published": "2026-11-17T20:57:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T20:57:00.000Z"
+ },
+ {
+  "id": "std9e2abd88d",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T20:49:00.000Z",
+  "articles": [
+   {
+    "id": "51afed84ce7b",
+    "url": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/17/2752173/propone-cupos-inmigracion-requisitos-integracion-centros-retorno-terceros-paises.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El PP propone cupos de inmigración, requisitos de integración y centros de retorno en terceros países",
+    "published": "2026-11-17T20:49:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T20:49:00.000Z"
+ },
+ {
   "id": "std9ef8a2aaa",
   "createdAt": "2026-11-17T20:48:35.402Z",
   "firstPublished": "2026-11-17T20:26:37.000Z",
@@ -172,7 +422,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/783e3114-c23e-4264-9814-d2bbf2f0a124_16-9-aspect-ratio_default_0_x610y271.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/17/inca-entrega-premis-dijous-bo-136547369.html"
-  }
+  },
+  "distinctFrom": [
+   "st9faa0ba156"
+  ]
  },
  {
   "id": "sta6f6c91df1",
@@ -247,7 +500,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/a34e8beb-ae4f-4505-848f-977684921cd0_16-9-aspect-ratio_default_0_x834y828.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/17/kohlberg-homenaje-abonados-fieles-mallorca-136556822.html"
-  }
+  },
+  "distinctFrom": [
+   "st8df6a60b84"
+  ]
  },
  {
   "id": "st3c1ddaeaf0",
@@ -269,59 +525,52 @@
     "lang": "es",
     "title": "El Banco de Leche ha ayudado a 1.868 bebes en sus 25 años en activo",
     "published": "2026-11-17T19:50:24.000Z"
+   },
+   {
+    "id": "4eed87c13cab",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/17/sergi-verd-pediatra-leche-banco-136557016.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Sergi Verd, pediatra: «La leche del banco podía marcar la diferencia entre la vida y la muerte»",
+    "published": "2026-11-17T20:54:12.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-17T20:14:13.000Z",
+  "lastArticleAt": "2026-11-17T20:54:12.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-17T20:56:08.959Z",
+  "writtenAt": "2026-11-18T02:55:06.617Z",
   "islands": [
    "mallorca"
   ],
-  "topic": "sociedad",
+  "topic": "sanidad",
   "es": {
-   "title": "El Banco de Leche Materna celebra 25 años y ha ayudado a 1.868 bebés",
-   "summary": "En la celebración de su cuarto de siglo, el Banco de Leche Materna de Baleares informó que 1.373 madres han donado 7.289 litros, beneficiando a 1.868 bebés en 25 años.",
+   "title": "El Banco de Leche Materna celebra 25 años y ha beneficiado a 1.868 bebés",
+   "summary": "En su cuarto de siglo, el Banco de Leche Materna de Baleares, el primero de España, reporta que 1.373 madres han donado 7.289 litros de leche, ayudando a 1.868 recién nacidos.",
    "body": [
-    "El Banco de Leche Materna, dependiente del Banco de Tejidos de Baleares, conmemora sus 25 años de actividad con una ceremonia en el espacio IBAVI. Según datos publicados por Última Hora, 1.373 madres han aportado un total de 7.289 litros de leche materna, lo que ha permitido atender a 1.868 bebés desde su puesta en marcha en 2001.",
-    "IB3 Notícies confirma que, desde su fundación, 1.373 mujeres han donado leche para alimentar a 1.868 niños. Además, destaca que el año pasado 85 donantes entregaron 574 litros, suficiente para ayudar a 152 bebés. Ambas fuentes coinciden en las cifras globales y en la relevancia del banco como el primero de su tipo en España."
+    "El Banco de Leche Materna, dependiente del Banco de Tejidos de Baleares, conmemora este 17 de noviembre su 25.º aniversario en el espacio IBAVI de Palma. Según datos publicados por Última Hora, durante sus 25 años de funcionamiento 1.373 mujeres han aportado un total de 7.289 litros de leche materna, lo que ha permitido atender a 1.868 bebés.",
+    "IB3 Notícies indica que el año pasado 85 donantes entregaron 574 litros, suficiente para ayudar a 152 niños. La celebración contó con la presencia de la consellera de Salut, Manuela García, y de varios profesionales de la salud, entre ellos el pediatra Sergi Verd, quien destacó la importancia del banco para los recién nacidos prematuros."
    ]
   },
   "ca": {
    "title": "El Banc de Llet Materna celebra 25 anys i ha ajudat 1.868 nadons",
-   "summary": "En la celebració del seu quart de segle, el Banc de Llet Materna de les Balears ha informat que 1.373 dones han donat 7.289 litres, beneficiant 1.868 nadons en 25 anys.",
+   "summary": "En el seu quart de segle, el Banc de Llet Materna de les Balears, el primer d'Espanya, informa que 1.373 dones han donat 7.289 litres de llet, beneficiant 1.868 nadons recents.",
    "body": [
-    "El Banc de Llet Materna, dependència del Banc de Teixits de les Balears, celebra els seus 25 anys d’activitat amb una cerimònia a l’espai IBAVI. Segons les dades publicades per Última Hora, 1.373 mares han aportat un total de 7.289 litres de llet materna, permetent atendre 1.868 nadons des del seu inici el 2001.",
-    "IB3 Notícies confirma que, des de la seva fundació, 1.373 dones han donat llet per alimentar 1.868 infants. També destaca que l’any passat 85 donants van aportar 574 litres, suficients per ajudar 152 nadons. Les dues fonts coincideixen en les xifres globals i en la importància del banc com el primer del seu tipus a Espanya."
+    "El Banc de Llet Materna, dependència del Banc de Teixits de les Balears, celebra aquest 17 de novembre el seu 25è aniversari a l'espai IBAVI de Palma. D'acord amb les dades publicades per Última Hora, durant els seus 25 anys de funcionament 1.373 dones han aportat un total de 7.289 litres de llet materna, permetent atendre 1.868 nadons.",
+    "IB3 Notícies assenyala que l'any passat 85 donants van donar 574 litres, suficients per ajudar 152 infants. La celebració va comptar amb la presència de la consellera de Salut, Manuela García, i diversos professionals de la salut, entre ells el pediatre Sergi Verd, que va subratllar la importància del banc per als nadons prematurs vulnerables."
    ]
   },
   "facts": [
    {
-    "es": "1.373 madres han donado 7.289 litros de leche materna",
-    "ca": "1.373 dones han donat 7.289 litres de llet materna",
+    "es": "1.868 bebés beneficiados por 1.373 madres que donaron 7.289 litros de leche en 25 años",
+    "ca": "1.868 nadons beneficiats per 1.373 dones que van donar 7.289 litres de llet en 25 anys",
     "sources": [
      "ultimahora",
      "ib3"
     ]
    },
    {
-    "es": "1.868 bebés han sido beneficiados",
-    "ca": "1.868 nadons han estat beneficiats",
-    "sources": [
-     "ultimahora",
-     "ib3"
-    ]
-   },
-   {
-    "es": "El banco celebra su 25.º aniversario en el espacio IBAVI",
-    "ca": "El banc celebra el seu 25è aniversari a l'espai IBAVI",
-    "sources": [
-     "ultimahora"
-    ]
-   },
-   {
-    "es": "En el año pasado 85 mujeres donaron 574 litros, ayudando a 152 bebés",
-    "ca": "L'any passat 85 dones van donar 574 litres, ajudant 152 nadons",
+    "es": "En 2025, 85 mujeres donaron 574 litros, ayudando a 152 bebés",
+    "ca": "L'any 2025, 85 dones van donar 574 litres, ajudant 152 nadons",
     "sources": [
      "ib3"
     ]
@@ -329,7 +578,7 @@
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-17T20:56:08.959Z",
+  "updatedAt": "2026-11-18T02:55:06.617Z",
   "slug": "el-banco-de-leche-materna-celebra-25-anos-y-ha-ayudado-a-1-868-bebes-aeaf0",
   "status": "verified",
   "image": {
@@ -667,23 +916,6 @@
   "lastArticleAt": "2026-11-17T18:10:35.000Z"
  },
  {
-  "id": "st34c26efa81",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T18:10:00.000Z",
-  "articles": [
-   {
-    "id": "ca5e469e4bc2",
-    "url": "https://www.dbalears.cat/balears/balears/2026/11/17/424141/col-legi-advocats-les-balears-analitza-assistencia-advocat-acte-amb-simbologia-nazi.html",
-    "sourceId": "dbalears",
-    "lang": "ca",
-    "title": "El Col·legi d'Advocats de les Balears analitza l'assistència d'un advocat a un acte amb simbologia nazi",
-    "published": "2026-11-17T18:10:00.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T18:10:00.000Z"
- },
- {
   "id": "stbdd4d54cb3",
   "createdAt": "2026-11-17T20:48:35.402Z",
   "firstPublished": "2026-11-17T18:03:00.000Z",
@@ -716,23 +948,6 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-17T17:58:33.000Z"
- },
- {
-  "id": "st9b4584fae0",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T17:52:50.000Z",
-  "articles": [
-   {
-    "id": "0d1076392ce7",
-    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenidos-joven-menor-traficar-hachis-136553071.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Detenidos un joven y un menor por traficar con hachís en Inca",
-    "published": "2026-11-17T17:52:50.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T17:52:50.000Z"
  },
  {
   "id": "st0bdc4150e5",
@@ -879,23 +1094,6 @@
   "lastArticleAt": "2026-11-17T17:08:00.000Z"
  },
  {
-  "id": "st925979639e",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T17:03:48.000Z",
-  "articles": [
-   {
-    "id": "47ac6fdbf298",
-    "url": "https://www.diariodemallorca.es/mallorca/2026/11/17/investigacion-naufragio-yate-lujo-bayesian-136548751.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "La investigación del naufragio del yate de lujo Bayesian señala al capitán residente en Mallorca por su reacción tardía ante la tormenta",
-    "published": "2026-11-17T17:03:48.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T17:03:48.000Z"
- },
- {
   "id": "st629c161eec",
   "createdAt": "2026-11-17T20:48:35.402Z",
   "firstPublished": "2026-11-17T17:00:50.000Z",
@@ -968,9 +1166,80 @@
     "published": "2026-11-17T16:38:52.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-17T17:10:13.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-18T02:55:49.720Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Unas 200‑250 personas protestan frente a la Conselleria de Educación de Mallorca",
+   "summary": "Un grupo de trabajadores y trabajadoras de las escoletas de 0 a 3 años se ha concentrado frente a la sede de la Conselleria de Educación para exigir una financiación adecuada y mejoras salariales.",
+   "body": [
+    "El 17 de noviembre, entre las 16:00 y 17:00, se registró una concentración frente a la Conselleria de Educación de Mallorca. Según la prensa local, el número de participantes oscila entre 200 y 250 personas, convocadas por el sindicato USO. Los manifestantes exigen una financiación suficiente para los conciertos educativos del primer ciclo de Infantil, de 0 a 3 años, con el objetivo de mejorar los salarios de las trabajadoras y garantizar la continuidad de los centros. La protesta se desarrolló de forma pacífica y sin incidentes."
+   ]
+  },
+  "ca": {
+   "title": "Entre 200 i 250 persones protesten davant la Conselleria d'Educació de Mallorca",
+   "summary": "Un grup de treballadors i treballadores de les escoletes de 0 a 3 anys es va concentrar davant la Conselleria d'Educació per exigir una finançament adequat i millores salarials.",
+   "body": [
+    "El 17 de novembre, entre les 16:00 i 17:00, es va registrar una concentració davant la Conselleria d'Educació de Mallorca. Segons la premsa local, el nombre de participants oscila entre 200 i 250 persones, convocades pel sindicat USO. Els manifestants exigen una finançament suficient per als concerts educatius del primer cicle d'Infantil, de 0 a 3 anys, amb l'objectiu d' millorar els salaris de les treballadores i garantir la continuïtat dels centres. La protesta es va desenvolupar de forma pacífica i sense incidents."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Número de participantes: 200‑250",
+    "ca": "Nombre de participants: 200‑250",
+    "sources": [
+     "noudiari",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Lugar: Conselleria de Educación de Mallorca",
+    "ca": "Lloc: Conselleria d'Educació de Mallorca",
+    "sources": [
+     "noudiari",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Motivo: exigir financiación adecuada y mejoras salariales para escoletas de 0 a 3 años",
+    "ca": "Motiu: exigir finançament adequat i millores salarials per a escoletes de 0 a 3 anys",
+    "sources": [
+     "noudiari",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [
+   {
+    "es": "F1 menciona \"unas 250 personas\"",
+    "ca": "F1 menciona \"uns 250 persones\"",
+    "sources": [
+     "noudiari"
+    ]
+   },
+   {
+    "es": "F2 menciona \"unas 200 personas\"",
+    "ca": "F2 menciona \"uns 200 persones\"",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "contradiction": true,
+  "updatedAt": "2026-11-18T02:55:49.720Z",
+  "slug": "unas-200-250-personas-protestan-frente-a-la-conselleria-de-educacion-d3178",
+  "status": "disputed",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/4dacf638-fa80-4b3a-85b7-da28fe57c25c_16-9-aspect-ratio_default_0_x800y400.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/17/200-trabajadoras-escoletas-concentran-frente-136550130.html"
+  }
  },
  {
   "id": "st770b5d5085",
@@ -1137,23 +1406,6 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-17T16:23:40.000Z"
- },
- {
-  "id": "ste454e36105",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T16:22:29.000Z",
-  "articles": [
-   {
-    "id": "2b7c2c8aee9f",
-    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/la-guerra-contra-las-colillas-de-formentera-40-000-colillas-recogidas-en-cinco-meses/",
-    "sourceId": "noudiari",
-    "lang": "es",
-    "title": "La guerra contra las colillas de Formentera: 40.000 colillas recogidas en cinco meses",
-    "published": "2026-11-17T16:22:29.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T16:22:29.000Z"
  },
  {
   "id": "st26de479bdc",
@@ -1418,27 +1670,67 @@
     "lang": "es",
     "title": "El acusado de disparar a un policía local de Palma en Corea, ante el juez",
     "published": "2026-11-17T15:45:40.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T15:45:40.000Z"
- },
- {
-  "id": "sta064a0e0a3",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T15:41:21.000Z",
-  "articles": [
+   },
    {
-    "id": "91fd539a9427",
-    "url": "https://ib3.org/antonio-raillo-declara-als-jutjats-per-un-presumpte-delicte-de-coaccions-i-injuries-a-la-seva-exparella",
-    "sourceId": "ib3",
-    "lang": "ca",
-    "title": "Antonio Raíllo declara als jutjats per un presumpte delicte de coaccions i injúries a la seva exparella",
-    "published": "2026-11-17T15:41:21.000Z"
+    "id": "f1d9aa80471a",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/18/2752139/jueza-envia-prision-hombre-disparo-policia-local-corea.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "La jueza envía a prisión al hombre que disparó a un policía local en 'Corea'",
+    "published": "2026-11-17T23:10:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T15:41:21.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T23:10:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:55:40.306Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "El juez envía a prisión al hombre acusado de disparar a un policía local en el barrio de Corea",
+   "summary": "Un hombre de 53 años ha sido puesto a disposición judicial por tentativa de homicidio y atentado a agentes tras disparar a un agente de la Policía Local en el barrio de Corea, Palma.",
+   "body": [
+    "El juzgado de Palma ha puesto a disposición de la autoridad judicial a un hombre acusado de disparar a un agente de la Policía Local en el barrio de Corea. Según la información de Europa Press Baleares, el acusado ha sido considerado como presunto autor de un delito de tentativa de homicidio y otro de atentado contra agentes de la autoridad.",
+    "La jueza ha ordenado su ingreso en prisión preventiva. Última Hora indica que el agresor, de 53 años, está acusado de intento de homicidio y atentado. Ambas fuentes coinciden en los cargos y en el hecho de que el proceso judicial se haya iniciado en Palma."
+   ]
+  },
+  "ca": {
+   "title": "El jutge envia a presó l'home acusat de disparar a un policia local al barri de Corea",
+   "summary": "Un home de 53 anys ha estat posat a disposició judicial per tentativa d'homicidi i atemptat a agents després de disparar a un agent de la Policia Local al barri de Corea, Palma.",
+   "body": [
+    "El jutjat de Palma ha posat a disposició de l'autoritat judicial un home acusat de disparar a un agent de la Policia Local al barri de Corea. Segons Europa Press Balears, l'acusat és considerat com a presumptiu autor d'un delicte de tentativa d'homicidi i d'un altre d'atemptat contra agents de l'autoritat.",
+    "La jutgessa ha ordenat el seu ingrés en presó preventiva. Última Hora indica que l'agressor, de 53 anys, està acusat d'intent d'homicidi i atemptat. Ambdues fonts coincideixen en els càrrecs i en el fet que el procés judicial s'hagi iniciat a Palma."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El hombre acusado de disparar a un agente de la Policía Local en el barrio de Corea ha sido puesto a disposición judicial por tentativa de homicidio y atentado a agentes",
+    "ca": "L'home acusat de disparar a un agent de la Policia Local al barri de Corea ha estat posat a disposició judicial per tentativa d'homicidi i atemptat a agents",
+    "sources": [
+     "europapress",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El agresor tiene 53 años",
+    "ca": "L'agressor té 53 anys",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:40.306Z",
+  "slug": "el-juez-envia-a-prision-al-hombre-acusado-de-disparar-a-un-policia-b0dc2",
+  "status": "verified",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4853151.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/18/2752139/jueza-envia-prision-hombre-disparo-policia-local-corea.html"
+  }
  },
  {
   "id": "std2db2f42bf",
@@ -1473,98 +1765,6 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-17T15:32:14.000Z"
- },
- {
-  "id": "stdc3b9d5793",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T15:30:05.000Z",
-  "articles": [
-   {
-    "id": "2a157b810c59",
-    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-hombre-intentaba-introducir-50-136547695.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Detenido un hombre que intentaba introducir 50 placas de hachís en Menorca",
-    "published": "2026-11-17T16:14:16.000Z"
-   },
-   {
-    "id": "8eb01a2dcd53",
-    "url": "https://www.europapress.es/illes-balears/noticia-detenido-hombre-intentaba-introducir-50-placas-hachis-menorca-20261117163005.html",
-    "sourceId": "europapress",
-    "lang": "es",
-    "title": "Detenido un hombre que intentaba introducir 50 placas de hachís en Menorca",
-    "published": "2026-11-17T15:30:05.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-17T16:14:16.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-17T20:57:20.999Z",
-  "islands": [
-   "menorca"
-  ],
-  "topic": "sucesos",
-  "es": {
-   "title": "Detenido un ecuatoriano de 29 años por intentar introducir 50 placas de hachís en el puerto de Maó",
-   "summary": "La Guardia Civil interceptó a un hombre de origen ecuatoriano, de 29 años, durante un control en el puerto de Maó, por presunto tráfico de hachís.",
-   "body": [
-    "La Guardia Civil ha detenido en el puerto de Maó a un hombre de origen ecuatoriano y 29 años, bajo sospecha de delito de tráfico de drogas. La detención se produjo durante un dispositivo de control llevado a cabo por el Destacamento Fiscal y de Fronteras del Instituto Armado, en la zona de desembarque de las instalaciones portuarias.",
-    "Según los informes, el detenido intentaba introducir 50 placas de hachís procedentes de un buque que llegaba desde Barcelona. La intervención se realizó el pasado sábado, coincidiendo con la llegada del buque."
-   ]
-  },
-  "ca": {
-   "title": "Detingut un equatorià de 29 anys per intentar introduir 50 plaques d'hasis al port de Maó",
-   "summary": "La Guàrdia Civil ha interceptat un home d'origen equatorià, de 29 anys, durant un control al port de Maó, per presumptes delictes de tràfic d'hasis.",
-   "body": [
-    "La Guàrdia Civil ha detingut al port de Maó un home d'origen equatorià i de 29 anys, com a presumptiu autor d'un delicte de tràfic de drogues. La detenció s'ha produït durant un dispositiu de control realitzat pel Destacament Fiscal i de Fronteres de l'Institut Armat, a la zona d'embarcament de les instal·lacions portuàries.",
-    "Segons els informes, el detingut intentava introduir 50 plaques d'hasis procedents d'un vaixell que arribava des de Barcelona. La intervenció es va dur a terme el passat dissabte, coincidint amb l'arribada del vaixell."
-   ]
-  },
-  "facts": [
-   {
-    "es": "Hombre de origen ecuatoriano, 29 años, detenido en el puerto de Maó por tráfico de hachís",
-    "ca": "Home d'origen equatorià, 29 anys, detingut al port de Maó per tràfic d'hasis",
-    "sources": [
-     "europapress",
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Intentaba introducir 50 placas de hachís procedentes de un buque que llegaba desde Barcelona",
-    "ca": "Intentava introduir 50 plaques d'hasis procedents d'un vaixell que arribava des de Barcelona",
-    "sources": [
-     "europapress",
-     "diariodemallorca"
-    ]
-   }
-  ],
-  "discrepancies": [],
-  "contradiction": false,
-  "updatedAt": "2026-11-17T20:57:20.999Z",
-  "slug": "detenido-un-ecuatoriano-de-29-anos-por-intentar-introducir-50-placas-d5793",
-  "status": "verified",
-  "image": {
-   "url": "https://estaticos-cdn.prensaiberica.es/clip/32717419-5c2b-4ded-8177-d6e024b82311_16-9-aspect-ratio_default_1532438.jpg",
-   "sourceId": "diariodemallorca",
-   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-hombre-intentaba-introducir-50-136547695.html"
-  }
- },
- {
-  "id": "st3bf1214077",
-  "createdAt": "2026-11-17T20:48:35.402Z",
-  "firstPublished": "2026-11-17T15:23:32.000Z",
-  "articles": [
-   {
-    "id": "22cae8ac0c89",
-    "url": "https://www.noudiari.es/cultura-ibiza/la-banda-simfonica-ciutat-deivissa-ofrecera-un-concierto-solidario-por-santa-cecilia-en-can-ventosa/",
-    "sourceId": "noudiari",
-    "lang": "es",
-    "title": "La Banda Simfònica Ciutat d’Eivissa ofrecerá un concierto solidario por Santa Cecilia en Can Ventosa",
-    "published": "2026-11-17T15:23:32.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T15:23:32.000Z"
  },
  {
   "id": "stbf808782e3",
@@ -1781,24 +1981,1087 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/54277198-5b81-4b35-8c00-7c58ed92ad92_16-9-aspect-ratio_default_0_x800y300.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/17/carmen-ferrer-candidata-pp-senado-seguridad-ibiza-136541926.html"
+  },
+  "distinctFrom": [
+   "st53618fa320"
+  ]
+ },
+ {
+  "id": "st9b4584fae0",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T13:44:00.000Z",
+  "articles": [
+   {
+    "id": "0d1076392ce7",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenidos-joven-menor-traficar-hachis-136553071.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Detenidos un joven y un menor por traficar con hachís en Inca",
+    "published": "2026-11-17T17:52:50.000Z"
+   },
+   {
+    "id": "832d9021a5b4",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/17/2751801/dos-jovenes-anos-consumian-droga-via-publica-arrestados-por-vender-hachis-inca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Dos jóvenes de 17 y 19 años que consumían droga en la vía pública arrestados por vender hachís en Inca",
+    "published": "2026-11-17T13:44:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T17:52:50.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-18T02:55:47.149Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Dos jóvenes de 17 y 19 años detenidos en Inca por tráfico de hachís",
+   "summary": "La Guardia Civil arrestó a un joven de 19 años y a un menor de 17 en el municipio de Inca, tras comprobar que consumían droga y portaban hachís y dinero en efectivo.",
+   "body": [
+    "La Guardia Civil procedió a la detención de dos jóvenes, de 19 y 17 años, en Inca, el pasado miércoles. Los agentes intervinieron tras recibir quejas de que los dos chicos estaban fumando un porro de marihuana en la calle y tras comprobar que portaban distintas cantidades de hachís y dinero en efectivo fraccionado.",
+    "Según los informes de la Guardia Civil, los implicados se encontraban cometiendo un presunto delito de tráfico de estupefacientes en la vía pública. No se han publicado detalles sobre la cantidad de droga ni el monto de dinero detenidos.",
+    "Las autoridades no han indicado si los jóvenes serán juzgados o si se aplicarán medidas de prevención. La detención se ha registrado en la policía local de Inca y se ha comunicado a los tribunales competentes."
+   ]
+  },
+  "ca": {
+   "title": "Dos joves de 17 i 19 anys detinguts a Inca per tràfic de hachís",
+   "summary": "La Guardia Civil ha arrestat un jove de 19 anys i un menor de 17 a Inca, després de comprovar que consumien droga i portaven hachís i diners en efectiu.",
+   "body": [
+    "La Guardia Civil ha procedit a la detenció de dos joves, de 19 i 17 anys, a Inca, el passat dimecres. Els agents van intervenir després de rebre queixes que els dos nois estaven fumant un porro de marihuana a la via pública i després de comprovar que portaven diferents quantitats de hachís i diners en efectiu fraccionat.",
+    "Segons els informes de la Guardia Civil, els implicats es trobaven cometent un presumpte delicte de tràfic d’estupefacients a la via pública. No s’han publicat detalls sobre la quantitat de droga ni el valor dels diners detinguts.",
+    "Les autoritats no han indicat si els joves seran jutjats o si s’aplicaran mesures de prevenció. La detenció s’ha registrat a la policia local d’Inca i s’ha comunicat als tribunals competents."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Dos jóvenes de 19 y 17 años detenidos en Inca por tráfico de hachís",
+    "ca": "Dos joves de 19 i 17 anys detinguts a Inca per tràfic de hachís",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:47.149Z",
+  "slug": "dos-jovenes-de-17-y-19-anos-detenidos-en-inca-por-trafico-de-hachis-4fae0",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/e930a579-7b67-49e8-887f-222768d0c19a_16-9-aspect-ratio_default_0_x480y201.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenidos-joven-menor-traficar-hachis-136553071.html"
   }
  },
  {
-  "id": "st5279e55bc2",
-  "createdAt": "2026-11-17T11:45:00.556Z",
-  "firstPublished": "2026-11-17T11:39:05.000Z",
+  "id": "stdc3b9d5793",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T13:42:00.000Z",
   "articles": [
    {
-    "id": "16914d7c028e",
-    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-palma-descargarse-pornografia-infantil-136533438.html",
+    "id": "2a157b810c59",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-hombre-intentaba-introducir-50-136547695.html",
     "sourceId": "diariodemallorca",
     "lang": "es",
-    "title": "Un detenido en Palma por descargarse pornografía infantil",
-    "published": "2026-11-17T11:39:05.000Z"
+    "title": "Detenido un hombre que intentaba introducir 50 placas de hachís en Menorca",
+    "published": "2026-11-17T16:14:16.000Z"
+   },
+   {
+    "id": "8eb01a2dcd53",
+    "url": "https://www.europapress.es/illes-balears/noticia-detenido-hombre-intentaba-introducir-50-placas-hachis-menorca-20261117163005.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Detenido un hombre que intentaba introducir 50 placas de hachís en Menorca",
+    "published": "2026-11-17T15:30:05.000Z"
+   },
+   {
+    "id": "100bde42e877",
+    "url": "https://www.menorca.info/menorca/sucesos/2026/11/17/2751803/detenido-puerto-mao-cinco-kilos-hachis-procedentes-barcelona.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Detenido en el puerto de Maó con cinco kilos de hachís procedentes de Barcelona",
+    "published": "2026-11-17T13:42:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T16:14:16.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:55:19.410Z",
+  "islands": [
+   "menorca"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "Detenido en el puerto de Maó un ecuatoriano de 29 años por tráfico de hachís",
+   "summary": "La Guardia Civil interceptó a un hombre de 29 años, originario de Ecuador y residente en Es Castell, mientras desembarcaba de un buque procedente de Barcelona.",
+   "body": [
+    "La Guardia Civil detuvo el pasado viernes en el puerto de Maó a un joven de 29 años, de origen ecuatoriano y residente en Es Castell, como presunto autor de un delito de tráfico de drogas. El operativo se realizó durante un dispositivo de control en la zona de desembarque, coincidiendo con la llegada de un buque procedente de Barcelona.",
+    "Según el medio Es Diari, los agentes localizaron cinco kilos de hachís en el equipaje del detenido. Otros medios, Europa Press Baleares y Diario de Mallorca, informan que el objetivo era introducir 50 placas de hachís, sin precisar el peso exacto."
+   ]
+  },
+  "ca": {
+   "title": "Detingut al port de Maó un equatorià de 29 anys per tràfic d'hasis",
+   "summary": "La Guàrdia Civil va interceptar un home de 29 anys, originari de l'Equador i resident a Es Castell, mentre desembarcava d'un vaixell procedent de Barcelona.",
+   "body": [
+    "La Guàrdia Civil va detenir el divendres passat al port de Maó a un jove de 29 anys, d’origen equatorià i resident a Es Castell, com a presumptiu autor d’un delicte de tràfic de drogues. L’operació es va dur a terme durant un dispositiu de control a la zona d’embarcament, coincidint amb l’arribada d’un vaixell procedent de Barcelona.",
+    "Segons el Diari Es, els agents van localitzar cinc quilos d’hasis al equipatge del detingut. Altres mitjans, Europa Press Balears i Diario de Mallorca, informen que l’objectiu era introduir 50 plaques d’hasis, sense precisar el pes exacte."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Detenido un hombre de 29 años, origen ecuatoriano, residente en Es Castell",
+    "ca": "Detingut un home de 29 anys, origen equatorià, resident a Es Castell",
+    "sources": [
+     "menorcainfo",
+     "europapress",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Se encontraron cinco kilos de hachís (F1) o se pretendía introducir 50 placas de hachís (F2, F3)",
+    "ca": "Es van trobar cinc quilos d'hasis (F1) o es pretenia introduir 50 plaques d'hasis (F2, F3)",
+    "sources": [
+     "menorcainfo",
+     "europapress",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": true,
+  "updatedAt": "2026-11-18T02:55:19.410Z",
+  "slug": "detenido-un-ecuatoriano-de-29-anos-por-intentar-introducir-50-placas-d5793",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/32717419-5c2b-4ded-8177-d6e024b82311_16-9-aspect-ratio_default_1532438.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-hombre-intentaba-introducir-50-136547695.html"
+  },
+  "distinctFrom": [
+   "steeeac5e607",
+   "st1be58669c7"
+  ]
+ },
+ {
+  "id": "stca4b47ee3c",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T13:40:38.000Z",
+  "articles": [
+   {
+    "id": "cf19b4be49a9",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/un-ibicenco-en-sitges-mi-top-25-de-peor-a-mejor-parte-2-por-raul-medrano/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Un Ibicenco en Sitges: Mi top 25, de peor a mejor (parte 2) por Raül Medrano",
+    "published": "2026-11-17T13:40:38.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-17T11:39:05.000Z"
+  "lastArticleAt": "2026-11-17T13:40:38.000Z"
+ },
+ {
+  "id": "sta064a0e0a3",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T13:34:58.000Z",
+  "articles": [
+   {
+    "id": "91fd539a9427",
+    "url": "https://ib3.org/antonio-raillo-declara-als-jutjats-per-un-presumpte-delicte-de-coaccions-i-injuries-a-la-seva-exparella",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Antonio Raíllo declara als jutjats per un presumpte delicte de coaccions i injúries a la seva exparella",
+    "published": "2026-11-17T15:41:21.000Z"
+   },
+   {
+    "id": "229adc8888bc",
+    "url": "https://www.arabalears.cat/societat/antonio-raillo-declara-davant-jutge-coaccions-injuries-seva-exparella_1_5913451.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Antonio Raíllo declara davant el jutge per coaccions i injúries a la seva exparella",
+    "published": "2026-11-17T13:40:35.000Z"
+   },
+   {
+    "id": "af0fdf780f92",
+    "url": "https://www.europapress.es/illes-balears/noticia-capitan-rcd-mallorca-antonio-raillo-declara-juzgado-coacciones-injurias-expareja-20261117143458.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Un juzgado investiga al capitán del RCD Mallorca, Antonio Raíllo, por coacciones e injurias a su expareja",
+    "published": "2026-11-17T13:34:58.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T15:41:21.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-18T02:55:23.299Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "Un juzgado de Palma investiga a Antonio Raíllo por coacciones e injurias a su expareja",
+   "summary": "El capitán del RCD Mallorca ha declarado este martes en los juzgados de Palma por un presunto delito de coacciones e injurias.",
+   "body": [
+    "Antonio Raíllo, capitán del RCD Mallorca, ha comparecido este martes en un juzgado de Palma para declarar por un presunto delito de coacciones e injurias a su expareja. Según fuentes judiciales citadas por Ara Balears, la declaración fue tomada por el magistrado titular de la plaza número 2 de la Sección de Violencia contra la Mujer del Juzgado de Primera Instancia de Palma.",
+    "IB3 Notícies precisa que la denuncia fue presentada el lunes por la exesposa del futbolista, quien solicitó medidas cautelares. No obstante, el juez ha desestimado estas peticiones. Las fuentes discrepan ligeramente en la calificación del segundo delito: mientras Europa Press y IB3 hablan de injurias, Ara Balears lo especifica como un delito leve de vejaciones e injurias."
+   ]
+  },
+  "ca": {
+   "title": "Un jutjat de Palma investiga Antonio Raíllo per coaccions i injúries a la seva exparella",
+   "summary": "El capità del RCD Mallorca ha declarat aquest dimarts als jutjats de Palma per un presumpte delicte de coaccions i injúries.",
+   "body": [
+    "Antonio Raíllo, capità del RCD Mallorca, ha comparegut aquest dimarts en un jutjat de Palma per declarar per un presumpte delicte de coaccions i injúries a la seva exparella. Segons fonts judicials citades per Ara Balears, la declaració ha estat presa pel magistrat titular de la plaça número 2 de la Secció de Violència contra la Dona del Tribunal d’Instància de Palma.",
+    "IB3 Notícies precisa que la denúncia va ser interposada el dilluns per la seva exdona, que va sol·licitar mesures cautelars. No obstant això, el jutge les ha desestimat. Les fonts discrepen lleugerament en la qualificació del segon delicte: mentre Europa Press i IB3 parlen d'injúries, Ara Balears l'especifica com a delicte lleu de vexacions i injúries."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Antonio Raíllo declaró el martes en un juzgado de Palma.",
+    "ca": "Antonio Raíllo va declarar el dimarts en un jutjat de Palma.",
+    "sources": [
+     "europapress",
+     "arabalears",
+     "ib3"
+    ]
+   },
+   {
+    "es": "La causa es por un presunto delito de coacciones e injurias a su expareja.",
+    "ca": "La causa és per un presumpte delicte de coaccions i injúries a la seva exparella.",
+    "sources": [
+     "europapress",
+     "arabalears",
+     "ib3"
+    ]
+   },
+   {
+    "es": "La denuncia fue presentada el lunes por su exesposa, que pidió medidas cautelares.",
+    "ca": "La denúncia va ser presentada el dilluns per la seva exdona, que va demanar mesures cautelars.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "El juez desestimó las medidas cautelares solicitadas.",
+    "ca": "El jutge va desestimar les mesures cautelars sol·licitades.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "La declaración fue tomada por el magistrado de la plaza 2 de la Sección de Violencia contra la Mujer.",
+    "ca": "La declaració va ser presa pel magistrat de la plaça 2 de la Secció de Violència contra la Dona.",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:23.299Z",
+  "slug": "un-juzgado-de-palma-investiga-a-antonio-raillo-por-coacciones-e-0e0a3",
+  "status": "verified",
+  "image": {
+   "url": "https://static1.ara.cat/clip/8bed4c77-64c0-4d9f-aac9-4ca222ed6282_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/societat/antonio-raillo-declara-davant-jutge-coaccions-injuries-seva-exparella_1_5913451.html"
+  }
+ },
+ {
+  "id": "st26f4fd1068",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T13:20:09.000Z",
+  "articles": [
+   {
+    "id": "c37d51cd6260",
+    "url": "https://www.arabalears.cat/economia/fins-sis-projectes-empresarials-innovadors-mallorca-competiran-final-26-novembre_1_5913415.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Fins a sis projectes empresarials innovadors de Mallorca competiran en una final el 26 de novembre",
+    "published": "2026-11-17T13:20:09.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T13:20:09.000Z"
+ },
+ {
+  "id": "stbce6bd97a7",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T13:20:00.000Z",
+  "articles": [
+   {
+    "id": "13e06be278b2",
+    "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/17/2751751/monopoliza-pleno-del-parlament-del-programa-feijoo-smi-huelga.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El 29N monopoliza el pleno del Parlament: del programa de Feijóo al SMI y la huelga",
+    "published": "2026-11-17T13:20:00.000Z"
+   },
+   {
+    "id": "d1ac21f3da5b",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/17/2751751/monopoliza-pleno-del-parlament-del-programa-feijoo-smi-huelga.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El 29N monopoliza el pleno del Parlament: del programa de Feijóo al SMI y la huelga",
+    "published": "2026-11-17T13:20:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T13:20:00.000Z"
+ },
+ {
+  "id": "st34c26efa81",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T13:13:05.000Z",
+  "articles": [
+   {
+    "id": "ca5e469e4bc2",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/17/424141/col-legi-advocats-les-balears-analitza-assistencia-advocat-acte-amb-simbologia-nazi.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "El Col·legi d'Advocats de les Balears analitza l'assistència d'un advocat a un acte amb simbologia nazi",
+    "published": "2026-11-17T18:10:00.000Z"
+   },
+   {
+    "id": "bde965bced6b",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/17/424145/advocat-nazi-eivissa-ser-candidat-falange-espanola-jons-llucmajor.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "L’advocat nazi d’Eivissa va ser candidat de Falange Española de las JONS a Llucmajor",
+    "published": "2026-11-17T21:48:00.000Z"
+   },
+   {
+    "id": "4756e8f3dc31",
+    "url": "https://www.arabalears.cat/societat/col-legi-d-advocats-estudia-mesures-misser-retirat-vinculat-nucleo-nacional_1_5913355.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "El Col·legi d’Advocats estudia mesures contra el misser retirat vinculat a Núcleo Nacional",
+    "published": "2026-11-17T13:13:05.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T21:48:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-18T02:55:44.927Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Col·legi d’Advocats estudia medidas contra un abogado retirado vinculado a Núcleo Nacional",
+   "summary": "La comisión de deontología del ICAIB analiza posibles sanciones tras la presencia de un abogado en un acto con simbología nazi en Ibiza.",
+   "body": [
+    "La comisión de deontología del Il·lustre Col·legi d’Advocats de les Illes Balears (ICAIB) ha iniciado un estudio sobre las posibles medidas disciplinarias a tomar contra un abogado retirado que asistió a un acto institucional en la isla de Ibiza con la presencia de un polo de la organización neonazi Núcleo Nacional.",
+    "Según los comunicados de la comisión, el abogado en cuestión se encontraba presente en el evento donde se exhibieron símbolos nazis, lo que ha generado preocupación entre los miembros del colegio y la comunidad jurídica. La investigación se centra en determinar la responsabilidad del profesional y las posibles infracciones de la normativa deontológica.",
+    "El ICAIB ha señalado que la decisión final sobre las medidas a adoptar dependerá de los resultados de la investigación y de la valoración de los hechos por parte de la comisión de deontología."
+   ]
+  },
+  "ca": {
+   "title": "El Col·legi d’Advocats estudia mesures contra un advocat retirat vinculat a Núcleo Nacional",
+   "summary": "La comissió de deontologia de l’ICAIB analitza possibles sancions després de la presència d’un advocat en un acte amb simbologia nazi a Eivissa.",
+   "body": [
+    "La comissió de deontologia de l’Il·lustre Col·legi d’Advocats de les Illes Balears (ICAIB) ha iniciat un estudi sobre les possibles mesures disciplinàries a prendre contra un advocat retirat que va assistir a un acte institucional a Eivissa amb la presència d’un polo de l’organització neonazi Núcleo Nacional.",
+    "Segons els comunicats de la comissió, l’avocat en qüestió es trobava present a l’esdeveniment on es van exhibir símbols nazis, cosa que ha generat preocupació entre els membres del col·legi i la comunitat jurídica. La investigació es centra en determinar la responsabilitat del professional i les possibles infraccions de la normativa deontol·gica.",
+    "L’ICAIB ha indicat que la decisió final sobre les mesures a adoptar dependrà dels resultats de la investigació i de la valoració dels fets per part de la comissió de deontologia."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La comisión de deontología del ICAIB estudia medidas disciplinarias contra un abogado retirado vinculado a Núcleo Nacional",
+    "ca": "La comissió de deontologia de l’ICAIB estudia mesures disciplinàries contra un advocat retirat vinculat a Núcleo Nacional",
+    "sources": [
+     "arabalears",
+     "dbalears"
+    ]
+   },
+   {
+    "es": "El abogado retirado asistió a un acto institucional en Ibiza con simbología nazi",
+    "ca": "L’avocat retirat va assistir a un acte institucional a Eivissa amb simbologia nazi",
+    "sources": [
+     "arabalears",
+     "dbalears"
+    ]
+   },
+   {
+    "es": "El evento tuvo lugar en la isla de Ibiza",
+    "ca": "L’esdeveniment es va tenir a Eivissa",
+    "sources": [
+     "arabalears",
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:44.927Z",
+  "slug": "el-collegi-d-advocats-estudia-medidas-contra-un-abogado-retirado-efa81",
+  "status": "verified",
+  "image": {
+   "url": "https://static1.ara.cat/clip/ca96a583-9466-4518-9cb6-24e6a181d7ee_16-9-aspect-ratio_default_0.png",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/societat/col-legi-d-advocats-estudia-mesures-misser-retirat-vinculat-nucleo-nacional_1_5913355.html"
+  }
+ },
+ {
+  "id": "ste36e489b0e",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T13:09:12.000Z",
+  "articles": [
+   {
+    "id": "a5b5956a292e",
+    "url": "https://www.arabalears.cat/parlament/govern-prohens-evita-opinar-proposta-feijoo-prohibir-catala-congres_1_5913354.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "El Govern de Prohens evita opinar sobre la proposta de Feijóo de prohibir el català del Congrés",
+    "published": "2026-11-17T13:09:12.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T13:09:12.000Z"
+ },
+ {
+  "id": "std4541d0489",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T13:05:00.000Z",
+  "articles": [
+   {
+    "id": "16138a249047",
+    "url": "https://www.ultimahora.es/xaloc/dudas-respuestas/2026/11/17/2751769/dimecres-dijous-inca-servicios-especiales-tren.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Dimecres Bo y Dijous Bo en Inca: servicios especiales de tren",
+    "published": "2026-11-17T13:05:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T13:05:00.000Z"
+ },
+ {
+  "id": "stea856d5e4d",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:50:00.000Z",
+  "articles": [
+   {
+    "id": "f886cd569fe8",
+    "url": "https://www.menorca.info/menorca/local/2026/11/17/2751641/granja-solo-principio-habra-pagar-mas-intereses-por-ejecutar-proyectos.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sa Granja es solo el principio: habrá que pagar más intereses a la UE por no ejecutar proyectos",
+    "published": "2026-11-17T12:50:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:50:00.000Z"
+ },
+ {
+  "id": "st7cd91e6f3c",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:49:31.000Z",
+  "articles": [
+   {
+    "id": "2b5283327dc4",
+    "url": "https://www.menorca.info/menorca/sucesos/2026/11/17/2751759/dos-jovenes-iranies-detenidos-mao-cuando-querian-volar-reino-unido-pasaporte-falso.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Dos jóvenes iraníes detenidos en Maó cuando querían volar al Reino Unido con pasaporte falso",
+    "published": "2026-11-17T12:49:31.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:49:31.000Z"
+ },
+ {
+  "id": "st5c4bd4263a",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:47:45.000Z",
+  "articles": [
+   {
+    "id": "e4cbd4c0e285",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/hombre-acusado-abusos-hijastra-palma-136536943.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Un hombre acusado de abusos a su hijastra en Palma ultima un pacto de tres años de prisión",
+    "published": "2026-11-17T12:47:45.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:47:45.000Z"
+ },
+ {
+  "id": "st5840f74327",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:46:38.000Z",
+  "articles": [
+   {
+    "id": "ad8cccb47ce3",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/17/arboles-partidos-papeleras-volcadas-danos-136537484.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Vandalismo sin tregua en Jesús: árboles partidos, papeleras volcadas, daños en el centro cultural y carteles electorales arrancados",
+    "published": "2026-11-17T12:46:38.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:46:38.000Z"
+ },
+ {
+  "id": "ste454e36105",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T12:43:19.000Z",
+  "articles": [
+   {
+    "id": "2b7c2c8aee9f",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/la-guerra-contra-las-colillas-de-formentera-40-000-colillas-recogidas-en-cinco-meses/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "La guerra contra las colillas de Formentera: 40.000 colillas recogidas en cinco meses",
+    "published": "2026-11-17T16:22:29.000Z"
+   },
+   {
+    "id": "2b22b55d7ab5",
+    "url": "https://www.diariodeibiza.es/formentera/2026/11/17/formentera-colillas-recogidas-calles-136537420.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Casi 40.000 colillas recogidas de las calles de Formentera en solo cinco meses",
+    "published": "2026-11-17T12:43:19.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T16:22:29.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:56:12.941Z",
+  "islands": [
+   "formentera"
+  ],
+  "topic": "medioambiente",
+  "es": {
+   "title": "Casi 40.000 colillas recogidas en Formentera en cinco meses",
+   "summary": "El Consell Insular ha retirado alrededor de 40.000 colillas y 8,13 kg de residuos mediante 26 ceniceros instalados entre junio y octubre de 2026.",
+   "body": [
+    "Los 26 ceniceros instalados en los núcleos urbanos y zonas de paseo de Formentera han permitido la recogida de cerca de 40.000 colillas de cigarrillos en un periodo de cinco meses, según datos facilitados por el Consell Insular. La iniciativa comenzó el 1 de junio de 2026 y ha concluido el 31 de octubre del mismo año.",
+    "En total se han retirado 8,13 kilogramos de este residuo, considerado especialmente contaminante por los componentes de los filtros y las sustancias que retienen. Ambas fuentes coinciden en las cifras de colillas y peso acumulado."
+   ]
+  },
+  "ca": {
+   "title": "Propers 40.000 col·locs recollides a Formentera en cinc mesos",
+   "summary": "El Consell Insular ha retirat al voltant de 40.000 col·locs i 8,13 kg de residus mitjançant 26 cenicers instal·lats entre juny i octubre de 2026.",
+   "body": [
+    "Els 26 cenicers instal·lats als nuclis urbans i zones de passeig de Formentera han permès la recollida d’aproximadament 40.000 col·locs de cigarrets en un període de cinc mesos, segons les dades facilitades pel Consell Insular. La iniciativa va començar el 1 de juny de 2026 i es va tancar el 31 d’octubre del mateix any.",
+    "En total s’han retirat 8,13 kilograms d’aquest residu, considerat especialment contaminant pels components dels filtres i les substàncies que retenen. Les dues fonts coincideixen en les xifres de col·locs i pes acumulat."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Cerca de 40.000 colillas recollides",
+    "ca": "Propers 40.000 col·locs recollits",
+    "sources": [
+     "diariodeibiza",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "8,13 kg de residus retirats",
+    "ca": "8,13 kg de residus retirats",
+    "sources": [
+     "diariodeibiza",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "26 ceniceros instalados",
+    "ca": "26 cenicers instal·lats",
+    "sources": [
+     "diariodeibiza",
+     "noudiari"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:56:12.941Z",
+  "slug": "casi-40-000-colillas-recogidas-en-formentera-en-cinco-meses-36105",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/4d27d67e-bcf1-4b3d-b5c5-64d45047a975_16-9-aspect-ratio_default_0_x738y369.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/formentera/2026/11/17/formentera-colillas-recogidas-calles-136537420.html"
+  }
+ },
+ {
+  "id": "sta9645bdaf9",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:37:00.000Z",
+  "articles": [
+   {
+    "id": "9f082099a0ad",
+    "url": "https://www.periodicodeibiza.es/cronica-negra/local/2026/11/17/2751727/arboles-partidos-jardines-destrozados-13000-euros-danos-mismo-individuo-destroza-santa-eularia.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Árboles partidos, jardines destrozados y 13.000 euros en daños: un mismo individuo destroza Santa Eulària",
+    "published": "2026-11-17T12:37:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:37:00.000Z"
+ },
+ {
+  "id": "st9f655cc1d0",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:29:00.000Z",
+  "articles": [
+   {
+    "id": "445331e65a8d",
+    "url": "https://www.menorca.info/menorca/vivir-menorca/2026/11/17/2751719/fundacio-waldorf-busca-voluntarios-para-hacer-realidad-proyecto-farinera.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "La Fundació Waldorf busca voluntarios para hacer realidad el proyecto de Sa Farinera",
+    "published": "2026-11-17T12:29:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:29:00.000Z"
+ },
+ {
+  "id": "st78d65ac9ab",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:28:32.000Z",
+  "articles": [
+   {
+    "id": "c480fb2143bb",
+    "url": "https://www.arabalears.cat/politica/galmes-diu-actuara-consequencia-li-notifiqui-imputacio-bestard_1_5913326.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Galmés diu que actuarà “en conseqüència” quan se li notifiqui la imputació de Bestard",
+    "published": "2026-11-17T13:39:08.000Z"
+   },
+   {
+    "id": "e21de9f72c38",
+    "url": "https://www.europapress.es/illes-balears/noticia-galmes-apunta-esperara-imputacion-bestard-tomar-decisiones-20261117132832.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Galmés apunta que esperará a la imputación de Bestard para tomar decisiones",
+    "published": "2026-11-17T12:28:32.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T13:39:08.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:56:27.527Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "El presidente del Consell de Mallorca esperará la notificación de la imputación de Pedro Bestard para decidir",
+   "summary": "Llorenç Galmés ha indicado que tomará decisiones sobre el futuro del vicepresidente segundo, Pedro Bestard, una vez que los tribunales le comuniquen la posible imputación.",
+   "body": [
+    "El presidente del Consell de Mallorca, Llorenç Galmés, declaró que esperará a que los tribunales le notifiquen la posible imputación del vicepresidente segundo, Pedro Bestard, antes de tomar cualquier decisión sobre su futuro en el gobierno insular.",
+    "Según informó Europa Press Baleares, Galmés señaló que la información judicial será el punto de partida para cualquier medida que se adopte respecto a Bestard, miembro de Vox.",
+    "Ara Balears indica que la imputación se hizo pública el jueves pasado mientras Bestard presidía el pleno y que Galmés, tras unos días de ausencia por motivos personales, habló por primera vez el martes sobre la investigación judicial relacionada con el presunto uso irregular de vehículos públicos por parte del vicepresidente segundo."
+   ]
+  },
+  "ca": {
+   "title": "El president del Consell de Mallorca esperarà la notificació de la imputació de Pedro Bestard per decidir",
+   "summary": "Llorenç Galmés ha indicat que prendrà decisions sobre el futur del vicepresident segon, Pedro Bestard, una vegada que els tribunals li comuniquin la possible imputació.",
+   "body": [
+    "El president del Consell de Mallorca, Llorenç Galmés, ha declarat que esperarà a que els tribunals li notifiquin la possible imputació del vicepresident segon, Pedro Bestard, abans de prendre qualsevol decisió sobre el seu futur en el govern insular.",
+    "Segons Europa Press Balears, Galmés va assenyalar que la informació judicial serà el punt de partida per a qualsevol mesura que s’adopti respecte a Bestard, membre de Vox.",
+    "Ara Balears indica que la imputació es va fer pública dijous passat mentre Bestard presidia el ple i que Galmés, després d’uns dies d’absència per motius personals, va parlar per primera vegada aquest dimarts sobre la investigació judicial relacionada amb el presumpt ús irregular de vehicles públics per part del vicepresident segon."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Llorenç Galmés espera la notificación judicial antes de decidir sobre Pedro Bestard",
+    "ca": "Llorenç Galmés espera la notificació judicial abans de decidir sobre Pedro Bestard",
+    "sources": [
+     "europapress",
+     "arabalears"
+    ]
+   },
+   {
+    "es": "La imputación de Bestard se hizo pública el jueves pasado mientras presidía el pleno",
+    "ca": "La imputació de Bestard es va fer pública dijous passat mentre presidia el ple",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Bestard es vicepresidente segundo del Consell de Mallorca y pertenece a Vox",
+    "ca": "Bestard és vicepresident segon del Consell de Mallorca i pertany a Vox",
+    "sources": [
+     "europapress",
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:56:27.527Z",
+  "slug": "el-presidente-del-consell-de-mallorca-esperara-la-notificacion-de-la-ac9ab",
+  "status": "verified",
+  "image": {
+   "url": "https://static1.ara.cat/clip/4bc941cb-c5ac-4bc0-a3f3-6784b7f28fca_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/politica/galmes-diu-actuara-consequencia-li-notifiqui-imputacio-bestard_1_5913326.html"
+  }
+ },
+ {
+  "id": "st72dc43e9be",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:27:35.000Z",
+  "articles": [
+   {
+    "id": "0a06bf0bb5f4",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/17/milena-herrera-candidata-psoe-ibiza-136536411.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Milena Herrera, candidata del PSOE por Ibiza propone limitar el acceso a las redes sociales a los menores de 16 años",
+    "published": "2026-11-17T12:27:35.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:27:35.000Z"
+ },
+ {
+  "id": "st55e7a34fa5",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:17:54.000Z",
+  "articles": [
+   {
+    "id": "3a169fe752c0",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/17/diputada-psoe-merce-perea-defiende-136535322.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "La diputada del PSOE Mercè Perea defiende en Ibiza y Formentera blindar las pensiones en la Constitución para garantizar su revalorización con el IPC",
+    "published": "2026-11-17T12:17:54.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:17:54.000Z"
+ },
+ {
+  "id": "st6fc549fbd8",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:12:20.000Z",
+  "articles": [
+   {
+    "id": "2be88b3d677c",
+    "url": "https://www.europapress.es/illes-balears/noticia-galmes-critica-nefasta-gestion-pacte-avanza-apelaran-aumento-indemnizacion-tunel-soller-20261117131220.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Galmés critica la \"nefasta gestión\" del Pacte y avanza que apelarán el aumento de la indemnización del túnel de Sóller",
+    "published": "2026-11-17T12:12:20.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:12:20.000Z"
+ },
+ {
+  "id": "stb9c3133dd1",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:10:51.000Z",
+  "articles": [
+   {
+    "id": "3b4e3165853a",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-comprar-telefono-movil-robado-136535348.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Detenido por comprar un teléfono móvil robado en Palma",
+    "published": "2026-11-17T12:10:51.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:10:51.000Z"
+ },
+ {
+  "id": "st07a76b92da",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:09:50.000Z",
+  "articles": [
+   {
+    "id": "69e7c733b5e3",
+    "url": "https://www.periodicodeibiza.es/cronica-negra/local/2026/11/17/2751691/jueza-deja-libertad-conductor-acusado-atropellar-mortalmente-motorista-ibiza.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "La jueza deja en libertad al conductor acusado de atropellar mortalmente a un motorista en Ibiza",
+    "published": "2026-11-17T12:09:50.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:09:50.000Z"
+ },
+ {
+  "id": "st8c916ee68b",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T12:00:12.000Z",
+  "articles": [
+   {
+    "id": "a409c2476eaa",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/17/2751675/ivan-herzog-nuevo-fenomeno-del-pop-nacional-llegara-trui-teatre-2027.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Ivan Herzog, el nuevo fenómeno del pop nacional, llegará a Trui Teatre en 2027",
+    "published": "2026-11-17T12:00:12.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T12:00:12.000Z"
+ },
+ {
+  "id": "std0cb67a276",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T11:58:00.000Z",
+  "articles": [
+   {
+    "id": "30df6edbc8c1",
+    "url": "https://www.ultimahora.es/vips/television/2026/11/17/2751637/reencuentro-paula-kico-isla-tentaciones-lagrimas-reproches-segunda-oportunidad-aire.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El reencuentro de Paula y Kico en 'La Isla de las Tentaciones': lágrimas, reproches y una segunda oportunidad",
+    "published": "2026-11-17T11:58:00.000Z"
+   },
+   {
+    "id": "cb0d9e6b3b09",
+    "url": "https://www.periodicodeibiza.es/vips/television/2026/11/17/2751637/reencuentro-paula-kico-isla-tentaciones-lagrimas-reproches-segunda-oportunidad-aire.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El reencuentro de Paula y Kico en 'La Isla de las Tentaciones': lágrimas, reproches y una segunda oportunidad",
+    "published": "2026-11-17T11:58:00.000Z"
+   },
+   {
+    "id": "1308b6fb6172",
+    "url": "https://www.menorca.info/vips/television/2026/11/17/2751637/reencuentro-paula-kico-isla-tentaciones-lagrimas-reproches-segunda-oportunidad-aire.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El reencuentro de Paula y Kico en 'La Isla de las Tentaciones': lágrimas, reproches y una segunda oportunidad",
+    "published": "2026-11-17T11:58:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T11:58:00.000Z"
+ },
+ {
+  "id": "st3bf1214077",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T11:57:01.000Z",
+  "articles": [
+   {
+    "id": "22cae8ac0c89",
+    "url": "https://www.noudiari.es/cultura-ibiza/la-banda-simfonica-ciutat-deivissa-ofrecera-un-concierto-solidario-por-santa-cecilia-en-can-ventosa/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "La Banda Simfònica Ciutat d’Eivissa ofrecerá un concierto solidario por Santa Cecilia en Can Ventosa",
+    "published": "2026-11-17T15:23:32.000Z"
+   },
+   {
+    "id": "e9ea60ee8687",
+    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/17/2751673/can-ventosa-acoge-este-domingo-concierto-benefico-del-cor-ciutat-eivissa-por-santa-cecilia.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Can Ventosa acoge este domingo el concierto benéfico del Cor Ciutat d’Eivissa por Santa Cecilia",
+    "published": "2026-11-17T11:57:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T15:23:32.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:56:15.996Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "El Ayuntamiento de Ibiza organiza dos conciertos benéficos por Santa Cecilia en Can Ventosa",
+   "summary": "El sábado 21 y el domingo 22 de noviembre se celebrarán en Can Ventosa dos actos musicales solidarios organizados por el Ayuntamiento de Ibiza con motivo de Santa Cecilia.",
+   "body": [
+    "El Ayuntamiento de Ibiza ha programado dos eventos musicales en Can Ventosa para conmemorar a Santa Cecilia, patrona de la música. El sábado 21 de noviembre a las 19:00 horas se presentará la Banda Simfònica Ciutat d’Eivissa en un concierto solidario, según informa Noudiari. La recaudación de las entradas, cuyo precio es de 10 euros, se destinará a la asociación Com Tu! APNEEF.",
+    "El domingo 22 de noviembre, a la misma hora, el Cor Ciutat d’Eivissa ofrecerá un espectáculo de canciones populares eivissenques, balears y catalanas, dirigido por Miguel San Miguel Fuster y con el piano a cargo de Rodrigo de Luis, según indica el Periódico de Ibiza y Formentera. Ambas actuaciones forman parte de la celebración municipal de Santa Cecilia."
+   ]
+  },
+  "ca": {
+   "title": "L'Ajuntament d'Eivissa organitza dos concerts benèfics per Santa Cecília a Can Ventosa",
+   "summary": "El dissabte 21 i el diumenge 22 de novembre es celebraran a Can Ventosa dos actes musicals solidaris organitzats per l'Ajuntament d'Eivissa amb motiu de Santa Cecília.",
+   "body": [
+    "L'Ajuntament d'Eivissa ha programat dos esdeveniments musicals a Can Ventosa per commemorar Santa Cecília, patrona de la música. El dissabte 21 de novembre a les 19:00 hores es presentarà la Banda Simfònica Ciutat d’Eivissa en un concert solidari, segons informa Noudiari. La recaptació de les entrades, amb un preu de 10 euros, es destinarà a l'associació Com Tu! APNEEF.",
+    "El diumenge 22 de novembre, a la mateixa hora, el Cor Ciutat d’Eivissa oferirà un espectacle de cançons populars eivissenques, balears i catalanes, dirigit per Miguel San Miguel Fuster i amb el piano a càrrec de Rodrigo de Luis, segons indica el Periódico de Ibiza i Formentera. Ambdues actuacions formen part de la celebració municipal de Santa Cecília."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Concierto solidario de la Banda Simfònica Ciutat d’Eivissa el 21/11 a las 19:00 en Can Ventosa (F2)",
+    "ca": "Concert solidari de la Banda Simfònica Ciutat d’Eivissa el 21/11 a les 19:00 a Can Ventosa (F2)",
+    "sources": []
+   },
+   {
+    "es": "Precio de la entrada 10 euros, recaudación destinada a Com Tu! APNEEF (F2)",
+    "ca": "Preu de l'entrada 10 euros, recaptació destinada a Com Tu! APNEEF (F2)",
+    "sources": []
+   },
+   {
+    "es": "Concierto del Cor Ciutat el 22/11 a las 19:00 con repertorio popular eivissenc, balear i català, dirección Miguel San Miguel Fuster, piano Rodrigo de Luis (F1)",
+    "ca": "Concert del Cor Ciutat el 22/11 a les 19:00 amb repertori popular eivissenc, balear i català, direcció de Miguel San Miguel Fuster, piano Rodrigo de Luis (F1)",
+    "sources": []
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:56:15.996Z",
+  "slug": "el-ayuntamiento-de-ibiza-organiza-dos-conciertos-beneficos-por-santa-14077",
+  "status": "verified",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4852393.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/17/2751673/can-ventosa-acoge-este-domingo-concierto-benefico-del-cor-ciutat-eivissa-por-santa-cecilia.html"
+  }
+ },
+ {
+  "id": "staf411ea423",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T11:54:24.000Z",
+  "articles": [
+   {
+    "id": "acb96a2d357a",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/17/2751667/rastrean-movil-robado-hasta-arenal-detienen-hombre-habia-comprado-por-150-euros.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Rastrean un móvil robado hasta s'Arenal y detienen al hombre que lo había comprado por 150 euros",
+    "published": "2026-11-17T11:54:24.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T11:54:24.000Z"
+ },
+ {
+  "id": "st0dbcdc7f8d",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T11:48:54.000Z",
+  "articles": [
+   {
+    "id": "709d5a6a154d",
+    "url": "https://www.mallorcadiario.com/el-govern-defiende-la-adquisicion-de-191-viviendas-publicas",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "El Govern defiende la adquisición de 191 viviendas públicas",
+    "published": "2026-11-17T11:48:54.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T11:48:54.000Z"
+ },
+ {
+  "id": "st5a67bb96fb",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T11:48:25.000Z",
+  "articles": [
+   {
+    "id": "826b4bdb0850",
+    "url": "https://www.periodicodeibiza.es/pitiusas/formentera/2026/11/17/2751669/formentera-recoge-mas-kilos-colillas-zonas-urbanas.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Formentera recoge más de 10 kilos de colillas en zonas urbanas",
+    "published": "2026-11-17T11:48:25.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T11:48:25.000Z"
+ },
+ {
+  "id": "stb467d491b8",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T11:46:21.000Z",
+  "articles": [
+   {
+    "id": "70477d9bc377",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2751647/joan-buades-recibe-premio-lawyer-the-year.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Joan Buades recibe el premio 'Lawyer of the Year'",
+    "published": "2026-11-17T11:46:21.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T11:46:21.000Z"
+ },
+ {
+  "id": "st925979639e",
+  "createdAt": "2026-11-17T20:48:35.402Z",
+  "firstPublished": "2026-11-17T11:35:00.000Z",
+  "articles": [
+   {
+    "id": "47ac6fdbf298",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/17/investigacion-naufragio-yate-lujo-bayesian-136548751.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "La investigación del naufragio del yate de lujo Bayesian señala al capitán residente en Mallorca por su reacción tardía ante la tormenta",
+    "published": "2026-11-17T17:03:48.000Z"
+   },
+   {
+    "id": "1faef8841537",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/17/2751621/filtracion-sobre-investigacion-del-yate-lujo-bayesian-apunta-incompetencia-tripulacion.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Una filtración sobre la investigación del yate de lujo Bayesian apunta a la «incompetencia de la tripulación»",
+    "published": "2026-11-17T11:35:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T17:03:48.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-18T02:55:52.441Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "Investigación del hundimiento del yate Bayesian señala al capitán James Cuttfield",
+   "summary": "Los peritos italianos de la Fiscalía han revelado una filtración que apunta a errores humanos como causa principal del naufragio del yate de lujo Bayesian, que dejó siete muertos el 19 de agosto de 2024.",
+   "body": [
+    "El informe filtrado, elaborado por los peritos de la Fiscalía italiana, indica que la tragedia se debe a posibles errores humanos y pone el foco en la actuación del capitán James Cuttfield, neozelandés que reside en Mallorca con su familia. Según la fuente, la filtración complica la situación procesal del capitán, que ya estaba bajo investigación por su reacción tardía ante la tormenta. La nave se hundió frente a las costas de Sicilia, provocando la muerte de siete personas, entre ellas el magnate británico Mike Lynch. La Fiscalía italiana continúa analizando los hechos para determinar la responsabilidad del capitán y de la tripulación. La investigación sigue en curso y se espera que se publiquen más detalles en las próximas semanas."
+   ]
+  },
+  "ca": {
+   "title": "Investigació del naufrag de l'yaüt Bayesian apunta al capitó James Cuttfield",
+   "summary": "Els perits italians de la Fiscalitat han revelat una filtració que apunta a errors humans com a causa principal del naufrag de l'yaüt de luxe Bayesian, que va deixar set morts el 19 d'agost de 2024.",
+   "body": [
+    "L'informe filtrat, elaborat pels perits de la Fiscalitat italiana, indica que la tragèdia es deu a possibles errors humans i posa el focus en l'actuació del capitó James Cuttfield, neozelandès que resideix a Mallorca amb la seva família. Segons la font, la filtració complica la situació processal del capitó, que ja estava sota investigació per la seva reacció tardana davant la tempesta. La embarcació es va hundir davant les costes de Sicília, provocant la mort de set persones, entre elles el magnat britànic Mike Lynch. La Fiscalitat italiana continua analitzant els fets per determinar la responsabilitat del capitó i de la tripulació. La investigació continua i s'espera que es publiquin més detalls en les properes setmanes."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El yate de lujo Bayesian se hundió el 19 de agosto de 2024 frente a las costas de Sicilia, dejando siete muertos.",
+    "ca": "L'yaüt de luxe Bayesian es va hundir el 19 d'agost de 2024 davant les costes de Sicília, deixant set morts.",
+    "sources": [
+     "menorcainfo",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El capitán del yate es James Cuttfield (o Cutfield), neozelandés que reside en Mallorca.",
+    "ca": "El capitó de l'yaüt és James Cuttfield (o Cutfield), neozelandès que resideix a Mallorca.",
+    "sources": [
+     "menorcainfo",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La investigación es llevada a cabo por peritos italianos de la Fiscalía.",
+    "ca": "La investigació és realitzada per perits italians de la Fiscalitat.",
+    "sources": [
+     "menorcainfo",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:52.441Z",
+  "slug": "investigacion-del-hundimiento-del-yate-bayesian-senala-al-capitan-9639e",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/840b59c7-d84c-4ff6-904b-994bad952fab_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/17/investigacion-naufragio-yate-lujo-bayesian-136548751.html"
+  }
  },
  {
   "id": "st2586077ccf",
@@ -1816,6 +3079,88 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-17T11:22:36.000Z"
+ },
+ {
+  "id": "stf3f8325e36",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T11:22:23.000Z",
+  "articles": [
+   {
+    "id": "c8e375c4995b",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/17/huevos-rotos-ramen-japones-15-136535839.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "De los huevos rotos al ramen japonés: 15 restaurantes de Alaró celebran unas jornadas gastronómicas dedicadas a las setas",
+    "published": "2026-11-17T12:24:35.000Z"
+   },
+   {
+    "id": "4e22228412cc",
+    "url": "https://www.mallorcadiario.com/alaro-cuina-amb-bolets-2026-restaurantes",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Alaró amplía a 15 locales sus jornadas de cocina con setas",
+    "published": "2026-11-17T11:22:23.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T12:24:35.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:57:18.718Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Alaró celebra jornadas gastronómicas con setas en 15 locales",
+   "summary": "Del 20 de noviembre al 8 de diciembre, quince bares y restaurantes de Alaró ofrecerán platos especiales con setas, entre los que destacan croquetas, risotto, conejo y ramen de shiitake.",
+   "body": [
+    "Alaró organiza esta edición de \"Alaró cuina amb bolets\", una iniciativa que reúne a quince establecimientos del municipio para presentar propuestas culinarias centradas en las setas. La programación arranca el 20 de noviembre y se prolongará hasta el 8 de diciembre, cubriendo casi tres semanas de actividades gastronómicas.",
+    "Los locales participantes prepararán una variedad de platos, entre los que se incluyen croquetas, risotto, conejo con setas y ramen de shiitake, combinando la cocina tradicional con propuestas más innovadoras. Según el Mallorcadiario, la iniciativa busca dar visibilidad a los productos de temporada y fomentar la oferta gastronómica local."
+   ]
+  },
+  "ca": {
+   "title": "Alaró celebra jornades gastronòmiques amb bolets en 15 locals",
+   "summary": "Del 20 de novembre al 8 de desembre, quinze bars i restaurants d'Alaró oferiran plats especials amb bolets, entre els quals destaquen croquetes, risotto, conill i ramen de shiitake.",
+   "body": [
+    "Alaró organitza aquesta edició d'\"Alaró cuina amb bolets\", una iniciativa que reuneix quinze establiments del municipi per presentar propostes culinàries centrades en els bolets. La programació comença el 20 de novembre i es prolonga fins al 8 de desembre, cobrint gairebé tres setmanes d'activitats gastronòmiques.",
+    "Els locals participants prepararan una varietat de plats, entre els quals hi ha croquetes, risotto, conill amb bolets i ramen de shiitake, combinant la cuina tradicional amb propostes més innovadores. Segons el Mallorcadiario, la iniciativa pretén donar visibilitat als productes de temporada i fomentar l'oferta gastronòmica local."
+   ]
+  },
+  "facts": [
+   {
+    "es": "15 locales participan en las jornadas gastronómicas",
+    "ca": "15 locals participen en les jornades gastronòmiques",
+    "sources": [
+     "mallorcadiario",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Las jornadas se celebran del 20 de noviembre al 8 de diciembre",
+    "ca": "Les jornades es celebren del 20 de novembre al 8 de desembre",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Se ofrecerán platos como croquetas, risotto, conejo con setas y ramen de shiitake",
+    "ca": "S'oferiran plats com croquetes, risotto, conill amb bolets i ramen de shiitake",
+    "sources": [
+     "mallorcadiario",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:57:18.718Z",
+  "slug": "alaro-celebra-jornadas-gastronomicas-con-setas-en-15-locales-25e36",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/2d758c6d-d1ec-4d17-963c-1a8865eff08e_16-9-aspect-ratio_default_0_x600y225.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/17/huevos-rotos-ramen-japones-15-136535839.html"
+  }
  },
  {
   "id": "st7fecd7c0c8",
@@ -1897,10 +3242,74 @@
     "lang": "es",
     "title": "Sanidad envía un requerimiento a Andalucía y Baleares para que creen el registro de objetores al aborto",
     "published": "2026-11-17T11:11:20.000Z"
+   },
+   {
+    "id": "76de2a17748b",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2751775/baleares-creara-proximas-semanas-lista-objetores-conciencia-aborto.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Baleares creará «en las próximas semanas» la lista de objetores de conciencia al aborto",
+    "published": "2026-11-17T13:15:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T11:11:20.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T13:15:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:56:40.426Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "sanidad",
+  "es": {
+   "title": "Sanidad exige a Baleares la creación del registro de objetores de conciencia al aborto",
+   "summary": "La ministra de Sanidad, Mónica García, ha enviado un requerimiento formal a la consellera de Salut de Baleares para que el Govern elabore la lista de profesionales sanitarios objetores de conciencia al aborto en las próximas semanas.",
+   "body": [
+    "La ministra de Sanidad, Mónica García, remitió este lunes dos requerimientos formales a los consejeros de Sanidad de Andalucía y de Baleares, en los que les insta a cumplir con la obligación establecida por la reforma de la ley del aborto de 2023 de contar con un registro de médicos objetores de conciencia. En el caso de Baleares, el documento está dirigido a la consellera de Salut, Manuela García, y le recuerda la necesidad de crear la lista lo antes posible.",
+    "Según informa Última Hora, el requerimiento a Baleares se basa en un documento al que tuvo acceso la cadena SER y que indica que, desde la audiencia pública del proyecto en febrero de 2026, no se ha registrado ningún avance en la tramitación de la lista. La ministra exige que la comunidad autónoma concluya el proceso en las próximas semanas."
+   ]
+  },
+  "ca": {
+   "title": "Sanitat exige a les Illes Balears la creació del registre d'objectors de consciència a l'avortament",
+   "summary": "La ministra de Sanitat, Mónica García, ha enviat un requeriment formal a la consellera de Salut de les Illes Balears perquè el Govern elabori la llista de professionals sanitaris objectors de consciència a l'avortament en les properes setmanes.",
+   "body": [
+    "La ministra de Sanitat, Mónica García, va remetre aquest dilluns dos requeriments formals als consellers de Sanitat d'Andalusia i de les Illes Balears, en els quals els insta a complir amb l'obligació establerta per la reforma de la llei de l'avortament de 2023 de disposar d'un registre de metges objectors de consciència. En el cas de les Illes Balears, el document va adreçat a la consellera de Salut, Manuela García, i li recorda la necessitat de crear la llista el més aviat possible.",
+    "Segons informa Última Hora, el requeriment a les Illes Balears es basa en un document al qual va tenir accés la Cadena SER i que indica que, des de l'audiència pública del projecte al febrer de 2026, no s'ha registrat cap avanç en la tramitació de la llista. La ministra exigeix que la comunitat autònoma conclogui el procés en les properes setmanes."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La ministra de Sanidad, Mónica García, envió requerimientos formales a los consejeros de Sanidad de Andalucía y Baleares el lunes.",
+    "ca": "La ministra de Sanitat, Mónica García, va enviar requeriments formals als consellers de Sanitat d'Andalusia i de les Illes Balears el dilluns.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El requerimiento a Baleares está dirigido a la consellera de Salut, Manuela García, y le insta a crear la lista de objetores de conciencia al aborto.",
+    "ca": "El requeriment a les Illes Balears va adreçat a la consellera de Salut, Manuela García, i li insta a crear la llista d'objectors de consciència a l'avortament.",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Según Última Hora, desde la audiencia pública del proyecto en febrero de 2026 no se ha observado avance alguno.",
+    "ca": "Segons Última Hora, des de l'audiència pública del projecte al febrer de 2026 no s'ha observat cap avanç.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:56:40.426Z",
+  "slug": "sanidad-exige-a-baleares-la-creacion-del-registro-de-objetores-de-59e2e",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/64130eef-d61b-4625-bd8b-6bc7a9176742_16-9-aspect-ratio_default_0_x1200y533.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sociedad/2026/11/17/requerimiento-andalucia-baleares-registro-objetores-aborto-136532750.html"
+  }
  },
  {
   "id": "st0c3309461a",
@@ -1918,6 +3327,108 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-17T11:08:10.000Z"
+ },
+ {
+  "id": "st5279e55bc2",
+  "createdAt": "2026-11-17T11:45:00.556Z",
+  "firstPublished": "2026-11-17T11:06:21.000Z",
+  "articles": [
+   {
+    "id": "16914d7c028e",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-palma-descargarse-pornografia-infantil-136533438.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Un detenido en Palma por descargarse pornografía infantil",
+    "published": "2026-11-17T11:39:05.000Z"
+   },
+   {
+    "id": "2b4b36799c77",
+    "url": "https://www.arabalears.cat/societat/detingut-mallorca-descarregar-almenys-40-arxius-contingut-d-abus-sexual-infantil_1_5913176.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Detingut a Mallorca per descarregar almenys 40 arxius de contingut d’abús sexual infantil",
+    "published": "2026-11-17T12:12:42.000Z"
+   },
+   {
+    "id": "8502a257d285",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/17/2751693/arrestado-palma-hombre-por-descargar-pornografia-infantil.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Arrestado en Palma un hombre por descargar pornografía infantil",
+    "published": "2026-11-17T12:06:37.000Z"
+   },
+   {
+    "id": "12d430308745",
+    "url": "https://www.mallorcadiario.com/detenido-palma-descargar-menos-40-archivos-abuso-sexual-infantil",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Detenido en Palma por descargar al menos 40 archivos de abuso sexual infantil",
+    "published": "2026-11-17T11:06:21.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T12:12:42.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:54:56.457Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Detenido en Palma por descargar al menos 40 archivos de abuso sexual infantil",
+   "summary": "La Policía Nacional detuvo a un hombre en Palma tras detectar la descarga de al menos 40 archivos con contenido de abuso sexual infantil; los dispositivos incautados están a la espera de análisis forense.",
+   "body": [
+    "La Policía Nacional ha detenido a un hombre en Palma bajo sospecha de corrupción de menores, después de que la Unidad Central de Ciberdelincuencia detectara la descarga de al menos 40 archivos con imágenes de abusos sexuales a niños. La información fue remitida a la Jefatura de Palma, donde los agentes realizaron un registro en el domicilio del sospechoso e incautaron soportes informáticos.",
+    "Los dispositivos incautados, que incluyen discos duros y memorias, están pendientes de ser analizados por peritos forenses para determinar el contenido exacto y la posible existencia de más material ilícito. La detención forma parte de la operación Cálculos, llevada a cabo por el Grupo de Delincuencia Económica y Delitos Tecnológicos en el marco de las actuaciones contra la prostitución y la corrupción de menores."
+   ]
+  },
+  "ca": {
+   "title": "Detingut a Palma per descarregar almenys 40 arxius de contingut d’abús sexual infantil",
+   "summary": "La Policia Nacional ha detingut un home a Palma després de detectar la descàrrega d’almenys 40 arxius amb contingut d’abús sexual infantil; els dispositius incautats esperen l’anàlisi forense.",
+   "body": [
+    "La Policia Nacional ha detingut un home a Palma per presumpta corrupció de menors, després que la Unitat Central de Ciberdelinqüència detectés la descàrrega d’almenys quaranta arxius amb imatges d’abusos sexuals a infants. La informació es va transmetre a la Jefatura de Palma, on els agents van dur a terme un registre al domicili del sospitós i van incautar suports informàtics.",
+    "Els dispositius incautats, que inclouen discos durs i memòries, estan pendents d’anàlisi per part de peritos forenses per determinar el contingut exacte i la possible existència d’altres materials il·legals. La detenció s’emmarca dins l’operació Càlculs, realitzada pel Grup de Delinqüència Econòmica i Delictes Tecnològics dins les accions contra la prostitució i la corrupció de menors."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Al menos 40 archivos de abuso sexual infantil fueron detectados y descargados",
+    "ca": "Almenys quaranta arxius de contingut d’abús sexual infantil van ser detectats i descarregats",
+    "sources": [
+     "mallorcadiario",
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La detención tuvo lugar en Palma, Mallorca",
+    "ca": "La detenció va tenir lloc a Palma, Mallorca",
+    "sources": [
+     "mallorcadiario",
+     "diariodemallorca",
+     "ultimahora",
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Los dispositivos incautados están pendientes de análisis forense",
+    "ca": "Els dispositius incautats estan pendents d’anàlisi forense",
+    "sources": [
+     "mallorcadiario",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:54:56.457Z",
+  "slug": "detenido-en-palma-por-descargar-al-menos-40-archivos-de-abuso-sexual-55bc2",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/d786e906-f139-4427-aaa6-613e5946ccf8_16-9-aspect-ratio_default_0_x829y429.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-palma-descargarse-pornografia-infantil-136533438.html"
+  }
  },
  {
   "id": "st2d7340a6ed",
@@ -1941,9 +3452,65 @@
     "published": "2026-11-17T16:31:50.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-17T16:31:50.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-18T02:56:07.577Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Marí Bosó anuncia que Feijóo aprobará ley antiokupación en 48 horas",
+   "summary": "El candidato del PP al Congreso por Baleares, José Vicente Marí Bosó, afirma que el presidente del Gobierno, Alberto Núñez Feijóo, aprobará una ley que permita desalojar a los okupas en 48 horas.",
+   "body": [
+    "El jefe de lista del Partido Popular en las Islas Baleares, José Vicente Marí Bosó, anunció en Palma que el presidente del Gobierno, Alberto Núñez Feijóo, se compromete a aprobar una ley antiokupación que permita desalojar a los okupas en un plazo de 48 horas y recuperar las viviendas ocupadas ilegalmente.",
+    "Según el periódico de Ibiza y Formentera, la medida también incluirá acciones contundentes contra las mafias que se benefician de la propiedad ajena. El Diario de Mallorca añade que Feijóo reforzará la seguridad en las islas y “acabará con la impunidad de los okupas”."
+   ]
+  },
+  "ca": {
+   "title": "Marí Bosó anuncia que Feijóo aprovarà llei antiokupació en 48 hores",
+   "summary": "El candidat del PP a l'Congrés per les Illes Balears, José Vicente Marí Bosó, afirma que l'alcalde del Govern, Alberto Núñez Feijóo, aprovarà una llei que permeti desalojar els okupes en 48 hores.",
+   "body": [
+    "El cap de llista del Partit Popular a les Illes Balears, José Vicente Marí Bosó, va anunciar a Palma que l'alcalde del Govern, Alberto Núñez Feijóo, es compromet a aprovar una llei antiokupació que permeti desalojar els okupes en un termini de 48 hores i recuperar les vivendes ocupades il·legalment.",
+    "Segons el diari d'Ibiza i Formentera, la mesura també inclourà accions contundents contra les mafies que es beneficien de la propietat ajena. El Diari de Mallorca afegeix que Feijóo reforçarà la seguretat a les illes i “acabarà amb la impunitat dels okupes”."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Marí Bosó afirma que Feijóo aprobará una ley antiokupación que permita desalojar a los okupas en 48 horas",
+    "ca": "Marí Bosó afirma que Feijóo aprovarà una llei antiokupació que permeti desalojar els okupes en 48 hores",
+    "sources": [
+     "periodicodeibiza",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La ley también actuará contra las mafias que hacen negocio con la propiedad ajena",
+    "ca": "La llei també actuarà contra les mafies que fan negoci amb la propietat ajena",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Feijóo reforzará la seguridad en las Islas Baleares",
+    "ca": "Feijóo reforçarà la seguretat a les Illes Balears",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:56:07.577Z",
+  "slug": "mari-boso-anuncia-que-feijoo-aprobara-ley-antiokupacion-en-48-horas-0a6ed",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/f526a26d-399f-47fd-a4e6-415c97b2b500_16-9-aspect-ratio_default_0_x800y355.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/17/mari-boso-pp-defiende-feijoo-136548579.html"
+  }
  },
  {
   "id": "st8824e0cbe2",
@@ -2017,6 +3584,23 @@
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/17/izquierda-reprocha-prohens-escuche-manifestantes-136533080.html"
   }
+ },
+ {
+  "id": "st3769d81b94",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T10:49:18.000Z",
+  "articles": [
+   {
+    "id": "ce7519bd9cd8",
+    "url": "https://www.mallorcadiario.com/ses-salines-presupuesto-2027-11-millones",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Ses Salines aprueba su presupuesto para 2027: 11 millones de euros",
+    "published": "2026-11-17T10:49:18.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T10:49:18.000Z"
  },
  {
   "id": "st0359096ebd",
@@ -2261,60 +3845,68 @@
     "published": "2026-11-17T19:08:44.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-17T19:08:44.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-17T11:46:06.341Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-18T02:54:51.923Z",
   "islands": [
-   "ibiza"
+   "ibiza",
+   "baleares"
   ],
   "topic": "medioambiente",
   "es": {
-   "title": "El Govern incorpora el primer refugio privado a la red de conservación de la lagartija pitiusa en Ibiza",
-   "summary": "El Govern balear ha formalizado el primer acuerdo de cesión de una instalación privada en Ibiza para integrarla en la red de refugios seguros de la lagartija pitiusa, especie endémica amenazada.",
+   "title": "El Govern incorpora el primer refugio privado para la lagartija pitiusa en Ibiza",
+   "summary": "El conseller Joan Simonet ha anunciado la formalización de un acuerdo con entidades privadas para crear un espacio seguro en la isla.",
    "body": [
-    "El conseller d'Agricultura, Pesca i Medi Natural, Joan Simonet, informó en una pregunta parlamentaria que se ha firmado el primer acuerdo de cesión de una instalación de titularidad privada en Ibiza, la cual pasará a formar parte de la red de refugios seguros gestionada por el Govern para la lagartija pitiusa (Podarcis pityusensis).",
-    "Según varios medios, el acuerdo se ha realizado con entidades locales, entre ellas Ibiza Botánico Biotecnológico e Ibizaloe, que cederán sus instalaciones al programa de conservación del Govern. La medida busca reforzar la protección de la especie frente a la expansión de serpientes invasoras que la amenazan."
+    "El Govern balear ha formalizado el primer acuerdo de cesión de una instalación de titularidad privada en Ibiza para incorporarla a la red de refugios seguros destinados a la conservación de la lagartija pitiusa (Podarcis pityusensis). El conseller d'Agricultura, Pesca i Medi Natural, Joan Simonet, ha informado de esta medida en respuesta a una pregunta parlamentaria sobre las actuaciones de protección de la especie endémica.",
+    "Según el Diario de Ibiza, el convenio ha sido suscrito con las entidades Ibiza Botánico Biotecnológico e Ibizaloe. La iniciativa busca frenar la desaparición de las lagartijas, una especie amenazada por la expansión de serpientes invasoras en la isla.",
+    "IB3 Notícies señala que esta acción se produce una semana después de que se hiciera público que una vecina de la isla se exponía a una multa de 6.000 euros por haber construido un refugio por su cuenta, lo que ha generado cierta polémica en torno a la gestión de la conservación."
    ]
   },
   "ca": {
-   "title": "El Govern incorpora el primer refugi privat a la xarxa de conservació de la llagosta pitiusa a Eivissa",
-   "summary": "El Govern balear ha formalitzat el primer acord de cessió d’una instal·lació privada a Eivissa per integrar‑la a la xarxa de refugis segurs de la llagosta pitiusa, espècie endèmica amenaçada.",
+   "title": "El Govern incorpora el primer refugi privat per a la sargantana pitiusa a Eivissa",
+   "summary": "El conseller Joan Simonet ha anunciat la formalització d'un acord amb entitats privades per crear un espai segur a l'illa.",
    "body": [
-    "El conseller d'Agricultura, Pesca i Medi Natural, Joan Simonet, ha informat en una pregunta parlamentària que s’ha signat el primer acord de cessió d’una instal·lació de titularitat privada a Eivissa, la qual s’incorporarà a la xarxa de refugis segurs gestionada pel Govern per a la llagosta pitiusa (Podarcis pityusensis).",
-    "Diversos mitjans indiquen que l’acord s’ha realitzat amb entitats locals, com Ibiza Botànic Biotecnològic i Ibizaloe, que cediran les seves instal·lacions al programa de conservació del Govern. La mesura pretén reforçar la protecció de l’espècie davant l’expansió de serps invasores que la perjudiquen."
+    "El Govern balear ha formalitzat el primer acord de cessió d'una instal·lació de titularitat privada a Eivissa per incorporar-la a la xarxa de refugis segurs destinats a la conservació de la sargantana pitiusa (Podarcis pityusensis). El conseller d'Agricultura, Pesca i Medi Natural, Joan Simonet, ha informat d'aquesta mesura en resposta a una pregunta parlamentària sobre les actuacions de protecció de l'espècie endèmica.",
+    "Segons el Diario de Ibiza, el conveni ha estat subscrit amb les entitats Ibiza Botánico Biotecnológico i Ibizaloe. La iniciativa busca frenar la desaparició de les sargantanes, una espècie amenaçada per l'expansió de serps invasores a l'illa.",
+    "IB3 Notícies assenyala que aquesta acció es produeix una setmana després que es fes públic que una veïna de l'illa s'exposava a una multa de 6.000 euros per haver construït un refugi pel seu compte, fet que ha generat certa polèmica entorn de la gestió de la conservació."
    ]
   },
   "facts": [
    {
-    "es": "El Govern balear ha formalizado el primer acuerdo de cesión de una instalación privada en Ibiza para la red de refugios seguros de la lagartija pitiusa",
-    "ca": "El Govern balear ha formalitzat el primer acord de cessió d’una instal·lació privada a Eivissa per a la xarxa de refugis segurs de la llagosta pitiusa",
-    "sources": [
-     "ultimahora",
-     "diariodeibiza",
-     "noudiari",
-     "periodicodeibiza"
-    ]
-   },
-   {
-    "es": "El conseller Joan Simonet informó en respuesta a una pregunta parlamentaria",
-    "ca": "El conseller Joan Simonet ha informat en resposta a una pregunta parlamentària",
+    "es": "El conseller Joan Simonet ha informado de la formalización del acuerdo en respuesta a una pregunta parlamentaria.",
+    "ca": "El conseller Joan Simonet ha informat de la formalització de l'acord en resposta a una pregunta parlamentària.",
     "sources": [
      "ultimahora",
      "periodicodeibiza"
     ]
    },
    {
-    "es": "El acuerdo se ha realizado con Ibiza Botánico Biotecnológico e Ibizaloe",
-    "ca": "L’acord s’ha realitzat amb Ibiza Botànic Biotecnòlic i Ibizaloe",
+    "es": "El acuerdo es con las entidades Ibiza Botánico Biotecnológico e Ibizaloe.",
+    "ca": "L'acord és amb les entitats Ibiza Botánico Biotecnológico i Ibizaloe.",
     "sources": [
      "diariodeibiza"
+    ]
+   },
+   {
+    "es": "La especie está amenazada por la expansión de serpientes invasoras.",
+    "ca": "L'espècie està amenaçada per l'expansió de serps invasores.",
+    "sources": [
+     "diariodeibiza",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Una vecina se exponía a una multa de 6.000 euros por construir un refugio por su cuenta una semana antes.",
+    "ca": "Una veïna s'exposava a una multa de 6.000 euros per haver construït un refugi pel seu compte una setmana abans.",
+    "sources": [
+     "ib3"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-17T11:46:06.341Z",
+  "updatedAt": "2026-11-18T02:54:51.923Z",
   "slug": "el-govern-incorpora-el-primer-refugio-privado-a-la-red-de-718db",
   "status": "verified",
   "image": {
@@ -2465,6 +4057,23 @@
   }
  },
  {
+  "id": "ste7e8781722",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T10:21:35.000Z",
+  "articles": [
+   {
+    "id": "5ddd64127fbe",
+    "url": "https://www.mallorcadiario.com/garcia-niega-privatizacion-sanidad-publica-baleares",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "García niega en el Parlament la privatización de la sanidad pública",
+    "published": "2026-11-17T10:21:35.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T10:21:35.000Z"
+ },
+ {
   "id": "stc4a3c60a10",
   "createdAt": "2026-11-17T11:45:00.556Z",
   "firstPublished": "2026-11-17T10:07:00.000Z",
@@ -2528,98 +4137,6 @@
    "sourceId": "dbalears",
    "articleUrl": "https://www.dbalears.cat/balears/educacio/2026/11/17/424135/conversa-sobre-educacio-amb-enric-prats-carme-pinya-quart-creixent.html"
   }
- },
- {
-  "id": "stca4d614617",
-  "createdAt": "2026-11-17T11:45:00.556Z",
-  "firstPublished": "2026-11-17T10:05:20.000Z",
-  "articles": [
-   {
-    "id": "5c7de0afdc67",
-    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/ladrones-coches-embisten-vehiculo-policia-136528888.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Unos ladrones de coches embisten a un vehículo de la Policía en Palma al intentar escapar",
-    "published": "2026-11-17T10:34:26.000Z"
-   },
-   {
-    "id": "1b39ca8866da",
-    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/17/2751559/cinco-detenidos-por-robar-coches-alquiler-palma.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Cinco detenidos por robar coches de alquiler en Palma",
-    "published": "2026-11-17T10:05:20.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-17T10:34:26.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-17T20:58:02.002Z",
-  "islands": [
-   "mallorca"
-  ],
-  "topic": "sociedad",
-  "es": {
-   "title": "Cinco detenidos por robos de coches de alquiler en Palma",
-   "summary": "La Policía Nacional ha puesto bajo custodia a cinco personas sospechosas de haber sustraído vehículos de empresas de alquiler en Palma, en dos operativos distintos.",
-   "body": [
-    "La Policía Nacional informó que ha detenido a cinco individuos —cuatro hombres y una mujer— como presuntos autores de varios robos de coches de alquiler en la capital mallorquina. Los arrestos se realizaron en dos intervenciones separadas: en la primera, dos hombres fueron capturados; días después, una segunda operación condujo a la detención de otras tres personas.",
-    "Según el Diario de Mallorca, los sospechosos habían sustraído dos vehículos de empresas de alquiler. Durante la huida, dos de ellos fueron sorprendidos en una zona del polígono de Son Oms y, al intentar escapar con un turismo robado, circularon a gran velocidad y colisionaron con un vehículo policial."
-   ]
-  },
-  "ca": {
-   "title": "Cinc detinguts per robatoris de cotxes de lloguer a Palma",
-   "summary": "La Policia Nacional ha posat sota custòdia cinc persones sospitoses d'haver robat vehicles d'empreses de lloguer a Palma, en dues operacions diferents.",
-   "body": [
-    "La Policia Nacional ha comunicat que ha detingut cinc individus —quatre homes i una dona— com a presumptes autoritats de diversos robatoris de cotxes de lloguer a la capital mallorquina. Les detencions es van dur a terme en dues intervencions separades: en la primera, es van capturar dos homes; dies després, una segona operació va conduir a la detenció d'altres tres persones.",
-    "Segons el Diario de Mallorca, els sospitosos havien robat dos vehicles d'empreses de lloguer. Durant la fuga, dos d'ells van ser sorprés en una zona del polígon de Son Oms i, en intentar escapar amb un cotxe robat, van circular a gran velocitat i van xocar amb un vehicle policial."
-   ]
-  },
-  "facts": [
-   {
-    "es": "Cinco personas detenidas (cuatro hombres y una mujer)",
-    "ca": "Cinc persones detingudes (quatre homes i una dona)",
-    "sources": [
-     "ultimahora",
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Los arrestos se realizaron en dos intervenciones distintas",
-    "ca": "Les detencions es van dur a terme en dues intervencions diferents",
-    "sources": [
-     "ultimahora",
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Los sospechosos robaron dos coches de alquiler",
-    "ca": "Els sospitosos van robar dos cotxes de lloguer",
-    "sources": [
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Durante la huida embistieron un vehículo policial en el polígono de Son Oms",
-    "ca": "Durant la fuga van xocar amb un vehicle policial al polígon de Son Oms",
-    "sources": [
-     "diariodemallorca"
-    ]
-   }
-  ],
-  "discrepancies": [],
-  "contradiction": false,
-  "updatedAt": "2026-11-17T20:58:02.002Z",
-  "slug": "cinco-detenidos-por-robar-dos-coches-en-palma-y-embestir-a-la-policia-14617",
-  "status": "verified",
-  "image": {
-   "url": "https://estaticos-cdn.prensaiberica.es/clip/fdc9f41f-aeb3-4126-a750-25c5630a7945_16-9-aspect-ratio_default_0_x800y367.jpg",
-   "sourceId": "diariodemallorca",
-   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/ladrones-coches-embisten-vehiculo-policia-136528888.html"
-  },
-  "distinctFrom": [
-   "st2346e41741"
-  ]
  },
  {
   "id": "sta04f9f6515",
@@ -2820,6 +4337,98 @@
    "sourceId": "europapress",
    "articleUrl": "https://www.europapress.es/illes-balears/noticia-govern-comprado-45-viviendas-dos-solares-via-tanteo-retracto-20261117105947.html"
   }
+ },
+ {
+  "id": "stca4d614617",
+  "createdAt": "2026-11-17T11:45:00.556Z",
+  "firstPublished": "2026-11-17T09:56:15.000Z",
+  "articles": [
+   {
+    "id": "5c7de0afdc67",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/ladrones-coches-embisten-vehiculo-policia-136528888.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Unos ladrones de coches embisten a un vehículo de la Policía en Palma al intentar escapar",
+    "published": "2026-11-17T10:34:26.000Z"
+   },
+   {
+    "id": "1b39ca8866da",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/17/2751559/cinco-detenidos-por-robar-coches-alquiler-palma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Cinco detenidos por robar coches de alquiler en Palma",
+    "published": "2026-11-17T10:05:20.000Z"
+   },
+   {
+    "id": "582c7e26e7d4",
+    "url": "https://www.mallorcadiario.com/gta-mallorca-persecucion-videojuego-cinco-detenidos-robar-coches-alquiler",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "GTA en Mallorca: persecución de videojuego con cinco detenidos por robar coches de alquiler",
+    "published": "2026-11-17T09:56:15.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T10:34:26.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:55:38.092Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "La Policía Nacional detiene a cinco personas por robos de coches de alquiler en Palma",
+   "summary": "La Policía Nacional ha detenido a cinco sospechosos de robo de vehículos de alquiler en Palma, en dos intervenciones distintas.",
+   "body": [
+    "La Policía Nacional informó que cinco personas fueron arrestadas en Palma por presuntos robos de coches de alquiler. Los detenidos son cuatro hombres y una mujer, según indica Última Hora. Las detenciones se produjeron en dos operativos diferentes: en la primera intervención se capturaron a dos hombres, y días después se arrestó a otras tres personas en una operación similar.",
+    "Según el Mallorcadiario, dos de los sospechosos fueron sorprendidos en una campaña de una compañía de alquiler en el polígono de Son Oms. Al intentar huir con un turismo robado, circularon a gran velocidad y colisionaron con un vehículo policial. Todas las fuentes coinciden en que el número total de detenidos es cinco y que los hechos tuvieron lugar en Palma, Mallorca."
+   ]
+  },
+  "ca": {
+   "title": "La Policia Nacional deté cinc persones per robatoris de cotxes dlogament a Palma",
+   "summary": "La Policia Nacional ha detingut cinc sospitosos de robatori de vehicles dlogament a Palma, en dues intervencions separades.",
+   "body": [
+    "La Policia Nacional ha comunicat que cinc persones han estat arrestades a Palma per presumptes robatoris de cotxes dlogament. Segons Última Hora, els detinguts són quatre homes i una dona. Les detencions es van produir en dos operatius diferents: en la primera intervenció es van capturar dos homes i, dies després, es van arrestar altres tres persones en una operació similar.",
+    "El Mallorcadiario indica que dos dels sospitosos van ser sorprés en una campanya d’una empresa de lloguer al polígon de Son Oms. En intentar fugir amb un cotxe robat, van conduir a gran velocitat i van xocar amb un vehicle policial. Totes les fonts coincideixen en que el nombre total de detinguts és cinc i que els fets van ocórrer a Palma, Mallorca."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Cinco personas detenidas, cuatro hombres y una mujer",
+    "ca": "Cinc persones detingudes, quatre homes i una dona",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Detenciones en dos intervenciones distintas",
+    "ca": "Detencions en dues intervencions diferents",
+    "sources": [
+     "ultimahora",
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "Dos sospechosos sorprendidos en el polígono de Son Oms y colisionaron con un vehículo policial",
+    "ca": "Dos sospitosos sorprés al polígon de Son Oms i van xocar amb un vehicle policial",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:38.093Z",
+  "slug": "cinco-detenidos-por-robar-dos-coches-en-palma-y-embestir-a-la-policia-14617",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/fdc9f41f-aeb3-4126-a750-25c5630a7945_16-9-aspect-ratio_default_0_x800y367.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/ladrones-coches-embisten-vehiculo-policia-136528888.html"
+  },
+  "distinctFrom": [
+   "st2346e41741"
+  ]
  },
  {
   "id": "stf5996f5ecf",
@@ -3132,6 +4741,23 @@
   }
  },
  {
+  "id": "std544720df6",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T09:44:54.000Z",
+  "articles": [
+   {
+    "id": "30e42aade08f",
+    "url": "https://www.mallorcadiario.com/t-club-temporada-golf-2026-mallorca",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "T Club cierra una temporada de golf con grandes protagonistas y nuevas iniciativas deportivas",
+    "published": "2026-11-17T09:44:54.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T09:44:54.000Z"
+ },
+ {
   "id": "staad3f1d32c",
   "createdAt": "2026-11-17T11:45:00.556Z",
   "firstPublished": "2026-11-17T09:43:11.000Z",
@@ -3261,79 +4887,77 @@
     "lang": "es",
     "title": "La Justicia anula el nombramiento de un subinspector de la Policía Local de Manacor por falta de titulación",
     "published": "2026-11-17T09:20:00.000Z"
+   },
+   {
+    "id": "48584c11668b",
+    "url": "https://www.mallorcadiario.com/justicia-anula-nombramiento-subinspector-policia-local-manacor-falta-titulacion",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "La Justicia anula el nombramiento del subinspector de la Policía Local de Manacor",
+    "published": "2026-11-17T10:19:58.000Z"
    }
   ],
   "needsWrite": false,
   "lastArticleAt": "2026-11-17T11:21:57.000Z",
-  "model": "groq/qwen/qwen3.8-27b",
-  "writtenAt": "2026-11-17T11:46:09.391Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:54:59.080Z",
   "islands": [
    "mallorca"
   ],
   "topic": "tribunales",
   "es": {
-   "title": "El TSJIB anula el nombramiento de un subinspector de la Policía Local de Manacor",
-   "summary": "El Tribunal Superior de Justicia de Balears ha declarado contrario a Derecho el nombramiento de un subinspector de la Policía Local de Manacor por falta de titulación.",
+   "title": "El TSJ anula el nombramiento de un subinspector de la Policía Local de Manacor por falta de titulación",
+   "summary": "El Tribunal Superior de Justicia de las Baleares revocó el nombramiento de un subinspector de la Policía Local de Manacor al considerar que no cumplía los requisitos académicos exigidos para la plaza A2.",
    "body": [
-    "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Balears (TSJIB) ha anulado el Decreto de Alcaldía 2021/3018, aprobado en septiembre de 2021, que nombraba a un agente como subinspector de la Policía Local de Manacor. El tribunal ha estimado el recurso de apelación presentado por el sindicato UGT Serveis Públics y ha revocado la sentencia previa del Juzgado de lo Contencioso-Administrativo número 2 de Palma.",
-    "Según el fallo, el agente no cumplía con los requisitos de titulación académica exigidos para acceder a una plaza clasificada en el subgrupo A2. El nombramiento se había realizado mediante un procedimiento de movilidad, pero la falta de la titulación correspondiente ha llevado a la justicia a declarar la ilegalidad de la medida.",
-    "La decisión judicial obliga al Ayuntamiento de Manacor a anular el nombramiento del subinspector. El sindicato UGT había interpuesto el recurso inicial al considerar que el agente no reunía los requisitos legales para ocupar dicho puesto."
+    "El Tribunal Superior de Justicia de las Baleares (TSJIB) ha dictado una sentencia que obliga al Ayuntamiento de Manacor a anular el nombramiento de un subinspector de la Policía Local. La decisión se produce tras el recurso presentado por el sindicato UGT Serveis Públics, que alegó la ausencia de la titulación académica requerida para acceder a una plaza del subgrupo A2.",
+    "Según la Sala de lo Contencioso‑Administrativo, el recurso de apelación fue estimado y se revocó la sentencia del Juzgado de lo Contencioso‑Administrativo nº 2 de Palma. Además, se declaró contrario a Derecho el Decreto de Alcaldía 2021/3018, aprobado en septiembre de 2021, por no cumplir con los requisitos de titulación."
    ]
   },
   "ca": {
-   "title": "El TSJIB anul·la el nomenament d'un subinspector de la Policia Local de Manacor",
-   "summary": "El Tribunal Superior de Justícia de les Balears ha declarat contrari a Dret el nomenament d'un subinspector de la Policia Local de Manacor per falta de titulació.",
+   "title": "El TSJIB anul·la el nomenament d’un subinspector de la Policia Local de Manacor per manca de titulació",
+   "summary": "El Tribunal Superior de Justícia de les Balears ha revocat el nomenament d’un subinspector de la Policia Local de Manacor per no complir els requisits acadèmics exigits per a la plaça A2.",
    "body": [
-    "La Sala Contenciosa-Administrativa del Tribunal Superior de Justícia de les Balears (TSJIB) ha anul·lat el Decret d'Alcaldia 2021/3018, aprovat el setembre de 2021, que nomenava un agent com a subinspector de la Policia Local de Manacor. El tribunal ha estimat el recurs d'apelació presentat pel sindicat UGT Serveis Públics i ha revocat la sentència prèvia del Juzgado de lo Contencioso-Administrativo número 2 de Palma.",
-    "Segons la resolució, l'agent no complia els requisits de titulació acadèmica exigits per accedir a una plaça classificada al subgrup A2. El nomenament s'havia fet mitjançant un procediment de mobilitat, però la falta de la titulació corresponent ha portat la justícia a declarar la il·legalitat de la mesura.",
-    "La decisió judicial obliga l'Ajuntament de Manacor a anul·lar el nomenament del subinspector. El sindicat UGT havia interposat el recurs inicial per considerar que l'agent no reunia els requisits legals per ocupar aquest lloc."
+    "El Tribunal Superior de Justícia de les Balears (TSJIB) ha dictat una sentència que obliga l'Ajuntament de Manacor a anul·lar el nomenament d’un subinspector de la Policia Local. La decisió sorgeix després del recurs presentat pel sindicat UGT Serveis Públics, que va argumentar la manca de la titulació acadèmica requerida per accedir a una plaça del subgrup A2.",
+    "Segons la Sala de Contenció Administrativa, el recurs d’apel·lació va ser estimat i es va revocar la sentència del Jutjat de Contenció Administrativa nº 2 de Palma. A més, es va declarar contrari a dret el Decret d'Alcaldia 2021/3018, aprovat al setembre de 2021, per no complir amb els requisits de titulació."
    ]
   },
   "facts": [
    {
-    "es": "El TSJIB ha anulado el nombramiento de un subinspector de la Policía Local de Manacor.",
-    "ca": "El TSJIB ha anul·lat el nomenament d'un subinspector de la Policia Local de Manacor.",
+    "es": "El TSJIB anuló el nombramiento del subinspector de la Policía Local de Manacor por falta de titulación",
+    "ca": "El TSJIB va anul·lar el nomenament d’un subinspector de la Policia Local de Manacor per manca de titulació",
     "sources": [
      "ultimahora",
+     "mallorcadiario",
      "diariodemallorca",
      "arabalears"
     ]
    },
    {
-    "es": "La causa es la falta de titulación académica exigida para una plaza del subgrupo A2.",
-    "ca": "La causa és la falta de titulació acadèmica exigida per a una plaça del subgrup A2.",
-    "sources": [
-     "ultimahora",
-     "diariodemallorca",
-     "arabalears"
-    ]
-   },
-   {
-    "es": "El recurso fue presentado por el sindicato UGT (UGT Serveis Públics).",
-    "ca": "El recurs va ser presentat pel sindicat UGT (UGT Serveis Públics).",
+    "es": "El recurso fue presentado por UGT Serveis Públics",
+    "ca": "El recurs va ser presentat per UGT Serveis Públics",
     "sources": [
      "ultimahora",
      "diariodemallorca"
     ]
    },
    {
-    "es": "Se revoca la sentencia del Juzgado de lo Contencioso-Administrativo número 2 de Palma y se anula el Decreto de Alcaldía 2021/3018 de septiembre de 2021.",
-    "ca": "Es revoca la sentència del Juzgado de lo Contencioso-Administrativo número 2 de Palma i s'anul·la el Decret d'Alcaldia 2021/3018 de setembre de 2021.",
+    "es": "La sentencia revocó la resolución del Juzgado de lo Contencioso‑Administrativo nº 2 de Palma",
+    "ca": "La sentència va revocar la resolució del Jutjat de Contenció Administrativa nº 2 de Palma",
     "sources": [
      "diariodemallorca"
     ]
    },
    {
-    "es": "El nombramiento se realizó mediante un procedimiento de movilidad.",
-    "ca": "El nomenament es va realitzar mitjançant un procediment de mobilitat.",
+    "es": "Se declaró contrario a Derecho el Decreto de Alcaldía 2021/3018, aprobado en septiembre de 2021",
+    "ca": "Es va declarar contrari a dret el Decret d'Alcaldia 2021/3018, aprovat al setembre de 2021",
     "sources": [
-     "arabalears"
+     "diariodemallorca"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-17T11:46:09.391Z",
+  "updatedAt": "2026-11-18T02:54:59.080Z",
   "slug": "el-tsjib-anula-el-nombramiento-de-un-subinspector-de-la-policia-local-bde3b",
   "status": "verified",
   "image": {
@@ -3371,10 +4995,67 @@
     "lang": "es",
     "title": "El Govern convoca 300.000 euros en ayudas a mataderos",
     "published": "2026-11-17T09:19:07.000Z"
+   },
+   {
+    "id": "5ba5ea8fdfcb",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/17/govern-destina-300-000-euros-136537065.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Govern destina 300.000 euros en ayudas para gastos de funcionamiento de los mataderos",
+    "published": "2026-11-17T12:32:39.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T09:19:07.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T12:32:39.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:57:05.015Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El Govern destina 300.000 euros en ayudas a los mataderos del archipiélago",
+   "summary": "La Conselleria de Agricultura, Pesca y Medio Natural ha anunciado una convocatoria de 300.000 euros para sufragar los gastos de funcionamiento de los mataderos balears.",
+   "body": [
+    "El Govern de les Illes Balears ha publicat una convocatòria de 300.000 euros destinada a cobrir les despeses de funcionament dels mataderos de l'arxipèlag. La iniciativa, impulsada per la Conselleria d'Agricultura, Pesca i Medi Natural, es va publicar aquest dimarts al Butlletí Oficial de les Illes Balears (BOIB).",
+    "Segons la Conselleria, aquest suport pretén garantir la viabilitat del servei de mataderos, clau per a la continuïtat de les explotacions ramaderes de les illes, en un context de costos elevats i exigències sanitàries que dificulten la rendibilitat del sector."
+   ]
+  },
+  "ca": {
+   "title": "El Govern destina 300.000 euros en ajudes als mataderos de l'arxipèlag",
+   "summary": "La Conselleria d'Agricultura, Pesca i Medi Natural ha anunciat una convocatòria de 300.000 euros per cobrir les despeses de funcionament dels mataderos balears.",
+   "body": [
+    "El Govern de les Illes Balears ha publicat una convocatòria de 300.000 euros destinada a sufragar les despeses de funcionament dels mataderos de l'arxipèlag. La iniciativa, impulsada per la Conselleria d'Agricultura, Pesca i Medi Natural, es va publicar aquest dimarts al Butlletí Oficial de les Illes Balears (BOIB).",
+    "Segons la Conselleria, aquest ajut pretén garantir la viabilitat del servei de mataderos, clau per a la continuïtat de les explotacions ramaderes de les illes, en un context de costos elevats i exigències sanitàries que dificulten la rendibilitat del sector."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La convocatòria és de 300.000 euros per a despeses de funcionament dels mataderos",
+    "ca": "La convocatòria és de 300.000 euros per a despeses de funcionament dels mataderos",
+    "sources": [
+     "europapress",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Publicada al BOIB el 17 de novembre de 2026",
+    "ca": "Publicada al BOIB el 17 de novembre de 2026",
+    "sources": [
+     "europapress"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:57:05.015Z",
+  "slug": "el-govern-destina-300-000-euros-en-ayudas-a-los-mataderos-del-494b6",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/ce2ec587-ffa6-4bb5-bc63-8dace5345fcb_16-9-aspect-ratio_default_0_x509y227.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/17/govern-destina-300-000-euros-136537065.html"
+  }
  },
  {
   "id": "st224d5cd428",
@@ -3784,7 +5465,11 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/4657962f-ca2c-49d7-9fd2-36325fa6d5d6_16-9-aspect-ratio_default_0_x1214y1138.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/17/ibiza-amenazas-golpes-robo-policia-nacional-136525625.html"
-  }
+  },
+  "distinctFrom": [
+   "st2346e41741",
+   "st1be58669c7"
+  ]
  },
  {
   "id": "st363415a7c5",
@@ -3873,6 +5558,23 @@
    "sourceId": "europapress",
    "articleUrl": "https://www.europapress.es/illes-balears/noticia-compraventa-viviendas-baleares-baja-224-septiembre-20261117090947.html"
   }
+ },
+ {
+  "id": "stb066242b99",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T06:01:33.000Z",
+  "articles": [
+   {
+    "id": "c496efa3eae1",
+    "url": "https://www.ara.cat/economia/mercat-laboral/sanchez-aprova-pujada-expres-salari-minim-coincidint-campanya-electoral_1_5912541.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Sánchez aprova la pujada del salari mínim i dels sous públics coincidint amb la campanya del 29-N",
+    "published": "2026-11-17T06:01:33.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T06:01:33.000Z"
  },
  {
   "id": "st549e8b65e4",
@@ -4081,6 +5783,14 @@
     "lang": "es",
     "title": "El hombre que disparó a un policía local en Corea pasa a disposición judicial: «No he hecho nada, no he disparado»",
     "published": "2026-11-17T15:03:00.000Z"
+   },
+   {
+    "id": "6d98f4cc658e",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/policia-nacional-confirma-detenido-corea-136537379.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El detenido por herir a un policía en Corea: \"Yo no he hecho nada, no he disparado a nadie\"",
+    "published": "2026-11-17T12:56:28.000Z"
    }
   ],
   "needsWrite": false,
@@ -4265,6 +5975,244 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st2f0cb1d354",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "c9dbdac93a22",
+    "url": "https://www.ultimahora.es/opinion/tribuna/2026/11/17/2751295/urnas-aseguran-democracia-2.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Las urnas no aseguran la democracia",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st5ec7878ce2",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "00b34ff15085",
+    "url": "https://www.ultimahora.es/opinion/tribuna/2026/11/17/2751291/mallorca-perla-del-caribe.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Mallorca, en la perla del Caribe",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st5217adb0df",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "45551f58887f",
+    "url": "https://www.ultimahora.es/opinion/tribuna/2026/11/17/2751287/involucio.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Involució",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "std0d785955b",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "4a6255a74fbc",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/17/2751257/cierre-del-celler-travessa-deja-vacio-entre-clasicos-del-dijous-bo.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El cierre del Celler Sa Travessa deja un vacío entre los ‘clásicos’ del Dijous Bo",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st2f3e06da28",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "ed9ddbe8385b",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/17/2751255/esto-pasa-por-meterte-nosotros-brutal-paliza-joven-son-oliva.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "«Esto te pasa por meterte con nosotros»: Brutal paliza a un joven en Son Oliva",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "stbc3a1aa042",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "a89f42a4855f",
+    "url": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/17/2751205/ciclista-mallorquin-arabia-saudi-carreras-ruido-bombas-experiencia-inolvidable.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Un ciclista mallorquín en Arabia Saudí: Carreras, ruido de bombas y «una experiencia inolvidable»",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st41aeb35cfa",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "a3ea7086925b",
+    "url": "https://www.ultimahora.es/noticias/palma/2026/11/17/2751133/traspasan-papeleria-mas-conocida-son-ferriol-puedo-retirar-mas-tranquila.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Traspasan la papelería más conocida de Son Ferriol: «Me puedo retirar más tranquila»",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st6e01644d61",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "67293879e486",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/17/2750841/semana-curvas-dentro-fuera-del-campo.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Semana de alta tensión",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "steebd873746",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "6d9757f0e5c9",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/17/2745431/duo-sexteto-universo-amor-set-expande.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "De dúo a sexteto: el universo de ‘L’amor, la set’ se expande en la culminación del Any Blai Bonet",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "sta37e4f501f",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "883def351f1e",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2742181/denuncian-panaderia-santa-catalina-por-acumular-meses-impagos-trabajadoras.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Denuncian a una panadería de Santa Catalina por acumular meses de impagos a sus trabajadoras",
+    "published": "2026-11-17T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:01.000Z"
+ },
+ {
+  "id": "st23fe768d08",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:00.000Z",
+  "articles": [
+   {
+    "id": "8fa87f66f0f2",
+    "url": "https://www.ultimahora.es/noticias/sociedad/2026/11/17/2751335/hijo-ayudado-comprender-determinados-aspectos-vida.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "«Mi hijo me ha ayudado a comprender determinados aspectos de la vida»",
+    "published": "2026-11-17T03:48:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:00.000Z"
+ },
+ {
+  "id": "st27ce9de063",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T03:48:00.000Z",
+  "articles": [
+   {
+    "id": "9fd916514497",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/17/2751271/demanda-expositores-para-dijous-crecido-por-ciento.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "«La demanda de expositores para el Dijous Bo ha crecido un 25 por ciento»",
+    "published": "2026-11-17T03:48:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T03:48:00.000Z"
+ },
+ {
+  "id": "st704aac549f",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "7d65f17d818d",
+    "url": "https://www.menorca.info/menorca/sucesos/2026/11/17/2751361/enfrenta-pena-anos-medio-carcel-por-estafa-diez-tiendas-mao-asi-enganaba.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Se enfrenta a una pena 4 años y medio de cárcel por estafa en diez tiendas de Maó: así las engañaba",
+    "published": "2026-11-17T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T02:59:01.000Z"
+ },
+ {
+  "id": "stbec6e70262",
+  "createdAt": "2026-11-18T02:54:47.072Z",
+  "firstPublished": "2026-11-17T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "5afe32c74df5",
+    "url": "https://www.menorca.info/menorca/cultura/2026/11/17/2751353/carla-garriga-videoarte-castell.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Carla Garriga y su videoarte en Es Castell",
+    "published": "2026-11-17T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-17T02:59:01.000Z"
  },
  {
   "id": "st87d01f93c4",
@@ -5458,6 +7406,22 @@
     "lang": "es",
     "title": "El PSIB responde que los pisos de la pareja de Rosario Sánchez son alquileres estables y asequibles fruto de una herencia",
     "published": "2026-11-17T17:31:00.000Z"
+   },
+   {
+    "id": "40aeb3ac3767",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2751649/govern-carga-contra-descomunal-hipocresia-rosario-sanchez-las-propiedades-pareja.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Govern carga contra la «descomunal hipocresía» de Rosario Sánchez, una «Montse Mínguez balear»",
+    "published": "2026-11-17T11:54:00.000Z"
+   },
+   {
+    "id": "0dd9f09d3562",
+    "url": "https://www.mallorcadiario.com/las-40-propiedades-de-la-pareja-de-rosario-sanchez-llegan-al-parlament",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Las 40 propiedades de la pareja de Rosario Sánchez llegan al Parlament",
+    "published": "2026-11-17T10:25:44.000Z"
    }
   ],
   "needsWrite": false,
@@ -5662,53 +7626,70 @@
     "lang": "es",
     "title": "Las llegadas de inmigrantes en pateras a Baleares crecen un 9,1% en 2026",
     "published": "2026-11-16T18:50:00.000Z"
+   },
+   {
+    "id": "a89c7059ef49",
+    "url": "https://www.mallorcadiario.com/baleares-ya-roza-este-ano-total-inmigrantes-llegados-patera-todo-2025",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Baleares ya roza este año el total de inmigrantes llegados en patera en todo 2025",
+    "published": "2026-11-17T11:42:47.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-16T18:50:00.000Z",
+  "lastArticleAt": "2026-11-17T11:42:47.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-16T19:53:00.998Z",
+  "writtenAt": "2026-11-18T02:57:33.881Z",
   "islands": [
    "baleares"
   ],
   "topic": "sociedad",
   "es": {
-   "title": "Las llegadas de inmigrantes en pateras a Baleares aumentan un 9,1% en 2026",
-   "summary": "En 2026 se estima que unas 7.300 personas han llegado de forma irregular a las islas en pateras, lo que supone un crecimiento del 9,1% respecto al año anterior.",
+   "title": "Las llegadas en patera a Baleares aumentan un 9,1% en 2026",
+   "summary": "Hasta el 15 de noviembre se registraron cerca de 7.300 inmigrantes que arribaron en pateras, lo que supone un incremento del 9,1% respecto al mismo periodo del año anterior.",
    "body": [
-    "Según el informe publicado el 16 de noviembre, la llegada de inmigrantes en pateras a Baleares ha experimentado un incremento del 9,1% en 2026. La cifra total se sitúa cerca de las 7.300 personas que han ingresado de manera irregular durante el año.",
-    "Este aumento refleja una tendencia al alza en los flujos migratorios hacia el archipiélago, aunque la fuente no detalla la distribución por islas ni el origen de los migrantes."
+    "Según Crónica Balear, el número de personas que llegaron de forma irregular a las Islas Baleares en pateras se aproxima a los 7.300, lo que representa un crecimiento del 9,1% en 2026. La cifra incluye todas las islas del archipiélago y se basa en los datos recopilados por los servicios de vigilancia marítima.",
+    "Mallorcadiario.com indica que, hasta el 15 de noviembre, se contabilizaron 7.289 llegadas procedentes de Argelia, también con un aumento del 9,1% respecto al mismo periodo de 2025. Además, la entidad detectó 405 pateras, frente a las 401 registradas en todo el año anterior."
    ]
   },
   "ca": {
-   "title": "Les arribades d’immigrants en pateres a les Balears augmenten un 9,1% el 2026",
-   "summary": "Es calcula que al voltant de 7.300 persones han arribat de forma irregular a les illes en pateres durant 2026, un increment del 9,1% respecte a l'any anterior.",
+   "title": "Les arribades en patera a les Balears augmenten un 9,1% el 2026",
+   "summary": "Fins al 15 de novembre es van registrar prop de 7.300 immigrants que van arribar en pateres, un increment del 9,1% respecte al mateix període de l'any anterior.",
    "body": [
-    "Segons l’informe publicat el 16 de novembre, l’arribada d’immigrants en pateres a les Balears ha experimentat un augment del 9,1% el 2026. La xifra total s’aproxima a les 7.300 persones que han ingressat de manera irregular al llarg de l'any.",
-    "Aquest increment reflecteix una tendència a l’alça en els fluxos migratoris cap a l’arxipèlag, tot i que la font no detalla la distribució per illes ni l’origen dels migrants."
+    "Segons Crònica Balear, el nombre de persones que van arribar de forma irregular a les Illes Balears en pateres s'aproxima a les 7.300, el que representa un creixement del 9,1% el 2026. La xifra inclou totes les illes de l'arxipèlag i es basa en les dades recollides pels serveis de vigilància marítima.",
+    "Mallorcadiari.com assenyala que, fins al 15 de novembre, es van comptabilitzar 7.289 arribades procedents d'Algèria, també amb un augment del 9,1% respecte al mateix període de 2025. A més, l'entitat va detectar 405 pateres, davant les 401 registrades durant tot l'any anterior."
    ]
   },
   "facts": [
    {
-    "es": "Crecimiento del 9,1% en 2026",
-    "ca": "Increment del 9,1% el 2026",
+    "es": "Cerca de 7.300 llegades en patera (7.289 segons Mallorcadiario)",
+    "ca": "Prop de 7.300 arribades en patera (7.289 segons Mallorcadiari)",
     "sources": [
-     "cronicabalear"
+     "cronicabalear",
+     "mallorcadiario"
     ]
    },
    {
-    "es": "Aproximadamente 7.300 llegadas irregulares",
-    "ca": "Al voltant de 7.300 arribades irregulars",
+    "es": "Increment del 9,1% respecte al mateix període de 2025",
+    "ca": "Increment del 9,1% respecte al mateix període de 2025",
     "sources": [
-     "cronicabalear"
+     "cronicabalear",
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "405 pateras detectades fins al 15‑novembre, comparades amb 401 l'any anterior",
+    "ca": "405 pateres detectades fins al 15‑novembre, comparades amb 401 l'any anterior",
+    "sources": [
+     "mallorcadiario"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-16T19:53:00.998Z",
+  "updatedAt": "2026-11-18T02:57:33.881Z",
   "slug": "las-llegadas-de-inmigrantes-en-pateras-a-baleares-aumentan-un-9-1-en-798e8",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1788244967.jpg",
    "sourceId": "cronicabalear",
@@ -6391,10 +8372,18 @@
     "lang": "es",
     "title": "Desalojan a 12 personas de una vivienda por el incendio de un trastero en  Maó",
     "published": "2026-11-16T16:32:00.000Z"
+   },
+   {
+    "id": "a6db9b6aeb11",
+    "url": "https://www.menorca.info/opinion/editorial/2026/11/17/2751341/sucesos-destapan-precariedad-falta-vivienda-menorca.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sucesos que destapan la precariedad y falta de vivienda en Menorca",
+    "published": "2026-11-17T02:59:01.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-16T16:32:00.000Z",
+  "lastArticleAt": "2026-11-17T02:59:01.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-16T19:54:08.092Z",
   "islands": [
@@ -11345,51 +13334,59 @@
     "lang": "es",
     "title": "El Palma Futsal, a semifinales con autoridad",
     "published": "2026-11-17T03:52:00.000Z"
+   },
+   {
+    "id": "2fc8f7c8420e",
+    "url": "https://www.ultimahora.es/deportes/palma-futsal/2026/11/17/2752193/palma-futsal-busca-lugar-gran-final.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Palma Futsal busca su lugar en la gran final",
+    "published": "2026-11-17T21:56:13.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T03:52:00.000Z",
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T21:56:13.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-17T02:58:21.692Z",
+  "writtenAt": "2026-11-18T02:55:01.188Z",
   "islands": [
    "mallorca"
   ],
   "topic": "deportes",
   "es": {
-   "title": "El Palma Futsal triunfa en su debut de la Copa Intercontinental",
-   "summary": "El Illes Balears Palma Futsal ganó su primer partido en la Copa Intercontinental y se clasificó como primero del Grupo A.",
+   "title": "El Illes Balears Palma Futsal avanza a semifinales de la Copa Intercontinental tras vencer al AlUla",
+   "summary": "El equipo de futsal de Palma se impuso 6-0 al AlUla y clasificó como primero del Grupo A para disputar las semifinales en Brasil.",
    "body": [
-    "El Illes Balears Palma Futsal abrió su participación en la Copa Intercontinental con una victoria contundente, según informa Mallorcadiario.com. El equipo venció 6-0 al AlUla en su primer encuentro, lo que le dejó en una posición favorable para avanzar en la fase de grupos.",
-    "Por otro lado, Diario de Mallorca indica que el Palma Futsal superó al anfitrión Paton Futsal con un marcador de 1-5, lo que le permitió clasificarse como primero del Grupo A y acceder a las semifinales, donde se enfrentará al campeón Carlos Barbosa el próximo miércoles a las 21 horas."
+    "El Illes Balears Palma Futsal debutó en la Copa Intercontinental con una contundente victoria de 6-0 frente al AlUla, según informó Mallorcadiario.com. Con ese resultado, el equipo se colocó como líder del Grupo A y aseguró su paso a la fase semifinal del torneo.",
+    "En la segunda jornada, el Palma Futsal volvió a imponerse, esta vez por 5-1 al Pato Futsal, según Última Hora, lo que confirmó su primera plaza en el grupo y le garantiza el enfrentamiento contra el campeón Carlos Barbosa en la semifinal programada para el miércoles a las 21:00 horas."
    ]
   },
   "ca": {
-   "title": "El Palma Futsal triomfa en el seu debut a la Copa Intercontinental",
-   "summary": "L'Illes Balears Palma Futsal va guanyar el seu primer partit a la Copa Intercontinental i es va classificar primer del grup A.",
+   "title": "L'Illes Balears Palma Futsal avança a semifinals de la Copa Intercontinental després de vèncer l'AlUla",
+   "summary": "L'equip de futbol sala de Palma va guanyar 6-0 a l'AlUla i es va classificar com a primer del Grup A per disputar les semifinals al Brasil.",
    "body": [
-    "L'Illes Balears Palma Futsal va obrir la seva participació a la Copa Intercontinental amb una victòria contundent, segons informa Mallorcadiario.com. L'equip va vèncer 6-0 a l'AlUla en el seu primer enfrontament, deixant-lo en una posició favorable per avançar a la fase de grups.",
-    "D'altra banda, Diario de Mallorca indica que el Palma Futsal va superar l'amfitrió Paton Futsal amb un marcador de 1-5, la qual cosa li va permetre classificar-se primer del grup A i accedir a les semifinals, on s'enfrontarà al campió Carlos Barbosa el proper dimecres a les 21 hores."
+    "L'Illes Balears Palma Futsal va debutar a la Copa Intercontinental amb una victòria contundent de 6-0 contra l'AlUla, segons informa Mallorcadiario.com. Amb aquest resultat, l'equip es va col·locar com a líder del Grup A i va assegurar el seu pas a la fase semifinal del torneig.",
+    "En la segona jornada, el Palma Futsal va tornar a imposar-se, aquesta vegada per 5-1 al Pato Futsal, segons Última Hora, confirmant la seva primera plaça al grup i garantint el seu enfrontament contra el campió Carlos Barbosa a la semifinal programada per al dimecres a les 21:00 hores."
    ]
   },
   "facts": [
    {
-    "es": "Palma Futsal venció 6-0 al AlUla en su debut (F1)",
-    "ca": "El Palma Futsal va vèncer 6-0 a l'AlUla en el seu debut (F1)",
+    "es": "Victoria 6-0 al AlUla en el debut del torneo",
+    "ca": "Victòria 6-0 contra l'AlUla en el debut del torneig",
     "sources": [
      "mallorcadiario"
     ]
    },
    {
-    "es": "Palma Futsal ganó 5-1 al Paton Futsal y clasificó como primero del grupo (F2)",
-    "ca": "El Palma Futsal va guanyar 5-1 al Paton Futsal i es va classificar primer del grup (F2)",
+    "es": "Victoria 5-1 al Pato Futsal que aseguró la primera plaza del Grupo A",
+    "ca": "Victòria 5-1 contra el Pato Futsal que va assegurar la primera plaça del Grup A",
     "sources": [
-     "diariodemallorca"
+     "ultimahora"
     ]
    }
   ],
   "discrepancies": [],
-  "contradiction": true,
-  "updatedAt": "2026-11-17T02:58:21.692Z",
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:55:01.188Z",
   "slug": "el-palma-futsal-triunfa-en-su-debut-de-la-copa-intercontinental-5b486",
   "status": "verified",
   "image": {
@@ -11494,10 +13491,18 @@
     "lang": "es",
     "title": "Detenido por homicidio imprudente un hombre relacionado con el accidente de moto de Eivissa",
     "published": "2026-11-16T13:15:26.000Z"
+   },
+   {
+    "id": "19063d24ebae",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/libertad-con-comparecencias-periodicas-para-el-presunto-autor-de-la-muerte-de-un-motorista-que-abandono-el-lugar/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Libertad con comparecencias periódicas para el presunto autor de la muerte de un motorista que abandonó el lugar",
+    "published": "2026-11-17T12:53:06.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-16T14:05:53.000Z",
+  "lastArticleAt": "2026-11-17T12:53:06.000Z",
   "writeErrors": 1,
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-17T02:54:08.780Z",
@@ -11734,10 +13739,18 @@
     "lang": "es",
     "title": "El túnel gratuito, una factura millonaria",
     "published": "2026-11-17T03:48:01.000Z"
+   },
+   {
+    "id": "e3e827f621da",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/17/2751713/consell-recurrira-pago-del-rescate-del-tunel-soller-estudia-emprender-acciones-legales-contra-pacto-izquierdas-2017.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Consell estudia emprender acciones legales contra el pacto de izquierdas de 2017 por el rescate del túnel de Sóller",
+    "published": "2026-11-17T12:50:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-17T05:01:26.000Z",
+  "lastArticleAt": "2026-11-17T12:50:00.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-16T18:57:32.429Z",
   "islands": [
@@ -13156,10 +15169,18 @@
     "lang": "es",
     "title": "Ramón Sintes (PP) y Joana Barceló (Menorca al Senat) se enfrentarán en tres debates electorales esta semana",
     "published": "2026-11-16T02:59:01.000Z"
+   },
+   {
+    "id": "e37a05cfc616",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/17/2751349/vivienda-pensiones-igualdad-menorca-senat-presenta-propuestas-mercadal.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Vivienda, pensiones e igualdad: Menorca al Senat presenta sus propuestas en Es Mercadal",
+    "published": "2026-11-17T02:59:01.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-16T02:59:01.000Z"
+  "lastArticleAt": "2026-11-17T02:59:01.000Z"
  },
  {
   "id": "stbee84cd883",
@@ -13999,10 +16020,82 @@
     "lang": "es",
     "title": "El RCD Mallorca destituye a Pablo Ortells como director de fútbol",
     "published": "2026-11-15T10:31:00.000Z"
+   },
+   {
+    "id": "e0c046be6479",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/17/2751765/luis-garcia-teme-por-puesto-soy-entrenador-del-real-mallorca-pablo-ortells.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Luis García no teme por su puesto: «Yo soy entrenador del Real Mallorca, no de Pablo Ortells»",
+    "published": "2026-11-17T13:06:00.000Z"
+   },
+   {
+    "id": "ca964b032511",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/17/2751717/alfonso-diaz-tras-cese-ortells-estructura-sigue-funcionando-club-esta-preparado.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Alfonso Díaz, tras el cese de Ortells: «La estructura sigue funcionando y el club está preparado»",
+    "published": "2026-11-17T12:48:00.000Z"
+   },
+   {
+    "id": "f4006d331cdf",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/17/2751299/gestion-deprimente.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Gestión deprimente",
+    "published": "2026-11-17T03:48:01.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-15T10:31:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-17T13:06:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T02:56:53.641Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El RCD Mallorca destituye a Pablo Ortells como director deportivo",
+   "summary": "El club anuncia la salida inmediata de Pablo Ortells tras seis años y medio al frente del área deportiva, y comunica que el CEO Alfonso Díaz asumirá la supervisión del departamento.",
+   "body": [
+    "El RCD Mallorca ha hecho oficial la destitución de Pablo Ortells como director deportivo, decisión que entra en vigor de forma inmediata. Ortells había ocupado el cargo durante seis años y medio, según informa Crónica Balear.",
+    "A partir de ahora, el CEO del club, Alfonso Díaz, será quien supervise el área deportiva, según el mismo comunicado del club. La información ha sido recogida por Crónica Balear y no presenta divergencias con otras fuentes."
+   ]
+  },
+  "ca": {
+   "title": "El RCD Mallorca destituïx Pablo Ortells com a director esportiu",
+   "summary": "El club anuncia la sortida immediata de Pablo Ortells després de sis anys i mig al capdavant de l'àrea esportiva, i comunica que el CEO Alfonso Díaz assumirà la supervisió del departament.",
+   "body": [
+    "El RCD Mallorca ha fet oficial la destitució de Pablo Ortells com a director esportiu, una decisió que entra en vigor immediatament. Ortells ocupava el càrrec des de fa sis anys i mig, segons informa Crònica Balear.",
+    "A partir d'ara, el CEO del club, Alfonso Díaz, serà qui supervisi l'àrea esportiva, segons el mateix comunicat del club. La informació ha estat recollida per Crònica Balear i no presenta divergències amb altres fonts."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Pablo Ortells destituido como director deportivo tras seis años y medio en el cargo",
+    "ca": "Pablo Ortells destituït com a director esportiu després de sis anys i mig en el càrrec",
+    "sources": [
+     "cronicabalear"
+    ]
+   },
+   {
+    "es": "El CEO Alfonso Díaz supervisará el área deportiva",
+    "ca": "El CEO Alfonso Díaz supervisarà l'àrea esportiva",
+    "sources": [
+     "cronicabalear"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T02:56:53.641Z",
+  "slug": "el-rcd-mallorca-destituye-a-pablo-ortells-como-director-deportivo-ec403",
+  "status": "verified",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4852523.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/17/2751765/luis-garcia-teme-por-puesto-soy-entrenador-del-real-mallorca-pablo-ortells.html"
+  }
  },
  {
   "id": "stdae01453ad",

@@ -5264,8 +5264,9 @@
   "summary": "El Real Mallorca ha conseguido algo que parecía complicado, convertir la destitución de Pablo Ortells en un problema todavía mayor que la propia continuidad del director deportivo. La propiedad decidió cuándo abrir la crisis, eligió el momento de hacer saltar por los aires la estructura deportiva y ahora parece incapaz de encontrar la manera de cerrarla. En el fútbol, cuando uno decide provocar un incendio, debe tener preparado el extintor. Y en Son Moix, de momento, nadie parece saber dónde está.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851773.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "stb0b43ec403"
  },
  {
   "id": "c9dbdac93a22",
@@ -5275,8 +5276,9 @@
   "title": "Las urnas no aseguran la democracia",
   "summary": "Quizá no se haya destacado suficientemente que, con independencia de las preferencias políticas de cada observador, es evidente que las intervenciones del Rey han mejorado sensiblemente a lo largo de su reinado, que comenzó en junio de 2014. Dicha mejora no solo es estilística y formal, que también; alcanza indudablemente a los contenidos, que han incrementado su densidad, su oportunidad y su calidad. Algunos pensamos que ello se debe a la llegada a Zarzuela de la Reina, una periodista con afinado sentido de la realidad inherente a su oficio, buena observadora y con una visión de la política que se libra de cualesquiera filtros sectarios para observarla.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st2f0cb1d354"
  },
  {
   "id": "00b34ff15085",
@@ -5286,8 +5288,9 @@
   "title": "Mallorca, en la perla del Caribe",
   "summary": "Son bastantes los pintores aguerridos que estuvieron una temporada en Mallorca, a veces meses, a veces años y cuyos cuadros isleños fueron importantes en su formación y posteriormente en su triunfo como artistas en sus respectivos países. Me refiero, por ejemplo, a Diego Rivera (pintor no malo, regular, un pendejo de cuidado) o a Roberto Montenegro (con una estupenda técnica), estos dos en el caso de Méjico; o podríamos seguir con el grupo de pintores argentinos que anduvieron por Pollença al amparo del maestro Anglada Camarasa.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st5ec7878ce2"
  },
  {
   "id": "45551f58887f",
@@ -5297,8 +5300,9 @@
   "title": "Involució",
   "summary": "Involució és un terme que ha posat de moda Pedro Sánchez. Segons ell si el PP i Vox es fan amb el poder el 29-N es produirà un retrocés de l’Estat del benestar i dels valors democràtics. Potser té raó. El que sembla cert és que Feijóo s’ha errat d’estratègia política. S’ha allunyat del seny i la mesura.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st5217adb0df"
  },
  {
   "id": "aced55eabc1b",
@@ -5308,7 +5312,7 @@
   "title": "‘La señora de’",
   "summary": "El horizonte de Sánchez aparece lleno de amenazas tan angustiosas que ha considerado que no tenía más remedio que utilizar a su mujer para abrir campaña, mostrándola como doliente esposa, ángel inocente víctima del lawfare. Debió calcular que el sentimiento de piedad o de sensiblería que pudiera despertar entre los suyos ayudaría a la recuperación de votos perdidos. Si ha sido capaz de exponer a Begoña a tan duro trance, quiere decir que está dispuesto a todo antes de darse por vencido.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -5319,7 +5323,7 @@
   "title": "No te pido que lo mejores…",
   "summary": "Repasando sobre las jubilaciones, ahora de gran actualidad por el cuestionamiento del sistema que las sostiene, he recordado que el fiscal Subirán y el juez Penalva se jubilaron en 2020 y 2021, respectivamente. Uno con 59 años de edad y el otro con 54. Del primero se desconoce el motivo exacto de dicha jubilación anticipada, pero del segundo consta en el BOE que fue por incapacidad permanente. Imagino que el hecho de que estuvieran procesados por graves delitos, de los que fueron posteriormente condenados en el año 2023 por el TSJIB, debe ser una coincidencia. O quizás no.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -5330,7 +5334,7 @@
   "title": "Esquirol",
   "summary": "Mi intención era hacer huelga el miércoles. Me levanté más tarde de lo habitual y me quedé más rato leyendo los periódicos. Me desperecé estirando los brazos y con un buen desayuno. No tenía pensado salir hasta la tarde, cuando saco a ‘Pip’ a pasear. Y tampoco me apetecía cocinar (no me apetece nunca), así que pensé en calentarme algo en el microondas. Fantástico plan. Si se hace huelga, que sea total. Nada de medias tintas.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -5342,8 +5346,9 @@
   "summary": "Las puertas del Celler Sa Travessa, en Inca, llevan cerradas desde finales de verano y este año no atenderá a los visitantes e inquers que elegían este establecimiento para celebrar la cena del Dimecres Bo o la comida del Dijous Bo. La clausura de este histórico celler, cuyo edificio data del siglo XVI y que comenzó a funcionar como bodega en 1878, provoca una nueva baja en los cellers de la capital del Raiguer, después de que en 2020 cerrase Can Amer y se hayan producido reconversiones, como Can Marron en el Celler Can Tonet; Cas Xigarro en Es Mesón de s’Arròs y Cas Metge Nou en la hamburguesería Sinners. Siguen en funcionamiento Can Ripoll y Can Lau.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851729.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "std0d785955b"
  },
  {
   "id": "ed9ddbe8385b",
@@ -5353,8 +5358,9 @@
   "title": "«Esto te pasa por meterte con nosotros»: Brutal paliza a un joven en Son Oliva",
   "summary": "Un grupo de jóvenes propinó una brutal paliza a otro joven este domingo por la tarde en el barrio de Son Oliva, en Palma. La agresión quedó recogida en un vídeo grabado por un vecino de la zona que presenció atónito la escena desde la ventana de su vivienda. Las imágenes muestran cómo varios individuos acorralaron a la víctima y comenzaron a golpearla, sin detenerse siquiera cuando cayó al suelo.",
   "published": "2026-11-17T03:48:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st2f3e06da28"
  },
  {
   "id": "d37a148f18fe",
@@ -5365,7 +5371,7 @@
   "summary": "Para Alejandro Palomas (Barcelona, 1967), «una casa es un hermoso lunar en la espalda del mundo». Así lo afirma el autor en el arranque de su nueva novela, que titula precisamente así: Casa. «Tiendo mucho a mirar las cosas desde arriba para entenderlas, sobre todo para entenderme a mí y a la condición humana. Me pregunté cómo debe de verse una casa desde el espacio. Si pienso que el mundo es la piel, una casa podría ser como un lunar», justifica a Ultima Hora. Sobre esta particular manera de entender el mundo, que plasma en esta historia llena de silencios, pero también de esperanza y amor, tanto entre humanos como hacia los animales y la naturaleza, hablará este miércoles en Rata Corner (Palma), a las 19.00 horas.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851775.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -5377,8 +5383,9 @@
   "summary": "Días después de sellar su contrato con el Controlpack-De la Uz-Mentorise, equipo UCI Continental de gestión española y rumana, el ciclista mallorquín Marc Dols (Artà, 2003) ha vivido una experiencia que va más allá del deporte. Enrolado en las filas del equipo Al Salam Cycling Team, ha pedaleado por Arabia Saudí y conocido una nueva manera de competir y vivir a miles de kilómetros de Mallorca. Pero a pocos de las bombas y los ataques que amenazan, principalmente, a las infraestructuras petroleras del país.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851517.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "stbc3a1aa042"
  },
  {
   "id": "a3ea7086925b",
@@ -5389,8 +5396,9 @@
   "summary": "«Ahora me puedo retirar más tranquila», asegura visiblemente feliz y emocionada Mari Paz Forteza, quien desde 2012 está tras el mostrador de la papelería más conocida y emblemática de Son Ferriol. 'De Verd en Blau' forma parte del paisaje de la barriada palmesana desde hace décadas y llevaba tiempo mostrando en su escaparate un llamativo cartel de 'Se Traspasa'. Y su encargada esa llamada que le permitiera jubilarse dejando el negocio, que tiene una gran actividad, abierto y en buenas manos. Ahora, ya no hará falta mostrarlo.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851387.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st41aeb35cfa"
  },
  {
   "id": "6fc00a2e1425",
@@ -5401,7 +5409,7 @@
   "summary": "«En Mallorca conocen bien el fascismo de los años 30, la historia de los italianos que Mussolini envió para que desde la Isla fueran a bombardear toda la cuenta oriental de España y las fechorías del conde Rossi, pero en Italia nadie sabía que durante la Guerra Civil española había pilotos italianos en Mallorca haciendo ese trabajo». El periodista Giovanni Dozzini resume con estas palabras qué le llevó a escribir su libro Maiorca, que pone al descubierto en su país una historia silenciada durante años.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851265.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -5413,8 +5421,9 @@
   "summary": "Para el Real Mallorca, esta no es una semana cualquiera. El despido de Pablo Ortells, oficializado en plena resaca del partido contra el Córdoba, ha alterado la calma otoñal de Son Moix y ha abierto una brecha en el organigrama del club que conviene cerrar cuanto antes. El forzado fin de ciclo del director deportivo ha aparcado los análisis del último empate y ha trasladado el foco mediático hacia los despachos. Sin embargo, el balón continúa rodando. No hay un solo segundo que perder, ni dentro ni fuera del campo. Porque mientras Alfonso Díaz y Andy Kohlberg buscan a alguien que suba al puente de mando y asuma el timón de la parcela deportiva, el equipo de Luis García Fernández tiene que resolver dos compromisos a domicilio en apenas cuatro días que podrían calmar el oleaje o complicarlo todo.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851537.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st6e01644d61"
  },
  {
   "id": "c4b51110165c",
@@ -5425,7 +5434,7 @@
   "summary": "Subestaciones, líneas eléctricas y centros de transformación forman parte de una infraestructura que trabaja cada día para que la electricidad llegue hasta hogares y negocios. Conocer este recorrido ayuda a entender qué ocurre cuando hay una incidencia y qué podemos hacer antes de comunicar una avería. Encender una lámpara, poner una lavadora, cocinar o cargar el teléfono móvil son gestos cotidianos que hacemos sin pensar. Basta con pulsar un interruptor o conectar un aparato. Pero detrás de esa aparente sencillez existe una extensa infraestructura eléctrica que permite que la energía llegue hasta cada hogar y negocio.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4850843.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -5437,8 +5446,9 @@
   "summary": "L’amor, la set, el homenaje que Pau Pascual y Maria Adrover engendraron para rendir homenaje al célebre autor de Santanyí, Blai Bonet, sigue creciendo «de forma natural y espontánea, siguiendo su propio ritmo». Así lo asegura Pascual, quien recuerda que el proyecto surgió sin pretensiones más allá de ahondar en la obra y figura del genial creador. De esta manera, a la propuesta que se estrenó como dúo en el Festival de Poesia de Inca el pasado mes de marzo, se sumó Juanjo Monserrat, que produjo el EP que vio la luz en mayo de la mano de Blau, y ahora lo hace con otros tres integrantes que se suman al trío habitual: Joan Pérez-Villegas, Sara Mingolla y Miquel Bennàssar. Con este renovado formato de banda recalarán el 11 de diciembre en el Teatre Principal de Santanyí, donde se celebrará la clausura del Any Blai Bonet. Será el final de la conmemoración del centenario del nacimiento del autor, pero significará para ellos el principio de este L’amor, la set ampliado.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4840653.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "steebd873746"
  },
  {
   "id": "883def351f1e",
@@ -5449,8 +5459,9 @@
   "summary": "Trabajadores de la panadería Angelo Paletta, situada en el barrio palmesano de Santa Catalina, denuncian llevar meses sin cobrar sus salarios y aseguran que la situación económica de algunos de ellos se ha vuelto insostenible. Ante la falta de respuestas, varios empleados se han manifestado a las puertas del establecimiento con pancartas en las que se podía leer «queremos cobrar», para visibilizar un conflicto que, según explican, se prolonga desde hace meses.",
   "published": "2026-11-17T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4836709.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "sta37e4f501f"
  },
  {
   "id": "8fa87f66f0f2",
@@ -5461,8 +5472,9 @@
   "summary": "Este martes, a las 19.00 horas, en el casal de barri de es Fortí, de Palma, Joan de Déu Franco presentará el libro Guías del buen sendero, que viene a ser una continuación de Algo… en el cuerpo de mi niño. El autor cuenta el desahucio de su hijo, Carlos, por parte de los médicos, la recuperación de este gracias a la aparición de un chamán y a los dibujos que hacía en los que la luz entraba en su cuerpo y mataba a las células cancerosas… Es una historia muy bella, sin duda, de un niño a punto de decir adiós a la vida que, sin embargo, hoy sigue viviendo, muy feliz, dibujando, jugando al ajedrez, yendo a clase, etc. A la vez, la experiencia ha cambiado la visión de la vida a su padre, con quien hablamos hace unos días sobre el pasado y, naturalmente, sobre este segundo libro.",
   "published": "2026-11-17T03:48:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851819.avif",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st23fe768d08"
  },
  {
   "id": "9fd916514497",
@@ -5473,8 +5485,9 @@
   "summary": "Las calles de Inca ya respiran el ambiente previo a la celebración de la revetla del miércoles y de la gran feria de Mallorca, el Dijous Bo. El alcalde de Inca, Virgilio Moreno, repasa las novedades y los detalles de esta edición, marcada por la campaña electoral. ​",
   "published": "2026-11-17T03:48:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4851755.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st27ce9de063"
  },
  {
   "id": "575e1d7e8d96",
@@ -5641,7 +5654,7 @@
   "summary": "Si el error fundamental está en el origen, una vez consumado resulta fundamental el modo de tratarlo. La mejor solución no siempre es romper o cortar de raíz cuando se adquiere conciencia de lo que se considera una equivocación. Se puede valorar si el túnel de Sóller debía ser de paso libre o de peaje pero, una vez puesta la barrera, no bastaba con una precipitada y oportunista decisión política y administrativa para levantarla casi a las bravas. Las consecuencias de tal decisión han acabado demostrando que, a fin de cuentas, resultaba más barato para el conductor seguir pagando cinco años más el ticket del peaje más caro de España. Una gratuidad abrupta le carga ahora una factura escandalosamente superior vía erario público.",
   "published": "2026-11-17T03:00:46.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/4baefc4e-dbce-4dd0-8142-1eab7fb8949d_16-9-aspect-ratio_default_0_x640y320.jpg",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6390,7 +6403,7 @@
   "summary": "El programa electoral del PP nacional incorpora alguna de las líneas estratégicas que ha desarrollado Marga Prohens durante esta legislatura en temas esenciales: urbanismo, fiscalidad y lengua. Feijóo copia una de las propuestas más significadas de la presidenta en esta legislatura: el desarrollo de los proyectos residenciales estratégicos. Apuesta por la creación de la esta figura que unifique los trámites de planeamiento, gestión y ejecución de los grandes desarrollos de vivienda, con declaración implícita de utilidad pública. «Reduciremos la tramitación necesaria para iniciar las obras», señala.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851873.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6401,7 +6414,7 @@
   "title": "Antoni Canu, una veu de l'Alguer",
   "summary": "El passat dia 9 ens deixava, a l’edat de noranta-set anys, Antoni Canu, una veu imprescindible de la poesia algueresa, un poeta que ha sabut connectar molt bé amb el lector a través d’un vers àgil i curt, d’expressió austera i llenguatge planer; però capaç de transmetre l’emoció més fonda amb un cant vitalista, amarat d’un sentiment que neix de la terra, de les seves arrels a Sardenya, i amb poemes que tracten de l’experiència quotidiana i de la presència del Mediterrani.",
   "published": "2026-11-17T02:59:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6413,8 +6426,9 @@
   "summary": "Cuatro años y seis meses de prisión es la condena que solicita el fiscal a un hombre de Es Castell, de 42 años de edad, acusado de haber estafado 25.892 euros a varios comercios y empresas del ramo tecnológico, como ordenadores, televisores, cámaras fotográficas y aparatos de telefonía móvil, la mayoría de ellas en Maó.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851855.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st704aac549f"
  },
  {
   "id": "5afe32c74df5",
@@ -6425,8 +6439,9 @@
   "summary": "La artista Clara Garriga Andreu inauguró, ayer tarde en Es Castell, la exposición «L’art com a resta» con una visita guiada de la propia autora. La muestra, formada por una quincena de imágenes, se podrá visitar hasta el 7 de diciembre en la plaza des Mercat y en s’Esplanada, con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer. La exposición se complementa con una pieza de videoarte accesible con un código QR que contiene testimonios de mujeres.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851845.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "stbec6e70262"
  },
  {
   "id": "02474469caf1",
@@ -6437,7 +6452,7 @@
   "summary": "El espacio cultural del pueblo celebró el pasado fin de semana una fiesta para conmemorar sus ya once años de actividad, un encuentro en el que se aprovechó además para reunir a nueve quintas de Ferreries (1961, 1966, 1971, 1976, 1981, 1986, 1991, 1996 y 2001). Una fiesta intergeneracional al ritmo de los grupos Fusionados y Replay Band.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851843.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6449,8 +6464,9 @@
   "summary": "Es Mercadal acogió este domingo un acto de la coalición Menorca al Senat, con la candidata Joana Barceló. El evento sirvió para que la formación expusiera sus principales líneas de acción.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851841.avif",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "stb952e95b4f"
  },
  {
   "id": "c6c5f8718729",
@@ -6461,7 +6477,7 @@
   "summary": "La musicóloga menorquina Laura Triay Tudurí ofrecerá esta tarde a las 20 horas, en el Ateneu de Maó, la conferencia «Tres reines i tres tragèdies. Donizetti i el poder de convertir la història en música». La charla servirá de introducción al concierto ‘Le regine e le rivali’, que inaugurará el sábado la 56.ª Temporada de Ópera.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851833.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6472,8 +6488,9 @@
   "title": "Sucesos que destapan la precariedad y falta de vivienda en Menorca",
   "summary": "El incendio registrado, en la mañana del domingo, en el trastero de una vivienda del Camí des Castell de Maó motivó el desalojo de doce personas. Se trata, en su mayoría, de trabajadores inmigrantes que tuvieron que salir con rapidez del inmueble junto con otros cinco menores que también viven en esta misma casa.",
   "published": "2026-11-17T02:59:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T11:42:26.875Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T11:42:26.875Z",
+  "storyId": "st5ae4073d45"
  },
  {
   "id": "a82fc58c36f2",
@@ -6484,7 +6501,7 @@
   "summary": "El laureado ex entrenador del extinto Menorca Bàsquet en la Liga ACB, Pedro Martínez, dirigió este pasado domingo ante el Baskonia de Perasovic su partido 1.111 en la Liga Endesa e igualó al mítico Aíto García Reneses como el técnico con más encuentros en la era ACB. El actual entrenador del Real Madrid y del base de Maó Sergio Llull hizo su debut en la máxima categoría marzo de 1990 con el Joventut. Desde entonces, ha estado al frente de doce equipos y ha conquistado el campeonato en dos ocasiones con el Valencia Basket, la última la pasada campaña.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851817.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6496,7 +6513,7 @@
   "summary": "Andrea Florit Goñalons (Maó, 1991), graduada en Historia por la Universitat de Barcelona y actualmente doctoranda en la UIB, sostiene que las fiestas no son inmutables, también son una construcción política. Un tema sobre el que disertará esta tarde (19.30 horas) en el Museu de Menorca, en el marco de una conferencia que lleva por título «Devotes, mares i reines: gènere i festa durant el franquisme».",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851811.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6508,7 +6525,7 @@
   "summary": "El pleno insular vivió ayer momentos tensos e intensos en el debate de la propuesta del PP para condenar la violencia que se produjo tras el mitin de Santiago Abascal del 23 de octubre en Maó; así como el presunto delito de odio (investigado por la Justicia) de cuatro militantes de Arran por llevar unas camisetas con el lema «Mata un guiri, allibera una casa!».",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851787.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6520,7 +6537,7 @@
   "summary": "CB JOVENT (27/15/24/20): Vieira (25), Baranov (17), Allas (22), Sales (2), Podadera (4) -cinco inicial- Sintes (2), Car-dona (6), Palliser (8), Mascaró, Sánchez.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851809.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6532,7 +6549,7 @@
   "summary": "La candidata de Ara Més-Front Ampli al Congreso, Carme Gomila, recogió las demandas de los sindicatos sobre la infraestructura aeroportuaria, con la nueva torre como principal necesidad, así como su petición de ampliar plantillas en distintas áreas del aeropuerto de Menorca. Gomila se reunió con representantes de Comisiones Obreras y la Unión Sindical de Controladores Aéreos (Usca) en los entes AENA y Enaire, para conocer de primera mano las deficiencias y necesidades del aeródromo insular.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851777.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6544,7 +6561,7 @@
   "summary": "Un efecto colateral al cada vez más pronunciado cierre de establecimientos en otoño-invierno es el aspecto, «triste, oscuro y empobrecedor», citan colectivos vecinales y comerciales, que proyectan, por ejemplo, el núcleo histórico de Maó y de Ciutadella. Asimismo ocurre con otros municipios de la Isla.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851781.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6556,7 +6573,7 @@
   "summary": "Los candidatos del PP de Menorca se han comprometido a reclamar menos impuestos y a garantizar más derechos para los autónomos. Ramón Sintes, número    1 al Senado, afirma que los autónomos «no pueden seguir siendo un cajero automático, el Gobierno los ha exprimido al máximo y ya es hora de que paguen menos y tengan más derechos».",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851769.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6568,7 +6585,7 @@
   "summary": "QUE la cantante menorquina Chiara Oliver haya realizado en Tokio, durante una semana, un curso intensivo de japonés en un centro de Shibuya, uno de los barrios de la capital, pocos días antes de los conciertos en Madrid y Barcelona de presentación de la edición ‘de luxe’ de su primer álbum «No fue real». Actuará los días 27 y 28 de noviembre.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851767.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6580,7 +6597,7 @@
   "summary": "La nueva y esperada edición de la Volta a Menorca per Etapes del 2026-2027 que organizan  desde la dinámica entidad de las Tortugues Runners Menorca ya es toda una realidad. Y es que este pasado fin de semana y con un tiempo meteorológico espectacular para esta práctica deportiva, unos 80 corredores se citaron en la que fue la primera prueba del certamen y que unió Ciutadella y La Vall, con 24 kilómetros de recorrido. «Primera etapa superada», exclamaban desde las Tortugues Runners Menorca tras dar el sus oficial a la que es ya la séptima edición de esta vuelta al litoral menorquín y por tramos. Un arranque celebrado, «con un gran éxito de participación. Y además, con un día inmejorable», señala el colectivo de Ciutadella, aunque con gente de toda la Isla.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851763.avif",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6592,7 +6609,7 @@
   "summary": "Abogan por bonificaciones en el canon de las terrazas o la tasa de basuras para compensar la caída de ingresos | Defienden que su esfuerzo contribuye a mantener vivo el espacio urbano y a reducir el paro",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851761.avif",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6604,7 +6621,7 @@
   "summary": "La nueva edición del Open de Larga Distancia de Marcha Nórdica FEMECV 2026 de Villalonga, en tierras valencianas, tuvo estos días un nombre propio menorquín, gracias a la ferrerienca, Mariana Rotger, quien, pese a finalizar en la cuarta posición y por tanto rozando su podio final, acabaría recibiendo un merecido trofeo. Fue por su buena técnica, ya que este último año la ha mejorado, «gracias a su dedicación y compromiso con este deporte», dicen desde su círculo más íntimo.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851749.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6616,7 +6633,7 @@
   "summary": "El ‘poli’ de Fornells acogió la última jornada de la Lliga de Menorca de tiro con arco en sala, con arqueros/as de diferentes clubes de la Isla y, finalizadas las tiradas, se llevó a cabo la entrega de trofeos de las diferentes categorías, reconociendo así los mejores resultados de la competición. En cuanto a los representantes del Club d’Arc Maó, Teresa Company se proclamó ganadora de la categoría de Arc i Salut, mientras que Borja Goñalons obtuvo el primer puesto en Arco Compuesto masculino. También consiguieron la primera posición Dora Julià, en Arco Compuesto U21 femenino, y Lily Tolmie en Arco Recurvado U18. Destacar a Julià, que consiguió establecer un nuevo récord de Menorca y en Arco Recurvado, Pere Perelló fue el ganador U21 masculino y Sonia Gautron en sénior femenino.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851725.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6628,7 +6645,7 @@
   "summary": "Pedro Marqués Bagur (Ciutadella, 1964) es el sexto coordinador de Vox en Menorca desde su constitución, hace ahora ocho años. Y también ocupa el sexto lugar de la candidatura balear que el partido de ultraderecha que preside Santiago Abascal presenta a las elecciones del 29 de noviembre. En solo una década ha pasado del PP a Vox y de ser empresario a autónomo.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851637.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6640,7 +6657,7 @@
   "summary": "Karina Leo, la propietaria de una vivienda okupada por su expareja en Magaluf, situación que le ha llevado a tener que irse a vivir con sus dos hijas junto a sus padres, ha dado un paso más a la hora de denunciar su situación de indefensión. Y, de paso, intentar liberarse de la carga que supone una propiedad que lleva años sin poder disfrutar y en la que se instaló el hombre, señalando que ahora se habría sumado la hermana de aquel, un ciudadano de origen italiano al que reclama cantidades en concepto de pensiones de una de sus hijas, además de señalarle por otros temas conflictivos.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851607.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6652,7 +6669,7 @@
   "summary": "Empiezan a cambiar a positivo las cosas en el Bàsquet Menorca, tras un arranque de la Primera FEB 2026-27 muy complicado– tanto en materia de lesiones y ausencias destacables– como también en el aspecto deportivo, viéndose hasta hace nada colistas y sin conocer el sabor del triunfo.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851559.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -6664,7 +6681,7 @@
   "summary": "El equipo de gobierno de Ciutadella se desmarca de una de las propuestas del Plan de Movilidad (PMUS) que más rechazo vecinal ha generado: el cambio de sentido del Camí de Maó para que sea de salida de la ciudad. Pese a que el documento aprobado inicialmente en 2024 y actualmente en fase de tramitación ambiental así lo contempla, el tripartito afirma que «por ahora» no entra en sus planes aplicar esta modificación.",
   "published": "2026-11-17T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4851555.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-17T11:42:26.875Z"
  },
  {
@@ -7651,8 +7668,9 @@
   "summary": "La Guardia Civil ha procedido a la detención de dos jóvenes, de 19 y 17 años de edad, tras interceptarles consumiendo droga en la vía pública y comprobar que se encontraban cometiendo un presunto delito de tráfico de estupefacientes en el municipio de Inca. Los implicados portaban encima distintas cantidades de hachís, así como dinero en efectivo fraccionado en varios billetes.",
   "published": "2026-11-17T13:44:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852571.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st9b4584fae0"
  },
  {
   "id": "13e06be278b2",
@@ -7663,8 +7681,9 @@
   "summary": "La campaña del 29-N ha impregnado por completo el pleno del Parlament de este martes, a doce días de votar. Asuntos habituales en el debate como la vivienda o el coste de la vida se han mezclado con cuestiones de actualidad como la huelga, la subida del salario mínimo o incluso puntos del programa electoral del PP, por el que ha preguntado el PSIB en la sesión de control al Govern.",
   "published": "2026-11-17T13:20:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852551.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stbce6bd97a7"
  },
  {
   "id": "76de2a17748b",
@@ -7675,8 +7694,9 @@
   "summary": "El Ministerio de Sanidad ha exigido a Baleares que tramite lo antes posible la lista de objetores de conciencia al aborto. Lo ha hecho a través de un requerimiento formal enviado el pasado lunes por la ministra de Sanidad, Mónica García, a la consellera de Salut, Manuela García. Se trata de un documento adelantado por la Cadena SER y al que ha tenido acceso Última Hora, donde se especifica que desde febrero de 2026, cuando se sometió el proyecto a audiencia e información pública, no se ha observado ningún avance. Según han contado fuentes del Govern a este periódico, la tramitación de esta lista ha seguido su curso de manera «normal» y esperan que en las próximas semanas, antes de que termine el año, pueda salir aprobada en el Consell de Govern.",
   "published": "2026-11-17T13:15:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852537.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st018a359e2e"
  },
  {
   "id": "e0c046be6479",
@@ -7687,8 +7707,9 @@
   "summary": "El entrenador del Real Mallorca, Luis García Fernández, no eludió las preguntas que se le formularon tras la destitución del CEO de Fútbol, Pablo Ortells. El asturiano, que compareció en la previa del duelo copero ante el Alcoyano, aplazado en hasta dos ocasiones, dejó claro que es un «entrenador del club» y no de la dirección deportiva, después de perder su persona de confianza en el club, el que apostó por su fichaje el pasado verano.",
   "published": "2026-11-17T13:06:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852523.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stb0b43ec403"
  },
  {
   "id": "16138a249047",
@@ -7699,8 +7720,9 @@
   "summary": "Serveis Ferroviaris de Mallorca (SFM) ha programado trenes especiales para este miércoles, 18 de noviembre, con motivo del Dijous Bo en Inca. El objetivo es facilitar un desplazamiento cómodo y seguro a quienes quieran asistir a la verbena del Dimecres Bo, que se celebra en la capital del Raiguer. El refuerzo incluye servicios por la tarde y trenes nocturnos durante la madrugada. En total, la compañía ferroviaria ha habilitado 30 servicios especiales que se suman a los trenes del servicio habitual que conectan con Inca.",
   "published": "2026-11-17T13:05:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852525.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "std4541d0489"
  },
  {
   "id": "e3e827f621da",
@@ -7711,8 +7733,9 @@
   "summary": "«El capricho de los dirigentes del pacto de izquierda en 2017 costará a los ciudadanos de esta tierra 33,2 millones de euros. Es una muy muy mala noticia». Así lo ha expuesto este martes 17 de noviembre el presidente del Consell, Llorenç Galmés en relación al auto judicial que obliga a la institución insular a pagar 16,9 millones de euros adicionales por el rescate del túnel del Sóller. Una cuantía que se suma a los 16,2 millones ya abonados. El presidente ha anunciado que se apelará este auto «para defender los intereses de los mallorquines» y ha informado que desde los servicios jurídicos se estudia emprender acciones legales contra los dirigentes responsables del rescate para exigir responsabilidades.",
   "published": "2026-11-17T12:50:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852509.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st658f3f9797"
  },
  {
   "id": "ca964b032511",
@@ -7723,8 +7746,9 @@
   "summary": "El CEO del Real Mallorca, Alfonso Díaz, compareció este martes ante la prensa para dar explicaciones sobre el cese de Pablo Ortells, hasta hace pocos días CEO de Fútbol de la entidad. El máximo responsable ejecutivo del club, solo por debajo del máximo accionista y presidente, Andy Kohlberg, aseguró que la elección del nuevo director deportivo se está llevando a cabo «sin prisa pero sin pausa» y que «en la estructura deportiva que tenemos en este momento no hay ningún cambio», confirmando que por el momento continuarán en la entidad los ayudantes de Ortells, Sergio Marty y Sergio Moya, además de Aritz Aduriz, una información que ya deslizó este periódico.",
   "published": "2026-11-17T12:48:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852449.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stb0b43ec403"
  },
  {
   "id": "8502a257d285",
@@ -7735,8 +7759,9 @@
   "summary": "La Policía Nacional ha detenido a un hombre en Palma por descargar al menos 40 archivos con contenido de abuso sexual infantil. Los investigadores localizaron la actividad a través de redes de intercambio de archivos y acabaron identificando el domicilio desde el que se habían realizado las descargas.",
   "published": "2026-11-17T12:06:37.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852425.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st5279e55bc2"
  },
  {
   "id": "a409c2476eaa",
@@ -7747,8 +7772,9 @@
   "summary": "Ivan Herzog, una de las grandes irrupciones del pop nacional, actuará por primera vez en el Trui Teatre de Palma el viernes 2 de abril de 2027. Tras lograr sold outs en Madrid y Barcelona y sumar millones de reproducciones, el artista llega a la isla con una nueva gira que consolida su gran salto de dimensión.",
   "published": "2026-11-17T12:00:12.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852397.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st8c916ee68b"
  },
  {
   "id": "30df6edbc8c1",
@@ -7759,8 +7785,9 @@
   "summary": "La hoguera final de La Isla de las Tentaciones (LIDLT) marcó un antes y un después en la relación de los mallorquines Paula y Kico. Después de todo lo ocurrido durante la experiencia, ella tomó la decisión de abandonar el programa sola, dejando en el aire el futuro de su relación. Sin embargo, ahora sabemos que ambos pasaron juntos la noche después de aquella última hoguera, aunque lo que parecía un acercamiento no tardaría en convertirse en una nueva distancia. Este lunes, Telecinco ha emitido el reencuentro entre la pareja de mallorquines en la que los espectadores han podido conocer en que punto se encuentra su relación seis meses después de grabar el final del programa.",
   "published": "2026-11-17T11:58:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852395.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "std0cb67a276"
  },
  {
   "id": "acb96a2d357a",
@@ -7771,8 +7798,9 @@
   "summary": "La Policía Local de Palma ha detenido a un hombre de 31 años y origen senegalés después de localizar, gracias a la geolocalización, un teléfono móvil que había comprado por 150 euros a sabiendas de que era robado. El dispositivo, valorado en 1.500 euros, había sido sustraído a una joven en una discoteca de Palma.",
   "published": "2026-11-17T11:54:24.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852389.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "staf411ea423"
  },
  {
   "id": "40aeb3ac3767",
@@ -7783,8 +7811,9 @@
   "summary": "El Govern ha cargado este martes contra la «descomunal hipocresía» de la candidata del PSIB al Govern, Rosario Sánchez, con las propiedades que su pareja tendría a nombre de una empresa. Una información que el PSIB sigue eludiendo comentar más allá de la calificación de «bulo» que le ha dado un diputado socialista durante el pleno del Parlament. Al PP le ha dado pie a describir a Sánchez como una «Montse Mínguez balear», en alusión a la diputada del PSOE por Lérida que tuvo que dimitir tras trascender los negocios inmobiliarios de su pareja.",
   "published": "2026-11-17T11:54:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852443.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "staff8106709"
  },
  {
   "id": "70477d9bc377",
@@ -7795,8 +7824,9 @@
   "summary": "Buades Legal ha obtenido 18 reconocimientos en la edición 2027 de 'The Best Lawyers in Spain', que distingue a seis abogados de la firma en distintas especialidades. Entre ellos destaca Joan Buades, socio fundador, elegido 'Lawyer of the Year' en Derecho de Sociedades, Fusiones y Adquisiciones en Baleares. Este galardón se concede a un único abogado por especialidad y ámbito geográfico, a partir de la valoración de otros profesionales.",
   "published": "2026-11-17T11:46:21.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852381.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stb467d491b8"
  },
  {
   "id": "91b8b79df445",
@@ -8015,8 +8045,9 @@
   "summary": "El Govern ha publicado una convocatoria de 300.000 euros para contribuir a los gastos de funcionamiento de los mataderos del archipiélago, con el objetivo de mantener vivo un servicio para la continuidad de las explotaciones ganaderas. El Ejecutivo autonómico ha reconocido que la disponibilidad de estas instalaciones en las islas condiciona la posibilidad de que los ganaderos den salida a su producción, en un contexto en el que los costes de funcionamiento y las exigencias sanitarias dificultan la rentabilidad de este servicio.",
   "published": "2026-11-17T12:32:39.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/ce2ec587-ffa6-4bb5-bc63-8dace5345fcb_16-9-aspect-ratio_default_0_x509y227.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "std9347494b6"
  },
  {
   "id": "c8e375c4995b",
@@ -8027,8 +8058,9 @@
   "summary": "Fiel a su tradición, Alaró se llena de sabor este otoño con sus esperadas jornadas gastronómicas dedicadas a las setas. Este año, las setas vuelven a convertirse en protagonistas de Alaró cuina amb bolets, una iniciativa que arranca este 20 de noviembre y se prolongará hasta el 8 de diciembre. En esta ocasión, las jornadas gastronómicas suman suma 15 bares y restaurantes que cocinarán platos especiales con este producto de temporada. Durante casi tres semanas, los establecimientos participantes incorporarán a sus cartas diferentes propuestas que combinan la cocina tradicional con recetas más innovadoras. El objetivo de estas jornadas es dar visibilidad a la restauración local, promocionar los productos de otoño y atraer visitantes al municipio.",
   "published": "2026-11-17T12:24:35.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/2d758c6d-d1ec-4d17-963c-1a8865eff08e_16-9-aspect-ratio_default_0_x600y225.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stf3f8325e36"
  },
  {
   "id": "0d1076392ce7",
@@ -8078,8 +8110,9 @@
   "summary": "\"Yo no he hecho nada, no he disparado a nadie\". Han sido las palabras, esta tarde al ser puesto a disposición judicial, del vecino de Corea que fue detenido el sábado por herir de un tiro a un agente de la Policía Local de Palma. Mientras, la Policía Nacional confirma que fue él quien disparó tras arrebatar el arma al herido y le imputa un delito de tentativa de homicidio. Además han sido arrestados la mujer y dos hijos del hombre por atentado, por enfrentarse a golpes a los agentes.",
   "published": "2026-11-17T12:56:28.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/8ec44a31-f153-4c7a-b8eb-cd9a580b6aec_16-9-aspect-ratio_default_1532392.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st20e00b11cf"
  },
  {
   "id": "e4cbd4c0e285",
@@ -8090,8 +8123,9 @@
   "summary": "Un hombre acusado de abusar sexualmente de su hijastra en Palma ha cerrado hoy un acuerdo de conformidad para aceptar tres de prisión. El sospechoso, que sometió a la víctima a tocamientos en varias ocasiones, ha comparecido hoy en una vista en la Audiencia Provincial donde las partes han pedido un aplazamiento para que pueda abonar la indemnización a la víctima y apreciar así una atenuante de reparación del daño. La sala ha accedido a su petición y ha señalado una nueva vista para finales del próximo mes de enero.",
   "published": "2026-11-17T12:47:45.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/a3cd2d83-dcd7-48e6-a647-03fea6b3d871_16-9-aspect-ratio_default_0_x1020y512.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st5c4bd4263a"
  },
  {
   "id": "3b4e3165853a",
@@ -8102,8 +8136,9 @@
   "summary": "Agentes de la Policía Local de Palma, con la colaboración de la Policía Local de Llucmajor, arrestaron a un ciudadano senegalés de 31 años que presuntamente había comprado un teléfono móvil robado, valorado en 1.500 euros. La dueña del terminal tenía activado el geolocalizador del aparato, lo que permitió ubicar al sospechoso en un bar del s'Arenal.",
   "published": "2026-11-17T12:10:51.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/bd80921f-2d60-4419-8f13-6e5ef2df03e2_16-9-aspect-ratio_default_0_x600y266.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stb9c3133dd1"
  },
  {
   "id": "ebbcfdb8bc50",
@@ -8343,8 +8378,9 @@
   "summary": "Nueve árboles partidos por la mitad, otros cinco doblados, 35 arbustos arrancados, instalaciones de riego destrozadas y desperfectos en el mobiliario urbano y el Centre Cultural de Jesús. Es el balance de una serie de actos vandálicos registrados durante las últimas semanas en esta parroquia de Santa Eulària, que han causado daños valorados provisionalmente en 13.324 euros. El Ayuntamiento denuncia una situación de \"desamparo\" ante la reiteración de unos incidentes que atribuye a una misma persona, identificada por la Policía Local y detenida en dos ocasiones.",
   "published": "2026-11-17T12:46:38.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/e9a5fb66-57ee-4cd2-b831-250e03016faa_16-9-aspect-ratio_default_0_x800y400.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st5840f74327"
  },
  {
   "id": "0a06bf0bb5f4",
@@ -8355,8 +8391,9 @@
   "summary": "La candidata del PSOE al Congreso por Ibiza, Milena Herrera, ha presentado este martes las propuestas de su partido para reforzar la protección de niños y adolescentes en los entornos digitales, entre ellas establecer los 16 años como edad mínima para acceder a las redes sociales y limitar el uso de herramientas de inteligencia artificial sin consentimiento parental. La socialista ha anunciado además el compromiso de aprobar una ley de protección de menores en internet durante los primeros doce meses de la próxima legislatura.",
   "published": "2026-11-17T12:27:35.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/57540e50-7c10-4e55-beba-6c54c165b21f_16-9-aspect-ratio_default_0.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st72dc43e9be"
  },
  {
   "id": "3a169fe752c0",
@@ -8367,8 +8404,9 @@
   "summary": "La presidenta de la Comisión de Seguimiento del Pacto de Toledo, Mercè Perea, defendió este lunes en Formentera la necesidad de blindar las pensiones en la Constitución para garantizar que continúen revalorizándose cada año conforme al Índice de Precios de Consumo (IPC). La dirigente socialista participó en un encuentro organizado por el PSOE, dentro de las actividades programadas en la campaña electoral, en el que insistió en la importancia de proteger el poder adquisitivo de los jubilados frente al incremento del coste de la vida.",
   "published": "2026-11-17T12:17:54.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/20b106d1-d865-474f-98a8-d6ddb0db244a_16-9-aspect-ratio_default_0_x1000y444.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st55e7a34fa5"
  },
  {
   "id": "9d3850e67e30",
@@ -8405,8 +8443,9 @@
   "summary": "Los 26 ceniceros instalados en los núcleos urbanos y las principales zonas de paseo de Formentera han permitido recoger cerca de 40.000 colillas de cigarrillos en cinco meses. Según los datos facilitados por el Consell Insular, entre el 1 de junio y el 31 de octubre se han retirado 8,13 kilos de este residuo, especialmente contaminante por los componentes de los filtros y las sustancias que retienen.",
   "published": "2026-11-17T12:43:19.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/4d27d67e-bcf1-4b3d-b5c5-64d45047a975_16-9-aspect-ratio_default_0_x738y369.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "ste454e36105"
  },
  {
   "id": "61d9c1c6d860",
@@ -8543,8 +8582,9 @@
   "summary": "El Ajuntament de Santa Eulària des Riu ha querido poner de manifiesto su profunda preocupación y su sensación de desamparo ante la reiteración de actos vandálicos sufridos en la parroquia de Jesús durante las últimas semanas. El Consistorio tiene plenamente identificada a la persona presuntamente implicada en estos incidentes, un individuo que ya ha sido detenido en dos ocasiones por la Policía Local y contra el que se han interpuesto las correspondientes denuncias. Sin embargo, los episodios se han sucedido de forma constante hasta dejar unos daños en el patrimonio público que ya superan los 13.000 euros.",
   "published": "2026-11-17T12:37:00.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4852503.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "sta9645bdaf9"
  },
  {
   "id": "69e7c733b5e3",
@@ -8555,8 +8595,9 @@
   "summary": "La magistrada titular de la plaza 3 de la Sección de Instrucción del Tribunal de Instancia de Ibiza (en funciones de guardia) ha dejado en libertad y ha impuesto comparecencias periódicas al conductor detenido este domingo por el atropello mortal a un motorista de 75 años en Ibiza que pasó a disposición judicial.",
   "published": "2026-11-17T12:09:50.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4852431.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st07a76b92da"
  },
  {
   "id": "cb0d9e6b3b09",
@@ -8567,8 +8608,9 @@
   "summary": "La hoguera final de La Isla de las Tentaciones (LIDLT) marcó un antes y un después en la relación de los mallorquines Paula y Kico. Después de todo lo ocurrido durante la experiencia, ella tomó la decisión de abandonar el programa sola, dejando en el aire el futuro de su relación. Sin embargo, ahora sabemos que ambos pasaron juntos la noche después de aquella última hoguera, aunque lo que parecía un acercamiento no tardaría en convertirse en una nueva distancia. Este lunes, Telecinco ha emitido el reencuentro entre la pareja de mallorquines en la que los espectadores han podido conocer en que punto se encuentra su relación seis meses después de grabar el final del programa.",
   "published": "2026-11-17T11:58:00.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4852395.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "std0cb67a276"
  },
  {
   "id": "e9ea60ee8687",
@@ -8579,8 +8621,9 @@
   "summary": "Además del concierto de la Banda Simfònica Ciutat d’Eivissa para este sábado con motivo de Santa Cecilia, el Ayuntamiento de Ibiza ha organizado otro evento para el domingo 22 de noviembre, a las 19 horas: el Cor Ciutat ofrecerá el espectáculo Cançons populars eivissenques, balears i catalanes, con Miguel San Miguel Fuster en la dirección y Rodrigo de Luis al piano.",
   "published": "2026-11-17T11:57:01.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4852393.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st3bf1214077"
  },
  {
   "id": "826b4bdb0850",
@@ -8591,8 +8634,9 @@
   "summary": "El Consell Insular de Formentera ha logrado la recogida de más de 10 kilogramos de colillas de cigarrillo en los núcleos urbanos y las principales áreas de paseo de la isla. Esta acción se ha llevado a cabo mediante la instalación de 26 ceniceros específicos, evidenciando un compromiso con la limpieza y la sostenibilidad ambiental.",
   "published": "2026-11-17T11:48:25.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4852385.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st5a67bb96fb"
  },
  {
   "id": "df05095201e4",
@@ -8654,8 +8698,9 @@
   "summary": "La Guardia Civil detuvo el pasado viernes en el puerto de Maó a un joven de 29 años, de origen ecuatoriano y residente en Es Castell, como presunto autor de un delito de tráfico de drogas, después de haber localizado un total de cinco kilos de hachís en su equipaje. El hombre desembarcaba del buque que procedía de Barcelona a primera hora de la mañana cuando fue interceptado por los agentes.",
   "published": "2026-11-17T13:42:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852569.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stdc3b9d5793"
  },
  {
   "id": "d1ac21f3da5b",
@@ -8666,8 +8711,9 @@
   "summary": "La campaña del 29-N ha impregnado por completo el pleno del Parlament de este martes, a doce días de votar. Asuntos habituales en el debate como la vivienda o el coste de la vida se han mezclado con cuestiones de actualidad como la huelga, la subida del salario mínimo o incluso puntos del programa electoral del PP, por el que ha preguntado el PSIB en la sesión de control al Govern.",
   "published": "2026-11-17T13:20:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852551.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stbce6bd97a7"
  },
  {
   "id": "f886cd569fe8",
@@ -8678,8 +8724,9 @@
   "summary": "El Consell asegura que Maó y Ciutadella serán los próximos en afrontar penalizaciones por incumplir los fondos comprometidos | El PSOE apunta a la «mala gestión» de la directora insular Juana Mari Pons",
   "published": "2026-11-17T12:50:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852363.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stea856d5e4d"
  },
  {
   "id": "2b5283327dc4",
@@ -8690,8 +8737,9 @@
   "summary": "Dos jóvenes naturales de Irán que intentaban viajar desde el Aeropuerto de Menorca al de una ciudad del Reino Unido con pasaporte falso el pasado sábado acabaron siendo detenidos por agentes de la Policía Nacional, adscritos a la Comisaría de Maó, en el puesto fronterizo de la instalación aeroportuaria.",
   "published": "2026-11-17T12:49:31.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852507.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st7cd91e6f3c"
  },
  {
   "id": "445331e65a8d",
@@ -8702,8 +8750,9 @@
   "summary": "La Fundació Waldorf Menorca ha puesto en marcha la creación de la Comunidad de profesionales, colaboradores y voluntarios de Sa Farinera, una iniciativa que pretende reunir a personas y colectivos dispuestos a «crear un espacio vivo» y contribuir al desarrollo del proyecto que debe culminar en Es Mercadal con la apertura del primer colegio privado de la Isla.",
   "published": "2026-11-17T12:29:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852453.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st9f655cc1d0"
  },
  {
   "id": "1308b6fb6172",
@@ -8714,8 +8763,9 @@
   "summary": "La hoguera final de La Isla de las Tentaciones (LIDLT) marcó un antes y un después en la relación de los mallorquines Paula y Kico. Después de todo lo ocurrido durante la experiencia, ella tomó la decisión de abandonar el programa sola, dejando en el aire el futuro de su relación. Sin embargo, ahora sabemos que ambos pasaron juntos la noche después de aquella última hoguera, aunque lo que parecía un acercamiento no tardaría en convertirse en una nueva distancia. Este lunes, Telecinco ha emitido el reencuentro entre la pareja de mallorquines en la que los espectadores han podido conocer en que punto se encuentra su relación seis meses después de grabar el final del programa.",
   "published": "2026-11-17T11:58:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852395.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "std0cb67a276"
  },
  {
   "id": "1faef8841537",
@@ -8726,8 +8776,9 @@
   "summary": "Una filtración sobre la investigación que están llevando a cabo los peritos italianos de la Fiscalía que lleva el caso del hundimiento del yate de lujo 'Bayesian', en el que murieron siete personas el 19 de agosto de 2024, complica la situación procesal del capitán de la embarcación, James Cuttfield, neozelandés afincado en Mallorca y conocido en la Isla por su trayectoria en el sector náutico. Según apuntan diversos medios italianos, el buque en el que murió el magnate Mike Lynch se hundió debido a la «incompetencia de la tripulación», algo que rechaza directamente la anterior conclusión de los técnicos del MAIB británico (Marine Accident Investigation Branch - Subdivisión de Investigación de Accidentes Marítimos) quienes apuntaban a los vientos huracanados de la tormenta registrada en la costa norte de Sicilia como motivo del trágico naufragio.",
   "published": "2026-11-17T11:35:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852297.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st925979639e"
  },
  {
   "id": "3ecdc30aea41",
@@ -8828,8 +8879,9 @@
   "summary": "La imputació del vicepresident segon del Consell de Mallorca, Pedro Bestard, es feia pública dijous passat mentre el polític de Vox presidia en aquell moment el ple de la institució insular. Després d’uns dies absent per motius personals, el president del Consell de Mallorca ha parlat aquest dimarts per primera vegada de la investigació judicial a què està sotmès el seu soci de govern. Llorenç Galmés encara no s’havia pronunciat públicament sobre l’admissió a tràmit de la querella de la Fiscalia per part d’un jutjat de Palma sobre l’ús pressumptament irregular de vehicles públics del vicepresident segon.",
   "published": "2026-11-17T13:39:08.000Z",
   "image": "https://static1.ara.cat/clip/4bc941cb-c5ac-4bc0-a3f3-6784b7f28fca_16-9-aspect-ratio_default_0.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st78d65ac9ab"
  },
  {
   "id": "d2d5699aa981",
@@ -8853,8 +8905,9 @@
   "summary": "La comissió de deontologia de l’Il·lustre Col·legi d’Advocats de les Illes Balears (ICAIB) estudia possibles mesures arran de la presència d’un advocat en un acte institucional a Eivissa amb un polo de l’organització neonazi Núcleo Nacional, com va publicar el passat divendres l’ARA Balears .",
   "published": "2026-11-17T13:13:05.000Z",
   "image": "https://static1.ara.cat/clip/ca96a583-9466-4518-9cb6-24e6a181d7ee_16-9-aspect-ratio_default_0.png",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st34c26efa81"
  },
  {
   "id": "f23017844012",
@@ -8877,8 +8930,9 @@
   "summary": "La Policia Nacional ha detingut un home a Mallorca com a presumpte autor d’un delicte de corrupció de menors, després de trobar al seu domicili diversos arxius de pornografia infantil. La investigació, batejada com a operació Cálculos, ha estat duita a terme pel Grup de Delinqüència Econòmica i Delictes Tecnològics en el marc de les actuacions contra la prostitució i la corrupció de menors.",
   "published": "2026-11-17T12:12:42.000Z",
   "image": "https://static1.ara.cat/clip/6bb0e188-664a-442b-a11d-ec2399d0b223_source-aspect-ratio_default_0.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st5279e55bc2"
  },
  {
   "id": "4313f2450308",
@@ -8915,8 +8969,9 @@
   "summary": "El govern espanyol ha aprovat un important paquet de mesures laborals coincidint amb la campanya electoral del 29-N. Algunes d’elles ja estaven previstes, com per exemple la pujada del sou dels funcionaris. D’altres, però, s’han accelerat o s’han tret del calaix. És el cas de la pujada del salari mínim interprofessional (SMI) per al 2027 i del gran reial decret llei per reforçar la transparència salarial a les empreses, que inclou, entre altres coses, la transposició completa de la directiva europea per reduir la bretxa de gènere i que l’executiu espanyol ja hauria d’haver adoptat el 7 de juny. Totes aquestes mesures s’han aprovat al consell de ministres d’aquest dimarts.",
   "published": "2026-11-17T06:01:33.000Z",
   "image": "https://static1.ara.cat/clip/4aaa6280-b2ec-4b7c-a1c6-cf91d13a4fbe_16-9-aspect-ratio_default_0.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stb066242b99"
  },
  {
   "id": "982c6cdc3261",
@@ -8939,8 +8994,9 @@
   "summary": "Fins a sis projectes empresarials innovadors vinculats a Mallorca competiran el pròxim dijous, 26 de novembre a la final de l’OAP Startup Challenge 2026, una iniciativa impulsada pel Col·legi Oficial d’Enginyers Industrials de les Balears (COEIB), a través de la seva Oficina Acelera Pyme. El concurs vol donar una empenta a noves iniciatives empresarials, ajudar-les a convertir les seves idees en negocis viables i posar-les en contacte amb professionals i possibles inversors. Els finalistes, que se seleccionaran aquest dijous, hauran de defensar els seus projectes davant un jurat especialitzat.",
   "published": "2026-11-17T13:20:09.000Z",
   "image": "https://static1.ara.cat/clip/d74e2f4a-4677-4bf0-abe3-b0916e3e1fca_16-9-aspect-ratio_default_0.png",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st26f4fd1068"
  },
  {
   "id": "a5b5956a292e",
@@ -8951,8 +9007,9 @@
   "summary": "La consellera de Presidència, Antònia Estarellas, ha evitat aquest dimarts posicionar-se sobre la proposta del programa electoral del PP estatal de prohibir l’ús de les llengües cooficials al Congrés dels Diputats. “No fiscalitzam ningú per la llengua que parla, però la meva opinió sobre el programa electoral del PP és que hi ha mesures concretes per resoldre problemes com l’habitatge o la creació de comandaments únics per la gestió d’emergències”, ha dit en el ple del Parlament en resposta a una pregunta del diputat socialista Marc Pons.",
   "published": "2026-11-17T13:09:12.000Z",
   "image": "https://static1.ara.cat/clip/149b54c1-021a-4b09-9cd8-764422958779_16-9-aspect-ratio_default_0.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "ste36e489b0e"
  },
  {
   "id": "229adc8888bc",
@@ -8963,8 +9020,9 @@
   "summary": "El capità del Reial Mallorca, Antonio Raíllo ha declarat aquest dimarts al jutjats de Palma. Segons han informat fonts judicials, aquest matí el magistrat titular de la plaça número 2 de la Secció de Violència contra la Dona del Tribunal d’Instància de Palma ha pres declaració al capità mallorquinista per un presumpte delicte de coaccions i un altre delicte lleu de vexacions i injúries.",
   "published": "2026-11-17T13:40:35.000Z",
   "image": "https://static1.ara.cat/clip/8bed4c77-64c0-4d9f-aac9-4ca222ed6282_16-9-aspect-ratio_default_0.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "sta064a0e0a3"
  },
  {
   "id": "790334245b97",
@@ -9220,8 +9278,9 @@
   "summary": "El capitán del RCD Mallorca, Antonio Raíllo, ha declarado este martes en un juzgado de Palma por un presunto delito de coacciones e injurias a su expareja.",
   "published": "2026-11-17T13:34:58.000Z",
   "image": "https://img.europapress.es/fotoweb/fotonoticia_20261117143458_800.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "sta064a0e0a3"
  },
  {
   "id": "2be88b3d677c",
@@ -9232,8 +9291,9 @@
   "summary": "El presidente del Consell de Mallorca, Llorenç Galmés, ha señalado la \"nefasta gestión\" que supuso la liberalización del túnel de Sóller durante la legislatura del Pacte y ha adelantado que presentarán un recurso a la sentencia que obliga a incrementar la indemnización a la antigua empresa concesionaria, Globalvía.",
   "published": "2026-11-17T12:12:20.000Z",
   "image": "https://img.europapress.es/fotoweb/fotonoticia_20261117131220_800.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st6fc549fbd8"
  },
  {
   "id": "8eb01a2dcd53",
@@ -9257,8 +9317,9 @@
   "summary": "El presidente del Consell de Mallorca, Llorenç Galmés, ha señalado que esperará a que los tribunales les comuniquen la posible imputación del vicepresidente segundo del Consell de Mallorca, Pedro Bestard, para tomar decisiones sobre su futuro.",
   "published": "2026-11-17T12:28:32.000Z",
   "image": "https://img.europapress.es/fotoweb/fotonoticia_20261117132832_800.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st78d65ac9ab"
  },
  {
   "id": "709d5a6a154d",
@@ -9268,8 +9329,9 @@
   "title": "El Govern defiende la adquisición de 191 viviendas públicas",
   "summary": "El conseller José Luis Mateo asegura que el Ibavi ha comprado 45 pisos y dos solares mediante el derecho de tanteo y retracto, mientras que el PSIB denuncia que el Ejecutivo ha dejado escapar operaciones para adquirir hasta 1.000 viviendas de grandes tenedores.\nLa entrada El Govern defiende la adquisición de 191 viviendas públicas se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T11:48:54.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st0dbcdc7f8d"
  },
  {
   "id": "a89c7059ef49",
@@ -9279,8 +9341,9 @@
   "title": "Baleares ya roza este año el total de inmigrantes llegados en patera en todo 2025",
   "summary": "Hasta el 15 de noviembre, Baleares registró 7.289 llegadas desde Argelia, un 9,1% más que en igual periodo de 2025. Detectó 405 pateras, frente a 401 en todo el año pasado.\nLa entrada Baleares ya roza este año el total de inmigrantes llegados en patera en todo 2025 se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T11:42:47.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st762f8798e8"
  },
  {
   "id": "4e22228412cc",
@@ -9290,8 +9353,9 @@
   "title": "Alaró amplía a 15 locales sus jornadas de cocina con setas",
   "summary": "Croquetas, risotto, conejo con setas y ramen de shiitake son algunas de las propuestas que prepararán los establecimientos participantes en esta cita gastronómica.\nLa entrada Alaró amplía a 15 locales sus jornadas de cocina con setas se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T11:22:23.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stf3f8325e36"
  },
  {
   "id": "12d430308745",
@@ -9301,8 +9365,9 @@
   "title": "Detenido en Palma por descargar al menos 40 archivos de abuso sexual infantil",
   "summary": "La Policía Nacional detuvo en Palma a un hombre por presunta corrupción de menores, tras detectar descargas de al menos 40 archivos; el material intervenido está pendiente de análisis forense.\nLa entrada Detenido en Palma por descargar al menos 40 archivos de abuso sexual infantil se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T11:06:21.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st5279e55bc2"
  },
  {
   "id": "ce7519bd9cd8",
@@ -9312,8 +9377,9 @@
   "title": "Ses Salines aprueba su presupuesto para 2027: 11 millones de euros",
   "summary": "El Ayuntamiento destinará más de 620.000 euros a asistencia social y 280.112 euros a cultura. También contempla mejoras en aceras, parques infantiles y espacios públicos.\nLa entrada Ses Salines aprueba su presupuesto para 2027: 11 millones de euros se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T10:49:18.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "st3769d81b94"
  },
  {
   "id": "0dd9f09d3562",
@@ -9323,8 +9389,9 @@
   "title": "Las 40 propiedades de la pareja de Rosario Sánchez llegan al Parlament",
   "summary": "El vicepresidente del Govern acusa a la candidata socialista a la presidencia del Govern de «descomunal hipocresía» por el patrimonio inmobiliario de la sociedad administrada por su pareja.\nLa entrada Las 40 propiedades de la pareja de Rosario Sánchez llegan al Parlament se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T10:25:44.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "staff8106709"
  },
  {
   "id": "5ddd64127fbe",
@@ -9334,8 +9401,9 @@
   "title": "García niega en el Parlament la privatización de la sanidad pública",
   "summary": "La consellera de Salud rechaza las acusaciones socialistas y defiende la colaboración con el sector privado. Además, asegura que la demora media para conseguir cita con el médico de familia es de cinco días.\nLa entrada García niega en el Parlament la privatización de la sanidad pública se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T10:21:35.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "ste7e8781722"
  },
  {
   "id": "48584c11668b",
@@ -9345,8 +9413,9 @@
   "title": "La Justicia anula el nombramiento del subinspector de la Policía Local de Manacor",
   "summary": "El TSJIB anuló el nombramiento de un subinspector de Manacor por carecer de la titulación exigida; la sentencia admite recurso de casación y UGT reclama explicaciones al Ayuntamiento.\nLa entrada La Justicia anula el nombramiento del subinspector de la Policía Local de Manacor se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T10:19:58.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stb0682bde3b"
  },
  {
   "id": "582c7e26e7d4",
@@ -9356,8 +9425,9 @@
   "title": "GTA en Mallorca: persecución de videojuego con cinco detenidos por robar coches de alquiler",
   "summary": "La Policía Nacional detuvo en Mallorca a cinco personas por presuntos robos de coches de alquiler: dos tras una persecución y otras tres días después.\nLa entrada GTA en Mallorca: persecución de videojuego con cinco detenidos por robar coches de alquiler se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T09:56:15.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stca4d614617"
  },
  {
   "id": "30e42aade08f",
@@ -9367,8 +9437,9 @@
   "title": "T Club cierra una temporada de golf con grandes protagonistas y nuevas iniciativas deportivas",
   "summary": "T Golf Palma acogió la última jornada de competición y la entrega de premios de los eventos de T Club para members, una celebración que reunió a sus socios para reconocer a los mejores jugadores del año. Una temporada de competición, nuevos retos y muchos momentos compartidos sobre el campo. T Club ha puesto punto […]\nLa entrada T Club cierra una temporada de golf con grandes protagonistas y nuevas iniciativas deportivas se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-17T09:44:54.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "std544720df6"
  },
  {
   "id": "9c5d745a56d9",
@@ -9478,8 +9549,9 @@
   "summary": "Raül Medrano / Lo sé, os dejé con la miel en los labios, ansiosos por conocer a qué películas os tendréis que abalanzar en un futuro próximo. Así que allá va, ahora sí, mi Top 10 (de peor a mejor) de Sitges 2026. 10. Found Alive (6/10) Tengo sensaciones encontradas con la película que inauguró […]",
   "published": "2026-11-17T13:40:38.000Z",
   "image": "https://www.noudiari.es/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-14.08.12.jpeg",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "stca4b47ee3c"
  },
  {
   "id": "19063d24ebae",
@@ -9489,7 +9561,257 @@
   "title": "Libertad con comparecencias periódicas para el presunto autor de la muerte de un motorista que abandonó el lugar",
   "summary": "La magistrada titular de la plaza 3 de la Sección de Instrucción del Tribunal de Instancia de Ibiza en funciones de guardia, dejó en libertad el pasado domingo al conductor detenido por el accidente en el que murió un motorista de 75 años. Según informa la Prensa del TSJIB, le impuso la obligación de comparecer […]",
   "published": "2026-11-17T12:53:06.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-17T20:48:01.591Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-17T20:48:01.591Z",
+  "storyId": "steeeac5e607"
+ },
+ {
+  "id": "f1d9aa80471a",
+  "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/18/2752139/jueza-envia-prision-hombre-disparo-policia-local-corea.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "La jueza envía a prisión al hombre que disparó a un policía local en 'Corea'",
+  "summary": "El agresor, de 53 años, está acusado de intento homicidio y atentado.",
+  "published": "2026-11-17T23:10:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4853151.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.081Z",
+  "storyId": "stbcf3bb0dc2"
+ },
+ {
+  "id": "2fc8f7c8420e",
+  "url": "https://www.ultimahora.es/deportes/palma-futsal/2026/11/17/2752193/palma-futsal-busca-lugar-gran-final.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "El Palma Futsal busca su lugar en la gran final",
+  "summary": "El Illes Balears Palma Futsal afronta ya las instancias decisivas de la Copa Intercontinental 2026. Tras completar una fase de grupos impecable, con pleno de victorias ante AlUla (6-0) y Pato Futsal (1-5), el vigente tricampeón del mundo se medirá este miércoles, a las 21:00 horas (horario español), a la Associação Carlos Barbosa de Futsal (ACBF) por un puesto en la gran final. Los baleares llegan a la cita reforzados por las buenas sensaciones mostradas en Pato Branco, con un equipo sólido en defensa y capaz de desplegar todo su potencial ofensivo para resolver con autoridad sus dos primeros compromisos.",
+  "published": "2026-11-17T21:56:13.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4853245.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.081Z",
+  "storyId": "st58dd75b486"
+ },
+ {
+  "id": "cf1711998051",
+  "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2752191/asociacion-periodistas-entrega-premios-undecima-edicion.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "La Asociación de Periodistas entrega sus premios en su undécima edición",
+  "summary": "El hotel Valparaíso acogió ayer la entrega de los XI Premios de Periodismo de la Asociación de Periodistas de las Islas Baleares (APIB), a los que se han presentado un total de 60 piezas periodísticas. Al acto asistieron periodistas, directores de medios y autoridades y representantes de la sociedad balear y contó con la intervención del alcalde de Palma, Jaime Martínez, y de la presidenta de la APIB, Ángeles Durán.",
+  "published": "2026-11-17T21:33:54.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4853241.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.081Z",
+  "storyId": "st0f90692f80"
+ },
+ {
+  "id": "f07070341dbe",
+  "url": "https://www.ultimahora.es/noticias/local/2026/11/17/2752165/bartolome-cursach-recibe-premio-internacional-por-anos-ocio-nocturno.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Bartolomé Cursach recibe un premio internacional por sus 60 años en el ocio nocturno",
+  "summary": "El empresario mallorquín Bartolomé Cursach ha sido distinguido con el Golden Moon Award a la Mejor Trayectoria Empresarial en el Ocio Nocturno del Mundo 2026, un reconocimiento concedido por la International Nightlife Association que coincide con el 60 aniversario de la compañía que fundó en Mallorca. Cursach no asistió a la gala celebrada este martes en la Sala La Paloma de Barcelona. El galardón fue recogido en su nombre por su hijo, Dusan Koperdak, director de BCM Mallorca.",
+  "published": "2026-11-17T20:57:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4853221.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.081Z",
+  "storyId": "st32b4300f15"
+ },
+ {
+  "id": "d69a678df10e",
+  "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/17/2752169/luis-garcia-acumulan-problemas-antonio-sanchez-pendiente-pruebas-medicas.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "A Luis García se le acumulan los problemas: Antonio Sánchez, pendiente de pruebas médicas",
+  "summary": "Luis García no gana para disgustos con las lesiones. El técnico sigue acumulando efectivos en la enfermería justo en una semana exigente, con dos compromisos importantes en el calendario: este miércoles, a las 20 horas, el Mallorca afronta la eliminatoria de Copa del Rey ante el Alcoyano y, el próximo sábado, visitará al Tenerife en LaLiga Hypermotion.",
+  "published": "2026-11-17T20:40:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4853215.webp",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "4eed87c13cab",
+  "url": "https://www.diariodemallorca.es/mallorca/2026/11/17/sergi-verd-pediatra-leche-banco-136557016.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Sergi Verd, pediatra: «La leche del banco podía marcar la diferencia entre la vida y la muerte»",
+  "summary": "Este martes se ha celebrado en el espacio IBAVI de Palma el acto conmemorativo del 25.º aniversario del primer banco de leche materna de España, inaugurado en Baleares en 2001. La iniciativa, pionera en el ámbito nacional, ha contribuido a mejorar la atención a los bebés prematuros y recién nacidos vulnerables. La celebración ha estado presidida por la consellera de Salut, Manuela García, y ha contado con las intervenciones de los doctores Antoni Gayà y Javier Calvo, así como del pediatra mallorquín Sergi Verd, uno de los principales impulsores del proyecto.",
+  "published": "2026-11-17T20:54:12.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/18fbc84d-192a-4b16-b952-c07a3c41966f_16-9-aspect-ratio_default_0_x1000y417.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.081Z",
+  "storyId": "st3c1ddaeaf0"
+ },
+ {
+  "id": "cd2e859ced72",
+  "url": "https://www.diariodemallorca.es/economia/2026/11/18/ia-detecta-fallo-critico-java-136560963.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "La IA detecta un fallo crítico en Java, usado por el 90% de las grandes empresas de EE.UU.",
+  "summary": "Una empresa de ciberseguridad utilizó un nuevo modelo de inteligencia artificial (IA) de OpenAI para detectar un fallo crítico en Java, un lenguaje de programación empleado por alrededor del 90 % de las compañías de la lista Fortune 500 y que sustenta numerosos servicios digitales, según informó este martes el New York Times.",
+  "published": "2026-11-17T23:41:21.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/a7d6b850-fda7-4188-983e-cbe8522fefa4_16-9-aspect-ratio_default_0.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "fcd0616efeaf",
+  "url": "https://www.diariodemallorca.es/sucesos/2026/11/18/joven-27-anos-resulta-herido-136560739.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Herido muy grave un joven tras ser apuñalado en Madrid",
+  "summary": "Un joven de 27 años ha resultado herido muy grave tras sufrir una agresión con arma blanca sobre las 21:45 horas en la calle Hermanos García Noblejas, situada en el distrito madrileño de Ciudad Lineal, según ha informado Emergencias Madrid.",
+  "published": "2026-11-17T23:05:19.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/80c8ce08-12bb-4c99-8072-16dfdeb4f1b0_16-9-aspect-ratio_default_0_x1024y390.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "b61d5393073d",
+  "url": "https://www.diariodemallorca.es/economia/2026/11/17/junta-directiva-nvidia-confirma-pretende-136560613.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "La junta directiva de Nvidia confirma que no pretende restituir a Huang y busca sustituto",
+  "summary": "La junta directiva de Nvidia confirmó este martes que \"no pretende restituir\" a Jensen Huang como director ejecutivo tras su dimisión y ha contratado a una firma para desarrollar la búsqueda de un sustituto \"permanente\", pese a una campaña para su regreso.",
+  "published": "2026-11-17T22:56:12.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/476a6c47-070b-4875-8ffd-270f8ddbdd16_16-9-aspect-ratio_default_0_x1200y533.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "d7c6a35a3861",
+  "url": "https://www.diariodemallorca.es/internacional/2026/11/17/bloque-eisenkot-elige-matan-kahana-nuevo-portavoz-knesset-parlamento-israel-136560028.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "El bloque de Eisenkot elige a Matan Kahana como nuevo presidente del Parlamento de Israel",
+  "summary": "La Knesset, el Parlamento israelí, inicia una nueva era. Este martes las formaciones contrarias al primer ministro Binyamín Netanyahu han elegido a un nuevo presidente de la Cámara. Con 66 votos a favor y tras seis horas de obstrucción parlamentaria por parte de la coalición interina, Matan Kahana, del partido Yashar, pasa a ocupar este importante cargo que decide la agenda legislativa. Mientras, el país sigue sumido en las negociaciones para la formación de gobierno que el presidente israelí, Isaac Herzog, encargó hace 10 días al líder de la formación Yashar, el exmilitar Gadi Eisenkot, por ser el candidato que consiguió más recomendaciones.",
+  "published": "2026-11-17T22:13:11.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/9c46927d-82b6-4d1b-bc5b-486c5a39da13_16-9-aspect-ratio_default_0_x1000y444.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "cfec7157f96b",
+  "url": "https://www.diariodemallorca.es/economia/2026/11/17/gobierno-aprueba-6-400-millones-136559661.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "El Gobierno aprueba más de 6.400 millones en préstamos al 0% para modernizar las Fuerzas Armadas",
+  "summary": "El Consejo de Ministros ha aprobado este martes un real decreto que regula la concesión de más de 6.400 millones de euros en préstamos sin intereses para financiar el desarrollo tecnológico e industrial de varios programas de modernización (PEM) de las Fuerzas Armadas. La medida beneficiará a empresas como Indra, GMV, Airbus y Escribano Mechanical & Engineering (EM&E), además del consorcio industrial español del Eurofighter, y busca reforzar las capacidades militares y la industria nacional de defensa.",
+  "published": "2026-11-17T22:00:37.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/86c0a851-416b-444c-9aec-0e8c107b618e_16-9-aspect-ratio_default_0_x1000y444.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "6a2086e83f9d",
+  "url": "https://www.diariodemallorca.es/economia/2026/11/17/nvidia-gana-59-335-millones-136559348.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Nvidia gana 59.335 millones en su tercer trimestre, un 105% más, en las primeras cuentas desde el escándalo de Jensen Huang",
+  "summary": "Pese a las graves dudas acerca de su gobernanza debido a la destitución de su CEO y fundador, las cifras de Nvidia muestran una progresión sólida del negocio de la Inteligencia Artificial (IA). El fabricante estadounidense de microprocesadores avanzados logró un beneficio neto de 65.287 millones de dólares (unos 59.335 millones de euros) en su tercer trimestre fiscal, comprendido entre finales de julio y finales de octubre, lo que supone elevar sus ganancias en un 105% respecto al año anterior y superar los pronosticos de los analistas.",
+  "published": "2026-11-17T21:46:59.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/ee1c898e-a725-42e2-ba26-3f20545a52d2_16-9-aspect-ratio_default_0_x1000y444.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.081Z"
+ },
+ {
+  "id": "521fc602ed87",
+  "url": "https://www.diariodemallorca.es/economia/2026/11/17/pp-planea-salga-caixabank-talgo-136559169.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "El PP planea que el Estado salga de CaixaBank, Talgo y Telefónica si gobierna",
+  "summary": "El vicesecretario de Hacienda del Partido Popular, Juan Bravo, ha apuntado a que el Estado abandonará todas las empresas privadas en las que \"no tenga sentido\" que \"esté la Administración\" ni \"responda a una función de carácter relativamente pública\" como Talgo, CaixaBank o Telefónica, a las que se ha referido expresamente.",
+  "published": "2026-11-17T21:37:40.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/022f375f-2db3-4f8a-8d63-86dee0b3de65_16-9-aspect-ratio_default_0_x1200y533.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.082Z"
+ },
+ {
+  "id": "6ebae4853e99",
+  "url": "https://www.diariodemallorca.es/videos/nacional/2026/11/17/mitin-santiago-abascal-palmas-gran-136559050.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Mitin de Santiago Abascal en Las Palmas de Gran Canaria",
+  "summary": "Mitin de Santiago Abascal en Las Palmas de Gran Canaria",
+  "published": "2026-11-17T21:31:13.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/cf0f22d4-2cce-47fc-824d-7df7253f690d_16-9-aspect-ratio_default_0_x1100y476.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.082Z"
+ },
+ {
+  "id": "99f7cd00462d",
+  "url": "https://www.diariodeibiza.es/ibiza/2026/11/17/unvrs-ibiza-mejor-club-mundo-136550110.html",
+  "sourceId": "diariodeibiza",
+  "lang": "es",
+  "title": "[UNVRS] Ibiza repite como mejor club del mundo por segundo año consecutivo",
+  "summary": "[UNVRS] Ibiza ha sido elegido mejor club del mundo de 2026 en la 11ª edición de los Golden Moon Awards, celebrada este martes en la Sala La Paloma de Barcelona. El establecimiento ibicenco encabeza la clasificación The World’s 100 Best Clubs™ 2026 por segundo año consecutivo, en una edición que ha contado con 646 locales nominados de 76 países. Ibiza ha conseguido situar tres establecimientos entre los cinco primeros del mundo y siete entre los cien mejores.",
+  "published": "2026-11-17T21:30:17.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/2464f116-54dd-41ea-80d0-cfce658c3659_16-9-aspect-ratio_default_0_x603y316.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.082Z",
+  "storyId": "st97929abc7c"
+ },
+ {
+  "id": "11159b81be73",
+  "url": "https://www.diariodeibiza.es/sucesos/2026/11/18/joven-27-anos-resulta-herido-136560745.html",
+  "sourceId": "diariodeibiza",
+  "lang": "es",
+  "title": "Herido muy grave un joven tras ser apuñalado en Madrid",
+  "summary": "Un joven de 27 años ha resultado herido muy grave tras sufrir una agresión con arma blanca sobre las 21:45 horas en la calle Hermanos García Noblejas, situada en el distrito madrileño de Ciudad Lineal, según ha informado Emergencias Madrid.",
+  "published": "2026-11-17T23:05:19.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/80c8ce08-12bb-4c99-8072-16dfdeb4f1b0_16-9-aspect-ratio_default_0_x1024y390.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.082Z"
+ },
+ {
+  "id": "51afed84ce7b",
+  "url": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/17/2752173/propone-cupos-inmigracion-requisitos-integracion-centros-retorno-terceros-paises.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "El PP propone cupos de inmigración, requisitos de integración y centros de retorno en terceros países",
+  "summary": "La presidenta del PP de las Islas Baleares, Marga Prohens, ha defendido en el foro sobre inmigración celebrado en Manacor las propuestas del programa electoral de Alberto Núñez Feijóo. El plan incluye establecer cupos de entrada, exigir requisitos de integración y garantizar el retorno de quienes lleguen a España de forma ilegal.",
+  "published": "2026-11-17T20:49:00.000Z",
+  "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853213.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.082Z",
+  "storyId": "std9e2abd88d"
+ },
+ {
+  "id": "9a491ccb44f0",
+  "url": "https://www.dbalears.cat/balears/esport/2026/11/18/424151/monica-calzetta-subcampiona-del-mon-escacs-femeni-senior.html",
+  "sourceId": "dbalears",
+  "lang": "ca",
+  "title": "Mònica Calzetta subcampiona del món d'escacs femení sènior",
+  "summary": "Ha finalitzat el campionat del món sènior femení en la categoria +50 d'escacs",
+  "published": "2026-11-17T23:03:00.000Z",
+  "image": "https://db.gsstatic.es/sfAttachPlugin/266175.webp",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-18T02:52:05.082Z"
+ },
+ {
+  "id": "0c1462b3eb0a",
+  "url": "https://www.dbalears.cat/balears/politica/2026/11/17/424147/ara-mes-front-ampli-proposa-els-treballadors-vulguin-dediquin-hora-feina-aprendre-catala.html",
+  "sourceId": "dbalears",
+  "lang": "ca",
+  "title": "Ara Més–Front Ampli proposa que els treballadors que ho vulguin dediquin una hora de feina a aprendre català",
+  "summary": "Ara Més–Front Ampli ha presentat una proposta per facilitar l'aprenentatge del català",
+  "published": "2026-11-17T22:20:00.000Z",
+  "image": "https://db.gsstatic.es/sfAttachPlugin/266171.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.082Z",
+  "storyId": "st2873dae09b"
+ },
+ {
+  "id": "bde965bced6b",
+  "url": "https://www.dbalears.cat/balears/balears/2026/11/17/424145/advocat-nazi-eivissa-ser-candidat-falange-espanola-jons-llucmajor.html",
+  "sourceId": "dbalears",
+  "lang": "ca",
+  "title": "L’advocat nazi d’Eivissa va ser candidat de Falange Española de las JONS a Llucmajor",
+  "summary": "Antonio de Lamo García, l’advocat que va recollir una distinció del Col·legi d’advocats",
+  "published": "2026-11-17T21:48:00.000Z",
+  "image": "https://db.gsstatic.es/sfAttachPlugin/266169.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T02:52:05.082Z",
+  "storyId": "st34c26efa81"
  }
 ]
