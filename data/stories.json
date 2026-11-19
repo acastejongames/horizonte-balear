@@ -1,5 +1,988 @@
 [
  {
+  "id": "stb06f068bc5",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T21:49:21.000Z",
+  "articles": [
+   {
+    "id": "b9578b5e9e8d",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752983/historico-class-accede-por-primera-vez-cuartos-copa-espana.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Un histórico Class accede por primera vez a los cuartos de la Copa de España",
+    "published": "2026-11-18T21:49:21.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T21:49:21.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:32:37.281Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Class Bàsquet Sant Antoni accede por primera vez a los cuartos de la Copa de España",
+   "summary": "El equipo de baloncesto de Sant Antoni se clasificó para los cuartos de final tras vencer a la Cultural y Deportiva Leonesa (79-104) y se medirá contra el HLA Alicante.",
+   "body": [
+    "El Class Bàsquet Sant Antoni hizo historia el miércoles al clasificarse por primera vez para los cuartos de final de la Copa de España, tras superar a la Cultural y Deportiva Leonesa con un marcador de 104-79. La victoria se logró en un último cuarto decisivo que dejó al equipo portmanyí como protagonista del torneo.",
+    "En la siguiente fase, los isleños se enfrentarán al HLA Alicante, líder de la Primera FEB y con experiencia en la ACB, que había vencido al Melilla Ciudad del Deporte por 80-70. El partido se disputará el 15 o 16 de diciembre en el Pabellón Siroko Sa Pedrera, a partido único."
+   ]
+  },
+  "ca": {
+   "title": "El Class Bàsquet Sant Antoni accede per primera vegada a la fase de quarts de la Copa d'Espanya",
+   "summary": "L'equip de bàsquet de Sant Antoni es classifica per primera vegada a la fase de quarts després de vèncer la Cultural i Deportiva Leonesa (79-104) i s'enfrontarà al HLA Alacant.",
+   "body": [
+    "El Class Bàsquet Sant Antoni ha fet història aquest dimecres en classificar-se per primera vegada a la fase de quarts de la Copa d'Espanya, després d'abarir la Cultural i Deportiva Leonesa amb un marcador de 104-79. La victòria s'aconseguí en un quart final memorable que va deixar l'equip portmanyí com a protagonista del torneig.",
+    "En la següent fase, els insulars s'enfrontaran al HLA Alacant, líder de la Primera FEB i amb experiència a l'ACB, que havia superat el Melilla Ciutat del Deporte per 80-70. El partit es jugarà el 15 o 16 de desembre al Pavelló Siroko Sa Pedrera, a partit únic."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Class Bàsquet Sant Antoni venció a la Cultural y Deportiva Leonesa 104-79",
+    "ca": "El Class Bàsquet Sant Antoni va superar la Cultural i Deportiva Leonesa 104-79",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El próximo rival será el HLA Alicante, líder de la Primera FEB",
+    "ca": "El proper rival serà el HLA Alacant, líder de la Primera FEB",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El partido se jugará el 15 o 16 de diciembre en el Pabellón Siroko Sa Pedrera",
+    "ca": "El partit es jugarà el 15 o 16 de desembre al Pavelló Siroko Sa Pedrera",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:37.281Z",
+  "slug": "el-class-basquet-sant-antoni-accede-por-primera-vez-a-los-cuartos-de-68bc5",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854743.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752983/historico-class-accede-por-primera-vez-cuartos-copa-espana.html"
+  }
+ },
+ {
+  "id": "stcdc4bd408a",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:57:00.000Z",
+  "articles": [
+   {
+    "id": "8f17c03bf797",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752969/ramib-celebra-sesion-tributo-honor-doctor-javier-cortes.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "La RAMIB celebra una sesión tributo en honor al doctor Javier Cortés",
+    "published": "2026-11-18T20:57:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:57:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:32:41.433Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "La RAMIB celebra una sesión tributo al doctor Javier Cortés",
+   "summary": "La Real Academia de Medicina de las Islas Baleares rindió homenaje al ginecólogo Javier Cortés, quien falleció el 15 de agosto.",
+   "body": [
+    "La Real Academia de Medicina de las Islas Baleares (RAMIB) celebró en la tarde del miércoles una sesión de tributo en honor al doctor Javier Cortés, ginecólogo de prestigio nacional e internacional. El médico falleció el pasado 15 de agosto y había presido la entidad en el pasado.",
+    "Amigos, conocidos y profesionales del sector se acercaron a la ceremonia para recordarlo por sus valores científicos y humanos, así como por su labor investigadora en lesiones del cuello uterino y el virus del papiloma humano (VPH).",
+    "La sesión, que se llevó a cabo en la sede de la RAMIB, contó con la presencia de destacados colegas y miembros de la comunidad médica que expresaron su agradecimiento por la contribución del doctor Cortés a la medicina balear y española."
+   ]
+  },
+  "ca": {
+   "title": "La RAMIB celebra una sessió de tributo al doctor Javier Cortés",
+   "summary": "La Real Acadèmia de Medicina de les Illes Balears rendí honor al ginecòleg Javier Cortés, que va morir el 15 d’agost.",
+   "body": [
+    "La Real Acadèmia de Medicina de les Illes Balears (RAMIB) va celebrar a la tarda del dimecres una sessió de tributo en honor al doctor Javier Cortés, ginecòleg de prestigiu nacional i internacional. El metge va morir el passat 15 d’agost i havia presidit l’entitat en el passat.",
+    "Amics, coneguts i professionals del sector es van reunir a la cerimònia per recordar-lo per els seus valors científics i humans, així com per la seva investigació en lesions del coll uterí i el virus del papiloma humà (VPH).",
+    "La sessió, que es va dur a terme a la sedes de la RAMIB, va comptar amb la presència de destacats companys i membres de la comunitat mèdica que van expressar el seu agraïment per la contribució del doctor Cortés a la medicina balear i espanyola."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El doctor Javier Cortés falleció el 15 de agosto",
+    "ca": "El doctor Javier Cortés va morir el 15 d’agost",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La RAMIB celebró una sesión de tributo el miércoles",
+    "ca": "La RAMIB va celebrar una sessió de tributo el dimecres",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:41.433Z",
+  "slug": "la-ramib-celebra-una-sesion-tributo-al-doctor-javier-cortes-d408a",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4854583.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/18/2752969/ramib-celebra-sesion-tributo-honor-doctor-javier-cortes.html"
+  }
+ },
+ {
+  "id": "st36582eba0b",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:44:00.000Z",
+  "articles": [
+   {
+    "id": "5bddbd7e8ea5",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752761/pimem-pide-apoyo-institucional-para-depender-menos-del-turismo.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Pimem pide apoyo institucional para depender menos del turismo",
+    "published": "2026-11-18T20:44:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:44:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:32:43.926Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Pimem solicita apoyo institucional para reducir la dependencia turística en Mallorca",
+   "summary": "La asociación de pequeñas y medianas empresas de Mallorca pide a las administraciones que impulsen la diversificación productiva durante la gala de premios de la patronal.",
+   "body": [
+    "El presidente de Pimem, Jordi Mora, pidió durante la gala de premios de la patronal, celebrada en el teatro Xesc Forteza, que el Gobierno, el Consell de Mallorca y los ayuntamientos colaboren para favorecer la diversidad productiva y disminuir la dependencia del turismo en la isla.",
+    "Según el medio Última Hora, la petición se realizó en la noche del miércoles 18 de noviembre de 2026, con el objetivo de impulsar la industria y el sector primario como alternativas económicas sostenibles para Mallorca."
+   ]
+  },
+  "ca": {
+   "title": "Pimem sol·licita suport institucional per reduir la dependència turística a Mallorca",
+   "summary": "La associació de petites i mitjanes empreses de Mallorca demana a les administracions que impulsen la diversificació productiva durant la gala de premis de la patronal.",
+   "body": [
+    "El president de Pimem, Jordi Mora, va demanar durant la gala de premis de la patronal, celebrada al teatre Xesc Forteza, que el Govern, el Consell de Mallorca i els ajuntaments col·laborin per fomentar la diversitat productiva i reduir la dependència del turisme a l’illa.",
+    "Segons el mitjà Última Hora, la sol·licitud es va fer a la nit del dimecres 18 de novembre de 2026, amb l’objectiu d’impulsar la indústria i el sector primari com a alternatives econòmiques sostenibles per a Mallorca."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Pimem pide apoyo institucional para favorecer la diversidad productiva y reducir la dependencia turística en Mallorca",
+    "ca": "Pimem sol·licita suport institucional per fomentar la diversitat productiva i reduir la dependència turística a Mallorca",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:43.926Z",
+  "slug": "pimem-solicita-apoyo-institucional-para-reducir-la-dependencia-eba0b",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4854567.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/18/2752761/pimem-pide-apoyo-institucional-para-depender-menos-del-turismo.html"
+  }
+ },
+ {
+  "id": "sta2d00ddc50",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:35:33.000Z",
+  "articles": [
+   {
+    "id": "d54e0925803a",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752957/enric-pons-regresa-ultra-dias-trail-ibiza-tras-dos-subcampeonatos-consecutivos.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Enric Pons regresa a la Ultra de 3 Días Trail Ibiza tras dos subcampeonatos consecutivos",
+    "published": "2026-11-18T20:35:33.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:35:33.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:32:46.589Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Enric Pons volverá a la Ultra de 3 Días Trail Ibiza tras dos subcampeonatos consecutivos",
+   "summary": "El corredor de Mahón, integrante del equipo Kailas FUGA, participará de nuevo en la Ultra de 3 Días Trail Ibiza con un ranking ITRA de 842 puntos.",
+   "body": [
+    "El corredor de Mahón, Enric Pons, volverá a la línea de salida de la Ultra de 3 Días Trail Ibiza. Según el Periódico de Ibiza y Formentera, Pons forma parte del equipo Kailas FUGA y cuenta con un ranking ITRA de 842 puntos.",
+    "La prueba ibicenca será su nueva participación después de haber obtenido dos segundos puestos consecutivos en la distancia reina en 2024 y 2025. No se han indicado fechas concretas de la carrera, pero la noticia confirma su regreso a la competición."
+   ]
+  },
+  "ca": {
+   "title": "Enric Pons tornarà a la Ultra de 3 Días Trail Ibiza després de dos subcampeonats consecutius",
+   "summary": "El corredor de Mahón, membre de l'equip Kailas FUGA, participarà de nou a la Ultra de 3 Días Trail Ibiza amb un ranking ITRA de 842 punts.",
+   "body": [
+    "El corredor de Mahón, Enric Pons, tornarà a la línia de sortida de la Ultra de 3 Días Trail Ibiza. Segons el Periódico de Ibiza i Formentera, Pons forma part de l'equip Kailas FUGA i compta amb un ranking ITRA de 842 punts.",
+    "La prova ibicenca serà la seva nova participació després d'haver obtingut dos segunts puestos consecutius a la distància reina en 2024 i 2025. No s'han indicat dates concretes de la cursa, però la notícia confirma el seu retorn a la competició."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Enric Pons participará en la Ultra de 3 Días Trail Ibiza",
+    "ca": "Enric Pons participarà a la Ultra de 3 Días Trail Ibiza",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Pons es miembro del equipo Kailas FUGA",
+    "ca": "Pons és membre de l'equip Kailas FUGA",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Ranking ITRA de Pons: 842 puntos",
+    "ca": "Ranking ITRA de Pons: 842 punts",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Pons obtuvo segundos puestos en 2024 y 2025",
+    "ca": "Pons va obtenir segunts puestos en 2024 i 2025",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:46.589Z",
+  "slug": "enric-pons-volvera-a-la-ultra-de-3-dias-trail-ibiza-tras-dos-ddc50",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854455.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752957/enric-pons-regresa-ultra-dias-trail-ibiza-tras-dos-subcampeonatos-consecutivos.html"
+  }
+ },
+ {
+  "id": "st61ea7bda69",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:31:00.000Z",
+  "articles": [
+   {
+    "id": "8fda7a53f1a8",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752593/colegio-psicologos-homenajea-profesionales-llevan-anos-vinculados-entidad.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Colegio de Psicólogos homenajea a los profesionales que llevan 25 años vinculados a la entidad",
+    "published": "2026-11-18T20:31:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:31:00.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:32:48.821Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Colegio de Psicólogos de las Islas Baleares homenajea a 46 profesionales con 25 años de colegiación",
+   "summary": "El COPIB celebró en el Hospital Universitario Son Espases a 46 psicólogos que alcanzan la media de 25 años de colegiación.",
+   "body": [
+    "El Colegio de Psicólogos de las Islas Baleares (COPIB) organizó un acto de reconocimiento en el Hospital Universitario Son Espases, donde se conmemoraron a 46 profesionales que han cumplido 25 años de colegiación. El homenaje destacó el compromiso de los psicólogos y los avances de la disciplina en ámbitos como la educación y la Atención Primaria, áreas que el COPIB considera especialmente relevantes.",
+    "El evento, que se llevó a cabo el 18 de noviembre de 2026, puso en valor la trayectoria de los homenajeados y sirvió para resaltar la evolución de la Psicología en la región. El COPIB subrayó la importancia de estos profesionales en el desarrollo de la salud mental y la formación de nuevas generaciones de psicólogos."
+   ]
+  },
+  "ca": {
+   "title": "El Coll de Psicòlegs de les Illes Balears homenega 46 professionals amb 25 anys de col·legiació",
+   "summary": "El COPIB va celebrar a 46 psicòlegs que han completat 25 anys de col·legiació al Hospital Universitari Son Espases.",
+   "body": [
+    "El Coll de Psicòlegs de les Illes Balears (COPIB) va organitzar un acte de reconeixement al Hospital Universitari Son Espases, on es va conmemorar a 46 professionals que han completat 25 anys de col·legiació. L’homenatge va destacar l’èmfasi del compromís dels psicòlegs i els avenços de la disciplina en àmbits com l’educació i l’Atenció Primària, zones que el COPIB considera especialment rellevants.",
+    "L’esdeveniment, celebrat el 18 de novembre de 2026, va posar en valor la trajectòria dels homenatjats i va servir per ressaltar l’evolució de la Psicologia a la regió. El COPIB va subratllar la importància d’aquests professionals en el desenvolupament de la salut mental i la formació de noves generacions de psicòlegs."
+   ]
+  },
+  "facts": [
+   {
+    "es": "46 psicólogos homenajeados",
+    "ca": "46 psicòlegs homenatjats",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "25 años de colegiación",
+    "ca": "25 anys de col·legiació",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Hospital Universitario Son Espases",
+    "ca": "Hospital Universitari Son Espases",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:48.821Z",
+  "slug": "el-colegio-de-psicologos-de-las-islas-baleares-homenajea-a-46-bda69",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4854445.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/18/2752593/colegio-psicologos-homenajea-profesionales-llevan-anos-vinculados-entidad.html"
+  }
+ },
+ {
+  "id": "st90d5b2265b",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:29:34.000Z",
+  "articles": [
+   {
+    "id": "7230b34364cc",
+    "url": "https://www.arabalears.cat/societat/costa-l-us-catala-tingui-continuitat-fora-l-aula_128_5898903.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "“Ens costa que l’ús del català tingui continuïtat fora de l’aula”",
+    "published": "2026-11-18T20:29:34.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:29:34.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:32:51.628Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El 22 % de la población de las Islas Baleares tiene nacionalidad extranjera y el 30 % nació fuera de España",
+   "summary": "Según Ara Balears, la comunidad balear presenta los porcentajes más altos de extranjeros y nacidos en el extranjero en España.",
+   "body": [
+    "El 22 % de la población de las Islas Baleares posee la nacionalidad extranjera y casi el 30 % nació fuera de España, cifras que sitúan a la comunidad en los máximos del Estado.",
+    "El número de alumnos de incorporación tardía al sistema educativo balear ha aumentado un 425 % entre los cursos 2021‑2022 y 2025‑2026, pasando de 1 297 a 6 814. Estos estudiantes suelen tener una lengua de herencia distinta al catalán y, en muchos casos, el castellano como lengua inicial."
+   ]
+  },
+  "ca": {
+   "title": "El 22 % de la població de les Illes Balears té nacionalitat estrangera i el 30 % ha nascut fora d’Espanya",
+   "summary": "Segons Ara Balears, la comunitat balear presenta els percentatges més alts d’extrangers i de nascuts a l’estranger a Espanya.",
+   "body": [
+    "El 22 % de la població de les Illes Balears té nacionalitat estrangera i prop del 30 % ha nascut fora d’Espanya, dades que posen la comunitat als percentatges més alts del país.",
+    "El nombre d’alumnes d’incorporació tardana al sistema educatiu balear ha augmentat un 425 % entre els cursos 2021‑2022 i 2025‑2026, passant de 1 297 a 6 814. Aquests estudiants solen tenir una llengua d’herència diferent del català i, en molts casos, el castellà com a llengua inicial."
+   ]
+  },
+  "facts": [
+   {
+    "es": "22 % de la población balear tiene nacionalidad extranjera",
+    "ca": "22 % de la població balear té nacionalitat estrangera",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Casi el 30 % de la población balear nació fuera de España",
+    "ca": "Prop del 30 % de la població balear ha nascut fora d’Espanya",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "El número de alumnos de incorporación tardía aumentó un 425 % entre 2021‑2022 y 2025‑2026",
+    "ca": "El nombre d’alumnes d’incorporació tardana augmenta un 425 % entre 2021‑2022 i 2025‑2026",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "El número de alumnos de incorporación tardía pasó de 1 297 a 6 814",
+    "ca": "El nombre d’alumnes d’incorporació tardana va passar de 1 297 a 6 814",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:51.628Z",
+  "slug": "el-22-de-la-poblacion-de-las-islas-baleares-tiene-nacionalidad-2265b",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/994cdebe-957a-43c4-8393-a8b06d14d15e_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/societat/costa-l-us-catala-tingui-continuitat-fora-l-aula_128_5898903.html"
+  }
+ },
+ {
+  "id": "staf656e7c0d",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:27:53.000Z",
+  "articles": [
+   {
+    "id": "f77d27e59a44",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752949/cubells-acoge-concentracion-dos-campeones-del-mundo.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Es Cubells acoge una concentración con dos campeones del mundo",
+    "published": "2026-11-18T20:27:53.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:27:53.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:33:00.841Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Es Cubells acoge una concentración con deportistas del equipo nacional",
+   "summary": "La Real Federación Española de Tiro con Arco organiza una concentración en Es Cubells que reúne a la selección nacional, al Centro de Alto Rendimiento de Madrid y a varios centros de tecnificación del país.",
+   "body": [
+    "El 18 de noviembre, la Real Federación Española de Tiro con Arco (RFETC) anunció que la localidad de Es Cubells acogerá una concentración de tiro con arco que se extenderá hasta el sábado. La reunión contará con la presencia de los deportistas que integran la selección nacional, así como con los miembros del Centro de Alto Rendimiento de Madrid y de diversos centros de tecnificación de todo el territorio español. La actividad se lleva a cabo en el marco de la preparación de los atletas para las próximas competiciones internacionales. La concentración se ha programado para aprovechar las instalaciones deportivas de la zona y fomentar la práctica del tiro con arco en las Islas Baleares. La RFETC ha destacado la importancia de la participación de los centros de alto rendimiento en el desarrollo de los deportistas nacionales."
+   ]
+  },
+  "ca": {
+   "title": "Es Cubells acull una concentració amb els equips nacionals de tir amb arc",
+   "summary": "La Federació Espanyola de Tir amb Arc organitza una concentració a Es Cubells que reuneix la selecció nacional, el Centre d'Alto Rendiment de Madrid i diversos centres de tecnificació del país.",
+   "body": [
+    "El 18 de novembre, la Federació Espanyola de Tir amb Arc (FETAC) va anunciar que la localitat d’Es Cubells acullrà una concentració de tir amb arc que es prolongarà fins al dissabte. L’esdeveniment comptarà amb la presència dels esportistes que integren la selecció nacional, així com amb els membres del Centre d’Alto Rendiment de Madrid i amb diversos centres de tecnificació de tot el territori espanyol. La reunió es realitza dins del marc de la preparació dels atletes per a les properes competicions internacionals. La concentració s’ha programat per aprofitar les instal·lacions esportives de la zona i fomentar la pràctica del tir amb arc a les Illes Balears. La FETAC ha destacat la importància de la participació dels centres d’alto rendiment en el desenvolupament dels esportistes nacionals."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Concentración de tiro con arco en Es Cubells",
+    "ca": "Concentració de tir amb arc a Es Cubells",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:00.841Z",
+  "slug": "es-cubells-acoge-una-concentracion-con-deportistas-del-equipo-nacional-e7c0d",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854447.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752949/cubells-acoge-concentracion-dos-campeones-del-mundo.html"
+  }
+ },
+ {
+  "id": "stbcdb55d52f",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:25:00.000Z",
+  "articles": [
+   {
+    "id": "3730fd1f459c",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752947/frau-nigro-massina-bussolari-reinan-the-last-sand-ibiza.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Frau-Nigro y Massina-Bussolari reinan en The Last Sand Ibiza",
+    "published": "2026-11-18T20:25:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:25:00.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-19T01:33:03.981Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Frau-Nigro y Massina-Bussolari ganan The Last Sand Ibiza en Cala Llonga",
+   "summary": "El torneo de tenis playa The Last Sand Ibiza se ha celebrado este fin de semana en Cala Llonga, organizado por Ibiza Beach Tennis.",
+   "body": [
+    "Ibiza ha vuelto a consolidarse como un destino de referencia para el tenis playa tras la finalización del torneo The Last Sand Ibiza. La competición tuvo lugar durante el pasado fin de semana en la playa de Cala Llonga y fue organizada por la entidad Ibiza Beach Tennis.",
+    "Según la información publicada por el Periódico de Ibiza y Formentera, los vencedores de la prueba fueron los dúos Frau-Nigro y Massina-Bussolari. El medio destaca el papel de la isla como sede de eventos deportivos de este tipo, aunque no detalla el desarrollo de las semifinales ni la puntuación exacta de la final."
+   ]
+  },
+  "ca": {
+   "title": "Frau-Nigro i Massina-Bussolari guanyen The Last Sand Ibiza a Cala Llonga",
+   "summary": "El torneig de tennis platja The Last Sand Ibiza s'ha celebrat aquest cap de setmana a Cala Llonga, organitzat per Ibiza Beach Tennis.",
+   "body": [
+    "Eivissa ha tornat a consolidar-se com a destinació de referència per al tennis platja després de la finalització del torneig The Last Sand Ibiza. La competició va tenir lloc durant el cap de setmana passat a la platja de Cala Llonga i va ser organitzada per l'entitat Ibiza Beach Tennis.",
+    "Segons la informació publicada pel Periòdic d'Eivissa i Formentera, els vencedors de la prova van ser els dúos Frau-Nigro i Massina-Bussolari. El mitjà destaca el paper de l'illa com a seu d'esdeveniments esportius d'aquest tipus, tot i que no detalla el desenvolupament de les semifinals ni la puntuació exacta de la final."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El torneo The Last Sand Ibiza se celebró el fin de semana pasado en Cala Llonga.",
+    "ca": "El torneig The Last Sand Ibiza es va celebrar el cap de setmana passat a Cala Llonga.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "La organización del evento corrió a cargo de Ibiza Beach Tennis.",
+    "ca": "L'organització de l'esdeveniment va anar a càrrec d'Ibiza Beach Tennis.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Los ganadores fueron los equipos Frau-Nigro y Massina-Bussolari.",
+    "ca": "Els guanyadors van ser els equips Frau-Nigro i Massina-Bussolari.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:03.981Z",
+  "slug": "frau-nigro-y-massina-bussolari-ganan-the-last-sand-ibiza-en-cala-5d52f",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854441.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752947/frau-nigro-massina-bussolari-reinan-the-last-sand-ibiza.html"
+  }
+ },
+ {
+  "id": "stdb23ae2248",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:23:00.000Z",
+  "articles": [
+   {
+    "id": "13ca49341d7d",
+    "url": "https://www.ultimahora.es/noticias/palma/2026/11/18/2752945/palma-identifica-personas-viven-antiguos-pisos-funcionarios-antigua-carcel.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Palma identifica a 47 personas que viven en los pisos de funcionarios de la antigua cárcel",
+    "published": "2026-11-18T20:23:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:23:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:33:08.927Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El Ayuntamiento de Palma identifica a 47 residentes en viviendas de la antigua cárcel",
+   "summary": "El consistorio ha localizado a 47 personas que habitan en los pisos destinados a funcionarios de la antigua prisión, sin que se haya detectado la presencia de menores.",
+   "body": [
+    "El Ayuntamiento de Palma ha confirmado que 47 personas viven en los antiguos pisos de funcionarios de la cárcel de la ciudad. La portavoz del equipo de gobierno, Mercedes Celeste, informó que la Policía Local ha llevado a cabo la identificación de los residentes y que, según los datos disponibles, no se ha encontrado ningún niño entre ellos.",
+    "Celeste añadió que los Serveis Socials ya han realizado intervenciones en más de 30 casos de estas personas, señalando que la situación de los ocupantes difiere notablemente de la de los antiguos internos de la prisión."
+   ]
+  },
+  "ca": {
+   "title": "L'Ajuntament de Palma identifica 47 residents a les vivendes de l'antiga presó",
+   "summary": "El consistori ha localitzat 47 persones que habiten als pisos destinats a funcionaris de l'antiga presó, sense haver detectat la presència de menors.",
+   "body": [
+    "L'Ajuntament de Palma ha confirmat que 47 persones viuen a les antigues vivendes de funcionaris de la presó de la ciutat. La portaveu de l'equip de govern, Mercedes Celeste, ha informat que la Policia Local ha dut a terme la identificació dels residents i que, segons les dades disponibles, no s'ha trobat cap nen entre ells.",
+    "Celeste ha afegit que els Serveis Socials ja han realitzat intervencions en més de 30 casos d'aquestes persones, assenyalant que la situació dels ocupants difereix notablement de la dels antics internats de la presó."
+   ]
+  },
+  "facts": [
+   {
+    "es": "47 personas viven en los pisos de funcionarios de la antigua cárcel de Palma",
+    "ca": "47 persones viuen a les vivendes de funcionaris de l'antiga presó de Palma",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "No se ha encontrado ningún niño entre los residentes",
+    "ca": "No s'ha trobat cap nen entre els residents",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Los Serveis Socials han intervenido en más de 30 casos",
+    "ca": "Els Serveis Socials han intervencionat en més de 30 casos",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:08.927Z",
+  "slug": "el-ayuntamiento-de-palma-identifica-a-47-residentes-en-viviendas-de-e2248",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4854439.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/palma/2026/11/18/2752945/palma-identifica-personas-viven-antiguos-pisos-funcionarios-antigua-carcel.html"
+  }
+ },
+ {
+  "id": "st80666ef875",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:19:01.000Z",
+  "articles": [
+   {
+    "id": "4da6ba8261c0",
+    "url": "https://www.arabalears.cat/educacio/pizzes-kitkat-brioixeria-industrial-aixi-campanya-l-anpe-eleccions-sindicals_1_5913129.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Pizzes, KitKat i brioixeria industrial: així fa campanya l’ANPE per a les eleccions sindicals",
+    "published": "2026-11-18T20:19:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:19:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:33:11.767Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El sindicato ANPE reparte comida en colegios baleares para impulsar su candidatura sindical",
+   "summary": "El sindicato docente ANPE ha intensificado su campaña electoral en centros educativos de las Islas Baleares, distribuyendo alimentos como pizzas, KitKat y donuts para promover el voto a favor de sus candidatos en las elecciones sindicales del 2 de diciembre.",
+   "body": [
+    "El sindicato ANPE ha llevado a cabo una serie de visitas a colegios e institutos de las Islas Baleares, entregando una oferta gastronómica que incluye pizzas, barras de KitKat, donuts, magdalenas, briojería industrial rellena de chocolate, plátanos y café con leche. Según los docentes que han presenciado estas acciones, la iniciativa forma parte de la campaña para las elecciones sindicales docentes previstas para el próximo 2 de diciembre.",
+    "Con el objetivo de incentivar la participación de los trabajadores del sector educativo, la organización ha intensificado la distribución de alimentos entre el personal docente, buscando favorecer su candidatura en la votación sindical."
+   ]
+  },
+  "ca": {
+   "title": "El sindicat ANPE reparte menjar a les escoles balears per impulsar la seva candidatura sindical",
+   "summary": "El sindicat docent ANPE ha intensificat la seva campanya electoral en centres educatius de les Illes Balears, distribuïnt aliments com pizzes, KitKat i donuts per promoure el vot a favor dels seus candidats a les eleccions sindicals del 2 de desembre.",
+   "body": [
+    "El sindicat ANPE ha realitzat una sèrie de visites a col·legis i instituts de les Illes Balears, entregant una oferta gastronòmica que inclou pizzes, barres de KitKat, donuts, magdalenes, brioixeria industrial farcida de xocolata, plàtans i cafè amb llet. Segons els docents que han presenciat aquestes accions, la iniciativa forma part de la campanya per a les eleccions sindicals docents previstes per al proper 2 de desembre.",
+    "Amb l'objectiu d'incitar la participació dels treballadors del sector educatiu, l'organització ha intensificat la distribució d'aliments entre el personal docent, buscant afavorir la seva candidatura a la votació sindical."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El sindicat ANPE ha repartit pizzes, barres de KitKat, donuts, magdalenes, brioixeria industrial farcida de xocolata, plàtans i cafè amb llet en centres educatius de les Balears",
+    "ca": "El sindicat ANPE ha repartit pizzes, barres de KitKat, donuts, magdalenes, brioixeria industrial farcida de xocolata, plàtans i cafè amb llet en centres educatius de les Illes Balears",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Les eleccions sindicals docents es celebraran el 2 de desembre",
+    "ca": "Les eleccions sindicals docents es celebraran el 2 de desembre",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:11.767Z",
+  "slug": "el-sindicato-anpe-reparte-comida-en-colegios-baleares-para-impulsar-ef875",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/11b1a39f-f6d4-4bd6-bd20-a5eb3c241415_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/educacio/pizzes-kitkat-brioixeria-industrial-aixi-campanya-l-anpe-eleccions-sindicals_1_5913129.html"
+  }
+ },
+ {
+  "id": "stad6683bb70",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:15:34.000Z",
+  "articles": [
+   {
+    "id": "055f556d22e7",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752943/sant-jordi-tumba-santanyi-mete-zona-playoff-ascenso.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El Sant Jordi tumba al Santanyí y se mete en zona de ‘playoff’ de ascenso",
+    "published": "2026-11-18T20:15:34.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:15:34.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:33:17.352Z",
+  "islands": [
+   "ibiza",
+   "formentera",
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Sant Jordi avanza a la zona de playoff tras vencer al Santanyí 3-2",
+   "summary": "La Penya Esportiva Sant Jordi se coloca en la zona de playoff de ascenso tras ganar al Santanyí, mientras que el Formentera empata 1-1 contra el Binissalem.",
+   "body": [
+    "La Penya Esportiva Sant Jordi logró el salto a la zona de playoff al imponerse por 3-2 al Santanyí en el partido aplazado de la séptima jornada, disputado este miércoles.",
+    "Por su parte, el Formentera consiguió un punto en su visita al feudo del Binissalem, con un empate 1-1 que mantiene su posición en la clasificación."
+   ]
+  },
+  "ca": {
+   "title": "Sant Jordi avança a la zona de playoff després de vèncer el Santanyí 3-2",
+   "summary": "La Penya Esportiva Sant Jordi es col·loca a la zona de playoff d’ascens després de guanyar al Santanyí, mentre que el Formentera empata 1-1 contra el Binissalem.",
+   "body": [
+    "La Penya Esportiva Sant Jordi va aconseguir el salt a la zona de playoff en vèncer per 3-2 al Santanyí en el partit ajornat de la setena jornada, disputat aquest dimecres.",
+    "D'altra banda, el Formentera va obtenir un punt en la seva visita al feudal del Binissalem, amb un empat 1-1 que manté la seva posició a la classificació."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Sant Jordi venció al Santanyí 3-2 y accede a la zona de playoff",
+    "ca": "Sant Jordi va vèncer el Santanyí 3-2 i accedeix a la zona de playoff",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Formentera empató 1-1 contra el Binissalem",
+    "ca": "Formentera va empatar 1-1 contra el Binissalem",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:17.352Z",
+  "slug": "sant-jordi-avanza-a-la-zona-de-playoff-tras-vencer-al-santanyi-3-2-3bb70",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854417.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752943/sant-jordi-tumba-santanyi-mete-zona-playoff-ascenso.html"
+  }
+ },
+ {
+  "id": "st221b6d424c",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T20:00:36.000Z",
+  "articles": [
+   {
+    "id": "03ab40870177",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/18/2752803/restaurantes-llenos-calles-repletas-noche-del-dimecres-bo.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Restaurantes llenos y calles repletas en la noche del Dimecres Bo",
+    "published": "2026-11-18T20:02:16.000Z"
+   },
+   {
+    "id": "142cc0c483c1",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/dimecres-bo-calienta-motores-gran-136584462.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Dimecres Bo calienta los motores de la gran feria: \"Es el mejor momento\"",
+    "published": "2026-11-18T20:00:36.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:02:16.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:31:37.982Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Inca celebra el Dimecres Bo con calles y restaurantes llenos",
+   "summary": "Este miércoles, la víspera de la gran feria, Inca se ha convertido en punto de encuentro para miles de personas que disfrutan de una noche de fiesta que se prolongará hasta la madrugada.",
+   "body": [
+    "Inca vivió este miércoles su noche más multitudinaria del año con el Dimecres Bo, la víspera de la gran feria. Las calles del centro, especialmente la zona del Mercat Cobert, y los establecimientos de ocio se llenaron de personas que aprovecharon la jornada para celebrar antes del Dijous Bo que se celebrará al día siguiente.",
+    "Según los medios, la actividad festiva incluyó tardeos, vermuts anticipados y almuerzos organizados por empresas que participan en la feria. La celebración está prevista que se extienda hasta las cinco de la madrugada, garantizando que la música y la diversión no interfieran con los eventos del Dijous Bo."
+   ]
+  },
+  "ca": {
+   "title": "Inca celebra el Dimecres Bo amb carrers i restaurants plens",
+   "summary": "Aquest dimecres, la vesprada de la gran fira, Inca s’ha convertit en punt de trobada per a milers de persones que gaudeixen d’una nit de festa que es prolongarà fins a l’alba.",
+   "body": [
+    "Inca va viure aquest dimecres la seva nit més multitudinària de l’any amb el Dimecres Bo, la vesprada de la gran fira. Els carrers del centre, especialment la zona del Mercat Cobert, i els establiments d’oci es van omplir de gent que va aprofitar la jornada per celebrar abans del Dijous Bo que tindrà lloc l’endemà.",
+    "Segons els mitjans, l’activitat festiva va incloure tardaos, vermuts anticipats i dinars organitzats per empreses que participen a la fira. La celebració està prevista que s’estengui fins a les cinc del matí, assegurant que la música i la diversió no interfereixin amb els esdeveniments del Dijous Bo."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Inca celebró el Dimecres Bo, la víspera de la gran feria, con calles y restaurantes llenos",
+    "ca": "Inca va celebrar el Dimecres Bo, la vesprada de la gran fira, amb carrers i restaurants plens",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La actividad festiva comenzó en la zona del Mercat Cobert y se prolongará hasta las cinco de la madrugada",
+    "ca": "L'activitat festiva va començar a la zona del Mercat Cobert i es prolongarà fins a les cinc del matí",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Empresas participantes organizaron almuerzos para empleados y partidos políticos aprovecharon para comidas en sus sedes",
+    "ca": "Empreses participants van organitzar dinars per a empleats i partits polítics van aprofitar per a àpats a les seves seu",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:31:37.982Z",
+  "slug": "inca-celebra-el-dimecres-bo-con-calles-y-restaurantes-llenos-d424c",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/0f1818cc-39c6-43cb-b02f-774b52f8039b_16-9-aspect-ratio_default_0_x609y270.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/18/dimecres-bo-calienta-motores-gran-136584462.html"
+  }
+ },
+ {
+  "id": "stddf83e08ed",
+  "createdAt": "2026-11-19T01:28:17.704Z",
+  "firstPublished": "2026-11-18T20:00:05.000Z",
+  "articles": [
+   {
+    "id": "b47e5fa43652",
+    "url": "https://www.dbalears.cat/balears/economia/2026/11/19/424185/pimem-lliura-els-seus-premis-per-reconeixer-tasca-empreses-fan-possible-avancar-cap-nou-context-economic-social.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "PIMEM lliura els seus premis per reconèixer la tasca d’empreses «que fan possible avançar cap a un nou context econòmic i social»",
+    "published": "2026-11-18T23:45:00.000Z"
+   },
+   {
+    "id": "ce41fd9b3023",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/18/premios-pimem-reune-ocho-empresas-136585316.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Los premios PIMEM reúne a ocho empresas por su trayectoria e innovación y apuesta por el producto local en la isla",
+    "published": "2026-11-18T20:00:05.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T23:45:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:31:32.840Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "La Federació PIMEM entrega sus premios a ocho empresas por trayectoria e innovación",
+   "summary": "La Federació de la Petita i Mitjana Empresa de Mallorca (PIMEM) ha entregado este martes sus galardones anuales a ocho compañías que destacan por su trayectoria, innovación y apuesta por el producte local.",
+   "body": [
+    "La Federació de la Petita i Mitjana Empresa de Mallorca (PIMEM) celebró el martes la entrega de sus premios anuales, reconeixint la trajectòria i la contribució de les petites i mitjanes empreses al teixit econòmic de l'illa. En aquesta edició, vuit empreses i entitats van rebre els reconeixements en diverses categories que valoren la diversitat productiva, la innovació, la tradició empresarial i la qualitat del producte local.",
+    "Segons el diari dBalears, els premis es concedeixen a aquelles empreses que \"fan possible avançar cap a un nou context econòmic i social\", subratllant la importància de la seva tasca per al desenvolupament de Mallorca."
+   ]
+  },
+  "ca": {
+   "title": "La Federació PIMEM entrega els seus premis a vuit empreses per trajectòria i innovació",
+   "summary": "La Federació de la Petita i Mitjana Empresa de Mallorca (PIMEM) ha entregat aquest dimarts els seus premis anuals a vuit companyies que destaquen per la seva trajectòria, innovació i aposta pel producte local.",
+   "body": [
+    "La Federació de la Petita i Mitjana Empresa de Mallorca (PIMEM) ha celebrat aquest dimarts la cerimònia de lliurament dels seus premis anuals, reconeixent la trajectòria i la contribució de les petites i mitjanes empreses al teixit econòmic de l'illa. En aquesta edició, vuit empreses i entitats han rebut els galardons en diferents categories que posen en valor la diversitat productiva, la innovació, la tradició empresarial i la qualitat del producte local.",
+    "Segons el diari dBalears, els premis es concedeixen a aquelles empreses que \"fan possible avançar cap a un nou context econòmic i social\", destacant la importància de la seva tasca per al desenvolupament de Mallorca."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Ocho empresas y entidades recibieron los galardones",
+    "ca": "Vuit empreses i entitats van rebre els galardons",
+    "sources": [
+     "diariodemallorca",
+     "dbalears"
+    ]
+   },
+   {
+    "es": "Los premios reconocen trayectoria, innovación y apuesta por el producto local",
+    "ca": "Els premis reconeixen trajectòria, innovació i aposta pel producte local",
+    "sources": [
+     "diariodemallorca",
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:31:32.840Z",
+  "slug": "la-federacio-pimem-entrega-sus-premios-a-ocho-empresas-por-e08ed",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/2b47eed9-44ea-4fea-9040-d4486128272e_16-9-aspect-ratio_default_0_x1024y512.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/18/premios-pimem-reune-ocho-empresas-136585316.html"
+  }
+ },
+ {
+  "id": "st48d94812a2",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T19:44:18.000Z",
+  "articles": [
+   {
+    "id": "5bbfe0658185",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/18/vivienda-ibiza-experto-consell-de-ibiza-136588925.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "\"El suelo tiene que dejar de ser algo político\": un experto opina sobre la crisis de vivienda en Ibiza y Formentera",
+    "published": "2026-11-18T19:44:18.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T19:44:18.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:33:31.684Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "vivienda",
+  "es": {
+   "title": "Un experto de CaixaBank advierte que el suelo no debe ser un asunto político en Ibiza y Formentera",
+   "summary": "Omar García Glumaz, director del Centre d'Empreses de Negoci Immobiliari de CaixaBank, ha señalado la necesidad de separar la gestión del suelo de la política durante una mesa redonda en el Consell de Ibiza.",
+   "body": [
+    "El 18 de noviembre, el experto en operaciones inmobiliarias Omar García Glumaz participó en la mesa redonda \"Más vivienda, menos barreras, ¿cómo avanzamos?\" celebrada en el Consell de Ibiza. En su intervención destacó que ambos partidos mayoritarios comparten una visión similar sobre la normativa del suelo y afirmó que \"el suelo tiene que dejar de ser algo político\".",
+    "García Glumaz subrayó que el urbanismo debe preceder a la construcción de viviendas y señaló que \"hay muchas cosas que ya están inventadas\". Sus comentarios forman parte del debate sobre la crisis de vivienda en las islas, donde la gestión del territorio se considera clave para avanzar en soluciones habitacionales."
+   ]
+  },
+  "ca": {
+   "title": "Un expert de CaixaBank adverte que el sòl no ha de ser un assumpte polític a Eivissa i Formentera",
+   "summary": "Omar García Glumaz, director del Centre d'Empreses de Negoci Immobiliari de CaixaBank, ha assenyalat la necessitat de separar la gestió del sòl de la política durant una taula rodona al Consell d'Eivissa.",
+   "body": [
+    "El 18 de novembre, l'expert en operacions immobiliàries Omar García Glumaz va participar a la taula rodona \"Més vivenda, menys barreres, com avancem?\" celebrada al Consell d'Eivissa. En la seva intervenció va destacar que ambdós partits majoritaris comparteixen una visió similar sobre la normativa del sòl i va afirmar que \"el sòl ha de deixar de ser una cosa política\".",
+    "García Glumaz va subratllar que l'urbanisme ha d'anar abans de les vivendes i va assenyalar que \"hi ha moltes coses que ja estan inventades\". Els seus comentaris formen part del debat sobre la crisi de vivenda a les illes, on la gestió del territori es considera clau per avançar en solucions habitacionals."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Omar García Glumaz, director del Centre d'Empreses de Negoci Immobiliari de CaixaBank, habló en la mesa redonda del 18/11/2026 en el Consell de Ibiza",
+    "ca": "Omar García Glumaz, director del Centre d'Empreses de Negoci Immobiliari de CaixaBank, va parlar a la taula rodona del 18/11/2026 al Consell d'Eivissa",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Afirmó que el suelo debe dejar de ser un asunto político y que el urbanismo precede a la vivienda",
+    "ca": "Va afirmar que el sòl ha de deixar de ser una cosa política i que l'urbanisme precedeix la vivenda",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:31.684Z",
+  "slug": "un-experto-de-caixabank-advierte-que-el-suelo-no-debe-ser-un-asunto-812a2",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/df49d21e-1e19-47be-aed0-da0597c39e4f_16-9-aspect-ratio_default_0_x810y360.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/18/vivienda-ibiza-experto-consell-de-ibiza-136588925.html"
+  }
+ },
+ {
   "id": "st014aa5f271",
   "createdAt": "2026-11-18T19:34:22.236Z",
   "firstPublished": "2026-11-18T19:07:00.000Z",
@@ -13,8 +996,70 @@
     "published": "2026-11-18T19:07:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-18T19:07:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T19:07:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:33:43.107Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Aina Bauzá a 300 millas náuticas de completar la Ruta del Ron",
+   "summary": "La regatista mallorquina Aina Bauzá se encuentra a escasas 300 millas náuticas de alcanzar la meta de Guadalupe en su cuarta travesía del Atlántico.",
+   "body": [
+    "Aina Bauzá, integrante del Club de Vela del Port d'Andratx, compite en la categoría Class40 a bordo del barco Alice Milliet Foundation. Según Última Hora, ocupa el puesto 35 en la clasificación provisional de la Ruta del Ron.",
+    "La regatista está a aproximadamente 300 millas náuticas de llegar a Guadalupe, objetivo que marcaría el final de su participación en la competición, iniciada el pasado 1 de noviembre desde el puerto francés de Saint Malo."
+   ]
+  },
+  "ca": {
+   "title": "Aina Bauzá a 300 milles nàutiques de completar la Ruta del Ron",
+   "summary": "La regatista mallorquina Aina Bauzá es troba a només 300 milles nàutiques d’arribar a Guadalupe en la seva quarta travessa de l’Atlàntic.",
+   "body": [
+    "Aina Bauzá, membre del Club de Vela del Port d'Andratx, competeix a la categoria Class40 a bord del vaixell Alice Milliet Foundation. Segons Última Hora, ocupa el lloc 35 en la classificació provisional de la Ruta del Ron.",
+    "La regatista es troba a aproximadament 300 milles nàutiques de Guadalupe, objectiu que marcarà el final de la seva participació en la competició, iniciada el 1 de novembre des del port francès de Saint Malo."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Aina Bauzá ocupa el puesto 35 en la clasificación provisional",
+    "ca": "Aina Bauzá ocupa el lloc 35 en la classificació provisional",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Está a 300 millas náuticas de la meta de Guadalupe",
+    "ca": "Està a 300 milles nàutiques de la meta de Guadalupe",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Esta es su cuarta travesía al Atlántico",
+    "ca": "Aquesta és la seva quarta travessa a l’Atlàntic",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Salida el 1 de noviembre desde Saint Malo",
+    "ca": "Sortida el 1 de novembre des de Saint Malo",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:33:43.107Z",
+  "slug": "aina-bauza-a-300-millas-nauticas-de-completar-la-ruta-del-ron-5f271",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4854365.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/18/2752909/aina-bauza-300-millas-costas-guadalupe-completar-este-viernes-ruta-del-ron.html"
+  }
  },
  {
   "id": "st705593afea",
@@ -154,11 +1199,99 @@
     "lang": "es",
     "title": "Rosario Sánchez: «Nunca me ha mantenido ningún hombre»",
     "published": "2026-11-18T18:25:00.000Z"
+   },
+   {
+    "id": "b2898fa14f02",
+    "url": "https://ib3.org/rosario-sanchez-mai-mha-mantengut-cap-home",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Rosario Sánchez: “Mai m’ha mantengut cap home.”",
+    "published": "2026-11-18T20:02:55.000Z"
+   },
+   {
+    "id": "3b0f220be891",
+    "url": "https://www.arabalears.cat/politica/rosario-sanchez-respon-prohens-pp-mai-m-mantingut-cap-home_1_5915193.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Rosario Sánchez respon a Prohens i al PP: “Mai m’ha mantingut cap home”",
+    "published": "2026-11-18T19:35:03.000Z"
+   },
+   {
+    "id": "84c6831a6085",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/18/2752855/rosario-sanchez-nunca-mantenido-ningun-hombre.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Rosario Sánchez: «Nunca me ha mantenido ningún hombre»",
+    "published": "2026-11-18T18:25:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-18T19:24:35.000Z",
-  "writeErrors": 1
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T20:02:55.000Z",
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:30:51.970Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Rosario Sánchez rechaza los ataques del PP y afirma que nunca ha sido mantenida por un hombre",
+   "summary": "La candidata del PSIB-PSOE a la presidencia del Govern en 2027, Rosario Sánchez, respondió a las críticas del PP sobre el patrimonio inmobiliario de su pareja, defendiendo su independencia económica.",
+   "body": [
+    "Rosario Sánchez, candidata del PSIB-PSOE a la presidencia del Govern balear en las elecciones de 2027 y secretaria de Estado de Turismo, emitió un vídeo en redes sociales en el que rechazó los ataques del Partido Popular. En el mensaje afirmó que \"nunca me ha mantenido ningún hombre\" y denunció que se están atacando al padre de sus hijas y a su familia, personas que, según ella, no tienen relación con la política.",
+    "La dirigente también criticó a la presidenta del Govern, Marga Prohens, acusándola de utilizar cuestiones personales como arma política. Sánchez no ofreció explicaciones sobre el patrimonio inmobiliario de su pareja, que ha sido objeto de polémica tras conocerse que la empresa de este gestiona varios alquileres y una vivienda vacacional."
+   ]
+  },
+  "ca": {
+   "title": "Rosario Sánchez rebutja els atacs del PP i afirma que mai ha estat mantinguda per cap home",
+   "summary": "La candidata del PSIB-PSOE a la presidència del Govern el 2027, Rosario Sánchez, ha respost a les crítiques del PP sobre el patrimoni immobiliari de la seva parella, defensant la seva independència econòmica.",
+   "body": [
+    "Rosario Sánchez, candidata del PSIB-PSOE a la presidència del Govern balear a les eleccions de 2027 i secretària d'Estat de Turisme, va publicar un vídeo a les xarxes socials en què rebutja els atacs del Partit Popular. En el missatge va afirmar que \"mai m’ha mantingut cap home\" i va denunciar que s’estan atacant el pare de les seves filles i la seva família, persones que, segons ella, no tenen cap vinculació amb la política.",
+    "La dirigente també va criticar la presidenta del Govern, Marga Prohens, acusant-la d’utilitzar qüestions personals com a arma política. Sánchez no va oferir explicacions sobre el patrimoni immobiliari de la seva parella, que ha generat polèmica després de conèixer que l’empresa d’aquest gestiona diversos lloguers i una vivenda vacacional."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Rosario Sánchez, candidata del PSIB-PSOE a la presidencia del Govern en 2027 y secretaria de Estado de Turismo, respondió a críticas del PP sobre el patrimonio inmobiliario de su pareja.",
+    "ca": "Rosario Sánchez, candidata del PSIB-PSOE a la presidència del Govern el 2027 i secretària d'Estat de Turisme, ha respost a les crítiques del PP sobre el patrimoni immobiliari de la seva parella.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca",
+     "europapress",
+     "arabalears",
+     "ib3",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "En un vídeo publicado en redes sociales afirmó \"Nunca me ha mantenido ningún hombre\" y denunció ataques a su familia.",
+    "ca": "En un vídeo publicat a les xarxes socials va afirmar \"Mai m’ha mantingut cap home\" i va denunciar atacs a la seva família.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca",
+     "arabalears",
+     "ib3",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Señaló que los ataques se dirigen al padre de sus hijas y a su familia, que no tienen relación con la política.",
+    "ca": "Va assenyalar que els atacs es dirigeixen al pare de les seves filles i a la seva família, que no tenen relació amb la política.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:30:51.970Z",
+  "slug": "rosario-sanchez-rechaza-los-ataques-del-pp-y-afirma-que-nunca-ha-sido-056d4",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/1b5b6d0f-ccb1-478d-8bb6-05b6bc9593d8_16-9-aspect-ratio_default_0_x512y192.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/videos/mallorca/2026/11/18/video-declaraciones-rosario-sanchez-136592531.html"
+  }
  },
  {
   "id": "st5164b06088",
@@ -238,7 +1371,10 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854273.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/18/2752851/estos-son-proximos-actos-campana-arames-front-ampli-para-elecciones-generales-ibiza-formentera.html"
-  }
+  },
+  "distinctFrom": [
+   "st099f2cc978"
+  ]
  },
  {
   "id": "stdd564ec620",
@@ -256,23 +1392,6 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-18T18:03:26.000Z"
- },
- {
-  "id": "st1ed6a826df",
-  "createdAt": "2026-11-18T19:34:22.236Z",
-  "firstPublished": "2026-11-18T17:58:17.000Z",
-  "articles": [
-   {
-    "id": "9436ace98e98",
-    "url": "https://ib3.org/palma-licita-la-demolicio-dels-edificis-de-funcionaris-de-lantiga-preso",
-    "sourceId": "ib3",
-    "lang": "ca",
-    "title": "Palma licita la demolició dels edificis de funcionaris de l’antiga presó",
-    "published": "2026-11-18T17:58:17.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-18T17:58:17.000Z"
  },
  {
   "id": "st3a991005c5",
@@ -732,7 +1851,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/b7433cf4-8a4b-4644-9530-6ed834fb5170_16-9-aspect-ratio_default_0_x1020y512.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/18/ara-mes-front-ampli-reclama-136585854.html"
-  }
+  },
+  "distinctFrom": [
+   "st86fdab7a09"
+  ]
  },
  {
   "id": "ste41aaa3e87",
@@ -818,7 +1940,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/c0c4f1fd-2ed3-41e0-b37c-735b4164fe00_16-9-aspect-ratio_default_0_x800y400.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/18/pp-da-hecho-feijoo-recuperara-136585665.html"
-  }
+  },
+  "distinctFrom": [
+   "st2d7340a6ed"
+  ]
  },
  {
   "id": "st9ddf9d5726",
@@ -1168,7 +2293,10 @@
    "url": "https://static1.ara.cat/clip/bb89b5c0-b979-4dc4-8e84-74f36e056920_16-9-aspect-ratio_default_0.jpg",
    "sourceId": "arabalears",
    "articleUrl": "https://www.arabalears.cat/societat/cerquen-jove-vulnerable-desapareguda-palma_1_5915074.html"
-  }
+  },
+  "distinctFrom": [
+   "stca4d614617"
+  ]
  },
  {
   "id": "sta33851a582",
@@ -1305,7 +2433,11 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/9b47f1db-9261-458c-a060-d020a735105e_16-9-aspect-ratio_default_0_x609y270.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/18/aemet-ibiza-formentera-alerta-aviso-amarillo-viento-dvl-136587451.html"
-  }
+  },
+  "distinctFrom": [
+   "ste0402a004d",
+   "stc718d07527"
+  ]
  },
  {
   "id": "st89fcd1bc16",
@@ -1673,7 +2805,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4853873.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/18/2752563/arrestados-calvia-por-comprar-carne-pescado-alcohol-robado-son-banya-para-hacer-fiesta.html"
-  }
+  },
+  "distinctFrom": [
+   "steeeac5e607"
+  ]
  },
  {
   "id": "sta837dbb587",
@@ -1829,9 +2964,59 @@
   "lastArticleAt": "2026-11-18T12:49:48.000Z"
  },
  {
+  "id": "st34601e5fb8",
+  "createdAt": "2026-11-18T19:34:22.237Z",
+  "firstPublished": "2026-11-18T12:46:00.000Z",
+  "articles": [
+   {
+    "id": "ce82f26c2a01",
+    "url": "https://www.ultimahora.es/vips/television/2026/11/18/2752521/xuso-jones-vuelve-mallorca-sabe-sabe-mano-carolina-cerezuela.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Xuso Jones vuelve a Mallorca con 'Lo sabe, no lo sabe' de la mano de Carolina Cerezuela",
+    "published": "2026-11-18T12:46:00.000Z"
+   },
+   {
+    "id": "3bef373501af",
+    "url": "https://www.periodicodeibiza.es/vips/television/2026/11/18/2752521/xuso-jones-vuelve-mallorca-sabe-sabe-mano-carolina-cerezuela.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Xuso Jones vuelve a Mallorca con 'Lo sabe, no lo sabe' de la mano de Carolina Cerezuela",
+    "published": "2026-11-18T12:46:00.000Z"
+   },
+   {
+    "id": "87763ae27ca0",
+    "url": "https://www.menorca.info/vips/television/2026/11/18/2752521/xuso-jones-vuelve-mallorca-sabe-sabe-mano-carolina-cerezuela.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Xuso Jones vuelve a Mallorca con 'Lo sabe, no lo sabe' de la mano de Carolina Cerezuela",
+    "published": "2026-11-18T12:46:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:46:00.000Z"
+ },
+ {
+  "id": "st56cba1f542",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:38:01.000Z",
+  "articles": [
+   {
+    "id": "bb1abdb7c7f3",
+    "url": "https://ib3.org/es-confirma-la-tendencia-a-la-baixa-de-la-recollida-de-menjar-de-loperacio-quilo-del-banc-daliments-de-mallorca",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Es confirma la tendència a la baixa de la recollida de menjar de l’Operació Quilo del Banc d’Aliments de Mallorca",
+    "published": "2026-11-18T12:38:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:38:01.000Z"
+ },
+ {
   "id": "st3961652038",
   "createdAt": "2026-11-18T19:34:22.236Z",
-  "firstPublished": "2026-11-18T12:47:29.000Z",
+  "firstPublished": "2026-11-18T12:37:29.000Z",
   "articles": [
    {
     "id": "6807dc1de924",
@@ -1848,39 +3033,47 @@
     "lang": "es",
     "title": "Comienza la demolición de la estructura de hormigón en Cala d’en Serra",
     "published": "2026-11-18T12:47:29.000Z"
+   },
+   {
+    "id": "a3b42a1f5733",
+    "url": "https://www.periodicodeibiza.es/pitiusas/ibiza/2026/11/18/2752535/adios-estructura-inacabada-cala-serra-ibiza-empiezan-derribarla.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Adiós a la estructura inacabada de Cala d'en Serra en Ibiza: empiezan a derribarla",
+    "published": "2026-11-18T12:37:29.000Z"
    }
   ],
   "needsWrite": false,
   "lastArticleAt": "2026-11-18T17:37:59.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-18T19:36:17.264Z",
+  "writtenAt": "2026-11-19T01:30:56.614Z",
   "islands": [
-   "mallorca"
+   "ibiza"
   ],
   "topic": "medioambiente",
   "es": {
-   "title": "El Consell inicia la demolición de la estructura de hormigón en Cala d’en Serra",
-   "summary": "El Govern balear ha puesto en marcha la obra para derribar el edificio abandonado de la Cala d’en Serra, con un presupuesto de 1,2 millones de euros y una duración estimada de un año.",
+   "title": "El Consell de Ibiza inicia la demolición de la estructura abandonada en Cala d'en Serra",
+   "summary": "El Consell Insular de Ibiza ha comenzado a derribar la construcción de hormigón inacabada en Cala d'en Serra, con un presupuesto de 1,2 millones de euros y una previsión de obra de un año.",
    "body": [
-    "Esta mañana el Consell de Mallorca comenzó los trabajos de demolición de la estructura de hormigón situada en la Cala d’en Serra, un edificio hotelero que quedó inconcluso a principios de los años 80 y ha permanecido abandonado durante cinco décadas.",
-    "Según informa IB3 Notícies, la obra se enmarca en un entorno declarado área natural de especial interés y cuenta con un presupuesto de 1,2 millones de euros financiado por el impuesto de turismo sostenible. Se estima que los trabajos se prolongarán durante un año para retirar completamente la construcción del paisaje."
+    "El Consell Insular de Ibiza dio comienzo esta mañana a las obras de demolición de la estructura de hormigón que se encuentra en la cala de Cala d'en Serra, en el norte de la isla. La medida busca recuperar el paisaje natural del enclave, que lleva décadas afectado por la presencia del edificio inacabado.",
+    "Según los medios, la obra cuenta con un presupuesto de 1,2 millones de euros, financiado con el impuesto de turismo sostenible, y se estima que los trabajos se prolongarán durante aproximadamente un año. La construcción, abandonada desde principios de la década de los 80, había quedado como un hotel sin terminar y se había convertido en un elemento degradante del entorno."
    ]
   },
   "ca": {
-   "title": "El Consell inicia l'endemolició de l'estructura de formigó a Cala d’en Serra",
-   "summary": "El Govern balear ha posat en marxa l'obra per demolir l'edifici abandonat de la Cala d’en Serra, amb un pressupost d'1,2 milions d'euros i una durada estimada d'un any.",
+   "title": "El Consell d'Eivissa inicia l'enderrocament de l'estructura abandonada a Cala d'en Serra",
+   "summary": "El Consell Insular d'Eivissa ha començat a demolicionar la construcció de formigó inacabada a Cala d'en Serra, amb un pressupost d'1,2 milions d'euros i una previsió d'un any d'obres.",
    "body": [
-    "Aquest matí el Consell d'Eivissa ha començat les tasques d'endemolició de l'estructura de formigó situada a la Cala d’en Serra, un complex hoteler que va quedar inconclus a principis de la dècada dels 80 i ha romàs abandonat durant cinc dècades.",
-    "Segons informa IB3 Notícies, l'obra s'insereix en un entorn declarat àrea natural d'especial interès i disposa d'un pressupost d'1,2 milions d'euros finançat per l'impost de turisme sostenible. Es calcula que les obres es perllongaran un any per retirar completament la construcció del paisatge."
+    "El Consell Insular d'Eivissa ha iniciat aquest matí les tasques d'enderrocament de l'estructura de formigó situada a la cala de Cala d'en Serra, al nord de l'illa. L'acció pretén recuperar el paisatge natural del lloc, que porta dècades afectat per la presència d'aquest edifici inacabat.",
+    "Segons les fonts, l'obra disposa d'un pressupost d'1,2 milions d'euros, finançat amb l'impost de turisme sostenible, i es calcula que les obres es perllongaran aproximadament un any. L'estructura, abandonada des de principis de la dècada dels anys 80, havia quedat com un hotel inacabat i esdevingut un element degradant del entorn."
    ]
   },
   "facts": [
    {
-    "es": "El Consell de Mallorca inició la demolición de la estructura de hormigón en Cala d’en Serra",
-    "ca": "El Consell d'Eivissa ha iniciat l'endemolició de l'estructura de formigó a Cala d’en Serra",
+    "es": "El Consell Insular de Ibiza ha iniciado la demolición de la estructura en Cala d'en Serra",
+    "ca": "El Consell Insular d'Eivissa ha iniciat l'enderrocament de l'estructura a Cala d'en Serra",
     "sources": [
-     "noudiari",
-     "ib3"
+     "periodicodeibiza",
+     "noudiari"
     ]
    },
    {
@@ -1891,16 +3084,23 @@
     ]
    },
    {
-    "es": "La duración estimada de los trabajos es de un año",
-    "ca": "La durada estimada de les obres és d'un any",
+    "es": "Se estima que los trabajos durarán alrededor de un año",
+    "ca": "Es calcula que les obres duraran aproximadament un any",
     "sources": [
      "ib3"
+    ]
+   },
+   {
+    "es": "La estructura está abandonada desde principios de la década de los 80",
+    "ca": "L'estructura està abandonada des de principis de la dècada dels anys 80",
+    "sources": [
+     "noudiari"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-18T19:36:17.264Z",
+  "updatedAt": "2026-11-19T01:30:56.614Z",
   "slug": "el-consell-inicia-la-demolicion-de-la-estructura-de-hormigon-en-cala-52038",
   "status": "verified",
   "image": {
@@ -1910,21 +3110,437 @@
   }
  },
  {
-  "id": "st34601e5fb8",
-  "createdAt": "2026-11-18T19:34:22.237Z",
-  "firstPublished": "2026-11-18T12:46:00.000Z",
+  "id": "stb5eec55145",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:34:00.000Z",
   "articles": [
    {
-    "id": "ce82f26c2a01",
-    "url": "https://www.ultimahora.es/vips/television/2026/11/18/2752521/xuso-jones-vuelve-mallorca-sabe-sabe-mano-carolina-cerezuela.html",
-    "sourceId": "ultimahora",
+    "id": "79492ef23ff3",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752525/estadio-ibiza-llamara-can-misses-este-nuevo-nombre.html",
+    "sourceId": "periodicodeibiza",
     "lang": "es",
-    "title": "Xuso Jones vuelve a Mallorca con 'Lo sabe, no lo sabe' de la mano de Carolina Cerezuela",
-    "published": "2026-11-18T12:46:00.000Z"
+    "title": "El estadio de la UD Ibiza ya no se llamará Can Misses: este es su nuevo nombre",
+    "published": "2026-11-18T12:34:00.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-18T12:46:00.000Z"
+  "lastArticleAt": "2026-11-18T12:34:00.000Z"
+ },
+ {
+  "id": "st10b9df8db3",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:30:00.000Z",
+  "articles": [
+   {
+    "id": "dbe2fceb6b79",
+    "url": "https://www.ultimahora.es/deportes/motor/2026/11/18/2752519/joan-mir-baja-portugal-posible-regreso-despedida-valencia.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Joan Mir, baja en Portugal y posible regreso y despedida en Valencia",
+    "published": "2026-11-18T12:30:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:30:00.000Z"
+ },
+ {
+  "id": "sta2a7a1be9e",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:18:00.000Z",
+  "articles": [
+   {
+    "id": "52ef02552a1e",
+    "url": "https://www.periodicodeibiza.es/noticias/baleares/2026/11/18/2752495/total-personas-recibieron-prestacion-ayuda-para-morir-baleares-ano-pasado.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Un total de 14 personas recibieron la prestación de ayuda para morir en Baleares el año pasado",
+    "published": "2026-11-18T12:18:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:18:00.000Z"
+ },
+ {
+  "id": "st456134b410",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:13:51.000Z",
+  "articles": [
+   {
+    "id": "cfe785730906",
+    "url": "https://www.mallorcadiario.com/mac-hotels-entrega-a-unicef-los-20-500-euros-donados-por-sus-clientes",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Mac Hotels entrega a Unicef los 20.500 euros donados por sus clientes",
+    "published": "2026-11-18T12:13:51.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:13:51.000Z"
+ },
+ {
+  "id": "stb573d9decc",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:13:00.000Z",
+  "articles": [
+   {
+    "id": "13a20eceab37",
+    "url": "https://www.ultimahora.es/noticias/nacional/2026/11/18/2752501/estudio-advierte-las-restricciones-politicas-fiscales-agravan-escasez-vivienda-espana.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Un estudio advierte de que las restricciones políticas y fiscales agravan la escasez de la vivienda en España",
+    "published": "2026-11-18T12:13:00.000Z"
+   },
+   {
+    "id": "4df6d8df4aa5",
+    "url": "https://www.menorca.info/actualidad/nacional/2026/11/18/2752501/estudio-advierte-las-restricciones-politicas-fiscales-agravan-escasez-vivienda-espana.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Un estudio advierte de que las restricciones políticas y fiscales agravan la escasez de la vivienda en España",
+    "published": "2026-11-18T12:13:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:13:00.000Z"
+ },
+ {
+  "id": "st262a58ca5a",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:13:00.000Z",
+  "articles": [
+   {
+    "id": "a494273ccf5e",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752493/unas-35000-personas-sufren-enfermedad-pulmonar-obstructiva-cronica-epoc-baleares.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Unas 35.000 personas sufren de la enfermedad pulmonar obstructiva crónica (EPOC) en Baleares",
+    "published": "2026-11-18T12:13:00.000Z"
+   },
+   {
+    "id": "f338b671f2be",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/18/2752493/unas-35000-personas-sufren-enfermedad-pulmonar-obstructiva-cronica-epoc-baleares.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Unas 35.000 personas sufren de la enfermedad pulmonar obstructiva crónica (EPOC) en Baleares",
+    "published": "2026-11-18T12:13:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:13:00.000Z"
+ },
+ {
+  "id": "stac858f3667",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:06:25.000Z",
+  "articles": [
+   {
+    "id": "8362bd0e880a",
+    "url": "https://www.arabalears.cat/economia/funcionari-vols-t-apujara-sou-2027_1_5914646.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Ets funcionari i vols saber quant t’apujaran el sou el 2027?",
+    "published": "2026-11-18T12:06:25.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:06:25.000Z"
+ },
+ {
+  "id": "st11ee678322",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:05:38.000Z",
+  "articles": [
+   {
+    "id": "64e8dbb83a48",
+    "url": "https://www.mallorcadiario.com/caixabank-regalos-navidad-ninos-mayores-baleares",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Más de 1.700 niños y mayores vulnerables recibirán regalos de Navidad en Baleares",
+    "published": "2026-11-18T12:05:38.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:05:38.000Z"
+ },
+ {
+  "id": "stb1e4d33662",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T12:04:58.000Z",
+  "articles": [
+   {
+    "id": "50a306c39364",
+    "url": "https://www.europapress.es/illes-balears/noticia-mes-denuncia-cort-junta-electoral-eliminar-todos-espacios-gratuitos-propaganda-palma-20261118130458.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "MÉS y el PSOE denuncian a Cort ante la Junta Electoral por \"eliminar\" espacios gratuitos de propaganda",
+    "published": "2026-11-18T12:04:58.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T12:04:58.000Z"
+ },
+ {
+  "id": "st7d025deb35",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:54:51.000Z",
+  "articles": [
+   {
+    "id": "f095819db158",
+    "url": "https://www.mallorcadiario.com/mercado-pista-hielo-trenes-atracciones-plan-navideno-palma-familias-comercio",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Mercado, pista de hielo, trenes y atracciones: el plan navideño de Palma para las familias y el comercio",
+    "published": "2026-11-18T11:54:51.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:54:51.000Z"
+ },
+ {
+  "id": "stccc3a66bd5",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:54:10.000Z",
+  "articles": [
+   {
+    "id": "34377118a6fa",
+    "url": "https://www.menorca.info/menorca/local/2026/11/18/2752457/govern-reduce-ayudas-provilac-explotaciones-lecheras-menorca-recibiran-millones.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Las explotaciones lecheras de Menorca recibirán 1,64 millones de euros con las ayudas Provilac",
+    "published": "2026-11-18T11:54:10.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:54:10.000Z"
+ },
+ {
+  "id": "st33620a2fdd",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:54:00.000Z",
+  "articles": [
+   {
+    "id": "4bf5d1cb726b",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/18/424163/1000-firmes-dies-per-recuperar-linia-315-del-tib-transport-public-pot-desapareixer-quan-van-els-turistes.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "1.000 firmes en 10 dies per a recuperar la línia 315 del TIB: «El transport públic no pot desaparèixer quan se’n van els turistes»",
+    "published": "2026-11-18T11:54:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:54:00.000Z"
+ },
+ {
+  "id": "stadf320f846",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:53:05.000Z",
+  "articles": [
+   {
+    "id": "8e54ec7f8bda",
+    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/18/2752471/hay-fecha-para-encendido-luces-sant-joan.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Ya hay fecha para el encendido de luces de Sant Joan",
+    "published": "2026-11-18T11:53:05.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:53:05.000Z"
+ },
+ {
+  "id": "st759fcf1363",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:45:05.000Z",
+  "articles": [
+   {
+    "id": "d5848aa0103f",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/un-reportaje-sobre-pornografia-y-adolescentes-gana-el-premio-de-periodismo-apib/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Un reportaje sobre pornografía y adolescentes gana el Premio de Periodismo APIB",
+    "published": "2026-11-18T11:45:05.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:45:05.000Z"
+ },
+ {
+  "id": "stf38ad4c848",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:44:34.000Z",
+  "articles": [
+   {
+    "id": "31effd4d1487",
+    "url": "https://www.mallorcadiario.com/baleares-muertes-nacimientos-saldo-negativo-2025",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "En Baleares mueren más personas de las que nacen: bajan los nacimientos y suben las defunciones",
+    "published": "2026-11-18T11:44:34.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:44:34.000Z"
+ },
+ {
+  "id": "st093d3401e7",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:43:49.000Z",
+  "articles": [
+   {
+    "id": "3d5c4ce1f052",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/18/hombre-disparo-policia-palma-esposado-136571195.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El hombre que disparó a un policía en Palma no estaba esposado cuando le quitó la pistola, según la víctima",
+    "published": "2026-11-18T11:43:49.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:43:49.000Z"
+ },
+ {
+  "id": "std152fd29e9",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:42:32.000Z",
+  "articles": [
+   {
+    "id": "443ec8095531",
+    "url": "https://www.diariodeibiza.es/sucesos/2026/11/18/muere-hombre-tiroteo-plena-luz-136572887.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Muere un hombre en un tiroteo a plena luz del día en el centro de Badajoz",
+    "published": "2026-11-18T11:42:32.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:42:32.000Z"
+ },
+ {
+  "id": "st1ed6a826df",
+  "createdAt": "2026-11-18T19:34:22.236Z",
+  "firstPublished": "2026-11-18T11:40:39.000Z",
+  "articles": [
+   {
+    "id": "9436ace98e98",
+    "url": "https://ib3.org/palma-licita-la-demolicio-dels-edificis-de-funcionaris-de-lantiga-preso",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Palma licita la demolició dels edificis de funcionaris de l’antiga presó",
+    "published": "2026-11-18T17:58:17.000Z"
+   },
+   {
+    "id": "e798a02005e2",
+    "url": "https://www.europapress.es/illes-balears/noticia-cort-saca-licitacion-demolicion-edificios-contiguos-antigua-prision-no-empezara-desalojo-20261118124039.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Cort saca a licitación la demolición de los edificios contiguos a la antigua prisión pero no empezará hasta su desalojo",
+    "published": "2026-11-18T11:40:39.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T17:58:17.000Z",
+  "writeErrors": 1
+ },
+ {
+  "id": "st13034d7880",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:35:15.000Z",
+  "articles": [
+   {
+    "id": "8c6551fe85bd",
+    "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752447/ultimos-dias-para-inscribirse-xviii-cursa-sobrassada-santa-gertrudis.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Últimos días para inscribirse en la XVIII Cursa de Sa Sobrassada de Santa Gertrudis",
+    "published": "2026-11-18T11:35:15.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:35:15.000Z"
+ },
+ {
+  "id": "st6339a06cee",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:32:41.000Z",
+  "articles": [
+   {
+    "id": "a69344cf976f",
+    "url": "https://www.noudiari.es/opinion-ibiza/carl-cox-mucho-mas-que-una-leyenda-de-la-musica-el-gran-embajador-internacional-de-ibiza-por-pepe-rosello/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Carl Cox, mucho más que una leyenda de la música: el gran embajador internacional de Ibiza, por Pepe Roselló",
+    "published": "2026-11-18T11:32:41.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:32:41.000Z"
+ },
+ {
+  "id": "st3ec7a18c68",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:31:57.000Z",
+  "articles": [
+   {
+    "id": "2137c1faf961",
+    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/18/2752443/sant-joan-labritja-acoge-taller-centros-flores-preservadas-velas-diciembre.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Sant Joan de Labritja acoge un taller de centros de flores preservadas y velas el 5 de diciembre",
+    "published": "2026-11-18T11:31:57.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:31:57.000Z"
+ },
+ {
+  "id": "st3b35c72dea",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:31:00.000Z",
+  "articles": [
+   {
+    "id": "ad197a6a9ea6",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/18/424159/aquest-dijous-dia-sense-pantalles.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Aquest dijous: Dia sense Pantalles",
+    "published": "2026-11-18T11:31:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:31:00.000Z"
+ },
+ {
+  "id": "std7128813e5",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:27:02.000Z",
+  "articles": [
+   {
+    "id": "9f773da181dc",
+    "url": "https://www.periodicodeibiza.es/noticias/baleares/2026/11/18/2752439/iberia-express-ofrecera-wifi-alta-velocidad-gratuito-para-todos-clientes-vuelos-baleares.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Iberia Express ofrecerá wifi de alta velocidad gratuito para todos los clientes en los vuelos con Baleares",
+    "published": "2026-11-18T11:27:02.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:27:02.000Z"
+ },
+ {
+  "id": "stc116cbdb87",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T11:27:00.000Z",
+  "articles": [
+   {
+    "id": "ae36cf4aefd0",
+    "url": "https://www.periodicodeibiza.es/pitiusas/ibiza/2026/11/18/2752425/noche-tropical-ibiza-formentera-minimas-grados-pleno-mes-noviembre.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Noche tropical en Ibiza y Formentera con mínimas de 20 grados en pleno mes de noviembre",
+    "published": "2026-11-18T11:27:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T11:27:00.000Z"
  },
  {
   "id": "stf9d30cf9ec",
@@ -1938,10 +3554,92 @@
     "lang": "es",
     "title": "La Policía Local de Palma investiga a un menor de edad por circular sin carné con el coche de su padre",
     "published": "2026-11-18T11:17:00.000Z"
+   },
+   {
+    "id": "bb905e8e6d66",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/18/interceptan-palma-menor-conducia-coche-136572518.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Interceptan en Palma a un menor que conducía el coche de su padre sin permiso",
+    "published": "2026-11-18T12:08:40.000Z"
+   },
+   {
+    "id": "15dc234df902",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/18/2752449/menor-conduce-gran-velocidad-por-palma-coche-padre-tener-carne.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Sorprenden a un menor conduciendo sin carné el coche de su padre en Palma",
+    "published": "2026-11-18T11:37:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-18T11:17:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T12:08:40.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-19T01:31:28.127Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "La Policía Local de Palma investiga a un menor por conducir sin carné el coche de su padre",
+   "summary": "Un agente del Grupo de Actuación Preventiva interceptó a un joven de 17 años que circulaba a gran velocidad por La Soledat.",
+   "body": [
+    "La Policía Local de Palma ha instruido diligencias judiciales contra un menor de 17 años por conducir sin haber obtenido nunca el permiso de conducir. Según ha informado el cuerpo en un comunicado, la intervención se produjo el pasado 17 de noviembre, sobre las 22.05 horas, en la confluencia de la calle Brotad con la calle Perú.",
+    "Una patrulla del Grupo de Actuación Preventiva (GAP) reparó en el vehículo porque circulaba a gran velocidad por una calle de La Soledat. El joven conducía el coche de su padre, quien desconocía que su hijo había cogido el vehículo sin su permiso."
+   ]
+  },
+  "ca": {
+   "title": "La Policia Local de Palma investiga un menor per conduir sense permís el cotxe del seu pare",
+   "summary": "Un agent del Grup d'Acció Preventiva va interceptar un jove de 17 anys que circulava a gran velocitat per La Soledat.",
+   "body": [
+    "La Policia Local de Palma ha instruit diligències judicials contra un menor de 17 anys per conduir sense haver obtingut mai el permís de conduir. Segons ha informat el cos en un comunicat, la intervenció es va produir el passat 17 de novembre, sobre les 22.05 hores, a la confluència del carrer Brotad amb el carrer Perú.",
+    "Una patrulla del Grup d'Acció Preventiva (GAP) va reparar en el vehicle perquè circulava a gran velocitat per un carrer de La Soledat. El jove conduïa el cotxe del seu pare, qui desconeixia que el seu fill havia agafat el vehicle sense el seu permís."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La Policía Local de Palma ha instruido diligencias contra un menor de 17 años.",
+    "ca": "La Policia Local de Palma ha instruït diligències contra un menor de 17 anys.",
+    "sources": [
+     "europapress",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La intervención tuvo lugar el 17 de noviembre a las 22.05 horas.",
+    "ca": "La intervenció va tenir lloc el 17 de novembre a les 22.05 hores.",
+    "sources": [
+     "europapress"
+    ]
+   },
+   {
+    "es": "El menor circulaba a gran velocidad por la confluencia de las calles Brotad y Perú, en La Soledat.",
+    "ca": "El menor circulava a gran velocitat per la confluència dels carrers Brotad i Perú, a La Soledat.",
+    "sources": [
+     "europapress",
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El padre del menor desconocía que su hijo había cogido el coche.",
+    "ca": "El pare del menor desconeixia que el seu fill havia agafat el cotxe.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:31:28.127Z",
+  "slug": "la-policia-local-de-palma-investiga-a-un-menor-por-conducir-sin-carne-cf9ec",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/285757f7-c9b5-4299-8c41-8c376bcd5c85_16-9-aspect-ratio_default_0_x600y266.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/18/interceptan-palma-menor-conducia-coche-136572518.html"
+  }
  },
  {
   "id": "stcd376113cb",
@@ -1980,10 +3678,34 @@
     "lang": "es",
     "title": "En directo | Mallorca-Alcoyano",
     "published": "2026-11-18T18:47:07.000Z"
+   },
+   {
+    "id": "58af5c87b5b2",
+    "url": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/18/luis-garcia-victoria-alcoyano-hemos-136598389.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Luis García, tras la victoria ante el Alcoyano: \"Hemos tenido situaciones para habernos ahorrado esa prórroga”",
+    "published": "2026-11-18T22:15:01.000Z"
+   },
+   {
+    "id": "49842fe64308",
+    "url": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/18/pobre-mallorca-sufre-alcoyano-salva-136595983.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Un pobre Mallorca sufre ante el Alcoyano y se salva en la prórroga",
+    "published": "2026-11-18T21:40:29.000Z"
+   },
+   {
+    "id": "43035f145393",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/18/2752887/cronica-copa-del-rey-alcoyano-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Alcoyano hace sudar al Mallorca",
+    "published": "2026-11-18T21:34:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-18T18:47:07.000Z",
+  "lastArticleAt": "2026-11-18T22:15:01.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-18T19:35:23.009Z",
   "islands": [
@@ -2036,7 +3758,7 @@
  {
   "id": "st472e3538ad",
   "createdAt": "2026-11-18T11:30:55.830Z",
-  "firstPublished": "2026-11-18T11:14:02.000Z",
+  "firstPublished": "2026-11-18T11:14:00.000Z",
   "articles": [
    {
     "id": "943fbd55346f",
@@ -2053,6 +3775,14 @@
     "lang": "es",
     "title": "El PSIB ve en la subida del SMI y del salario de los trabajadores públicos \"la mejor política social\"",
     "published": "2026-11-18T15:55:19.000Z"
+   },
+   {
+    "id": "897fec17fac7",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/18/2752413/cuanto-subira-sueldo-2027.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "¿Cuánto te subirá el sueldo en 2027?",
+    "published": "2026-11-18T11:14:00.000Z"
    }
   ],
   "needsWrite": false,
@@ -2191,59 +3921,68 @@
     "lang": "ca",
     "title": "Es moderen les compravendes i els preus de l’habitatge",
     "published": "2026-11-18T13:34:04.000Z"
+   },
+   {
+    "id": "977890ea2574",
+    "url": "https://www.europapress.es/illes-balears/noticia-actividad-inmobiliaria-cae-147-baleares-mientras-precios-marcan-nuevo-maximo-historico-20261118122510.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "La actividad inmobiliaria cae un 14,7% en Baleares mientras los precios marcan un nuevo máximo histórico",
+    "published": "2026-11-18T11:25:10.000Z"
    }
   ],
   "needsWrite": false,
   "lastArticleAt": "2026-11-18T13:34:04.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-18T19:39:11.445Z",
+  "writtenAt": "2026-11-19T01:31:05.410Z",
   "islands": [
    "baleares"
   ],
   "topic": "vivienda",
   "es": {
-   "title": "El mercado inmobiliario de Baleares registra una caída del 14,7 % en compraventas y los precios alcanzan máximos históricos",
-   "summary": "Entre julio y septiembre de 2026 se formalizaron 3.082 operaciones, una disminución del 14,7 % respecto al mismo trimestre de 2025, mientras el precio medio subió 4,4 % hasta 4.502 €/m².",
+   "title": "El mercado inmobiliario de Baleares registra una caída del 14,7% en compraventas en el tercer trimestre",
+   "summary": "Entre julio y septiembre de 2026 se formalizaron 3.082 operaciones, un 14,7% menos que en el mismo periodo de 2025, mientras que el precio medio por metro cuadrado alcanzó nuevos máximos, aunque los datos difieren entre fuentes.",
    "body": [
-    "El mercado inmobiliario de Baleares muestra una tendencia a la baja en el número de compraventas de viviendas. Según datos publicados por el Diario de Mallorca, en el tercer trimestre de 2026 se registraron 3.082 operaciones, lo que supone una caída del 14,7 % frente al mismo periodo del año anterior.",
-    "Al mismo tiempo, el precio medio del metro cuadrado alcanzó los 4.502 €, un incremento del 4,4 % respecto al trimestre anterior, situándose en niveles históricos.",
-    "Por su parte, IB3 Notícies informa que, según el Col·legi d’Agents de la Propietat Immobiliària, las compraventas disminuyeron un 14 % en el tercer trimestre respecto al año pasado, y que la tendencia a la baja se mantendrá."
+    "El mercado inmobiliario de Baleares experimentó una fuerte desaceleración en el tercer trimestre de 2026. Según el Diario de Mallorca, se registraron 3.082 compraventas, lo que supone una caída del 14,7% respecto al mismo trimestre de 2025. La misma fuente indica que el precio medio alcanzó los 4.502 euros por metro cuadrado, un 4,4% más que en el trimestre anterior.",
+    "Europa Press Baleares confirma la caída del 14,7% en el número de operaciones, pero señala que el precio medio subió un 9,1% respecto al mismo periodo del año pasado, situándose en 4.262 euros por metro cuadrado, el nivel más alto de la serie histórica. Por su parte, IB3 Notícies informa que los precios han descendido casi un 9% en los últimos doce meses, aunque también menciona una reducción del 14% en las compraventas respecto al año anterior."
    ]
   },
   "ca": {
-   "title": "El mercat immobiliari de les Balears registra una caiguda del 14,7 % en les compravendes i els preus arriben a màxims històrics",
-   "summary": "Entre juliol i setembre de 2026 es van formalitzar 3.082 operacions, una disminució del 14,7 % respecte al mateix trimestre de 2025, mentre el preu mitjà va pujar un 4,4 % fins a 4.502 €/m².",
+   "title": "El mercat immobiliari de les Balears registra una caiguda del 14,7% en les compravendes en el tercer trimestre",
+   "summary": "Entre juliol i setembre de 2026 es van formalitzar 3.082 operacions, un 14,7% menys que en el mateix període de 2025, mentre que el preu mitjà per metre quadrat ha arribat a nous màxims, tot i que les dades difereixen entre fonts.",
    "body": [
-    "El mercat immobiliari de les Balears mostra una tendència a la baixa en el nombre de compravendes d’habitatge. Segons les dades publicades pel Diario de Mallorca, en el tercer trimestre de 2026 es van registrar 3.082 operacions, la qual cosa representa una caiguda del 14,7 % respecte al mateix període de l’any anterior.",
-    "Al mateix temps, el preu mitjà del metre quadrat va assolir els 4.502 €, un increment del 4,4 % respecte al trimestre anterior, situant-se en nivells històrics.",
-    "D’altra banda, IB3 Notícies informa que, segons el Col·legi d’Agents de la Propietat Immobiliària, les compravendes van baixar un 14 % en el tercer trimestre respecte a l’any passat, i que la tendència a la baixa continuarà."
+    "El mercat immobiliari de les Balears ha experimentat una forta desaceleració en el tercer trimestre de 2026. Segons el Diario de Mallorca, es van registrar 3.082 compravendes, la qual cosa representa una caiguda del 14,7% respecte al mateix trimestre de 2025. La mateixa font indica que el preu mitjà va pujar fins a 4.502 euros per metre quadrat, un 4,4% més que en el trimestre anterior.",
+    "Europa Press Balears confirma la caiguda del 14,7% en el nombre d’operacions, però assenyala que el preu mitjà va augmentar un 9,1% respecte al mateix període de l’any passat, situant‑se en 4.262 euros per metre quadrat, el nivell més alt de la sèrie històrica. IB3 Notícies, en canvi, informa que els preus han baixat gairebé un 9% en els últims dotze mesos, tot i que també destaca una reducció del 14% en les compravendes respecte a l’any anterior."
    ]
   },
   "facts": [
    {
-    "es": "3.082 compraventas entre julio y septiembre de 2026 (F1)",
-    "ca": "3.082 compravendes entre juliol i setembre de 2026 (F1)",
+    "es": "Se formalizaron 3.082 compraventas entre julio y septiembre de 2026 (F1)",
+    "ca": "Es van formalitzar 3.082 compravendes entre juliol i setembre de 2026 (F1)",
     "sources": [
      "diariodemallorca"
     ]
    },
    {
-    "es": "Caída del 14,7 % respecto al mismo trimestre de 2025 (F1)",
-    "ca": "Caiguda del 14,7 % respecte al mateix trimestre de 2025 (F1)",
+    "es": "La caída de compraventas es del 14,7% respecto al mismo trimestre de 2025 (F1, F2, F3)",
+    "ca": "La caiguda de les compravendes és del 14,7% respecte al mateix trimestre de 2025 (F1, F2, F3)",
     "sources": [
-     "diariodemallorca"
+     "diariodemallorca",
+     "europapress",
+     "ib3"
     ]
    },
    {
-    "es": "Precio medio 4.502 €/m², +4,4 % respecto al trimestre anterior (F1)",
-    "ca": "Preu mitjà 4.502 €/m², +4,4 % respecte al trimestre anterior (F1)",
+    "es": "Precio medio: 4.502 €/m² (F1) y 4.262 €/m² (F2)",
+    "ca": "Preu mitjà: 4.502 €/m² (F1) i 4.262 €/m² (F2)",
     "sources": [
-     "diariodemallorca"
+     "diariodemallorca",
+     "europapress"
     ]
    },
    {
-    "es": "Caída del 14 % en compraventas según el Col·legi d’Agents (F2)",
-    "ca": "Caiguda del 14 % en les compravendes segons el Col·legi d’Agents (F2)",
+    "es": "Según IB3, los precios han descendido casi un 9% en los últimos doce meses (F3)",
+    "ca": "Segons IB3, els preus han baixat gairebé un 9% en els últims dotze mesos (F3)",
     "sources": [
      "ib3"
     ]
@@ -2251,14 +3990,19 @@
   ],
   "discrepancies": [],
   "contradiction": true,
-  "updatedAt": "2026-11-18T19:39:11.445Z",
+  "updatedAt": "2026-11-19T01:31:05.410Z",
   "slug": "el-mercado-inmobiliario-de-baleares-registra-una-caida-del-14-7-en-fe2b5",
   "status": "verified",
   "image": {
    "url": "https://estaticos-cdn.prensaiberica.es/clip/bc5d02a9-2342-4db3-b8be-64feb01f47f3_16-9-aspect-ratio_default_0_x705y354.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/18/compraventa-viviendas-desploma-14-7-136568718.html"
-  }
+  },
+  "distinctFrom": [
+   "stb4d9a38d29",
+   "st363415a7c5",
+   "st762f8798e8"
+  ]
  },
  {
   "id": "st4ab4a3d4e3",
@@ -2341,7 +4085,11 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/6e8acd3b-5513-4aad-a367-3610b541a3e6_16-9-aspect-ratio_default_0_x987y444.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/18/ibiza-finca-ayudas-rurales-ayuntamiento-rehabilitacion-136569642.html"
-  }
+  },
+  "distinctFrom": [
+   "std9347494b6",
+   "sta9645bdaf9"
+  ]
  },
  {
   "id": "st88b193fa41",
@@ -2502,71 +4250,6 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-18T10:35:11.000Z"
- },
- {
-  "id": "st6e872559da",
-  "createdAt": "2026-11-18T11:30:55.830Z",
-  "firstPublished": "2026-11-18T10:30:00.000Z",
-  "articles": [
-   {
-    "id": "693ded069b86",
-    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752393/agentes-inmobiliarios-cuestionan-zonas-tensionadas-por-efecto-sobre-oferta-alquiler.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Los agentes inmobiliarios cuestionan la eficacia de las zonas tensionadas por su efecto sobre la oferta de alquiler",
-    "published": "2026-11-18T10:30:00.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-18T10:30:00.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-18T11:41:30.444Z",
-  "islands": [
-   "baleares"
-  ],
-  "topic": "vivienda",
-  "es": {
-   "title": "Los agentes inmobiliarios critican la declaración de zonas tensionadas en Baleares",
-   "summary": "El Colegio de Agentes de la Propiedad Inmobiliaria de Baleares y el economista Luis Alberto Fabra advierten que la medida podría reducir la oferta de alquileres.",
-   "body": [
-    "El Colegio de Agentes de la Propiedad Inmobiliaria de Baleares ha manifestado que declarar zonas tensionadas no es la solución al problema del alquiler en las islas. Su presidente, José Miguel Artieda, sostiene que la medida podría alejar a los propietarios y disminuir el número de viviendas disponibles para arrendar.",
-    "Por su parte, el economista Luis Alberto Fabra coincide en que, aunque en Catalunya los precios han bajado en las áreas donde se aplican límites, también se ha observado una caída de la oferta de viviendas en el mercado. Ambos argumentos se citan como una advertencia frente a la política de zonas tensionadas."
-   ]
-  },
-  "ca": {
-   "title": "Els agents immobiliaris critiquen la declaració de zones tensionades a les Illes Balears",
-   "summary": "El Col·legi d'Agents de la Propietat Immobiliària de les Illes Balears i l'economista Luis Alberto Fabra adverteixen que la mesura podria reduir l'oferta d'alquils.",
-   "body": [
-    "El Col·legi d'Agents de la Propietat Immobiliària de les Illes Balears ha manifestat que declarar zones tensionades no és la solució al problema de lloguer a les illes. El seu president, José Miguel Artieda, sosté que la mesura podria allunyar els propietaris i disminuir el nombre d'habitatges disponibles per llogar.",
-    "D'altra banda, l'economista Luis Alberto Fabra coincideix que, tot i que a Catalunya els preus han baixat a les àrees on s'apliquen límits, també s'ha observat una caiguda de l'oferta d'habitatges al mercat. Ambdós arguments es citen com a advertència davant la política de zones tensionades."
-   ]
-  },
-  "facts": [
-   {
-    "es": "José Miguel Artieda, presidente del Colegio de Agentes de la Propiedad Inmobiliaria de Baleares, critica la medida de zonas tensionadas",
-    "ca": "José Miguel Artieda, president del Col·legi d'Agents de la Propietat Immobiliària de les Illes Balears, critica la mesura de zones tensionades",
-    "sources": [
-     "ultimahora"
-    ]
-   },
-   {
-    "es": "Luis Alberto Fabra, economista, señala que la reducción de precios en Catalunya va acompañada de menos viviendas en el mercado",
-    "ca": "Luis Alberto Fabra, economista, assenyala que la reducció de preus a Catalunya va acompanyada de menys habitatges al mercat",
-    "sources": [
-     "ultimahora"
-    ]
-   }
-  ],
-  "discrepancies": [],
-  "contradiction": false,
-  "updatedAt": "2026-11-18T11:41:30.444Z",
-  "slug": "los-agentes-inmobiliarios-critican-la-declaracion-de-zonas-559da",
-  "status": "single",
-  "image": {
-   "url": "https://uh.gsstatic.es/sfAttachPlugin/4853577.webp",
-   "sourceId": "ultimahora",
-   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/18/2752393/agentes-inmobiliarios-cuestionan-zonas-tensionadas-por-efecto-sobre-oferta-alquiler.html"
-  }
  },
  {
   "id": "st1de5ccade1",
@@ -3029,60 +4712,64 @@
     "lang": "es",
     "title": "Detienen a dos okupas en un piso de Palma tras cambiar la cerradura de la vivienda",
     "published": "2026-11-18T10:02:31.000Z"
+   },
+   {
+    "id": "977bdfb30c0a",
+    "url": "https://www.mallorcadiario.com/okupacion-palma-dos-hombres-aprovechan-vivienda-vacia-entrar-cambiar-cerradura",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Okupación en Palma: dos hombres aprovechan una vivienda vacía para entrar y cambiar la cerradura",
+    "published": "2026-11-18T12:35:33.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-18T11:25:03.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-18T11:33:28.460Z",
+  "lastArticleAt": "2026-11-18T12:35:33.000Z",
+  "model": "groq/openai/gpt-oss-20b",
+  "writtenAt": "2026-11-19T01:31:24.839Z",
   "islands": [
    "mallorca"
   ],
   "topic": "sociedad",
   "es": {
-   "title": "Detienen a dos hombres por okupación en un piso de Palma",
-   "summary": "La Policía Nacional detuvo a dos personas, de nacionalidad colombiana y dominicana, que habían ocupado una vivienda en la zona de Camp de Serralta mientras la inquilina estaba de viaje y cambiaron la cerradura.",
+   "title": "Detienen a dos hombres por ocupar un piso en Palma y cambiar la cerradura",
+   "summary": "La Policía Nacional arrestó a un colombiano y un dominicano que ocuparon una vivienda en Palma, alegando haberla alquilado y pagando 4.800 € sin contrato. El propietario descubrió la ocupación durante obras.",
    "body": [
-    "La Policía Nacional arrestó el pasado martes a dos hombres, uno colombiano y otro dominicano, por ocupar ilegalmente un piso en la barriada de Camp de Serralta, en Palma. Según los informes, los ocupantes aprovecharon la ausencia de la inquilina, que se encontraba de viaje, para entrar en la vivienda y sustituir la cerradura.",
-    "El propietario, que acudió al inmueble para realizar obras, descubrió el cambio de cerradura y denunció el hecho. Los detenidos alegaron haber alquilado la vivienda y haber pagado 4.800 euros, aunque no presentaron ningún contrato que lo acreditara."
+    "La Policía Nacional detuvo el martes a dos hombres, de nacionalidad colombiana y dominicana, por ocupar una vivienda en Palma. Los detenidos cambiaron la cerradura de la casa mientras la inquilina estaba de viaje, según la Policía.",
+    "El propietario, que había acudido a realizar obras, descubrió la ocupación y la alteración de la cerradura. Los acusados afirmaron haber alquilado la vivienda a un tercero y haber pagado 4.800 € sin contar con contrato, según el Diario de Mallorca.",
+    "La detención se produce en la barriada de Camp de Serralta, en el centro de Palma. No se han publicado detalles adicionales sobre la investigación ni sobre posibles cargos penales.",
+    "Las autoridades han iniciado la investigación correspondiente por allanamiento de morada y ocupación ilegal de la vivienda."
    ]
   },
   "ca": {
-   "title": "Detenen dos homes per ocupació d’un pis a Palma",
-   "summary": "La Policia Nacional ha detingut dues persones, de nacionalitat colombiana i dominicana, que havien ocupat una vivenda al Camp de Serralta mentre l’inquilina estava de viatge i havien canviat la clau.",
+   "title": "Detenen a dos homes per ocupar un pis a Palma i canviar la cerradura",
+   "summary": "La Policia Nacional arresta un colòmbic i un dominicà que ocupen una llar a Palma, afirmant haver-la llogat i haver pagat 4.800 € sense contracte. El propietari va descobrir l'ocupació durant obres.",
    "body": [
-    "La Policia Nacional va arrestar dimarts passat dos homes, un colombià i un dominicà, per ocupar il·legalment un pis a la barriada del Camp de Serralta, a Palma. Segons els informes, els ocupants van aprofitar l'absència de la llogatera, que es trobava de viatge, per entrar a la vivenda i substituir la clau.",
-    "El propietari, que es va presentar a l’immoble per fer unes obres, va descobrir el canvi de clau i va denunciar el fet. Els detinguts van afirmar haver llogat la vivenda i haver pagat 4.800 euros, tot i que no van presentar cap contracte que ho acredités."
+    "La Policia Nacional deté el dimarts a dos homes, de nacionalitat colombiana i dominicana, per ocupar una llar a Palma. Els detinguts van canviar la cerradura de la casa mentre la llogatera estava de viatge, segons la Policia.",
+    "El propietari, que havia anat a fer obres, va descobrir l'ocupació i la modificació de la cerradura. Els acusats van afirmar haver llogat la llar a un tercer i haver pagat 4.800 € sense contracte, segons el Diari de Mallorca.",
+    "La detenció es produeix a la barriada de Camp de Serralta, al centre de Palma. No s’han publicat detalls addicionals sobre la investigació ni sobre possibles càrrecs penals.",
+    "Les autoritats han iniciat la investigació corresponent per allanament de morada i ocupació il·legal de la llar."
    ]
   },
   "facts": [
    {
-    "es": "Dos hombres, de nacionalidad colombiana y dominicana, fueron detenidos por la Policía Nacional",
-    "ca": "Dos homes, de nacionalitat colombiana i dominicana, van ser detinguts per la Policia Nacional",
+    "es": "Dos hombres, de nacionalidad colombiana y dominicana, fueron detenidos por la Policía Nacional por ocupar una vivienda en Palma y cambiar la cerradura.",
+    "ca": "Dos homes, de nacionalitat colombiana i dominicana, van ser detinguts per la Policia Nacional per ocupar una llar a Palma i canviar la cerradura.",
     "sources": [
      "ultimahora",
+     "diariodemallorca",
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "La ocupación ocurrió en la barriada de Camp de Serralta, en el centro de Palma.",
+    "ca": "L'ocupació va ocórrer a la barriada de Camp de Serralta, al centre de Palma.",
+    "sources": [
      "diariodemallorca"
     ]
    },
    {
-    "es": "La ocupación tuvo lugar en un piso de la barriada Camp de Serralta, Palma, mientras la inquilina estaba de viaje",
-    "ca": "L'ocupació va tenir lloc en un pis de la barriada del Camp de Serralta, Palma, mentre la llogatera estava de viatge",
-    "sources": [
-     "ultimahora",
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Los okupas cambiaron la cerradura de la vivienda",
-    "ca": "Els okupes van canviar la clau de la vivenda",
-    "sources": [
-     "ultimahora",
-     "diariodemallorca"
-    ]
-   },
-   {
-    "es": "Alegaron haber pagado 4.800 euros por un alquiler sin contrato",
-    "ca": "Van afirmar haver pagat 4.800 euros per un lloguer sense contracte",
+    "es": "Los detenidos afirmaron haber alquilado la vivienda a un tercero y haber pagado 4.800 € sin contrato.",
+    "ca": "Els detinguts van afirmar haver llogat la llar a un tercer i haver pagat 4.800 € sense contracte.",
     "sources": [
      "diariodemallorca"
     ]
@@ -3090,7 +4777,7 @@
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-18T11:33:28.460Z",
+  "updatedAt": "2026-11-19T01:31:24.839Z",
   "slug": "detienen-a-dos-hombres-por-okupacion-en-un-piso-de-palma-90aae",
   "status": "verified",
   "image": {
@@ -3340,7 +5027,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/6be8dae2-69a2-4861-a454-6d6bea30278e_16-9-aspect-ratio_default_0_x843y316.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/18/psiquiatra-mallorquin-miquel-roca-recibe-136590953.html"
-  }
+  },
+  "distinctFrom": [
+   "st32b4300f15"
+  ]
  },
  {
   "id": "st403f3ccb3d",
@@ -3440,9 +5130,66 @@
     "published": "2026-11-18T13:26:25.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-18T13:26:25.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:32:17.533Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El fiscal superior de Baleares insta al Govern a presionar al Gobierno central para el traspaso de competencias en justicia",
+   "summary": "El fiscal superior, Adrián Salazar, ha pedido al Govern y a los partidos del Parlament que ejerzan presión sobre el Gobierno central para negociar la transferencia de competencias judiciales y ha señalado la falta de recursos en Ibiza y la necesidad de proteger a las víctimas de violencia machista.",
+   "body": [
+    "El fiscal superior de Baleares, Adrián Salazar, ha instado este miércoles al Govern y a los grupos políticos con representación en el Parlament a \"presionar\" al Gobierno central para negociar la transferencia de las competencias en la justicia.",
+    "En su intervención también ha alertado de la falta de recursos en la isla de Ibiza y ha solicitado medidas que eviten que las víctimas de violencia machista tengan que seguir conviviendo con sus agresores."
+   ]
+  },
+  "ca": {
+   "title": "El fiscal superior de les Balears insta el Govern a pressionar el Govern central per al traspàs de competències en justícia",
+   "summary": "El fiscal superior, Adrián Salazar, ha demanat al Govern i als partits del Parlament que exerceixin pressió sobre el Govern central per negociar el traspàs de competències judicials, assenyalant la manca de recursos a Eivissa i la necessitat de protegir les víctimes de violència machista.",
+   "body": [
+    "El fiscal superior de les Balears, Adrián Salazar, ha instat aquest dimecres al Govern i als grups polítics amb representació al Parlament a \"pressionar\" el Govern central per negociar la transferència de les competències en justícia.",
+    "En la seva intervenció també ha alertat de la manca de recursos a l'illa d'Eivissa i ha sol·licitat mesures que evitin que les víctimes de violència machista hagin de seguir convivent amb els seus agressors."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El fiscal superior de Baleares es Adrián Salazar",
+    "ca": "El fiscal superior de les Balears és Adrián Salazar",
+    "sources": [
+     "europapress",
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "Ha pedido al Govern y a los partidos del Parlament que presionen al Gobierno central para negociar la transferencia de competencias en justicia",
+    "ca": "Ha demanat al Govern i als partits del Parlament que pressionin el Govern central per negociar la transferència de competències en justícia",
+    "sources": [
+     "europapress",
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "Ha señalado la falta de recursos en Ibiza y la necesidad de proteger a las víctimas de violencia machista",
+    "ca": "Ha assenyalat la manca de recursos a Eivissa i la necessitat de protegir les víctimes de violència machista",
+    "sources": [
+     "mallorcadiario"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:17.533Z",
+  "slug": "el-fiscal-superior-de-baleares-insta-al-govern-a-presionar-al-42468",
+  "status": "verified",
+  "image": {
+   "url": "https://img.europapress.es/fotoweb/fotonoticia_20261118100617_800.jpg",
+   "sourceId": "europapress",
+   "articleUrl": "https://www.europapress.es/illes-balears/noticia-fiscal-superior-pide-recursos-mujeres-victimas-violencia-machista-no-tengan-convivir-agresor-20261118100617.html"
+  }
  },
  {
   "id": "st36f0db89ab",
@@ -4024,6 +5771,87 @@
   "lastArticleAt": "2026-11-18T05:00:22.000Z"
  },
  {
+  "id": "st6e872559da",
+  "createdAt": "2026-11-18T11:30:55.830Z",
+  "firstPublished": "2026-11-18T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "693ded069b86",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752393/agentes-inmobiliarios-cuestionan-zonas-tensionadas-por-efecto-sobre-oferta-alquiler.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Los agentes inmobiliarios cuestionan la eficacia de las zonas tensionadas por su efecto sobre la oferta de alquiler",
+    "published": "2026-11-18T10:30:00.000Z"
+   },
+   {
+    "id": "9ce4c2f8c7cf",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752393/agentes-inmobiliarios-cuestionan-eficacia-zonas-tensionadas-ahora-vemos-mas-perjudicial-declararlas.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Los agentes inmobiliarios cuestionan la eficacia de las zonas tensionadas: «Ahora vemos más perjudicial declararlas que no»",
+    "published": "2026-11-18T10:30:00.000Z"
+   },
+   {
+    "id": "a91f36d0abf3",
+    "url": "https://www.ultimahora.es/opinion/tribuna/2026/11/18/2752067/zones-tensionades-cami-cap-desmallorquinitzacio.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Zones tensionades: el camí cap a la desmallorquinització",
+    "published": "2026-11-18T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T10:30:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-18T11:41:30.444Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "vivienda",
+  "es": {
+   "title": "Los agentes inmobiliarios critican la declaración de zonas tensionadas en Baleares",
+   "summary": "El Colegio de Agentes de la Propiedad Inmobiliaria de Baleares y el economista Luis Alberto Fabra advierten que la medida podría reducir la oferta de alquileres.",
+   "body": [
+    "El Colegio de Agentes de la Propiedad Inmobiliaria de Baleares ha manifestado que declarar zonas tensionadas no es la solución al problema del alquiler en las islas. Su presidente, José Miguel Artieda, sostiene que la medida podría alejar a los propietarios y disminuir el número de viviendas disponibles para arrendar.",
+    "Por su parte, el economista Luis Alberto Fabra coincide en que, aunque en Catalunya los precios han bajado en las áreas donde se aplican límites, también se ha observado una caída de la oferta de viviendas en el mercado. Ambos argumentos se citan como una advertencia frente a la política de zonas tensionadas."
+   ]
+  },
+  "ca": {
+   "title": "Els agents immobiliaris critiquen la declaració de zones tensionades a les Illes Balears",
+   "summary": "El Col·legi d'Agents de la Propietat Immobiliària de les Illes Balears i l'economista Luis Alberto Fabra adverteixen que la mesura podria reduir l'oferta d'alquils.",
+   "body": [
+    "El Col·legi d'Agents de la Propietat Immobiliària de les Illes Balears ha manifestat que declarar zones tensionades no és la solució al problema de lloguer a les illes. El seu president, José Miguel Artieda, sosté que la mesura podria allunyar els propietaris i disminuir el nombre d'habitatges disponibles per llogar.",
+    "D'altra banda, l'economista Luis Alberto Fabra coincideix que, tot i que a Catalunya els preus han baixat a les àrees on s'apliquen límits, també s'ha observat una caiguda de l'oferta d'habitatges al mercat. Ambdós arguments es citen com a advertència davant la política de zones tensionades."
+   ]
+  },
+  "facts": [
+   {
+    "es": "José Miguel Artieda, presidente del Colegio de Agentes de la Propiedad Inmobiliaria de Baleares, critica la medida de zonas tensionadas",
+    "ca": "José Miguel Artieda, president del Col·legi d'Agents de la Propietat Immobiliària de les Illes Balears, critica la mesura de zones tensionades",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Luis Alberto Fabra, economista, señala que la reducción de precios en Catalunya va acompañada de menos viviendas en el mercado",
+    "ca": "Luis Alberto Fabra, economista, assenyala que la reducció de preus a Catalunya va acompanyada de menys habitatges al mercat",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-18T11:41:30.444Z",
+  "slug": "los-agentes-inmobiliarios-critican-la-declaracion-de-zonas-559da",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4853577.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/18/2752393/agentes-inmobiliarios-cuestionan-zonas-tensionadas-por-efecto-sobre-oferta-alquiler.html"
+  }
+ },
+ {
   "id": "stf12b2e54e8",
   "createdAt": "2026-11-18T11:30:55.830Z",
   "firstPublished": "2026-11-18T03:48:01.000Z",
@@ -4126,6 +5954,286 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-18T03:48:01.000Z"
+ },
+ {
+  "id": "st34470229b6",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "7a233a6dcc50",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2751945/parlament-culmina-proxima-semana-limitacion-entrada-vehiculos-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Parlament culmina la próxima semana la limitación a la entrada de vehículos en Mallorca",
+    "published": "2026-11-18T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T03:48:01.000Z"
+ },
+ {
+  "id": "st4da43d082f",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T03:48:00.000Z",
+  "articles": [
+   {
+    "id": "99115fa45be7",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/18/2751547/veterinarios-reunen-mas-medio-millon-firmas-para-derogar-norma-restringe-uso-antibioticos.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Los veterinarios reúnen más de medio millón de firmas para derogar la norma que restringe el uso de antibióticos",
+    "published": "2026-11-18T03:48:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T03:48:00.000Z"
+ },
+ {
+  "id": "st72a29b6e8c",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "a47d7703ff20",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752031/nuevas-plazas-jueces-incluyen-otra-seccion-penal-audiencia.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "La nuevas plazas de jueces incluyen otra sección penal en la Audiencia",
+    "published": "2026-11-18T03:48:01.000Z"
+   },
+   {
+    "id": "5b93f7a478b2",
+    "url": "https://www.menorca.info/menorca/sucesos/2026/11/18/2752093/menorca-tendra-juez-mas-tribunal-instancia-mao.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El Tribunal de Instancia de Maó tendrá un cuarto juez para acelerar la tramitación de causas",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T03:48:01.000Z"
+ },
+ {
+  "id": "st76aa238bdc",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "73fffb652e6e",
+    "url": "https://www.menorca.info/deportes/atletismo/2026/11/18/2752111/sonia-carreras-cuelga-bronce-nacional-kilometros-master.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sonia Carreras se cuelga el bronce nacional en los 5 kilómetros máster",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "ste4a58973ea",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "8d89cd493f90",
+    "url": "https://www.menorca.info/deportes/atletismo/2026/11/18/2752107/xavi-cubas-marta-orives-abren-challenge-cross-menorca-ferreries.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Xavi Cubas y Marta Orives se salen en el primer control de la Challenge en Ferreries",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "sta01c7b6202",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "5903fad01609",
+    "url": "https://www.menorca.info/menorca/local/2026/11/18/2752065/consell-asume-inversion-obras-del-nuevo-foso-ciutadella.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El Consell asume el coste de la inversión de las obras del nuevo foso en la ITV de Ciutadella",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "st681ecafa64",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "4c0c806c94ae",
+    "url": "https://www.menorca.info/menorca/local/2026/11/18/2752045/nuevo-contrato-itv-exige-dar-cita-mes-antes-caduque-revision-anterior.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El nuevo contrato de la ITV exige dar cita un mes antes de que caduque la revisión anterior",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "ste414455920",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "0fddb837238d",
+    "url": "https://www.menorca.info/menorca/vivir-menorca/2026/11/18/2752043/teatro-sale-calle-camina-por-mercadal.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El teatro sale a la calle para escuchar las voces de Es Mercadal",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "stc03aba9718",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "a5f53df8ce8b",
+    "url": "https://www.menorca.info/deportes/polideportivo/2026/11/18/2752033/todo-preparado-para-segunda-jornada.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Todo preparado para la segunda jornada de liga insular de Kárate",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "st227657402d",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "2014086ddcbe",
+    "url": "https://www.menorca.info/menorca/cultura/2026/11/18/2752027/jornada-dedicada-paisaje-patrimonio-historia-traves-toponimia.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Una jornada dedicada al paisaje, el patrimonio y la historia a través de la toponimia",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "stc8b5cbce23",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "a9a0c75babe3",
+    "url": "https://www.menorca.info/menorca/cultura/2026/11/18/2752009/donizetti-elisir-amore-protagonizaran-temporada-opera-mao.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Donizetti y su «L’elisir d’amore» protagonizarán la 56 Temporada d’Òpera de Maó",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "st3c37821a7c",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "9c6a2b362e8b",
+    "url": "https://www.menorca.info/menorca/vivir-menorca/2026/11/18/2752001/menorca-impulsa-taller-para-ayudar-ninos-tdah-familias.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Menorca impulsa un taller para ayudar a niños con TDAH y sus familias",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "st099bd3b520",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "9fa94e0b66f7",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/18/2751999/pons-acusa-defender-uso-del-catalan-congreso.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Marc Pons acusa al PP de no defender el uso del catalán en el Congreso: «Ha sido un avance»",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "st01f67df21c",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "e53a65859f49",
+    "url": "https://www.menorca.info/menorca/local/2026/11/18/2751991/foro-banca-march-analiza-hoy-liderazgo-empresa-familiar.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El Foro Banca March analiza hoy el liderazgo en la empresa familiar en Menorca",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "stf7e70bd6c8",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "831cb714e5d2",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/18/2751967/mateu-berenguer-venderemos-carisimo-voto-seremos-comparsas-nadie.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Mateu Berenguer: «Venderemos carísimo el voto; no seremos comparsas de nadie»",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
+ },
+ {
+  "id": "st0dade955fc",
+  "createdAt": "2026-11-19T01:28:17.705Z",
+  "firstPublished": "2026-11-18T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "c8bd2206048b",
+    "url": "https://www.menorca.info/deportes/ciclismo/2026/11/18/2751949/aaron-genestar-conquista-ciclocross-dijous-maria-arguimbau-sube-podio.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Aarón Genestar conquista el Ciclocross Dijous Bo y Maria Arguimbau sube al podio",
+    "published": "2026-11-18T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
  },
  {
   "id": "st2873dae09b",
@@ -4664,10 +6772,18 @@
     "lang": "es",
     "title": "Dijous Bo punto de encuentro social, comercial y económico",
     "published": "2026-11-18T06:00:35.000Z"
+   },
+   {
+    "id": "3f2391a6cca6",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/18/424165/inca-lliura-els-premis-dijous-2026.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Inca lliura els Premis Dijous Bo 2026",
+    "published": "2026-11-18T12:10:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-18T09:42:37.000Z",
+  "lastArticleAt": "2026-11-18T12:10:00.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-18T11:31:16.175Z",
   "islands": [
@@ -5400,6 +7516,30 @@
     "lang": "es",
     "title": "El futuro en tierra de la plantilla de AlbaStar",
     "published": "2026-11-18T03:48:01.000Z"
+   },
+   {
+    "id": "8683909fc31b",
+    "url": "https://www.menorca.info/opinion/editorial/2026/11/18/2752121/futuro-tierra-plantilla-aerolinea-albastar.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El futuro en tierra de la plantilla de la aerolínea AlbaStar",
+    "published": "2026-11-18T02:59:01.000Z"
+   },
+   {
+    "id": "e6bafa1b8c08",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/18/2752021/albastar-primera-compania-suspende-actividad-por-culpa-deuda-combustible.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "AlbaStar, la primera compañía que suspende su actividad por culpa de la deuda y el combustible",
+    "published": "2026-11-18T02:59:01.000Z"
+   },
+   {
+    "id": "1777ede8260c",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/18/2752013/230-empleados-albastar-trabajar-pendientes-cobrar-nomina.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Unos 230 empleados de AlbaStar, sin trabajar y pendientes de cobrar la nómina",
+    "published": "2026-11-18T02:59:01.000Z"
    }
   ],
   "needsWrite": false,
@@ -6305,10 +8445,18 @@
     "lang": "es",
     "title": "La jueza envía a prisión al acusado de disparar a un policía en Corea",
     "published": "2026-11-18T05:01:21.000Z"
+   },
+   {
+    "id": "99149438aef8",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/18/2752531/hombre-disparo-policia-local-corea-importarle-resultado-podia-producir.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El hombre disparó al policía local en Corea «sin importarle el resultado que podía producir»",
+    "published": "2026-11-18T12:34:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-18T09:26:56.000Z",
+  "lastArticleAt": "2026-11-18T12:34:00.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-18T11:31:00.985Z",
   "islands": [
@@ -7096,63 +9244,70 @@
     "lang": "ca",
     "title": "Serveis especials amb motiu del Dijous Bo a Inca",
     "published": "2026-11-18T11:05:00.000Z"
+   },
+   {
+    "id": "93cbee822030",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/dijous-bo-inca-2026-horarios-136573078.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Dijous Bo de Inca 2026: todos los horarios de los trenes especiales para la noche del Dimecres Bo",
+    "published": "2026-11-18T11:51:04.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-18T11:05:00.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-18T11:41:24.233Z",
+  "lastArticleAt": "2026-11-18T11:51:04.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-19T01:32:19.940Z",
   "islands": [
    "mallorca"
   ],
-  "topic": "sociedad",
+  "topic": "movilidad",
   "es": {
-   "title": "SFM programará 30 trenes especiales para el Dijous Bo en Inca",
-   "summary": "El Serveis Ferroviaris de Mallorca ha anunciado la puesta en marcha de 30 servicios ferroviarios adicionales el miércoles 18 de noviembre, para facilitar la asistencia a la verbena del Dijous Bo en Inca.",
+   "title": "SFM programará 30 trenes especiales para el Dijous Bo de Inca",
+   "summary": "La compañía ferroviaria ha habilitado servicios nocturnos para facilitar el desplazamiento a la verbena.",
    "body": [
-    "El Serveis Ferroviaris de Mallorca (SFM) ha programado una serie de trenes especiales para el miércoles 18 de noviembre, coincidiendo con la celebración del Dijous Bo en Inca. El objetivo es ofrecer a los usuarios un desplazamiento cómodo y seguro hacia la verbena del Dimecres Bo, que se celebra en la capital del Raiguer.",
-    "Según la información publicada por Última Hora, el refuerzo incluye servicios por la tarde y trenes nocturnos durante la madrugada, sumándose a los horarios habituales. En total, SFM ha habilitado 30 servicios especiales que complementan la oferta regular de trenes que conectan con Inca."
+    "Serveis Ferroviaris de Mallorca (SFM) ha programado 30 trenes especiales con motivo del Dijous Bo de Inca, que se celebrará el miércoles 18 de noviembre. El objetivo de este dispositivo es facilitar un desplazamiento cómodo y seguro a las personas que deseen asistir a la verbena en la capital del Raiguer.",
+    "Según el Diario de Mallorca, los trenes especiales circularán entre las 20.25 horas del miércoles y las 4.40 horas del jueves. Estos servicios se sumarán a los trenes habituales que conectan con Inca, incluyendo refuerzos por la tarde y servicios nocturnos durante la madrugada para permitir el regreso."
    ]
   },
   "ca": {
-   "title": "SFM programarà 30 trens especials per al Dijous Bo a Inca",
-   "summary": "El Serveis Ferroviaris de Mallorca ha anunciat la posada en marxa de 30 serveis ferroviaris addicionals el dimecres 18 de novembre, per facilitar l'assistència a la verbena del Dijous Bo a Inca.",
+   "title": "SFM programarà 30 trens especials per al Dijous Bo d'Inca",
+   "summary": "L'empresa ferroviària ha habilitat serveis nocturns per facilitar els desplaçaments a la verbena.",
    "body": [
-    "El Serveis Ferroviaris de Mallorca (SFM) ha programat una sèrie de trens especials per al dimecres 18 de novembre, coincidint amb la celebració del Dijous Bo a Inca. L'objectiu és oferir als usuaris un desplaçament còmode i segur cap a la verbena del Dimecres Bo, que es celebra a la capital del Raiguer.",
-    "Segons la informació publicada per Última Hora, el reforç inclou serveis per la tarda i trens nocturns durant la matinada, sumant-se als horaris habituals. En total, SFM ha habilitat 30 serveis especials que complementen l'oferta regular de trens que connecten amb Inca."
+    "Serveis Ferroviaris de Mallorca (SFM) ha programat 30 trens especials amb motiu del Dijous Bo d'Inca, que se celebrarà el dimecres 18 de novembre. L'objectiu d'aquest dispositiu és facilitar un desplaçament còmode i segur a les persones que vulguin assistir a la verbena a la capital del Raiguer.",
+    "Segons el Diario de Mallorca, els trens especials circularan entre les 20.25 hores del dimecres i les 4.40 hores del dijous. Aquests serveis s'afegiran als trens habituals que connecten amb Inca, incloent-hi reforços a la tarda i serveis nocturns durant la matinada per permetre el retorn."
    ]
   },
   "facts": [
    {
-    "es": "30 serveis especials programats per SFM",
-    "ca": "30 serveis especials programats per SFM",
+    "es": "SFM ha programado 30 trenes especiales para el evento.",
+    "ca": "SFM ha programat 30 trens especials per a l'esdeveniment.",
     "sources": [
      "ultimahora",
-     "dbalears"
+     "diariodemallorca"
     ]
    },
    {
-    "es": "Data del servei: dimecres 18 de novembre de 2026",
-    "ca": "Data del servei: dimecres 18 de novembre de 2026",
+    "es": "El evento se celebra el 18 de noviembre en Inca.",
+    "ca": "L'esdeveniment se celebra el 18 de novembre a Inca.",
     "sources": [
      "ultimahora",
-     "dbalears"
+     "diariodemallorca"
     ]
    },
    {
-    "es": "Motiu: facilitar l'assistència a la verbena del Dijous Bo a Inca",
-    "ca": "Motiu: facilitar l'assistència a la verbena del Dijous Bo a Inca",
+    "es": "Los trenes especiales circularán de 20.25 a 4.40 horas.",
+    "ca": "Els trens especials circularan de les 20.25 a les 4.40 hores.",
     "sources": [
-     "ultimahora",
-     "dbalears"
+     "diariodemallorca"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-18T11:41:24.233Z",
+  "updatedAt": "2026-11-19T01:32:19.940Z",
   "slug": "sfm-programara-30-trenes-especiales-para-el-dijous-bo-en-inca-d0489",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4852525.webp",
    "sourceId": "ultimahora",
@@ -8667,7 +10822,8 @@
    "articleUrl": "https://www.dbalears.cat/balears/balears/2026/11/17/424137/col-lectiu-sindicats-desmarquen-concentracio-davant-educacio-alerten-respon-interessos-patronals.html"
   },
   "distinctFrom": [
-   "st78ffc6eb47"
+   "st78ffc6eb47",
+   "stf5709322a8"
   ]
  },
  {
@@ -10508,10 +12664,76 @@
     "lang": "es",
     "title": "Mallorca Neta retira 170 kilos de basura del litoral de la isla en cuatro días: \"La contaminación no desaparece porque dejemos de verla\"",
     "published": "2026-11-17T05:03:00.000Z"
+   },
+   {
+    "id": "abe45de81bfe",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2751833/colillas-redes-hasta-jeringuillas-retiran-mas-cinco-toneladas-basura-del-litoral-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Colillas, redes y hasta jeringuillas: retiran más de cinco toneladas de basura del litoral de Mallorca",
+    "published": "2026-11-18T03:48:01.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-17T05:03:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-18T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:32:27.279Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Mallorca Neta retira cerca de 170 kilos de basura del litoral en cuatro días",
+   "summary": "Voluntarios de la plataforma ecologista Mallorca Neta recogieron aproximadamente 170 kilos de residuos en distintas zonas costeras de Mallorca durante cuatro jornadas de limpieza.",
+   "body": [
+    "Mallorca Neta organizó varias jornadas de limpieza en el litoral mallorquín, en las que sus voluntarios retiraron cerca de 170 kilos de basura, entre plásticos, colillas, toallitas, redes y otros materiales acumulados entre rocas y vegetación. Las labores se desarrollaron a lo largo de cuatro días consecutivos.",
+    "Los participantes denunciaron el deterioro de los espacios naturales y solicitaron una mayor implicación de las administraciones, al considerar que la contaminación no desaparece simplemente por no verla, sino que se fragmenta y se integra en los ecosistemas."
+   ]
+  },
+  "ca": {
+   "title": "Mallorca Neta retira uns 170 kg d'escombraries del litoral en quatre dies",
+   "summary": "Voluntaris de la plataforma ecologista Mallorca Neta van recollir aproximadament 170 kg de residus en diverses zones costaneres de Mallorca durant quatre jornades de neteja.",
+   "body": [
+    "Mallorca Neta va organitzar diverses jornades de neteja al litoral mallorquí, en les quals els seus voluntaris van retirar uns 170 kg d'escombraries, entre plàstics, col·locs, tovalloles, xarxes i altres materials acumulats entre roques i vegetació. Les tasques es van dur a terme al llarg de quatre dies consecutius.",
+    "Els participants van denunciar el deteriorament dels espais naturals i van sol·licitar una major implicació de les administracions, considerant que la contaminació no desapareix simplement per no veure‑la, sinó que es fragmenta i s'integra en els ecosistemes."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Casi 170 kilos de residuos retirados en cuatro días",
+    "ca": "Uns 170 kg de residus retirats en quatre dies",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Organizado por la plataforma ecologista Mallorca Neta",
+    "ca": "Organitzat per la plataforma ecologista Mallorca Neta",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Se reclama mayor implicación de las administraciones",
+    "ca": "Es reclama una major implicació de les administracions",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:27.279Z",
+  "slug": "mallorca-neta-retira-cerca-de-170-kilos-de-basura-del-litoral-en-b65e4",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/ffcc8b6f-be7c-414e-9213-a45745aceb32_16-9-aspect-ratio_default_0_x369y533.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/17/mallorca-limpieza-playas-basura-residuos-voluntarios-litoral-136513311.html"
+  }
  },
  {
   "id": "st2471bdf046",
@@ -11112,10 +13334,18 @@
     "lang": "es",
     "title": "Se enfrenta a una pena 4 años y medio de cárcel por estafa en diez tiendas de Maó: así las engañaba",
     "published": "2026-11-17T02:59:01.000Z"
+   },
+   {
+    "id": "4a0756bf21d2",
+    "url": "https://www.menorca.info/menorca/sucesos/2026/11/18/2752011/pena-prision-para-estafador-tiendas-mao-alaior.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Así fue el juicio: pena de prisión para el estafador de 9 tiendas de Maó y otra de Alaior",
+    "published": "2026-11-18T02:59:01.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-17T02:59:01.000Z"
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
  },
  {
   "id": "stbec6e70262",
@@ -13058,65 +15288,131 @@
     "lang": "ca",
     "title": "Tot a punt per la gala dels premis Enderrock: guia per no perdre’s res",
     "published": "2026-11-16T22:10:00.000Z"
+   },
+   {
+    "id": "1dd8d3363ac9",
+    "url": "https://www.dbalears.cat/balears/cultura/2026/11/19/424183/palmares-2026-dels-premis-enderrock-musica-balear.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Palmarès 2026 dels IX Premis Enderrock de la Música Balear",
+    "published": "2026-11-18T23:27:00.000Z"
+   },
+   {
+    "id": "afa6e2d20395",
+    "url": "https://www.dbalears.cat/balears/cultura/2026/11/19/424181/maria-jaume-xanguito-guanyadors-per-partida-doble-als-premis-enderrock-musica-balear-2026.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Maria Jaume i Xanguito, guanyadors per partida doble als Premis Enderrock de la Música Balear 2026",
+    "published": "2026-11-18T23:06:00.000Z"
+   },
+   {
+    "id": "987d6238bbc0",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/18/2752741/maria-jaume-xanguito-grandes-triunfadores-premis-enderrock-musica-balear.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Maria Jaume y Xanguito, grandes triunfadores de uno Premis Enderrock muy nostálgicos",
+    "published": "2026-11-18T21:50:00.000Z"
+   },
+   {
+    "id": "53908383bf90",
+    "url": "https://www.diariodemallorca.es/fotos/cultura/2026/11/18/fotos-premis-enderrock-musica-balear-136598095.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "FOTOS | Premis Enderrock de la Música Balear, en imágenes",
+    "published": "2026-11-18T21:47:01.000Z"
+   },
+   {
+    "id": "d57153b6c4da",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/18/2752925/joan-miquel-oliver-toni-rubio-nos-consiguio-primer-contrato-antonia-font-virgin-ahi-nacio-alegria.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Joan Miquel Oliver: «Toni Rubio nos consiguió el primer contrato de Antònia Font con Virgin, de ahí nació ‘Alegria’»",
+    "published": "2026-11-18T21:37:00.000Z"
+   },
+   {
+    "id": "30ff4b818c55",
+    "url": "https://www.diariodemallorca.es/cultura/2026/11/18/maria-jaume-xanguito-doblete-premis-136587316.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Maria Jaume y Xanguito hacen doblete en los Premis Enderrock de la Música Balear",
+    "published": "2026-11-18T21:00:46.000Z"
+   },
+   {
+    "id": "4328ab28ca2f",
+    "url": "https://ib3.org/maria-jaume-julia-colom-i-maria-del-mar-bonet-triomfen-als-premis-enderrock",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Maria Jaume, Júlia Colom i Maria del Mar Bonet triomfen als Premis Enderrock",
+    "published": "2026-11-18T20:13:38.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-16T22:10:00.000Z",
+  "lastArticleAt": "2026-11-18T23:27:00.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-17T02:58:24.409Z",
+  "writtenAt": "2026-11-19T01:30:54.512Z",
   "islands": [
    "mallorca"
   ],
   "topic": "cultura",
   "es": {
-   "title": "Los Premis Enderrock 2026 se celebrarán el 16 de noviembre en el Teatre Principal de Palma",
-   "summary": "Este miércoles 16 de noviembre, la novena edición de los Premis Enderrock tendrá lugar a las 20:00 en el Teatre Principal de Palma, con la participación de Rels B, Maria Jaume, Fades y Pitxorines entre los nominados.",
+   "title": "Los Premis Enderrock de la Música Balear se celebran en el Teatre Principal de Palma",
+   "summary": "La gala de la novena edición de los Premis Enderrock tuvo lugar el miércoles en el Teatre Principal de Palma, con la presentación de varios artistas y la entrega de premios en distintas categorías.",
    "body": [
-    "El Govern de les Illes Balears ha confirmat que la gala dels Premis Enderrock, que reconeixen la millor música balear, se celebrarà aquest dimecres 16 de novembre a les 20:00 hores al Teatre Principal de Palma. La novena edició compta amb una llista de nominats que inclou grups i artistes com Rels B, Maria Jaume, Fades i Pitxorines, segons informa Crónica Balear.",
-    "Segons dBalears, la mateixa nit es publicarà la llista completa de guanyadors de la novena edició, encara que els detalls no s'han revelat en aquest moment. La cerimònia esdevindrà un punt de referència per a la música de les Illes Balears, reunint artistes, professionals del sector i públic interessat en la cultura musical de la regió."
+    "El acto se celebró el miércoles a las 20:00 horas en el Teatre Principal de Palma, según la información de Crónica Balear (F1). La noche incluyó la entrega de premios en varias categorías de la música balear, aunque los medios difieren en la identificación de los galardonados principales.",
+    "Según IB3 Notícies (F3), las principales guardonades fueron Maria Jaume (Mejor Artista del Año), Júlia Colom (Mejor Disco por “Paradís”) y Maria del Mar Bonet (Premi Especial). Por su parte, Diario de Mallorca (F4) indica que Maria Jaume y Xanguito fueron los mayores ganadores, cada uno con dos galardones, entre los que destaca el premio a Mejor Artista del Año para Jaume tanto en la votación popular como de la crítica.",
+    "Otros artistas también participaron en la gala. Joan Miquel Oliver subió al escenario para recibir el Premi a Millor Disc de Pop‑Cançó d'Autor por “Roïssos”, según Última Hora (F5)."
    ]
   },
   "ca": {
-   "title": "Els Premis Enderrock 2026 es celebraran el 16 de novembre al Teatre Principal de Palma",
-   "summary": "Aquest dimecres 16 de novembre, la novena edició dels Premis Enderrock tindrà lloc a les 20:00 al Teatre Principal de Palma, amb la participació de Rels B, Maria Jaume, Fades i Pitxorines entre els nominats.",
+   "title": "Els Premis Enderrock de la Música Balear es celebren al Teatre Principal de Palma",
+   "summary": "La gala de la novena edició dels Premis Enderrock va tenir lloc el dimecres al Teatre Principal de Palma, amb la presentació de diversos artistes i l'entrega de premis en diferents categories.",
    "body": [
-    "El Govern de les Illes Balears ha confirmat que la gala dels Premis Enderrock, que reconeixen la millor música balear, se celebrarà aquest dimecres 16 de novembre a les 20:00 hores al Teatre Principal de Palma. La novena edició compta amb una llista de nominats que inclou grups i artistes com Rels B, Maria Jaume, Fades i Pitxorines, segons informa Crónica Balear.",
-    "Segons dBalears, la mateixa nit es publicarà la llista completa de guanyadors de la novena edició, encara que els detalls no s'han revelat en aquest moment. La cerimònia esdevindrà un punt de referència per a la música de les Illes Balears, reunint artistes, professionals del sector i públic interessat en la cultura musical de la regió."
+    "L'acte es va celebrar el dimecres a les 20:00 hores al Teatre Principal de Palma, segons Crònica Balear (F1). La nit va incloure l'entrega de premis en diverses categories de la música balear, tot i que els mitjans difereixen en la identificació dels guardonats principals.",
+    "Segons IB3 Notícies (F3), les principals guardonades van ser Maria Jaume (Millor Artista de l'any), Júlia Colom (Millor Disc per “Paradís”) i Maria del Mar Bonet (Premi Especial). En canvi, Diario de Mallorca (F4) indica que Maria Jaume i Xanguito van ser els majors guanyadors, amb dos premis cada un, destacant el guardó a Millor Artista de l'any per a Jaume tant en la votació popular com en la de la crítica.",
+    "Altres artistes també van participar a la gala. Joan Miquel Oliver va pujar a l'escenari per rebre el Premi a Millor Disc de Pop‑Cançó d'Autor per “Roïssos”, segons Última Hora (F5)."
    ]
   },
   "facts": [
    {
-    "es": "La gala tindrà lloc el 16 de novembre a les 20:00 al Teatre Principal de Palma",
-    "ca": "La gala tindrà lloc el 16 de novembre a les 20:00 al Teatre Principal de Palma",
+    "es": "La gala se celebró el miércoles a las 20:00 horas en el Teatre Principal de Palma",
+    "ca": "L'acte es va celebrar el dimecres a les 20:00 hores al Teatre Principal de Palma",
     "sources": [
      "cronicabalear"
     ]
    },
    {
-    "es": "Només la novena edició dels Premis Enderrock",
-    "ca": "Només la novena edició dels Premis Enderrock",
+    "es": "Maria Jaume recibió el premio a Mejor Artista del Año",
+    "ca": "Maria Jaume va rebre el guardó a Millor Artista de l'any",
     "sources": [
-     "cronicabalear"
+     "ib3",
+     "diariodemallorca"
     ]
    },
    {
-    "es": "Nominats: Rels B, Maria Jaume, Fades i Pitxorines",
-    "ca": "Nominats: Rels B, Maria Jaume, Fades i Pitxorines",
+    "es": "Júlia Colom ganó el premio al Mejor Disco por “Paradís”",
+    "ca": "Júlia Colom va guanyar el guardó al Millor Disc per “Paradís”",
     "sources": [
-     "cronicabalear"
+     "ib3"
     ]
    },
    {
-    "es": "dBalears publicarà la llista completa de guanyadors",
-    "ca": "dBalears publicarà la llista completa de guanyadors",
+    "es": "Maria del Mar Bonet recibió un premio especial",
+    "ca": "Maria del Mar Bonet va rebre un premi especial",
     "sources": [
-     "dbalears"
+     "ib3"
+    ]
+   },
+   {
+    "es": "Xanguito obtuvo dos galardones, incluido Mejor Artista del Año",
+    "ca": "Xanguito va obtenir dos guardons, inclòs Millor Artista de l'any",
+    "sources": [
+     "diariodemallorca"
     ]
    }
   ],
   "discrepancies": [],
-  "contradiction": false,
-  "updatedAt": "2026-11-17T02:58:24.409Z",
+  "contradiction": true,
+  "updatedAt": "2026-11-19T01:30:54.512Z",
   "slug": "rels-b-maria-jaume-fades-y-pitxorines-optan-a-los-premis-enderrock-de-96227",
   "status": "verified",
   "image": {
@@ -15685,7 +17981,10 @@
    "url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1791647690.jpg",
    "sourceId": "cronicabalear",
    "articleUrl": "https://www.cronicabalear.es/mallorca/2026-11-16/los-sindicatos-amenazan-con-una-huelga-en-la-sanidad-privada-de-baleares-tras-diez-meses-sin-acuerdo/"
-  }
+  },
+  "distinctFrom": [
+   "st78ffc6eb47"
+  ]
  },
  {
   "id": "st1db93fcbcd",
@@ -18266,9 +20565,67 @@
     "published": "2026-11-18T16:22:48.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-18T16:22:48.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-19T01:32:01.189Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "Mallorca Lions Boxing debuta con victoria en la Liga4Boxing",
+   "summary": "El equipo mallorquín ganó su primer encuentro en la Liga4Boxing 2026/2027, imponiéndose 4-2 a Leones y Castillos en La Nucía.",
+   "body": [
+    "Mallorca Lions Boxing comenzó su participación en la Liga4Boxing con una victoria en la primera jornada del campeonato, celebrada el sábado 14 de noviembre en el Sport Combat Center de La Nucía (Alicante).",
+    "El equipo se impuso por 4-2 a Leones y Castillos, logrando cuatro triunfos individuales que marcaron el inicio de su proyecto deportivo en la competición nacional.",
+    "Según Crónica Balear, el debut del equipo se caracterizó por los cuatro triunfos individuales obtenidos, mientras que Última Hora confirma el marcador y la fecha del encuentro."
+   ]
+  },
+  "ca": {
+   "title": "Mallorca Lions Boxing debuta amb victòria a la Liga4Boxing",
+   "summary": "L'equip mallorquí va guanyar el seu primer partit a la Liga4Boxing 2026/2027, superant 4-2 els Leones i Castillos a La Nucía.",
+   "body": [
+    "Mallorca Lions Boxing va iniciar la seva participació a la Liga4Boxing amb una victòria en la primera jornada del campionat, celebrada el dissabte 14 de novembre al Sport Combat Center de La Nucía (Alacant).",
+    "L'equip va superar 4-2 els Leones i Castillos, aconseguint quatre triomfs individuals que van marcar l'inici del seu projecte esportiu a la competició nacional.",
+    "Segons Crònica Balear, el debut de l'equip es va caracteritzar per quatre triomfs individuals, mentre que Última Hora confirma el marcador i la data del partit."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Mallorca Lions Boxing ganó 4-2 a Leones y Castillos",
+    "ca": "Mallorca Lions Boxing va guanyar 4-2 els Leones i Castillos",
+    "sources": [
+     "cronicabalear",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El encuentro se jugó el 14 de noviembre en el Sport Combat Center de La Nucía (Alicante)",
+    "ca": "El partit es va jugar el 14 de novembre al Sport Combat Center de La Nucía (Alacant)",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El equipo obtuvo cuatro triunfos individuales en su debut",
+    "ca": "L'equip va obtenir quatre triomfs individuals en el seu debut",
+    "sources": [
+     "cronicabalear"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-19T01:32:01.189Z",
+  "slug": "mallorca-lions-boxing-debuta-con-victoria-en-la-liga4boxing-e372c",
+  "status": "verified",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4854131.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/18/2752753/mallorca-lions-debuta-victoria-liga4boxing.html"
+  }
  },
  {
   "id": "st58dd75b486",
@@ -18314,10 +20671,26 @@
     "lang": "es",
     "title": "Vídeo | Rafa Ramis, el mallorquín que ha cruzado medio mundo para animar al Palma Futsal en Brasil",
     "published": "2026-11-18T11:00:29.000Z"
+   },
+   {
+    "id": "ea98935518fe",
+    "url": "https://www.diariodemallorca.es/deportes/2026/11/18/palma-futsal-remonta-volver-luchar-136598360.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Palma Futsal remonta para volver a luchar por ser campeón del mundo",
+    "published": "2026-11-18T22:22:36.000Z"
+   },
+   {
+    "id": "6391d1bd7119",
+    "url": "https://www.ultimahora.es/deportes/palma-futsal/2026/11/18/2752989/palma-futsal-paso-del-poker-mundial.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Palma Futsal, a un paso del póquer mundial",
+    "published": "2026-11-18T22:16:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-18T11:00:29.000Z",
+  "lastArticleAt": "2026-11-18T22:22:36.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-18T02:55:01.188Z",
   "islands": [
@@ -20189,10 +22562,18 @@
     "lang": "es",
     "title": "Vivienda, pensiones e igualdad: Menorca al Senat presenta sus propuestas en Es Mercadal",
     "published": "2026-11-17T02:59:01.000Z"
+   },
+   {
+    "id": "7a04c1d1753a",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/18/2752131/primer-debate-entre-ramon-sintes-joana-barcelo.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Primer debate entre los candidatos al Senado Ramón Sintes y Joana Barceló",
+    "published": "2026-11-18T02:59:01.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-17T02:59:01.000Z"
+  "lastArticleAt": "2026-11-18T02:59:01.000Z"
  },
  {
   "id": "stbee84cd883",

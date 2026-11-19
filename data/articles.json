@@ -10146,7 +10146,7 @@
   "title": "Ruido",
   "summary": "En la campaña electoral se escuchan toda clase de ofertas económicas, sociales y políticas para camelar al votante. Desde la izquierda proponen freír a impuestos a los ricos y desde la derecha intentan quitarse el sambenito de que van a destruir el sistema de pensiones y despreciar a la clase obrera para privilegiar a los ya privilegiados. Al margen de esa estúpida visión unineuronal de la realidad dividida entre buenos y malos, sería interesante que los que mandan tuvieran en cuenta también las cosas pequeñas, esas a las que nadie hace caso y acaban siendo determinantes para que nuestra vida sea mejor. Quizá haya que esperar a las elecciones municipales, pero ahí están cuestiones como el ruido. Ese detalle al que desde arriba apenas se le presta atención y que abajo, donde vivimos la mayoría, puede transformar tu día a día en un infierno. La calidad de vida, más allá de salarios, precios y otras variables económicas -que también- depende de la convivencia.",
   "published": "2026-11-18T03:48:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10157,7 +10157,7 @@
   "title": "‘So long, Leonard’",
   "summary": "Se han cumplido diez años de la muerte de Leonard Cohen, diez años sin un hombre humilde y sabio que dijo: «Nunca encontré la chica, nunca me hice rico, sígueme». Sus baladas, tristes a veces, melancólicas también, pero bellas siempre, siguen sonando en el corazón de quienes amamos su música. Vivió la eclosión de los 60, años de hippies, flores, viajes y sueños, fue amante de Janis a quien le dedicó su inolvidable Chelsea Hotel en la que cuenta que ella le decía «no importa, somos feos, pero tenemos la música…» A lo largo de su vida fueron muchas las canciones que dedicó a las mujeres que amó. Puede que So long, Marianne (Hasta pronto, Marianne) dedicada a Marianne Ihlen, la joven noruega a la que conoció cuando vivió en la isla griega de Hydra, sea una de las canciones más hermosas que se han escrito jamás. Con Marianne dio el paso de musicar y cantar sus poemas y de dedicarse profesionalmente a la canción.",
   "published": "2026-11-18T03:48:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10168,7 +10168,7 @@
   "title": "Un pla que posi la lectura al centre",
   "summary": "Costa d’entendre que les Illes Balears no reaccionin davant la «bomba» que suposa «suspendre» en comprensió lectora, la base de tot coneixement. La pregunta és inevitable: i a què esperam?",
   "published": "2026-11-18T03:48:01.000Z",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10179,8 +10179,9 @@
   "title": "Zones tensionades: el camí cap a la desmallorquinització",
   "summary": "Qui serà propietari de Mallorca d’aquí a vint anys? Aquesta és la pregunta que qualsevol nacionalista mallorquí s’hauria de fer abans de defensar les zones tensionades. Perquè el problema de l’habitatge no és només una qüestió de preus. És també una qüestió de propietat, pressió demogràfica i continuïtat cultural. La recuperació de la nostra identitat xoca massa sovint amb mantres ideològics que alguns semblen incapaços de qüestionar.",
   "published": "2026-11-18T03:48:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st6e872559da"
  },
  {
   "id": "a47d7703ff20",
@@ -10191,8 +10192,9 @@
   "summary": "El Boletín Oficial del Estado ha publicado el destino de las 13 nuevas plazas judiciales que se crean en Baleares, de las 500 aprobadas por el Consejo de Ministros. Las nuevas van en su mayoría a algunos de los ámbitos donde es mayor el atasco en los juzgados de las Islas, con la principal novedad de que la creación de una nueva sección penal en la Audiencia Provincial, la tercera. La medida, impulsada desde los órganos de gobierno judiciales de Baleares intenta agilizar la celebración de juicios que, en algunos casos se estaban señalando con tres años de demora.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852981.avif",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st72a29b6e8c"
  },
  {
   "id": "de46bb909c73",
@@ -10203,7 +10205,7 @@
   "summary": "El pasado fin de semana ha tenido lugar el Trofeo Sal y Ayuda de ajedrez en el que han participado un total de 45 jugadores, todos ellos pertenecientes a la categoría Sub 16. La cita ha finalizado con la victoria de Dídac Lara de Llucmajor quien ha totalizado seis puntos; le acompañaron en el podio Henrik Kuniyoshi y Viktor Sokoliuk, en segundo y tercer lugar respectivamente, ambos de Planificam Sa Dragonera.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852969.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10215,7 +10217,7 @@
   "summary": "Para no coincidir con las elecciones del 29N, el Ajuntament de sa Pobla decidió adelantar una semana su Fira de l’Arròs Pobler, que tendrá lugar este próximo 21 y 22 de noviembre. Este cambio provocará que también coincida con la XXXI Trobada de Xeremeiers i Fira de Lutiers, por lo que se han tenido que modificar ambas convocatorias para que se puedan celebrar al mismo tiempo. El programa se puede consultar en este enlace.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852899.avif",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10227,7 +10229,7 @@
   "summary": "Una pregunta articula La muerte del paraíso, el nuevo libro de Fernando Feliu que edita y publica Llibres Ramon Llull. Ese interrogante no es otro que el de qué se dijeron dos escritores, ambos premios Nobel de Literatura, una tarde de 1971 en una casa de Palma. Esos literatos eran Camilo José Cela y Miguel Ángel Asturias, que se conocieron en la Isla en un año turbulento, cada uno con su propia circunstancia a cuestas. Feliu, experto en la obra de Asturias, en la que se ha centrado su investigación académica en Estados Unidos, reconstruye aquella charla con el objetivo de imaginar, pero también de mostrar qué fue lo dicho y no dicho.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852863.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10239,8 +10241,9 @@
   "summary": "El Parlament culminará la próxima semana la limitación a la entrada de vehículos en Mallorca. Si no hay sorpresas, la Mesa y la Junta de Portavoces incluirán hoy la aprobación definitiva de la ley en el orden del día del pleno del martes, junto a la reforma de la Ley de Reserva de la Biosfera de Menorca encaminada a aplicar restricciones también en esa isla.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852855.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st34470229b6"
  },
  {
   "id": "5c2882e6181c",
@@ -10251,7 +10254,7 @@
   "summary": "Es una de las grandes esperanzas de futuro del baloncesto femenino español, pero esta temporada ha decidido cambiar de aires y probar la experiencia americana. Enrolada en las filas de la Universidad de Houston en la División I de la NCAA, la mallorquina Marta Llompart Perelló (Alcudia, 2008) ya deja muestras de su calidad en la liga universitaria estadounidense, donde su carisma y capacidad de liderazgo en la pista deja de sorprender partido tras partido a los aficionados y técnicos de las Cougars.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852853.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10263,7 +10266,7 @@
   "summary": "La supresión de la Unidad Nocturna de la Policía Local (UNOC) en el marco de una reestructuración del servicio ha calentado los ánimos de los agentes de Capdepera que rechazan «por unanimidad» esta propuesta. El pasado 13 de noviembre hubo una mesa sindical para hablar del cuadrante de la policía para 2027 pero no se llegó a ningún acuerdo. Desde la sección Sindical USO han denunciado que «la alcaldesa Núria Garcia, ha vuelto a negarse a negociar la reestructuración y mantiene su intención de suprimir, a partir del 1 de enero de 2027, la unidad Nocturna, un servicio que funciona desde 2011». Desde el sindicato defienden que «tras una consulta realizada al personal, el 100% de los afectados está a favor de mantener el sistema actual y en contra de la rotación general propuesta por la Alcaldía».",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852805.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10275,7 +10278,7 @@
   "summary": "El barítono palmesano Cristòfol Romaguera acaba de ganar el primer premio de la trigésima edición del Concurso Mirabent i Magrans de canto y música de cámara, que se celebró el fin de semana en el Teatre del Casino Prado Suburense de Sitges (Barcelona). Concretamente, el mallorquín se alzó con el Premio Familia Mirabent i Magrans, dotado con 2.500 euros.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852787.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10287,7 +10290,7 @@
   "summary": "La Autoridad Portuaria de Baleares (APB) ha recibido la solicitud por parte de la empresa Anima Management & Consulting para obtener una concesión directa con el fin de explotar un establecimiento de bar, cafetería y restaurante en el edificio Port Center, en pleno corazón del puerto de Palma y a pocos metros de la sede de la propia APB. La publicación de la solicitud, días atrás en el Boletín Oficial del Estado (BOE), lleva a que la Autoridad Portuaria abra un periodo de información pública por espacio de veinte días con el fin de que las partes interesadas puedan examinar esa petición y, si lo creen oportuno, presentar las alegaciones vean pertinentes.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852617.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T11:30:08.816Z"
  },
  {
@@ -10299,8 +10302,9 @@
   "summary": "Mallorca Neta ha participado en varias jornadas de limpieza que han permitido retirar cerca de 170 kilos de residuos del litoral mallorquín durante cuatro días. La plataforma reclama una mayor implicación de las administraciones tras encontrar basura incrustada entre las rocas y acumulada en puntos de difícil acceso. «La contaminación no desaparece porque dejemos de verla. Se fragmenta, se dispersa y acaba formando parte de los ecosistemas que necesitamos proteger», advierte el colectivo.",
   "published": "2026-11-18T03:48:01.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4852615.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st549e8b65e4"
  },
  {
   "id": "a8149b99386b",
@@ -11153,8 +11157,9 @@
   "summary": "Ramón Sintes (PP) y Joana Barceló (Menorca alSenat) protagonizaron ayer el primero de los tres debates electorales programados para esta semana. Los dos candidatos al Senado por Menorca confrontaron sus propuestas y argumentos en la sala Sant Diego de Alaior.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853105.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stb952e95b4f"
  },
  {
   "id": "8683909fc31b",
@@ -11164,8 +11169,9 @@
   "title": "El futuro en tierra de la plantilla de la aerolínea AlbaStar",
   "summary": "La solicitud de concurso de acreedores presentada por la aerolínea mallorquina AlbaStar plantea numerosos interrogantes. Tras el cese abrupto de sus operaciones comerciales, la compañía ha entrado en una fase judicial que deja en el aire la viabilidad de un proyecto fundado en Palma en 2009 y que, hasta hace muy poco, conectaba cientos de destinos.",
   "published": "2026-11-18T02:59:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stbdd4d54cb3"
  },
  {
   "id": "73fffb652e6e",
@@ -11176,8 +11182,9 @@
   "summary": "La atleta de Lô Esport Menorca, Sonia Carreras, ha sido la menorquina más destacada del Campeonato de España de 5 Kilómetros en Ruta Máster celebrado el pasado fin de semana en la localidad coruñesa de Negreira. Carreras se ha proclamado tercera de España en la categoría máster 45 con un tiempo de 19:31.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853087.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st76aa238bdc"
  },
  {
   "id": "8d89cd493f90",
@@ -11188,8 +11195,9 @@
   "summary": "El polígono de Ferreries ha acogido este fin de semana el primer control de cross de la temporada, que sirvió para dar el pistoletazo de salida a la Challenge de este año. La competición está compuesta por tres controles a realizar durante el mes de noviembre —el próximo, este domingo en Es Mercadal— y culminará con la final insular, prevista para el próximo 20 de diciembre.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853079.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "ste4a58973ea"
  },
  {
   "id": "5b93f7a478b2",
@@ -11200,8 +11208,9 @@
   "summary": "El Boletín Oficial del Estado publicaba ayer la creación de una nueva plaza de juez para Menorca, adjudicada al partido judicial de Maó. La concesión responde a las medidas en materia de eficiencia de la justicia española a partir del nuevo modelo por el que los juzgados unipersonales se transformaron en Tribunales de Instancia, desde el pasado 1 de enero.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853069.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st72a29b6e8c"
  },
  {
   "id": "5903fad01609",
@@ -11212,8 +11221,9 @@
   "summary": "En las dos estaciones de ITV de Menorca hay dos líneas, una universal y otra para vehículos ligeros, y en la de Maó, además, existe un box externo para motos. En Ciutadella está prevista la construcción de un foso en la línea de vehículos ligeros, una inversión que asume el Consell, según se especifica en el pliego del contrato.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853041.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "sta01c7b6202"
  },
  {
   "id": "4c0c806c94ae",
@@ -11224,8 +11234,9 @@
   "summary": "Las condiciones fijadas por el Consell incluyen que se garantice a los usuarios la atención presencial, telefónica y telemática| Se primará la oferta que abra más horas y también los sábados",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853013.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st681ecafa64"
  },
  {
   "id": "0fddb837238d",
@@ -11236,8 +11247,9 @@
   "summary": "«Caminando, uno piensa mejor; caminar invita a la conversación y la reflexión», defienden desde Las Lechugas Colectivo Escénico, compañía de teatro que lleva un tiempo instalada en la Isla, concretamente en Es Mercadal, en el marco de una residencia artística cuyo fruto podremos ver este viernes dentro de la segunda edición de la Trobada Balear del Festival Iberoamericano de Teatro Independiente de Menorca (Fitim).",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852997.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "ste414455920"
  },
  {
   "id": "a5f53df8ce8b",
@@ -11248,8 +11260,9 @@
   "summary": "La Delegación de Menorca de Kárate, junto a la Federación Balear y con la colaboración del Consell, celebran este sábado (9.30h) en el Pavelló Albert Torres la segunda ronda de la Liga Insular, en la que está previsto que participen cerca de un centenar de karatekas de edades comprendidas entre 5 y 20 años.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852985.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stc03aba9718"
  },
  {
   "id": "2014086ddcbe",
@@ -11260,8 +11273,9 @@
   "summary": "El Centre d’Estudis Locals de Alaior y el Institut Menorquí d’Estudis (IME) organizan, con la colaboración del Ayuntamiento de Alaior, la III Jornada de Toponímia i Antroponímia de Menorca, que tendrá lugar este sábado, en la Sala de Cultura de Sant Diego. El encuentro reunirá a investigadores y especialistas de diferentes disciplinas para abordar el estudio de los nombres de lugar de Menorca desde perspectivas geológicas, geográficas, históricas y lingüísticas.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852975.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st227657402d"
  },
  {
   "id": "e6bafa1b8c08",
@@ -11272,8 +11286,9 @@
   "summary": "El esperado y anunciado incremento del precio del queroseno por la guerra en Irán se ha cobrado la primera víctima en el sector de la aviación español si bien es cierto que AlbaStars ya se enfrentaba tocada a esta nueva amenaza. La aerolínea mallorquina presentó el lunes pasado un concurso de acreedores alegando deudas y que no podía asumir el incremento del precio del combustible.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852977.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stbdd4d54cb3"
  },
  {
   "id": "1777ede8260c",
@@ -11284,8 +11299,9 @@
   "summary": "Unos 230 trabajadores de la aerolínea mallorquina AlbaStar, 45 de ellos pilotos, no saben cuándo cobrarán ni qué ocurrirá con sus empleos. Llevan sin prestar servicio desde el 10 de noviembre, cuando la empresa les comunicó el cese de la actividad y anunció un concurso voluntario de acreedores. La nómina de octubre no se ha pagado y no esperan ya la de noviembre, y es que los retrasos salariales «ya venían de antes del parón», explica un trabajador afectado.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852963.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stbdd4d54cb3"
  },
  {
   "id": "4a0756bf21d2",
@@ -11296,8 +11312,9 @@
   "summary": "Tres años, seis meses y un día de prisión, multa de 1.800 euros e indemnización de 22.520 euros a los dueños de los diez comercios de electrónica e informática a los que estafó (9 en Maó y 1 en Alaior) es la condena que recayó ayer sobre un hombre de Es Castell, como responsable de un delito continuado de estafa agravada, cometido durante el primer semestre de 2021 mediante la compra de numerosos productos que nunca llegó a pagar.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852957.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st704aac549f"
  },
  {
   "id": "a9a0c75babe3",
@@ -11308,8 +11325,9 @@
   "summary": "Gaetano Donizetti (1797-1848) será el gran protagonista de la 56 Temporada d’Òpera, que este martes fue presentada en el Teatre Principal de Maó por sus impulsores: la Fundació Menorquina de l’Òpera i Amics de s’Òpera de Maó.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852959.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stc8b5cbce23"
  },
  {
   "id": "9c6a2b362e8b",
@@ -11320,8 +11338,9 @@
   "summary": "La Unidad Comunitaria de Salud Mental de la Infancia y Adolescencia (del Área de Salud de Menorca ha organizado un nuevo taller para niños con trastorno por déficit de atención e hiperactividad (TDAH) y sus familias. El taller se estrenó el lunes en Es Mercadal con muchos participantes.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852945.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st3c37821a7c"
  },
  {
   "id": "9fa94e0b66f7",
@@ -11332,8 +11351,9 @@
   "summary": "El diputado socialista y número dos de la lista del PSOE balear al Congreso de los Diputados, Marc Pons, denunció ayer en sede parlamentaria que el PP incluye en su programa electoral la prohibición del uso del catalán en la Cámara Baja.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852947.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st099bd3b520"
  },
  {
   "id": "e53a65859f49",
@@ -11344,8 +11364,9 @@
   "summary": "La decimotercera edición del encuentro de empresas familiares de Menorca que organiza Banca March con la colaboración y difusión de «Es Diari» se celebra esta tarde (19.30 horas) en la Sala Multifuncional de Es Mercadal. Colabora la Associació Balear de l’Empresa Familiar (ABEL), que participa con la intervención de su presidenta, Inés Rotger.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853107.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st01f67df21c"
  },
  {
   "id": "831cb714e5d2",
@@ -11356,8 +11377,9 @@
   "summary": "Més per Menorca vuelve a intentar tener voz propia en Madrid a través de Ara Més-Front Ampli. La renuncia de Vicenç Vidal a volver a encabezar la candidatura nacionalista deja a Carme Gomila como número 1 de la coalición que, además de la formación menorquinista, también agrupa a Més per Mallorca, Ara Eivissa, Podem,Esquerra Unida y Sumar. Un neófito en las instituciones, el concejal Mateu Berenguer Munté (Ara Maó), es la cara visible de Menorca en la candidatura.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852901.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "stf7e70bd6c8"
  },
  {
   "id": "c8bd2206048b",
@@ -11368,8 +11390,9 @@
   "summary": "El incomparable entorno del Serral de ses Monges mallorquín, en la ciudad de Inca, acogió este pasado sábado la novena edición del Ciclocross Dijous Bo 2026, segunda prueba puntuable de la Challenge RAD-Salon Pro-Rent Mallorca y organizada por el Club Ciclista Inca. Un evento que contó con la participación de diferentes ciclistas de la Penya Ciclista Ciutadella, que se estrenó en la modalidad del ciclocross.",
   "published": "2026-11-18T02:59:01.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4852861.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T11:30:08.816Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T11:30:08.816Z",
+  "storyId": "st0dade955fc"
  },
  {
   "id": "d6a7eed7245c",
@@ -12049,7 +12072,8 @@
   "published": "2026-11-18T19:07:00.000Z",
   "status": "clustered",
   "fetchedAt": "2026-11-18T19:33:40.986Z",
-  "storyId": "st014aa5f271"
+  "storyId": "st014aa5f271",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854365.webp"
  },
  {
   "id": "8a6c8a2cb14c",
@@ -12423,8 +12447,9 @@
   "summary": "El hombre detenido por herir a un policía local en Corea disparó «sin importarle el resultado que podía producir», según la jueza. La magistrada en funciones de guardia, que este martes por la noche envió a la cárcel al agresor, descarta que tuviera intención de matar al agente, por lo que le imputa un delito de lesiones con instrumento peligroso y otro de atentado. La jueza dejó en libertad a su mujer y a sus dos hijos, que fueron detenidos este martes por la Policía Nacional por enfrentarse a los agentes.",
   "published": "2026-11-18T12:34:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4853793.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stbcf3bb0dc2"
  },
  {
   "id": "dbe2fceb6b79",
@@ -12435,8 +12460,9 @@
   "summary": "Joan Mir tampoco estará en el Gran Premio de Portugal. El piloto mallorquín, afectado por problemas de salud y físicos que le han llevado a perderse el grueso del final de temporada, causará baja otro fin de semana más en Portimao, aunque su objetivo es poder estar dentro de una semana en Cheste, donde el Gran Premio de Comunidad Valenciana despedirá la temporada 2026. Y que será la carrera de su adiós a Honda, tras cuatro temporadas, antes de pasar a formar parte del equipo Gresini.",
   "published": "2026-11-18T12:30:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4853777.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st10b9df8db3"
  },
  {
   "id": "13a20eceab37",
@@ -12447,8 +12473,9 @@
   "summary": "La Fundación de Estudios de Economía Aplicada (Fedea) considera que las políticas públicas aplicadas en España para regular el mercado inmobiliario están agravando los problemas de acceso a la vivienda, en lugar de corregirlos. Así lo sostiene un estudio elaborado por el catedrático de la Universidad Pompeu Fabra (UPF) Benito Arruñada, que atribuye la escasez y el encarecimiento de los inmuebles a las restricciones que afectan a la construcción, las compraventas y los contratos de alquiler.",
   "published": "2026-11-18T12:13:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4853749.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stb573d9decc"
  },
  {
   "id": "a494273ccf5e",
@@ -12459,8 +12486,9 @@
   "summary": "Cerca de 35.000 personas en Baleares sufren enfermedad pulmonar obstructiva crónica (EPOC), con una prevalencia de alrededor del 11 % de la población de las islas. Son datos compartidos por el hospital Son Espases este martes, con motivo del Día Mundial de la EPOC, que se celebra cada 18 de noviembre. Desde el Servicio de Neumología del hospital también se ha preparado una mesa informativa en la que se ha abogado por el diagnóstico precoz de la enfermedad y la prevención del tabaquismo, una de las causas principales de esta afección.",
   "published": "2026-11-18T12:13:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4853727.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st262a58ca5a"
  },
  {
   "id": "15dc234df902",
@@ -12471,8 +12499,9 @@
   "summary": "La Policía Local de Palma investiga a un menor de edad por conducir sin haber obtenido nunca el permiso de conducir y circular a gran velocidad por las calles de Palma con el coche de su padre, que desconocía que su hijo había cogido el vehículo.",
   "published": "2026-11-18T11:37:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4853667.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stf9d30cf9ec"
  },
  {
   "id": "9ce4c2f8c7cf",
@@ -12483,8 +12512,9 @@
   "summary": "El Colegio de Agentes de la Propiedad Inmobiliaria de Baleares cuestiona que declarar zonas tensionadas sea la solución al problema del alquiler en las Islas. Su presidente, José Miguel Artieda, considera que la medida puede retraer a los propietarios y reducir las viviendas disponibles. El economista Luis Alberto Fabra comparte ese diagnóstico, ya que explica que si bien en Cataluña los precios han bajado en las zonas donde se han aplicado los límites, también hay menos viviendas en el mercado.",
   "published": "2026-11-18T10:30:00.000Z",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/4853577.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st6e872559da"
  },
  {
   "id": "9eb9482351f9",
@@ -12677,7 +12707,7 @@
   "summary": "Mallorca vive esta semana una de sus grandes ferias, el Dijous Bo de Inca. No obstante, también hay otras citas más allá de la inquera. De hecho, este será uno de los fines de semana más intensos del calendario ferial de otoño. El sábado 21 y el domingo 22 de noviembre, cuatro municipios de la isla celebran algunas de sus citas más tradicionales, con el aceite, el arroz, la miel y la cultura popular como protagonistas.",
   "published": "2026-11-18T12:43:03.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/05dbabd5-1806-48f1-b549-deb5b6bdc860_16-9-aspect-ratio_default_0.jpg",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -12689,8 +12719,9 @@
   "summary": "Serveis Ferroviaris de Mallorca (SFM) ha programado 30 trenes especiales con motivo del Dimecres Bo de Inca, que se celebra este miércoles 18 de noviembre, para facilitar los desplazamientos de quienes quieran asistir a la popular verbena de la capital del Raiguer. El dispositivo incluye servicios nocturnos que permitirán regresar en tren durante la madrugada. Los trenes especiales se sumarán a los servicios habituales y circularán entre las 20.25 horas del miércoles y las 4.40 horas del jueves. El refuerzo contempla conexiones entre Palma e Inca, Inca y Manacor, Inca y sa Pobla, así como servicios directos entre Palma y sa Pobla, en ambos sentidos.",
   "published": "2026-11-18T11:51:04.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/508b5dc5-f97d-4f99-a45d-3cf87363f60f_16-9-aspect-ratio_default_0_x800y355.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "std4541d0489"
  },
  {
   "id": "730b459b41b8",
@@ -12727,8 +12758,9 @@
   "summary": "La Policía Local de Palma ha instruido diligencias penales contra un chico de 17 años que fue interceptado el pasado martes conduciendo el coche de su padre, que había cogido sin permiso. Una patrulla policial reparó en el vehículo porque circulaba a gran velocidad por una calle de La Soledat.",
   "published": "2026-11-18T12:08:40.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/285757f7-c9b5-4299-8c41-8c376bcd5c85_16-9-aspect-ratio_default_0_x600y266.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stf9d30cf9ec"
  },
  {
   "id": "3d5c4ce1f052",
@@ -12739,8 +12771,9 @@
   "summary": "Joaquín C.G., el hombre de 53 años acusado de disparar a un policía local de Palma el pasado sábado en Corea no estaba esposado cuando consiguió arrebatar al agente la pistola con la que luego le tiroteó, según el auto en el que la magistrada ordenó anoche el ingreso en prisión del sospechoso. La jueza señala que según la investigación del grupo de Homicidios de la Policía Nacional \"solo tenía colocada una de las manillas de los grilletes en la muñeca\", como explicó el agente herido. Otros policías, en cambio, han declarado que el acusado sí estaba \"completamente engrilletado por la espalda\". El auto apunta que existen \"indicios sobrados\" de que Joaquín G.C. fue el autor del disparo, aunque todavía \"resulta complejo de determinar\" cómo consiguió hacerse con el arma, ya que la víctima ha declarado que la llevaba \"con los dos seguros manuales [de la funda] a fin de evitar su extracción\".",
   "published": "2026-11-18T11:43:49.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/8ec44a31-f153-4c7a-b8eb-cd9a580b6aec_16-9-aspect-ratio_default_0_x400y177.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st093d3401e7"
  },
  {
   "id": "8e4cdb45e82a",
@@ -12953,7 +12986,7 @@
   "summary": "Formentera ha puesto fecha al inicio de sus celebraciones navideñas. El Consell Insular ha presentado este miércoles el programa de Navidad 2026-2027, que arrancará el próximo martes 1 de diciembre con el encendido del alumbrado y la apertura del Mercado de Navidad. La programación incluirá conciertos, actividades infantiles, talleres, propuestas culturales y las tradicionales celebraciones de Fin de Año y Reyes.",
   "published": "2026-11-18T12:20:50.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/2414e588-9b18-450e-8e54-aa0b14a39f58_16-9-aspect-ratio_default_0_x1000y500.jpg",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -12989,8 +13022,9 @@
   "summary": "Un hombre de unos 69 años ha muerto este miércoles por la mañana tras ser tiroteado en plena calle en el centro de Badajoz.",
   "published": "2026-11-18T11:42:32.000Z",
   "image": "https://estaticos-cdn.prensaiberica.es/clip/b47d0478-21f2-4c32-9f53-baa9b330cd2e_16-9-aspect-ratio_default_0_x800y300.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "std152fd29e9"
  },
  {
   "id": "183fbcf28102",
@@ -13143,8 +13177,9 @@
   "summary": "El presentador Xuso Jones ha grabado este miércoles en Palma una nueva entrega de Lo sabe, no lo sabe, el concurso de Cuatro que conduce. En esta ocasión, el rodaje en Mallorca ha contado con la actriz Carolina Cerezuela, esposa del extenista Carlos Moyà, como acompañante en un recorrido por el centro de la capital balear.",
   "published": "2026-11-18T12:46:00.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853801.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st34601e5fb8"
  },
  {
   "id": "a3b42a1f5733",
@@ -13155,8 +13190,9 @@
   "summary": "El Consell Insular de Ibiza ha comenzado la demolición de la estructura inacabada en Cala d'en Serra. Esta acción busca recuperar el paisaje de este enclave del norte de la isla, eliminando una construcción que ha degradado su entorno natural por décadas.",
   "published": "2026-11-18T12:37:29.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853797.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st3961652038"
  },
  {
   "id": "79492ef23ff3",
@@ -13167,8 +13203,9 @@
   "summary": "La UD Ibiza anuncia que ha alcanzado un acuerdo con la multinacional Power Electronics para la denominación del Estadio Can Misses durante las próximas cuatro temporadas.",
   "published": "2026-11-18T12:34:00.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853799.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stb5eec55145"
  },
  {
   "id": "3b863b38ddf0",
@@ -13179,7 +13216,7 @@
   "summary": "El Ayuntamiento de Sant Joan de Labritja ha organizado un recital de ópera y zarzuela con motivo de la festividad de la Inmaculada Concepción, que tendrá lugar el próximo 8 de diciembre, a las 20.00 horas, en la iglesia de Sant Miquel de Balansat.",
   "published": "2026-11-18T12:21:45.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853759.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -13191,8 +13228,9 @@
   "summary": "El Ministerio de Sanidad ha informado de que un total de 39 personas solicitaron la prestación de ayuda para morir en Baleares durante el año pasado y 14 la recibieron.",
   "published": "2026-11-18T12:18:00.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853755.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "sta2a7a1be9e"
  },
  {
   "id": "2c9d65836680",
@@ -13203,7 +13241,7 @@
   "summary": "Formentera se prepara para dar la bienvenida a la temporada navideña de 2026. El Consell Insular de Formentera ha presentado oficialmente el programa de actividades para las fiestas de Navidad 2026-2027, una propuesta diseñada para llenar la isla de música, arraigadas tradiciones, diversas actividades infantiles y momentos propicios para el encuentro familiar y con amigos. El pistoletazo de salida a estas celebraciones se dará el martes, 1 de diciembre, con el tradicional encendido del alumbrado navideño a las 18:00 horas, un evento que marca el inicio de varias semanas repletas de propuestas para todas las edades.",
   "published": "2026-11-18T12:07:18.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853721.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -13215,8 +13253,9 @@
   "summary": "El Ayuntamiento de Sant Joan de Labritja invita a vecinos y vecinas a celebrar el inicio de las fiestas navideñas con el encendido de luces de Navidad, que tendrá lugar el viernes 27 de noviembre, a las 18.00 horas, en Sant Llorenç de Balàfia.",
   "published": "2026-11-18T11:53:05.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853697.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stadf320f846"
  },
  {
   "id": "8c6551fe85bd",
@@ -13227,8 +13266,9 @@
   "summary": "La XVIII Cursa de Sa Sobrassada encara sus últimos días de inscripción antes de su celebración este sábado 21 de noviembre en Santa Gertrudis. Las personas interesadas en participar en esta cita deportiva aún están a tiempo de hacerlo, porque hasta las 23.59 horas de este jueves 19 de noviembre tienen tiempo para formalizar su inscripción a través de la plataforma www.sportmaniacs.com.",
   "published": "2026-11-18T11:35:15.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853665.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st13034d7880"
  },
  {
   "id": "2137c1faf961",
@@ -13239,8 +13279,9 @@
   "summary": "El Ayuntamiento de Sant Joan de Labritja organiza el sábado 5 de diciembre un taller de centros de flores preservadas y velas. Durante la sesión, las personas participantes aprenderán a combinar ambos elementos para crear su propio centro decorativo.",
   "published": "2026-11-18T11:31:57.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853663.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st3ec7a18c68"
  },
  {
   "id": "9f773da181dc",
@@ -13251,8 +13292,9 @@
   "summary": "Iberia Express comenzará en los próximos días con la transformación de su primer avión para implantar la tecnología Starlink, lo que le permitirá ofrecer a todos sus clientes internet de alta velocidad gratuito a bordo.",
   "published": "2026-11-18T11:27:02.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853649.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "std7128813e5"
  },
  {
   "id": "ae36cf4aefd0",
@@ -13263,8 +13305,9 @@
   "summary": "Jornada meteorológica atípica la vivida este miércoles 18 de noviembre en Ibiza y Formentera, marcada por una escasísima oscilación térmica entre el día y la noche y por un notable incremento del viento. Las Pitiusas han despertado hoy tras registrar una noche tropical en pleno mes de noviembre, con termómetros que en ningún momento han bajado de los 20 grados y que, sin embargo, apenas han remontado durante las horas centrales del día al quedarse en máximas de 23 grados.",
   "published": "2026-11-18T11:27:00.000Z",
   "image": "https://ibi.gsstatic.es/sfAttachPlugin/4853643.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stc116cbdb87"
  },
  {
   "id": "25c4487768a3",
@@ -13288,8 +13331,9 @@
   "summary": "El presentador Xuso Jones ha grabado este miércoles en Palma una nueva entrega de Lo sabe, no lo sabe, el concurso de Cuatro que conduce. En esta ocasión, el rodaje en Mallorca ha contado con la actriz Carolina Cerezuela, esposa del extenista Carlos Moyà, como acompañante en un recorrido por el centro de la capital balear.",
   "published": "2026-11-18T12:46:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853801.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st34601e5fb8"
  },
  {
   "id": "38d227a48c89",
@@ -13300,7 +13344,7 @@
   "summary": "Un año más, Es Diari quiere traer a sus suscriptores el mejor sabor de la Navidad. Por ello, ofrece una experiencia gastronómica única con una selección de productos gourmet que capturan a la perfección la esencia de las celebraciones navideñas. En colaboración con El Paladar, la reconocida jamonería y delicatessen de Menorca, se han preparado dos lotes exclusivos: uno salado y otro dulce, cuidadosamente empaquetados y listos para ser el regalo perfecto o para compartir en las cenas y reuniones familiares.",
   "published": "2026-11-18T12:24:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853763.webp",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -13312,8 +13356,9 @@
   "summary": "La Fundación de Estudios de Economía Aplicada (Fedea) considera que las políticas públicas aplicadas en España para regular el mercado inmobiliario están agravando los problemas de acceso a la vivienda, en lugar de corregirlos. Así lo sostiene un estudio elaborado por el catedrático de la Universidad Pompeu Fabra (UPF) Benito Arruñada, que atribuye la escasez y el encarecimiento de los inmuebles a las restricciones que afectan a la construcción, las compraventas y los contratos de alquiler.",
   "published": "2026-11-18T12:13:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853749.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stb573d9decc"
  },
  {
   "id": "f338b671f2be",
@@ -13324,8 +13369,9 @@
   "summary": "Cerca de 35.000 personas en Baleares sufren enfermedad pulmonar obstructiva crónica (EPOC), con una prevalencia de alrededor del 11 % de la población de las islas. Son datos compartidos por el hospital Son Espases este martes, con motivo del Día Mundial de la EPOC, que se celebra cada 18 de noviembre. Desde el Servicio de Neumología del hospital también se ha preparado una mesa informativa en la que se ha abogado por el diagnóstico precoz de la enfermedad y la prevención del tabaquismo, una de las causas principales de esta afección.",
   "published": "2026-11-18T12:13:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853727.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st262a58ca5a"
  },
  {
   "id": "34377118a6fa",
@@ -13336,8 +13382,9 @@
   "summary": "Las explotaciones lecheras de Menorca recibirán 1,64 millones de euros en ayudas a través del Provilac 2026, el programa de apoyo al sector lácteo impulsado por el Govern balear. Se trata de la misma cantidad que ya se repartió el año pasado con este tipo de ayudas.",
   "published": "2026-11-18T11:54:10.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853699.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stccc3a66bd5"
  },
  {
   "id": "897fec17fac7",
@@ -13348,8 +13395,9 @@
   "summary": "El Gobierno aprobó este pasado martes una subida salarial del 4,5 % para los empleados públicos. Esta medida es directamente efectiva para todos los que dependen del Estado y, ahora, las administraciones locales y autonómicas tendrán que convalidarlas para que pueda beneficiar a todo el personal.",
   "published": "2026-11-18T11:14:00.000Z",
   "image": "https://men.gsstatic.es/sfAttachPlugin/4853611.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st472e3538ad"
  },
  {
   "id": "3e364ffda941",
@@ -13399,8 +13447,9 @@
   "summary": "UGT ha presentat una calculadora en línia perquè els gairebé 100.000 treballadors públics de les Balears puguin conèixer de manera aproximada quina quantitat s’apujaran els salaris nets amb l’aplicació dels increments pactats entre els sindicats i el govern espanyol. El càlcul de la pujada salarial es realitza després d’introduir una sèrie de dades com el sou net actual, l’administració per a la qual es fa feina i la categoria laboral.",
   "published": "2026-11-18T12:06:25.000Z",
   "image": "https://static1.ara.cat/clip/143d4945-9530-4fab-beaf-b5127d318543_16-9-aspect-ratio_default_0.png",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stac858f3667"
  },
  {
   "id": "e70fb5ebbeda",
@@ -13450,7 +13499,7 @@
   "summary": "La Xina ha desplegat tota la seva diplomàcia de seducció per brillar en la 33a Reunió de Líders Econòmics de l’APEC, que se celebra a la ciutat xinesa de Shenzhen i que presenta el president Xi Jinping com a líder global i aglutinador. L’àmplia agenda de reunions bilaterals de Xi amb mandataris convidats és tota una demostració. Xi, de fet, protagonitza una frenètica activitat amb trobades amb figures tan diverses com la presidenta mexicana, Claudia Sheinbaum, la presidenta del Perú, Keiko Fujimori, el primer ministre canadenc, Mark Carney, o el president del Vietnam, To Lam. Però la cirereta que tancarà el fòrum de dos dies és una reunió trilateral entre Xi Jinping, Donald Trump i Vladímir Putin, prevista per dijous. L’expectativa per aquesta trobada és màxima.",
   "published": "2026-11-18T06:00:47.000Z",
   "image": "https://static1.ara.cat/clip/3170955e-22a0-4172-8d4f-6998e65dd891_16-9-aspect-ratio_default_1061667.jpg",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -13475,7 +13524,7 @@
   "summary": "La guerra dels Estats Units contra l’Iran ha causat molts desastres i de caràcter molt divers. Les conseqüències econòmiques són d’abast mundial, i ja les hem notat en el preu dels carburants i en tot el que se’n deriva. I les geopolítiques, que poden ser també de gran abast, ens fan esgarrifar només de pensar-hi. N’hi ha una altra, però, de caràcter ambiental, poc coneguda, que pot ser una bomba de rellotgeria. No em refereixo als incendis i explosions propis de les escaramusses, que malmeten ecosistemes i injecten gasos d’efecte hivernacle a l’atmosfera (i que faran cada cop més difícil que es pugui complir amb els acords de París). Allò que vull comentar pot semblar una niciesa al costat dels estralls que potser afectaran persones i béns. Però és, també, d’efectes aterridors.",
   "published": "2026-11-18T06:00:44.000Z",
   "image": "https://static1.ara.cat/clip/cfb7e51f-eea7-41f1-ad0f-54eb453f07ca_source-aspect-ratio_default_0_x3109y2155.jpg",
-  "status": "pending",
+  "status": "irrelevant",
   "fetchedAt": "2026-11-18T19:33:40.986Z"
  },
  {
@@ -13589,8 +13638,9 @@
   "summary": "L'Ajuntament d'Inca ha lliurat aquest dimarts el Premi Dijous Bo 2026 en el Teatre...",
   "published": "2026-11-18T12:10:00.000Z",
   "image": "https://db.gsstatic.es/sfAttachPlugin/266195.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st2c10c0d229"
  },
  {
   "id": "4bf5d1cb726b",
@@ -13601,8 +13651,9 @@
   "summary": "La campanya de recollida de signatures per a reclamar la recuperació de la línia...",
   "published": "2026-11-18T11:54:00.000Z",
   "image": "https://db.gsstatic.es/sfAttachPlugin/266193.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st33620a2fdd"
  },
  {
   "id": "ad197a6a9ea6",
@@ -13613,8 +13664,9 @@
   "summary": "La Conselleria de Famílies, Benestar Social i Atenció a la Dependència i l’Oficina Balear...",
   "published": "2026-11-18T11:31:00.000Z",
   "image": "https://db.gsstatic.es/sfAttachPlugin/266189.webp",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st3b35c72dea"
  },
  {
   "id": "114b80ed9d64",
@@ -13779,8 +13831,9 @@
   "title": "Es confirma la tendència a la baixa de la recollida de menjar de l’Operació Quilo del Banc d’Aliments de Mallorca",
   "summary": "Una vintena de voluntaris del banc d’aliments de Mallorca han fet feina avui des de primera hora del matí al magatzem de MercaPalma. Han classificat els productes que es donaren aquest cap de setmana a l’operació quilo, als diferents supermercats de l’illa que hi col·laboraren. Tot per facilitar-ne després la distribució. Encara no han arribat […]",
   "published": "2026-11-18T12:38:01.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st56cba1f542"
  },
  {
   "id": "977890ea2574",
@@ -13791,8 +13844,9 @@
   "summary": "El mercado inmobiliario de Baleares ha registrado durante el tercer trimestre de 2026 un descenso en su actividad, con una caída interanual del -14,7% en el número de compraventas, pero los precios han aumentado un 9,1% respecto al mismo periodo del año pasado hasta alcanzar un promedio de 4.262 euros por metro cuadrado (euros/m2), el nivel más alto de la serie histórica.",
   "published": "2026-11-18T11:25:10.000Z",
   "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118122510_800.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st6d264fe2b5"
  },
  {
   "id": "8532d9ab70b9",
@@ -13816,8 +13870,9 @@
   "summary": "Ara Més-Front Ampli y el PSIB han denunciado al Ayuntamiento de Palma ante la Junta Electoral de Baleares por \"eliminar\" los espacios gratuitos --unas 1.500 farolas-- para hacer propaganda de cara a las elecciones generales del próximo 29 de noviembre.",
   "published": "2026-11-18T12:04:58.000Z",
   "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118130458_800.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stb1e4d33662"
  },
  {
   "id": "1e23fa63ca90",
@@ -13841,8 +13896,9 @@
   "summary": "El Ayuntamiento de Palma ha aprobado la licitación de la demolición de los edificios anexos a la antigua prisión, aunque ha aclarado que no se llevará a cabo hasta que la recuperación de los inmuebles se haga efectiva.",
   "published": "2026-11-18T11:40:39.000Z",
   "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118124039_800.jpg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st1ed6a826df"
  },
  {
   "id": "4eaae26d8575",
@@ -13937,8 +13993,9 @@
   "title": "Okupación en Palma: dos hombres aprovechan una vivienda vacía para entrar y cambiar la cerradura",
   "summary": "La Policía Nacional detuvo en Palma a dos hombres como presuntos autores de allanamiento de morada; afirmaron haber alquilado el piso a un tercero, pero no aportaron contrato.\nLa entrada Okupación en Palma: dos hombres aprovechan una vivienda vacía para entrar y cambiar la cerradura se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-18T12:35:33.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st1719590aae"
  },
  {
   "id": "cfe785730906",
@@ -13948,8 +14005,9 @@
   "title": "Mac Hotels entrega a Unicef los 20.500 euros donados por sus clientes",
   "summary": "Mac Hotels donó 20.509,34 euros a UNICEF España, recaudados mediante aportaciones voluntarias de huéspedes; la colaboración con el programa Hoteles Amigos comenzó en 2013.\nLa entrada Mac Hotels entrega a Unicef los 20.500 euros donados por sus clientes se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-18T12:13:51.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st456134b410"
  },
  {
   "id": "64e8dbb83a48",
@@ -13959,8 +14017,9 @@
   "title": "Más de 1.700 niños y mayores vulnerables recibirán regalos de Navidad en Baleares",
   "summary": "La novena edición de 'El Árbol de los Sueños' permitirá cumplir los deseos navideños de 1.664 menores y 84 personas mayores. Los participantes podrán entregar sus regalos hasta el 11 de diciembre.\nLa entrada Más de 1.700 niños y mayores vulnerables recibirán regalos de Navidad en Baleares se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-18T12:05:38.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st11ee678322"
  },
  {
   "id": "f095819db158",
@@ -13970,8 +14029,9 @@
   "title": "Mercado, pista de hielo, trenes y atracciones: el plan navideño de Palma para las familias y el comercio",
   "summary": "La campaña navideña de Palma ofrecerá actividades familiares del 21 de noviembre al 10 de enero, con un mercado de más de 60 casetas, pista de hielo y trenes.\nLa entrada Mercado, pista de hielo, trenes y atracciones: el plan navideño de Palma para las familias y el comercio se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-18T11:54:51.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st7d025deb35"
  },
  {
   "id": "31effd4d1487",
@@ -13981,8 +14041,9 @@
   "title": "En Baleares mueren más personas de las que nacen: bajan los nacimientos y suben las defunciones",
   "summary": "Los datos del INE reflejan un nuevo descenso de los nacimientos y un aumento de las defunciones en Baleares. La esperanza de vida alcanza los 83,6 años, por debajo de la media nacional\nLa entrada En Baleares mueren más personas de las que nacen: bajan los nacimientos y suben las defunciones se publicó primero en Mallorcadiario.com .",
   "published": "2026-11-18T11:44:34.000Z",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "stf38ad4c848"
  },
  {
   "id": "b234d3bcfc44",
@@ -14091,8 +14152,9 @@
   "summary": "La Asociación de Periodistas de las Islas Baleares (APIB) ha entregado sus XI Premios de Periodismo, a los que concurrían 60 piezas periodísticas publicadas o difundidas en 2025. El certamen cuenta con el patrocinio de Coca-Cola, CaixaBank y El Corte Inglés. El Primer Premio de la Categoría Absoluta, cuya dotación ha aumentado de 1.700 a […]",
   "published": "2026-11-18T11:45:05.000Z",
   "image": "https://www.noudiari.es/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-12.30.30-2-472x1024.jpeg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st759fcf1363"
  },
  {
   "id": "a69344cf976f",
@@ -14103,7 +14165,529 @@
   "summary": "Hay reconocimientos que distinguen una trayectoria profesional y otros que, además, ponen en valor una forma de entender la vida. La concesión a Carl Cox de la distinción de Oficial de la Orden del Imperio Británico (OBE, Officer of the Order of the British Empire) pertenece a esta segunda categoría. Un reconocimiento que honra su […]",
   "published": "2026-11-18T11:32:41.000Z",
   "image": "https://www.noudiari.es/wp-content/uploads/2026/11/Carl-Cox-Pepe-Rosello-y-el-escultor-Pedro-Hormigo-1024x683.jpeg",
-  "status": "pending",
-  "fetchedAt": "2026-11-18T19:33:40.986Z"
+  "status": "clustered",
+  "fetchedAt": "2026-11-18T19:33:40.986Z",
+  "storyId": "st6339a06cee"
+ },
+ {
+  "id": "6391d1bd7119",
+  "url": "https://www.ultimahora.es/deportes/palma-futsal/2026/11/18/2752989/palma-futsal-paso-del-poker-mundial.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "El Palma Futsal, a un paso del póquer mundial",
+  "summary": "El Illes Balears Palma Futsal tendrá la oportunidad de conquistar su cuarta Copa Intercontinental consecutiva tras derrotar en semifinales al Carlos Barbosa por 3-1. Los 40 minutos reglamentarios terminaron con 1-1 y en la prórroga David Peña y Dennis certificaron la victoria palmesana. El campeón de la Copa Libertadores se ha adelantado en el marcador por medio de Murilo, que ha aprovechado un error de Piqueras para batir con un gran detalle de calidad a Dennis. No estaba cómodo el Palma Futsal en estos primeros minutos del partido, aunque el conjunto de Vadillo poco a poco iba encontrado mejores combinaciones ante la férrea defensa del conjunto brasileño. Una de la claves del encuentro iba a ser cómo aguantaría el conjunto de Peri Fuentes a nivel físico. Carlos Gómez ha tenido la ocasión más clara en el lanzamiento de una falta que ha salvado bajo palos la defensa brasileña.",
+  "published": "2026-11-18T22:16:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854761.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st58dd75b486"
+ },
+ {
+  "id": "987d6238bbc0",
+  "url": "https://www.ultimahora.es/noticias/cultura/2026/11/18/2752741/maria-jaume-xanguito-grandes-triunfadores-premis-enderrock-musica-balear.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Maria Jaume y Xanguito, grandes triunfadores de uno Premis Enderrock muy nostálgicos",
+  "summary": "Pocas sorpresas en el palmarés de los novenos Premis de la Música Balear, que se han celebrado este miércoles por la noche en el Teatre Principal de Palma. Con dos galardones cada uno, Maria Jaume y Xanguito fueron los principales ganadores de esta nueva convocatoria que tiene eco de otras ediciones, ya que tanto la de Lloret de Vistalegre como el grupo de Bunyola han conquistado el podio en ocasiones anteriores.",
+  "published": "2026-11-18T21:50:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854753.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "d57153b6c4da",
+  "url": "https://www.ultimahora.es/noticias/cultura/2026/11/18/2752925/joan-miquel-oliver-toni-rubio-nos-consiguio-primer-contrato-antonia-font-virgin-ahi-nacio-alegria.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Joan Miquel Oliver: «Toni Rubio nos consiguió el primer contrato de Antònia Font con Virgin, de ahí nació ‘Alegria’»",
+  "summary": "Joan Miquel Oliver se ha subido este miércoles al escenario del Teatre Principal de Palma para recoger el Premi a Millor Disc de Pop-Cançó d'Autor por Roïssos en la gala de los Premis Enderrock de la Música Balear. En su discurso, el cantautor ha querido recordar el vínculo entre Antònia Font y los Enderrock, un vínculo que pasa por Toni Rubio, promotor musical que falleció el pasado 12 de noviembre demasiado pronto.",
+  "published": "2026-11-18T21:37:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854747.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "43035f145393",
+  "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/18/2752887/cronica-copa-del-rey-alcoyano-mallorca.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "El Alcoyano hace sudar al Mallorca",
+  "summary": "El equipo balear se clasifica sin brillo para la siguiente ronda gracias a los goles de Buksa y Fuentes en la prórroga.",
+  "published": "2026-11-18T21:34:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854633.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stfc2515f370"
+ },
+ {
+  "id": "8f17c03bf797",
+  "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752969/ramib-celebra-sesion-tributo-honor-doctor-javier-cortes.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "La RAMIB celebra una sesión tributo en honor al doctor Javier Cortés",
+  "summary": "La Real Acadèmia de Medicina de les Illes Balears (RAMIB) ha dado en la tarde de este miércoles su último adiós al doctor Javier Cortés, ginecólogo de prestigio nacional e internacional, que falleció el pasado 15 de agosto y que llegó a presidir la entidad. Amigos, conocidos y profesionales del sector se acercaron no solo para recordarlo por sus grandes valores, tanto científicos como humanos, sino también para reconocer su incansable e importante labor investigadora en las lesiones del cuello uterino y en el virus del papiloma humano (VPH). Y es que, ya sea en el ámbito asistencial, investigador o personal, todos los ponentes de la sesión coincidieron en que una figura como la del doctor Cortés difícilmente se podrá volver a repetir.",
+  "published": "2026-11-18T20:57:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854583.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stcdc4bd408a"
+ },
+ {
+  "id": "5bddbd7e8ea5",
+  "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752761/pimem-pide-apoyo-institucional-para-depender-menos-del-turismo.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Pimem pide apoyo institucional para depender menos del turismo",
+  "summary": "La pequeña y mediana empresa de Mallorca reclama a las administraciones que apoyen a la industria y al sector primario para reducir la dependencia de la Isla del turismo. El presidente de Pimem, Jordi Mora, ha pedido la noche de este miércoles durante la gala de premios de la patronal en el teatre Xesc Forteza, un esfuerzo conjunto del Govern, el Consell de Mallorca y de los ayuntamientos para favorecer la diversidad productiva.",
+  "published": "2026-11-18T20:44:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854567.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st36582eba0b"
+ },
+ {
+  "id": "8fda7a53f1a8",
+  "url": "https://www.ultimahora.es/noticias/local/2026/11/18/2752593/colegio-psicologos-homenajea-profesionales-llevan-anos-vinculados-entidad.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "El Colegio de Psicólogos homenajea a los profesionales que llevan 25 años vinculados a la entidad",
+  "summary": "El Colegio de Psicólogos de les Illes Balears (COPIB) ha organizado un homenaje especial a los psicólogos que llevan 25 años de colegiación. En total fueron 46 los profesionales reconocidos en el Hospital Universitario Son Espases por celebrar sus bodas de plata profesionales. El acto, que puso en valor el compromiso de quienes hacen avanzar esta disciplina, sirvió también para reconocer los avances de la Psicología en nuevos ámbitos como en centros educativos o en Atención Primaria, muy reivindicadas por el COPIB.",
+  "published": "2026-11-18T20:31:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854445.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st61ea7bda69"
+ },
+ {
+  "id": "13ca49341d7d",
+  "url": "https://www.ultimahora.es/noticias/palma/2026/11/18/2752945/palma-identifica-personas-viven-antiguos-pisos-funcionarios-antigua-carcel.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Palma identifica a 47 personas que viven en los pisos de funcionarios de la antigua cárcel",
+  "summary": "El Ajuntament de Palma ha identificado a 47 personas que moran en las antiguas viviendas de los funcionarios de la antigua cárcel de Palma. La portavoz del equipo de gobierno, Mercedes Celeste, señaló este miércoles que «la Policía Local ha identificado a los residentes y no hemos encontrado ningún niño». Celeste añadió que «Serveis Socials ya ha hecho algunas intervenciones en más de 30 casos de estas personas. La casuística es muy diferente a la de los que vivían en el recinto de la antigua prisión». Este censo es un paso previo al desalojo, que está en proceso, aunque «es diferente al de la antigua prisión ya que allí había un riesgo inminente».",
+  "published": "2026-11-18T20:23:00.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854439.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stdb23ae2248"
+ },
+ {
+  "id": "03ab40870177",
+  "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/18/2752803/restaurantes-llenos-calles-repletas-noche-del-dimecres-bo.html",
+  "sourceId": "ultimahora",
+  "lang": "es",
+  "title": "Restaurantes llenos y calles repletas en la noche del Dimecres Bo",
+  "summary": "Ni las incómodas rachas de viento ni un tiempo tirando a desagradable han impedido este miércoles que las calles de Inca y los restaurantes de la capital del Raiguer hayan presentado un llenazo como el de cada ‘revetlla’ del Dijous Bo. Las calles del centro, en la zona del Mercat Cobert, han comenzado la actividad festiva con tardeos e incluso ha habido quien se ha adelantado con vermuts. Además, las empresas que participan en el Dijous Bo han aprovechado para celebrar almuerzos con los empleados y algunos partidos, ahora que estamos en plena campaña electoral, han aprovechado para organizar una comida en sus propias sedes.",
+  "published": "2026-11-18T20:02:16.000Z",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/4854379.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st221b6d424c"
+ },
+ {
+  "id": "ce41fd9b3023",
+  "url": "https://www.diariodemallorca.es/mallorca/2026/11/18/premios-pimem-reune-ocho-empresas-136585316.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Los premios PIMEM reúne a ocho empresas por su trayectoria e innovación y apuesta por el producto local en la isla",
+  "summary": "La Federación de la Pequeña y Mediana Empresa de Mallorca (PIMEM) ha celebrado este martes la entrega de sus premios anuales, con los que reconoce la trayectoria y la aportación de pequeñas y medianas empresas al tejido económico de la isla. En esta edición, ocho empresas y entidades han recibido los galardones en diferentes categorías, que ponen en valor la diversidad productiva, la innovación, la tradición empresarial y la calidad del producto local.",
+  "published": "2026-11-18T20:00:05.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/2b47eed9-44ea-4fea-9040-d4486128272e_16-9-aspect-ratio_default_0_x1024y512.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stddf83e08ed"
+ },
+ {
+  "id": "142cc0c483c1",
+  "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/dimecres-bo-calienta-motores-gran-136584462.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "El Dimecres Bo calienta los motores de la gran feria: \"Es el mejor momento\"",
+  "summary": "Inca vive este miércoles su noche más multitudinaria del año. El Dimecres Bo, la víspera de la gran feria, ha vuelto a convertir las calles y los establecimientos de ocio de la ciudad del Raiguer en un punto de encuentro para miles de personas que aprovechan la jornada para disfrutar de una larga noche de fiesta. Una celebración que, en principio, se prolongará hasta las cinco de la madrugada, con tiempo suficiente para que la música y la diversión no interfirieran en la celebración del Dijous Bo, la feria de ferias que este jueves vuelve a tomar las calles de la ciudad.",
+  "published": "2026-11-18T20:00:36.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/0f1818cc-39c6-43cb-b02f-774b52f8039b_16-9-aspect-ratio_default_0_x609y270.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st221b6d424c"
+ },
+ {
+  "id": "5d7c3448c42a",
+  "url": "https://www.diariodemallorca.es/sucesos/2026/11/19/muere-madrid-mujer-apunalada-hombre-136600262.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Muere en Madrid una mujer apuñalada por un hombre con el que mantenía una relación",
+  "summary": "Una mujer de 47 años ha muerto este miércoles por la noche tras recibir varias puñaladas en una vivienda del municipio madrileño de Parla a manos de un hombre con el que mantenía o había mantenido una relación, suceso que la Policía Nacional investiga como un posible caso de violencia machista.",
+  "published": "2026-11-18T23:41:51.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/c99f4b6a-7e09-4385-9148-a3c138c1c9ce_16-9-aspect-ratio_default_0_x1200y600.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "ea98935518fe",
+  "url": "https://www.diariodemallorca.es/deportes/2026/11/18/palma-futsal-remonta-volver-luchar-136598360.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "El Palma Futsal remonta para volver a luchar por ser campeón del mundo",
+  "summary": "El Illes Balears Palma Futsal nunca se rinde. Los mallorquines sufrieron de lo lindo para derrotar al campeón de América en la prórroga (3-1) y meterse en la final de la Copa Intercontinental (23h/IB3 TV-Dazn) de este jueves ante el Sporting de Portugal, que venció por 7-4 al anfitrión Pato Futsal. Los goles de Charuto, David Peña y Dennis sirvieron para lograr una memorable remontada ante un Carlos Barbosa que evidenció por qué es uno de los grandes del fútbol sala internacional.",
+  "published": "2026-11-18T22:22:36.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/fe61d10d-b743-442e-b431-31f19dbcd472_16-9-aspect-ratio_default_0_x800y355.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st58dd75b486"
+ },
+ {
+  "id": "58af5c87b5b2",
+  "url": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/18/luis-garcia-victoria-alcoyano-hemos-136598389.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Luis García, tras la victoria ante el Alcoyano: \"Hemos tenido situaciones para habernos ahorrado esa prórroga”",
+  "summary": "Luis García destaca la paciencia y la insistencia del Mallorca para superar al Alcoyano en la primera ronda de la Copa del Rey (1-3). Los bermellones tuvieron que recurrir a la prórroga para sellar el pase, después de un encuentro en el que dominaron, pero les faltó acierto en los metros finales. Así lo reconoció el técnico: “Hemos tenido el control del partido todo el rato, faltaba encontrar esa última acción, ya sea de centro, ya sea de un pase interior, ya sea de una finalización exterior…”.",
+  "published": "2026-11-18T22:15:01.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/5e4b5c5d-d117-4fd0-91e8-586b2856ef68_16-9-aspect-ratio_default_0_x668y1152.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stfc2515f370"
+ },
+ {
+  "id": "53908383bf90",
+  "url": "https://www.diariodemallorca.es/fotos/cultura/2026/11/18/fotos-premis-enderrock-musica-balear-136598095.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "FOTOS | Premis Enderrock de la Música Balear, en imágenes",
+  "summary": "FOTOS | Premis Enderrock de la Música Balear, en imágenes",
+  "published": "2026-11-18T21:47:01.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/5fce7b0e-3dcf-4166-abbd-a721553edd9a_16-9-aspect-ratio_default_0_x1000y444.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "49842fe64308",
+  "url": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/18/pobre-mallorca-sufre-alcoyano-salva-136595983.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Un pobre Mallorca sufre ante el Alcoyano y se salva en la prórroga",
+  "summary": "El Mallorca afrontaba en Alcoy una buena oportunidad para dejar atrás las dudas, tanto deportivas como institucionales, que han marcado la última semana del club. Sin embargo, ni el empate ante el Córdoba ni la destitución de Pablo Ortells parecen haber encontrado respuesta sobre el terreno de juego. Pese a la victoria por 1-3, los bermellones volvieron a ofrecer una imagen que no hace más que alimentar la incertidumbre.",
+  "published": "2026-11-18T21:40:29.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/f9b673e5-de1f-4aeb-8042-c53bf803e4d3_16-9-aspect-ratio_default_0_x800y355.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stfc2515f370"
+ },
+ {
+  "id": "30ff4b818c55",
+  "url": "https://www.diariodemallorca.es/cultura/2026/11/18/maria-jaume-xanguito-doblete-premis-136587316.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Maria Jaume y Xanguito hacen doblete en los Premis Enderrock de la Música Balear",
+  "summary": "Con dos galardones cada uno, Maria Jaume y Xanguito han sido los principales ganadores de la novena edición de los Premios Enderrock de la Música Balear, que se han entregado esta noche en una gala celebrada en el Teatre Principal de Palma. La artista de Lloret de Vistalegre, que este año ha presentado su cuarto álbum, Sant Domingo Forever (Halley Records, 2026), ha sido premiada como Mejor Artista del Año tanto en la votación popular como de la crítica. Por su parte, el grupo bunyolí Xanguito ha recibido dos galardones del público en las categorías de Mejor Directo y Mejor Disco de Pop-rock por su último trabajo, Batecs (Halley Supernova, 2026). Hace apenas dos años la banda liderada por Joan Muntaner ya recogió los mismos premios, en aquella ocasión vinculados al álbum Bon rotllo (Halley Records, 2024).",
+  "published": "2026-11-18T21:00:46.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/5fce7b0e-3dcf-4166-abbd-a721553edd9a_16-9-aspect-ratio_default_0_x1000y444.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "29c6644b246d",
+  "url": "https://www.diariodemallorca.es/sociedad/2026/11/18/sorteo-bonoloto-miercoles-18-noviembre-136596685.html",
+  "sourceId": "diariodemallorca",
+  "lang": "es",
+  "title": "Sorteo Bonoloto del miércoles 18 de noviembre de 2026",
+  "summary": "El resultado de la Bonoloto del miércoles 18 de noviembre de 2026 es: 4, 5, 9, 15, 37 y 44, siendo el número complementario el 24 y el reintegro el 7. Si después de comprobar tu boleto no has tenido suerte, puedes volver a intentarlo el jueves 19 de noviembre, ya que Loterías y Apuestas del Estado también celebra el sorteo de la Bonoloto.",
+  "published": "2026-11-18T20:41:02.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/9b886712-0ec5-4918-b7db-db54e79493d0_16-9-aspect-ratio_default_0.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "5bbfe0658185",
+  "url": "https://www.diariodeibiza.es/ibiza/2026/11/18/vivienda-ibiza-experto-consell-de-ibiza-136588925.html",
+  "sourceId": "diariodeibiza",
+  "lang": "es",
+  "title": "\"El suelo tiene que dejar de ser algo político\": un experto opina sobre la crisis de vivienda en Ibiza y Formentera",
+  "summary": "\"Os sorprendería lo de acuerdo que están ambos partidos mayoritarios sobre sus leyes de suelo. El suelo tiene que dejar de ser algo político\". Esta fue la reflexión que compartió Omar García Glumaz, director del Centre d'Empreses de Negoci Immobiliari de CaixaBank, durante la mesa redonda 'Más vivienda, menos barreras, ¿cómo avanzamos?', celebrada este miércoles en el Consell de Ibiza. El experto en operaciones inmobiliarias hizo énfasis en la gestión del territorio: \"El urbanismo va antes que las viviendas\", afirmó. \"Hay muchas cosas que ya están inventadas. Hay que ver qué están haciendo las comunidades que están sacando 5.000 viviendas al año\".",
+  "published": "2026-11-18T19:44:18.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/df49d21e-1e19-47be-aed0-da0597c39e4f_16-9-aspect-ratio_default_0_x810y360.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st48d94812a2"
+ },
+ {
+  "id": "a58c300a62b8",
+  "url": "https://www.diariodeibiza.es/sucesos/2026/11/19/muere-madrid-mujer-apunalada-hombre-136600261.html",
+  "sourceId": "diariodeibiza",
+  "lang": "es",
+  "title": "Muere en Madrid una mujer apuñalada por un hombre con el que mantenía una relación",
+  "summary": "Una mujer de 47 años ha muerto este miércoles por la noche tras recibir varias puñaladas en una vivienda del municipio madrileño de Parla a manos de un hombre con el que mantenía o había mantenido una relación, suceso que la Policía Nacional investiga como un posible caso de violencia machista.",
+  "published": "2026-11-18T23:41:51.000Z",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/c99f4b6a-7e09-4385-9148-a3c138c1c9ce_16-9-aspect-ratio_default_0_x1200y600.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "b9578b5e9e8d",
+  "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752983/historico-class-accede-por-primera-vez-cuartos-copa-espana.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "Un histórico Class accede por primera vez a los cuartos de la Copa de España",
+  "summary": "El Class Bàsquet Sant Antoni hizo este miércoles historia y se clasificó por primera vez para los cuartos de final de la Copa de España. El equipo ‘portmanyí’ barrió de la pista a la Cultural y Deportiva Leonesa (79-104) tras un último cuarto memorable. Los isleños se enfrentarán ahora al HLA Alicante, líder de la Primera FEB y con pasado en la ACB, que superó al Melilla Ciudad del Deporte por 70-80. La eliminatoria se jugará el 15 o 16 de diciembre en el Pabellón Siroko Sa Pedrera, también a partido único.",
+  "published": "2026-11-18T21:49:21.000Z",
+  "image": "https://ibi.gsstatic.es/sfAttachPlugin/4854743.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stb06f068bc5"
+ },
+ {
+  "id": "18eae11de9b9",
+  "url": "https://www.periodicodeibiza.es/opinion/firmas-del-dia/2026/11/18/2752977/deu-compromisos-amb-llengua.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "Deu compromisos amb la llengua",
+  "summary": "A les portes d’unes eleccions generals espanyoles és un bon moment perquè les associacions intentin comprometre els partits polítics que s’hi presenten en determinats projectes i objectius. També és un bon moment per dur a terme entrevistes amb els candidats (o equips de campanya) de les diferents formacions polítiques per tal de poder informar els votants sobre quins són els compromisos adquirits. (Llavors, evidentment, la pràctica prèvia constituirà un element que ens permetrà d’avaluar-ne la credibilitat, però això ja va a compte de cadascú).",
+  "published": "2026-11-18T21:26:01.000Z",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "d54e0925803a",
+  "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752957/enric-pons-regresa-ultra-dias-trail-ibiza-tras-dos-subcampeonatos-consecutivos.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "Enric Pons regresa a la Ultra de 3 Días Trail Ibiza tras dos subcampeonatos consecutivos",
+  "summary": "Enric Pons volverá a estar en la línea de salida de la Ultra de 3 Días Trail Ibiza. El corredor de Mahón, integrante del equipo Kailas FUGA y con un ranking ITRA de 842 puntos, afrontará una nueva participación en la prueba ibicenca después de haber firmado dos segundos puestos consecutivos en la distancia reina, en 2024 y 2025.",
+  "published": "2026-11-18T20:35:33.000Z",
+  "image": "https://ibi.gsstatic.es/sfAttachPlugin/4854455.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "sta2d00ddc50"
+ },
+ {
+  "id": "f77d27e59a44",
+  "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752949/cubells-acoge-concentracion-dos-campeones-del-mundo.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "Es Cubells acoge una concentración con dos campeones del mundo",
+  "summary": "Es Cubells acoge hasta el sábado una concentración de la Real Federación Española de Tiro con Arco, que reúne a deportistas del equipo nacional, del Centro de Alto Rendimiento de Madrid y de los diferentes centros de tecnificación de todo el país.",
+  "published": "2026-11-18T20:27:53.000Z",
+  "image": "https://ibi.gsstatic.es/sfAttachPlugin/4854447.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "staf656e7c0d"
+ },
+ {
+  "id": "3730fd1f459c",
+  "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752947/frau-nigro-massina-bussolari-reinan-the-last-sand-ibiza.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "Frau-Nigro y Massina-Bussolari reinan en The Last Sand Ibiza",
+  "summary": "Ibiza continúa consolidándose como destino de referencia para el tenis playa tras la celebración del torneo The Last Sand Ibiza, organizado por Ibiza Beach Tennis durante el pasado fin de semana en Cala Llonga.",
+  "published": "2026-11-18T20:25:00.000Z",
+  "image": "https://ibi.gsstatic.es/sfAttachPlugin/4854441.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stbcdb55d52f"
+ },
+ {
+  "id": "055f556d22e7",
+  "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/18/2752943/sant-jordi-tumba-santanyi-mete-zona-playoff-ascenso.html",
+  "sourceId": "periodicodeibiza",
+  "lang": "es",
+  "title": "El Sant Jordi tumba al Santanyí y se mete en zona de ‘playoff’ de ascenso",
+  "summary": "La Penya Esportiva Sant Jordi ha dado el salto a la zona de playoff tras ganar este miércoles al Santanyí por 3-2 en partido aplazado correspondiente a la séptima jornada. Por su parte, el Formentera rascó un punto en su visita al feudo del Binissalem (1-1).",
+  "published": "2026-11-18T20:15:34.000Z",
+  "image": "https://ibi.gsstatic.es/sfAttachPlugin/4854417.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stad6683bb70"
+ },
+ {
+  "id": "84c6831a6085",
+  "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/18/2752855/rosario-sanchez-nunca-mantenido-ningun-hombre.html",
+  "sourceId": "menorcainfo",
+  "lang": "es",
+  "title": "Rosario Sánchez: «Nunca me ha mantenido ningún hombre»",
+  "summary": "La candidata del PSIB al Govern en 2027 y secretario de Estado de Turismo, Rosario Sánchez, se defendió ayer de las críticas del PP tras conocerse que la empresa de su pareja gestiona múltiples alquileres así como una vivienda vacacional. «Nunca me ha mantenido ningún hombre», asevera en un vídeo publicado en redes sociales en el que lamenta los ataques a su familia.",
+  "published": "2026-11-18T18:25:00.000Z",
+  "image": "https://men.gsstatic.es/sfAttachPlugin/4854283.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st8a7c0056d4"
+ },
+ {
+  "id": "fd0d06ed5b79",
+  "url": "https://www.menorca.info/balears/noticias/2026/11/18/2752189/sor-lucia-caram-pregunta-donde-esta-dios-hay-guerra-sino-donde-estamos-nosotros.html",
+  "sourceId": "menorcainfo",
+  "lang": "es",
+  "title": "Sor Lucía Caram: «La pregunta no es dónde está Dios si hay guerra sino dónde estamos nosotros»",
+  "summary": "Un cura muy mediático, el párroco de Calvià, Carlos Fuentes –que además es el delegado de Comunicación del Obispado– y una monja más mediática todavía, sor Lucía Caram, han preparado para este miércoles en la iglesia de Peguera una velada especial. Será a las 19.00 horas. Se recogerán donativos para comprar generadores que luego se enviarán a Ucrania. Los llevará la propia sor Lucía Caram, que habrá hablado antes del papel de Dios en las guerras.",
+  "published": "2026-11-18T03:48:00.000Z",
+  "image": "https://men.gsstatic.es/sfAttachPlugin/4853239.webp",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "99115fa45be7",
+  "url": "https://www.menorca.info/balears/noticias/2026/11/18/2751547/veterinarios-reunen-mas-medio-millon-firmas-para-derogar-norma-restringe-uso-antibioticos.html",
+  "sourceId": "menorcainfo",
+  "lang": "es",
+  "title": "Los veterinarios reúnen más de medio millón de firmas para derogar la norma que restringe el uso de antibióticos",
+  "summary": "Dos años después de la entrada en vigor de la normativa estatal que restringe el uso de antibióticos y prohíbe la venta de medicamentos en las consultas veterinarias la Confederación Empresarial Veterinaria Española (CEVE), presidida por el mallorquín Sebastià Rotger Campins, ha registrado más de medio millón de firmas para impulsar una iniciativa Legislativa Popular (ILP) que persigue derogar el Real Decreto 666/2023.",
+  "published": "2026-11-18T03:48:00.000Z",
+  "image": "https://men.gsstatic.es/sfAttachPlugin/4852185.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st4da43d082f"
+ },
+ {
+  "id": "56b54b3cd2e3",
+  "url": "https://www.arabalears.cat/politica/gra-provocar-secret-vox-balears-arrasar-xarxes_1_5902615.html",
+  "sourceId": "arabalears",
+  "lang": "ca",
+  "title": "Anar al gra i provocar: el secret de Vox Balears per arrasar a les xarxes",
+  "summary": "Vídeos de menys d’un minut, amb música èpica de fons i missatges extremadament simples i provocadors. Vox s’ha fet expert en aquesta fórmula i és líder indiscutible a les xarxes socials, per davant de la resta de formacions de les Illes. Encara que la cúpula del partit a Madrid ho decideix pràcticament tot, fonts de la formació expliquen que no és així en el maneig de les xarxes. Hi ha equips de comunicació especialitzats en cada territori formats per gent jove amb domini del llenguatge d’Internet, i se’ls dona llibertat creativa. Hi ha talls del portaveu adjunt de Vox al Parlament amb 1,8 milions de visualitzacions a Facebook i vídeos contra l’islam que s’han traduït a l’anglès i tenen comentaris en xinès, rus i coreà. La resta dels partits intenten guanyar-li terreny, però admeten que són en una altra lliga.",
+  "published": "2026-11-18T20:42:49.000Z",
+  "image": "https://static1.ara.cat/clip/3b95534c-d36e-4da6-8f24-ed4358a05504_16-9-aspect-ratio_default_0.png",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "3b0f220be891",
+  "url": "https://www.arabalears.cat/politica/rosario-sanchez-respon-prohens-pp-mai-m-mantingut-cap-home_1_5915193.html",
+  "sourceId": "arabalears",
+  "lang": "ca",
+  "title": "Rosario Sánchez respon a Prohens i al PP: “Mai m’ha mantingut cap home”",
+  "summary": "Rosario Sánchez ha acusat la presidenta del Govern balear, Marga Prohens, d’atacar a la seva família i d’utilitzar qüestions personals per a desacreditar-la políticament, i li ha advertit que ni ella ni el PP aconseguiran intimidar-la. “Mai m’ha mantingut cap home”, ha remarcat la socialista.",
+  "published": "2026-11-18T19:35:03.000Z",
+  "image": "https://static1.ara.cat/clip/4eb390ad-a2bd-4585-a28e-58e8d07417d2_16-9-aspect-ratio_default_0.png",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st8a7c0056d4"
+ },
+ {
+  "id": "4da6ba8261c0",
+  "url": "https://www.arabalears.cat/educacio/pizzes-kitkat-brioixeria-industrial-aixi-campanya-l-anpe-eleccions-sindicals_1_5913129.html",
+  "sourceId": "arabalears",
+  "lang": "ca",
+  "title": "Pizzes, KitKat i brioixeria industrial: així fa campanya l’ANPE per a les eleccions sindicals",
+  "summary": "Pizzes, barretes de KitKat, donuts, magdalenes, brioixeria industrial farcida de xocolata, plàtans i cafè caputxino. Aquesta és part de l’oferta amb què el sindicat ANPE recorre els centres educatius de les Balears en plena campanya per a les eleccions sindicals docents del pròxim 2 de desembre per promoure el vot cap a ells. L’organització ha intensificat les visites als col·legis i instituts amb el repartiment de menjar entre els treballadors, segons expliquen docents que han presenciat aquestes accions.",
+  "published": "2026-11-18T20:19:01.000Z",
+  "image": "https://static1.ara.cat/clip/11b1a39f-f6d4-4bd6-bd20-a5eb3c241415_16-9-aspect-ratio_default_0.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st80666ef875"
+ },
+ {
+  "id": "7230b34364cc",
+  "url": "https://www.arabalears.cat/societat/costa-l-us-catala-tingui-continuitat-fora-l-aula_128_5898903.html",
+  "sourceId": "arabalears",
+  "lang": "ca",
+  "title": "“Ens costa que l’ús del català tingui continuïtat fora de l’aula”",
+  "summary": "El 22% de la població de les Illes Balears té la nacionalitat estrangera i prop del 30% ha nascut fora d'Espanya, fet que representa els percentatges més alts de l'Estat. L'alumnat d'Incorporació Tardana al sistema educatiu s'ha incrementat a les Illes un 425% entre els cursos 2021-2022 i 2025-2026, i ha passat dels 1.297 als 6.814. Es tracta d'alumnes que tenen una llengua d'herència diferent del català, amb el hàndicap que molts sí que tenen el castellà com a llengua inicial. El Programa d'Acolliment Lingüístic i Cultural, regulat per la Conselleria d'Educació des del 2002, permet que cada centre educatiu concreti les mesures d'acollida i suport lingüístic i curricular adreçades a l'alumnat que s'incorpora tard al sistema educatiu i no coneix o domina el català. Entre les mesures que preveu hi ha tallers, aules d’acollida i de reforç, per facilitar que l’alumne s’incorpori al grup i pugui seguir els estudis.",
+  "published": "2026-11-18T20:29:34.000Z",
+  "image": "https://static1.ara.cat/clip/994cdebe-957a-43c4-8393-a8b06d14d15e_16-9-aspect-ratio_default_0.jpg",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st90d5b2265b"
+ },
+ {
+  "id": "6c0921863519",
+  "url": "https://www.arabalears.cat/media/tenen-veure-piano-ordinador-acordio-telefon_1_5912961.html",
+  "sourceId": "arabalears",
+  "lang": "ca",
+  "title": "Què tenen a veure un piano, un ordinador, un acordió i un telèfon?",
+  "summary": "Què tenen en comú un piano, un ordinador, un acordió i un telèfon? Que tots tenen tecles. I què relaciona una lletra, un canó, el plom i l’esquerra? Que tots formen part d’expressions amb la paraula peu : al peu de la lletra, al peu del canó, anar amb peus de plom i aixecar-se amb el peu esquerre. Aquesta és la proposta de Connectats.app, la versió en català del Connections, el popular joc del New York Times en què cal formar grups de quatre paraules a partir del nexe que tenen en comú. L’ARA Balears ha parlat amb el seu creador, Marc Vendrell, sobre l’origen del projecte i els reptes de crear un joc de paraules en català.",
+  "published": "2026-11-18T20:06:35.000Z",
+  "image": "https://static1.ara.cat/clip/5d9696f4-bb64-4435-94f1-819b6a5a44a5_4-3-aspect-ratio_default_0.jpg",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "b47e5fa43652",
+  "url": "https://www.dbalears.cat/balears/economia/2026/11/19/424185/pimem-lliura-els-seus-premis-per-reconeixer-tasca-empreses-fan-possible-avancar-cap-nou-context-economic-social.html",
+  "sourceId": "dbalears",
+  "lang": "ca",
+  "title": "PIMEM lliura els seus premis per reconèixer la tasca d’empreses «que fan possible avançar cap a un nou context econòmic i social»",
+  "summary": "Un any més la Federació de la Petita i Mitjana Empresa de Mallorca",
+  "published": "2026-11-18T23:45:00.000Z",
+  "image": "https://db.gsstatic.es/sfAttachPlugin/266223.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "stddf83e08ed"
+ },
+ {
+  "id": "1dd8d3363ac9",
+  "url": "https://www.dbalears.cat/balears/cultura/2026/11/19/424183/palmares-2026-dels-premis-enderrock-musica-balear.html",
+  "sourceId": "dbalears",
+  "lang": "ca",
+  "title": "Palmarès 2026 dels IX Premis Enderrock de la Música Balear",
+  "summary": "Aquest és el Palmarès 2026 dels IX Premis Enderrock",
+  "published": "2026-11-18T23:27:00.000Z",
+  "image": "https://db.gsstatic.es/sfAttachPlugin/266221.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "afa6e2d20395",
+  "url": "https://www.dbalears.cat/balears/cultura/2026/11/19/424181/maria-jaume-xanguito-guanyadors-per-partida-doble-als-premis-enderrock-musica-balear-2026.html",
+  "sourceId": "dbalears",
+  "lang": "ca",
+  "title": "Maria Jaume i Xanguito, guanyadors per partida doble als Premis Enderrock de la Música Balear 2026",
+  "summary": "Amb dos guardons cadascú, Maria Jaume i Xanguito",
+  "published": "2026-11-18T23:06:00.000Z",
+  "image": "https://db.gsstatic.es/sfAttachPlugin/266215.webp",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "fddab76db7bc",
+  "url": "https://ib3.org/resum-ib3-noticies-vespre-18-11-2026",
+  "sourceId": "ib3",
+  "lang": "ca",
+  "title": "RESUM IB3 NOTÍCIES VESPRE 18/11/2026",
+  "summary": "VESPRE",
+  "published": "2026-11-18T20:20:06.000Z",
+  "image": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20351561_1.webp",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "4328ab28ca2f",
+  "url": "https://ib3.org/maria-jaume-julia-colom-i-maria-del-mar-bonet-triomfen-als-premis-enderrock",
+  "sourceId": "ib3",
+  "lang": "ca",
+  "title": "Maria Jaume, Júlia Colom i Maria del Mar Bonet triomfen als Premis Enderrock",
+  "summary": "Maria Jaume, Júlia Colom i Maria del Mar Bonet són les tres principals guardonades per la crítica dins els premis enderrock de la música Balear. Jaume ha rebut el guardó a millor artista de l’any, Colom ha triomfat dins la categoria de millor disc pel seu treball “Paradís” i Bonet ha rebut el premi especial […]",
+  "published": "2026-11-18T20:13:38.000Z",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st5614f96227"
+ },
+ {
+  "id": "ee0b99a8de6e",
+  "url": "https://ib3.org/bloc-electoral-vespre-18-11-2026",
+  "sourceId": "ib3",
+  "lang": "ca",
+  "title": "Bloc Electoral Vespre 18/11/2026",
+  "summary": "",
+  "published": "2026-11-18T20:11:01.000Z",
+  "image": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20351521_1.webp",
+  "status": "irrelevant",
+  "fetchedAt": "2026-11-19T01:27:46.682Z"
+ },
+ {
+  "id": "b2898fa14f02",
+  "url": "https://ib3.org/rosario-sanchez-mai-mha-mantengut-cap-home",
+  "sourceId": "ib3",
+  "lang": "ca",
+  "title": "Rosario Sánchez: “Mai m’ha mantengut cap home.”",
+  "summary": "Rosario Sánchez ha respost aquest dimecres capvespre les acusacions sobre el patrimoni immobiliari de la seva parella. La candidata del PSIB a la presidència del Govern ha defensat la seva independència econòmica.",
+  "published": "2026-11-18T20:02:55.000Z",
+  "status": "clustered",
+  "fetchedAt": "2026-11-19T01:27:46.682Z",
+  "storyId": "st8a7c0056d4"
  }
 ]
