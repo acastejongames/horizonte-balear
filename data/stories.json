@@ -1,5 +1,1193 @@
 [
  {
+  "id": "st8179f07fbe",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T09:02:49.000Z",
+  "articles": [
+   {
+    "id": "f20bc26b4f63",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/ibiza-feria-navidad-sa-joveria-churros-136652429.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Cuenta atrás para la Feria de Navidad de Ibiza: ¡prepara el estómago para las atracciones y los churros!",
+    "published": "2026-11-20T09:02:49.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T09:02:49.000Z"
+ },
+ {
+  "id": "st851336f4f6",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T08:22:00.000Z",
+  "articles": [
+   {
+    "id": "4ad0ca5e20ac",
+    "url": "https://www.menorca.info/menorca/sucesos/2026/11/20/2753785/motorista-resulta-herido-tras-accidente-variante-alaior.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Un motorista resulta herido grave tras un accidente en la variante de Alaior",
+    "published": "2026-11-20T08:22:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T08:22:00.000Z"
+ },
+ {
+  "id": "st691042d424",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T07:30:54.000Z",
+  "articles": [
+   {
+    "id": "560a8d075c18",
+    "url": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753771/criticas-erc-frente-amplio-sanchez-tras-cara-cara-mientras-psoe-denuncia-falsedades-feijoo.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Críticas de ERC y Frente Amplio a Sánchez tras el cara a cara mientras el PSOE denuncia «falsedades» de Feijóo",
+    "published": "2026-11-20T07:51:00.000Z"
+   },
+   {
+    "id": "7a9a857d96c0",
+    "url": "https://www.mallorcadiario.com/prohens-felicita-a-feijoo-por-dejar-en-evidencia-que-el-sanchismo-es-un-proyecto-agotado",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Prohens felicita a Feijóo \"por dejar en evidencia que el sanchismo es un proyecto agotado\"",
+    "published": "2026-11-20T07:30:54.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-20T07:51:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-20T09:17:37.784Z",
+  "hidden": true
+ },
+ {
+  "id": "sta00e8359da",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:42:30.000Z",
+  "articles": [
+   {
+    "id": "18459a5cc20b",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753017/experiencias-turisticas-menorca-buscan-mar.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Las experiencias turísticas de Menorca buscan el mar",
+    "published": "2026-11-20T06:42:30.000Z"
+   },
+   {
+    "id": "bdbddc67462a",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753017/experiencias-turisticas-menorca-buscan-mar.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Las experiencias turísticas de Menorca buscan el mar",
+    "published": "2026-11-20T06:42:30.000Z"
+   },
+   {
+    "id": "739981fdf5d5",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753017/experiencias-turisticas-menorca-buscan-mar.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Las experiencias turísticas de Menorca buscan el mar",
+    "published": "2026-11-20T06:42:30.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:42:30.000Z"
+ },
+ {
+  "id": "st52ae04f497",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:42:10.000Z",
+  "articles": [
+   {
+    "id": "31958efcb53d",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753029/eivissa-busca-consolidar-turismo-familiar.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Eivissa busca consolidar el turismo familiar",
+    "published": "2026-11-20T06:42:10.000Z"
+   },
+   {
+    "id": "0331195d20b6",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753029/eivissa-busca-consolidar-turismo-familiar.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Eivissa busca consolidar el turismo familiar",
+    "published": "2026-11-20T06:42:10.000Z"
+   },
+   {
+    "id": "94b725dbdc30",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753029/eivissa-busca-consolidar-turismo-familiar.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Eivissa busca consolidar el turismo familiar",
+    "published": "2026-11-20T06:42:10.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:42:10.000Z"
+ },
+ {
+  "id": "st307071582d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:41:45.000Z",
+  "articles": [
+   {
+    "id": "6eac7633c855",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753011/sundock-solucion-para-ampliar-amarres.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Sundock: una solución para ampliar los amarres",
+    "published": "2026-11-20T06:41:45.000Z"
+   },
+   {
+    "id": "fc395f1ceeb6",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753011/sundock-solucion-para-ampliar-amarres.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Sundock: una solución para ampliar los amarres",
+    "published": "2026-11-20T06:41:45.000Z"
+   },
+   {
+    "id": "46028f5965cd",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753011/sundock-solucion-para-ampliar-amarres.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sundock: una solución para ampliar los amarres",
+    "published": "2026-11-20T06:41:45.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:41:45.000Z"
+ },
+ {
+  "id": "stf3d01c9182",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:40:53.000Z",
+  "articles": [
+   {
+    "id": "fee431afdf50",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2752573/paisaje-cuida.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El paisaje que cuida",
+    "published": "2026-11-20T06:40:53.000Z"
+   },
+   {
+    "id": "69250309822f",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2752573/paisaje-cuida.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El paisaje que cuida",
+    "published": "2026-11-20T06:40:53.000Z"
+   },
+   {
+    "id": "024927360523",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2752573/paisaje-cuida.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El paisaje que cuida",
+    "published": "2026-11-20T06:40:53.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:40:53.000Z"
+ },
+ {
+  "id": "st30f6e1fff1",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:40:39.000Z",
+  "articles": [
+   {
+    "id": "c4f80bdba36c",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753069/puede-sexo-hacer-caer-empresa-mas-importante.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "¿Puede el sexo hacer caer a la empresa más importante?",
+    "published": "2026-11-20T06:40:39.000Z"
+   },
+   {
+    "id": "4f759da29feb",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753069/puede-sexo-hacer-caer-empresa-mas-importante.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "¿Puede el sexo hacer caer a la empresa más importante?",
+    "published": "2026-11-20T06:40:39.000Z"
+   },
+   {
+    "id": "ce72a591cbbc",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753069/puede-sexo-hacer-caer-empresa-mas-importante.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "¿Puede el sexo hacer caer a la empresa más importante?",
+    "published": "2026-11-20T06:40:39.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:40:39.000Z"
+ },
+ {
+  "id": "st2cb557bb0d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:40:27.000Z",
+  "articles": [
+   {
+    "id": "604ab55a3777",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753075/instagram-instagram.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Instagram sin Instagram",
+    "published": "2026-11-20T06:40:27.000Z"
+   },
+   {
+    "id": "b628d3792160",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753075/instagram-instagram.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Instagram sin Instagram",
+    "published": "2026-11-20T06:40:27.000Z"
+   },
+   {
+    "id": "d9a54ba8c8f9",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753075/instagram-instagram.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Instagram sin Instagram",
+    "published": "2026-11-20T06:40:27.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:40:27.000Z"
+ },
+ {
+  "id": "stf4b6983f15",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:39:59.000Z",
+  "articles": [
+   {
+    "id": "3e02ebe9ba2b",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753101/open-studio-camp-empresa-creatividad-cultura.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Open Studio Camp: empresa, creatividad y cultura",
+    "published": "2026-11-20T06:39:59.000Z"
+   },
+   {
+    "id": "61878bae4934",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753101/open-studio-camp-empresa-creatividad-cultura.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Open Studio Camp: empresa, creatividad y cultura",
+    "published": "2026-11-20T06:39:59.000Z"
+   },
+   {
+    "id": "d88fa74bd971",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753101/open-studio-camp-empresa-creatividad-cultura.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Open Studio Camp: empresa, creatividad y cultura",
+    "published": "2026-11-20T06:39:59.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:39:59.000Z"
+ },
+ {
+  "id": "stc1247d5a1d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:39:38.000Z",
+  "articles": [
+   {
+    "id": "3d59e143c87b",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753257/predocs-industrials-conecta-empresas-investigadores.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Predocs Industrials conecta empresas e investigadores",
+    "published": "2026-11-20T06:39:38.000Z"
+   },
+   {
+    "id": "0d0347593851",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753257/predocs-industrials-conecta-empresas-investigadores.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Predocs Industrials conecta empresas e investigadores",
+    "published": "2026-11-20T06:39:38.000Z"
+   },
+   {
+    "id": "73327234202e",
+    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753257/predocs-industrials-conecta-empresas-investigadores.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Predocs Industrials conecta empresas e investigadores",
+    "published": "2026-11-20T06:39:38.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:39:38.000Z"
+ },
+ {
+  "id": "st173d789fef",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:38:00.000Z",
+  "articles": [
+   {
+    "id": "4da0d954c0a0",
+    "url": "https://www.ultimahora.es/noticias/palma/2026/11/20/2753755/fuga-agua-sorprende-madrugada-conductores-avenida-argentina-palma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Una fuga de agua sorprende de madrugada a los conductores en la avenida Argentina de Palma",
+    "published": "2026-11-20T06:38:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:38:00.000Z"
+ },
+ {
+  "id": "st22a0956bb1",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:07:47.000Z",
+  "articles": [
+   {
+    "id": "67c428009cd1",
+    "url": "https://www.mallorcadiario.com/necesidad-sin-virtud-fernando-navarro",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Necesidad sin virtud",
+    "published": "2026-11-20T06:07:47.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:07:47.000Z"
+ },
+ {
+  "id": "stae6df18bce",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:01:44.000Z",
+  "articles": [
+   {
+    "id": "4b4d383dfaa6",
+    "url": "https://www.mallorcadiario.com/cine-cena-palma-un-viaje-de-diez-metros-antoni-juaneda",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Un viaje de diez metros, cine y cena en un sitio muy especial",
+    "published": "2026-11-20T06:01:44.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:01:44.000Z"
+ },
+ {
+  "id": "stc81101136c",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T06:00:54.000Z",
+  "articles": [
+   {
+    "id": "8b74697863f2",
+    "url": "https://www.mallorcadiario.com/carles-puigdemont-desnuda-a-pedro-sanchez",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Carles Puigdemont desnuda a Pedro Sánchez",
+    "published": "2026-11-20T06:00:54.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T06:00:54.000Z"
+ },
+ {
+  "id": "st3662acd8b0",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:30:23.000Z",
+  "articles": [
+   {
+    "id": "a30ac54fd7a7",
+    "url": "https://www.mallorcadiario.com/elecciones-generales-29n-candidata-maribel-cerezo-vox",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Maribel Cerezo (Vox): \"Si el PP necesita nuestros votos, tendrá que aceptar las propuestas de Vox\"",
+    "published": "2026-11-20T05:30:23.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:30:23.000Z"
+ },
+ {
+  "id": "st9d35f1f570",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:19:35.000Z",
+  "articles": [
+   {
+    "id": "f38dac808dda",
+    "url": "https://www.noudiari.es/local-ibiza/perros-sueltos-en-ses-salines-la-prohibicion-que-se-ignora-en-el-parque-mas-protegido-de-ibiza/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Perros sueltos en Ses Salines, la prohibición que se ignora en el parque más ‘protegido’ de Ibiza",
+    "published": "2026-11-20T05:19:35.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:19:35.000Z"
+ },
+ {
+  "id": "st3eb362dd5d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:02:10.000Z",
+  "articles": [
+   {
+    "id": "e49b605d8dfd",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/jovenes-mallorca-empleo-turismo-practicas-estudiantes-136629355.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Jóvenes de Mallorca buscan abrirse camino en las grandes empresas de la isla: \"Se nos debería dar una oportunidad aunque no tengamos experiencia\"",
+    "published": "2026-11-20T05:02:10.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:02:10.000Z"
+ },
+ {
+  "id": "st3a86f24878",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:02:08.000Z",
+  "articles": [
+   {
+    "id": "f9e2fe38c99d",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/aumentan-27-ingresos-infecciones-respiratorias-136635512.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Aumentan un 27% los ingresos por infecciones respiratorias graves pese a la caída de contagios en Baleares",
+    "published": "2026-11-20T05:02:08.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:02:08.000Z"
+ },
+ {
+  "id": "stcd7b2813d9",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:54.000Z",
+  "articles": [
+   {
+    "id": "7c061dbcf9fd",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/20/politica-producto-comercial-136637622.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "La política es un producto comercial",
+    "published": "2026-11-20T05:00:54.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:54.000Z"
+ },
+ {
+  "id": "st2b7d00f92d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:53.000Z",
+  "articles": [
+   {
+    "id": "db9093b3fde6",
+    "url": "https://www.diariodemallorca.es/videos/mallorca/2026/11/20/video-condenado-blanquear-palma-dinero-136651259.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Vídeo | Condenado por blanquear en Palma el dinero de un chiringuito financiero que captaba inversores",
+    "published": "2026-11-20T08:27:27.000Z"
+   },
+   {
+    "id": "c4b066eaacaf",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/condenado-blanquear-palma-dinero-chiringuito-136615745.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Condenado por blanquear en Palma el dinero de un chiringuito financiero que captaba inversores",
+    "published": "2026-11-20T05:00:53.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T08:27:27.000Z"
+ },
+ {
+  "id": "st66a21bcd3d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:48.000Z",
+  "articles": [
+   {
+    "id": "f728b77cd7e1",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/pp-baleares-amanar-elecciones-dinero-135393135.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Cuando el PP de Baleares intentó amañar las elecciones con dinero público: \"¿A qué precio nos sale cada voto?\"",
+    "published": "2026-11-20T05:00:48.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:48.000Z"
+ },
+ {
+  "id": "stb6858dc7b6",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:41.000Z",
+  "articles": [
+   {
+    "id": "58e574d0694c",
+    "url": "https://www.diariodemallorca.es/videos/sucesos/2026/11/20/video-incognitas-disparo-hirio-policia-136652799.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Vídeo | Las incógnitas del disparo que hirió a un policía en Palma",
+    "published": "2026-11-20T09:04:48.000Z"
+   },
+   {
+    "id": "d090eaf37881",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/20/incognitas-disparo-hirio-policia-palma-136625717.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Las incógnitas del disparo que hirió a un policía en Palma",
+    "published": "2026-11-20T05:00:41.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T09:04:48.000Z"
+ },
+ {
+  "id": "st4aef228f6d",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:33.000Z",
+  "articles": [
+   {
+    "id": "a8cb6a74bf33",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/20/policia-local-palma-protocolo-seguros-136624622.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "La Policía Local de Palma no tiene un protocolo sobre los seguros de las pistolas",
+    "published": "2026-11-20T05:00:33.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:33.000Z"
+ },
+ {
+  "id": "st8b8ef56944",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:28.000Z",
+  "articles": [
+   {
+    "id": "2d0c71ac1ba8",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/baleares-financiacion-pendiente-presion-migratoria-136582738.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Baleares: la financiación pendiente, la presión migratoria y la cogestión de los aeropuertos",
+    "published": "2026-11-20T05:00:28.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:28.000Z"
+ },
+ {
+  "id": "sta0bcbcfabe",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:26.000Z",
+  "articles": [
+   {
+    "id": "3aca974ec3c9",
+    "url": "https://www.mallorcadiario.com/deporte-elemento-dinamizacion-baleares-fuera-temporada-alta",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "El deporte como elemento estratégico de dinamización en Baleares fuera de la temporada alta",
+    "published": "2026-11-20T05:00:26.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:26.000Z"
+ },
+ {
+  "id": "st2ab4aa408e",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:24.000Z",
+  "articles": [
+   {
+    "id": "b5c937a55eb0",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/fecha-puesta-marcha-escaleras-mecanicas-136615571.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Sin fecha para la puesta en marcha de las escaleras mecánicas en Puig des Molins",
+    "published": "2026-11-20T05:00:24.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:24.000Z"
+ },
+ {
+  "id": "st87f694610a",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:20.000Z",
+  "articles": [
+   {
+    "id": "e426df12b04f",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/javier-veiga-marta-hazas-rara-ibiza-movil-136613807.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Javier Veiga y Marta Hazas, en Ibiza: \"Rara es la pareja que no tenga un problema grave con el móvil\"",
+    "published": "2026-11-20T05:00:20.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:20.000Z"
+ },
+ {
+  "id": "std6a32ec5c5",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:10.000Z",
+  "articles": [
+   {
+    "id": "70609abc868b",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/marivi-amengual-frente-amplio-ibiza-136588432.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "\"Limitar los precios de los alquileres y expropiar a los fondos buitre son soluciones comprensibles\": Mariví Mengual, candidata de Ara Més-Front Ampli por Ibiza",
+    "published": "2026-11-20T05:00:10.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:10.000Z"
+ },
+ {
+  "id": "stcb7040a136",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:04.000Z",
+  "articles": [
+   {
+    "id": "c858efe79308",
+    "url": "https://www.diariodeibiza.es/ibiza/ido/2026/11/20/fer-esplai-mallorca-vegada-mes-136400327.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Fer esplai a Mallorca, cada vegada més complicat",
+    "published": "2026-11-20T05:00:04.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:04.000Z"
+ },
+ {
+  "id": "stb3bf9ee963",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T05:00:02.000Z",
+  "articles": [
+   {
+    "id": "57b4e156ce34",
+    "url": "https://www.diariodeibiza.es/ibiza/ido/2026/11/20/scouts-ibiza-perque-desaparegut-136399185.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Per què han desaparegut els grups 'scout' d'Eivissa?",
+    "published": "2026-11-20T05:00:02.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:00:02.000Z"
+ },
+ {
+  "id": "stdcdea9e8ec",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "0252a382d8a7",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/20/condenado-tres-anos-prision-expulsion-136614953.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Condenado a tres años de prisión y a la expulsión de España por grabar con su móvil tocamientos a una mujer en su casa de Llucmajor y subirlos a su estado de Whatsapp",
+    "published": "2026-11-20T05:00:23.000Z"
+   },
+   {
+    "id": "91216dc0737f",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/20/2753303/condenado-por-difundir-estado-whatsapp-video-agresion-sexual-amiga.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Condenado por difundir en su estado de WhatsApp un vídeo de la agresión sexual a una amiga",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-20T05:00:23.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-20T09:20:12.368Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Condenado a tres años de prisión por difundir vídeo de agresión sexual en WhatsApp",
+   "summary": "Un hombre marroquí fue sentenciado en Palma a tres años de cárcel y una multa de 2.700 euros por publicar en su estado de WhatsApp un vídeo en el que agredía sexualmente a una amiga en su domicilio de Llucmajor.",
+   "body": [
+    "Un hombre de nacionalidad marroquí, con una orden de expulsión de España vigente, fue condenado en Palma a tres años de prisión por delito de revelación de secretos y a una multa de 2.700 euros por la agresión sexual que se muestra en un vídeo publicado en su estado de WhatsApp. El hecho tuvo lugar en julio del presente año en la casa de la víctima, situada en Llucmajor.",
+    "Según el juzgado, el procesado grabó a la mujer mientras le realizaba tocamientos no consentidos y difundió el material. La sentencia, dictada 'in voce', establece que, al encontrarse en situación irregular, será expulsado de España una vez haya cumplido dos tercios de la condena, quedando 18 meses pendientes de cumplimiento."
+   ]
+  },
+  "ca": {
+   "title": "Condenat a tres anys de presó per difondre vídeo d'agressió sexual a WhatsApp",
+   "summary": "Un home marroquí ha estat condemnat a Palma a tres anys de presó i una multa de 2.700 euros per publicar a l'estat de WhatsApp un vídeo on agressava sexualment una amiga a la seva llar de Llucmajor.",
+   "body": [
+    "Un home de nacionalitat marroquina, amb una ordre d'expulsió d'Espanya vigent, ha estat condemnat a Palma a tres anys de presó per delicte de revelació de secrets i a una multa de 2.700 euros per l'agressió sexual que es mostra en un vídeo publicat a l'estat de WhatsApp. El fet va ocórrer al juliol d'aquest any a la casa de la víctima, situada a Llucmajor.",
+    "Segons el jutge, el processat va gravar la dona mentre li realitzava tocaments no consentits i va difondre el material. La sentència, dictada 'in voce', estableix que, en trobar-se en situació irregular, serà expulsat d'Espanya un cop hagi complert dos terços de la condemna, quedant 18 mesos pendents d'execució."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Condenado a tres años de prisión y multa de 2.700 euros",
+    "ca": "Condenat a tres anys de presó i multa de 2.700 euros",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Nacionalidad marroquí y orden de expulsión vigente",
+    "ca": "Nacionalitat marroquina i ordre d'expulsió vigent",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Hecho ocurrido en la casa de la víctima en Llucmajor en julio de 2026",
+    "ca": "Fet ocorregut a la casa de la víctima a Llucmajor al juliol de 2026",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-20T09:20:12.368Z",
+  "slug": "condenado-a-tres-anos-de-prision-por-difundir-video-de-agresion-9e8ec",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/4399d2de-ccd4-4645-8fc8-8980a37bedbb_16-9-aspect-ratio_default_0_x350y175.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/20/condenado-tres-anos-prision-expulsion-136614953.html"
+  }
+ },
+ {
+  "id": "st5430cc7986",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "3b236fceee64",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/20/2753421/cuatro-anos-medio-carcel-para-taxista-palma-por-agresion-sexual-clienta.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Cuatro años y medio de cárcel para un taxista de Palma por agresión sexual a una clienta",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z"
+ },
+ {
+  "id": "st6a51d3d9d4",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "d58d0594a686",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/20/2753241/juicio-abogada-por-llamar-prevaricador-juez-palma-expulso-declaracion.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Juicio a una abogada por llamar prevaricador a un juez de Palma que la expulsó de una declaración",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z"
+ },
+ {
+  "id": "st8d99db53aa",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "11a2c0419750",
+    "url": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/20/2753139/fanny-blasco-subcampeona-del-mundo-surfcasting-aguas-italia.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Fanny Blasco, subcampeona del mundo de Surfcasting en aguas de Italia",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z"
+ },
+ {
+  "id": "st620f955a22",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "9847f687efe4",
+    "url": "https://www.ultimahora.es/noticias/virales/2026/11/20/2753117/hasta-donde-llegaria-bomba-nuclear-palma-simulacion-muestra-pasaria-cinco-explosiones-distinta-potencia.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "¿Hasta dónde llegaría una bomba nuclear en Palma? Una simulación muestra qué pasaría con cinco explosiones de distinta potencia",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z"
+ },
+ {
+  "id": "st6c094d2b32",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "00a91cb36aee",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/20/2751929/analisis-casi-4000-menus-revela-cuanto-cuesta-comer-entre-semana-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Un análisis de casi 4.000 menús revela cuánto cuesta comer entre semana en Mallorca",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z"
+ },
+ {
+  "id": "stfc7d340fab",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "ddad725d18d5",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/20/2751493/startup-mallorquina-crea-cerebro-conecta-todos-datos-hotel.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Una startup mallorquina crea el «cerebro» que conecta todos los datos de un hotel",
+    "published": "2026-11-20T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z"
+ },
+ {
+  "id": "ste16471e9c0",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:00.000Z",
+  "articles": [
+   {
+    "id": "e06aea04a5f5",
+    "url": "https://www.europapress.es/illes-balears/noticia-detenido-desembarcar-mallorca-dos-kilos-medio-cocaina-20261120094121.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Detenido por desembarcar en Mallorca con dos kilos y medio de cocaína",
+    "published": "2026-11-20T08:41:21.000Z"
+   },
+   {
+    "id": "e0933de01565",
+    "url": "https://www.mallorcadiario.com/cazado-nada-mas-llegar-mallorca-dos-kilos-medio-cocaina-bajo-asiento-copiloto",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Cazado nada más llegar a Mallorca con dos kilos y medio de cocaína bajo el asiento del copiloto",
+    "published": "2026-11-20T07:52:21.000Z"
+   },
+   {
+    "id": "9da53a923db4",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/20/2753233/detenido-hombre-dos-kilos-cocaina-coche-puerto-palma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Detenido un hombre con dos kilos de cocaína en un coche en el puerto de Palma",
+    "published": "2026-11-20T03:48:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-20T08:41:21.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-20T09:13:19.360Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Detenido en Palma un hombre con entre dos y dos kilos y medio de cocaína",
+   "summary": "La Policía Nacional detuvo en Palma a un hombre procedente de la República Dominicana que llegó en barco y llevaba ocultos entre dos y dos kilos y medio de cocaína en su coche.",
+   "body": [
+    "La Policía Nacional informó que este martes detuvo a un hombre nacido en la República Dominicana al llegar a Palma en barco. El sospechoso fue interceptado en su vehículo, donde se halló una cantidad de cocaína cuyo peso varía según los medios: dos kilos según Última Hora y dos kilos y medio según Mallorcadiario y Europa Press Baleares. Tras la detención, el detenido fue trasladado a la Jefatura Superior para ser interrogado y se investigan el origen y el destino del alijo.",
+    "En el caso reportado por Mallorcadiario, además de la droga, se encontraron más de 1.000 euros en el coche. Las pesquisas continúan para esclarecer la red de tráfico implicada."
+   ]
+  },
+  "ca": {
+   "title": "Detingut a Palma un home amb entre dos i dos quilos i mig de cocaïna",
+   "summary": "La Policia Nacional va detenir a Palma un home nascut a la República Dominicana que va arribar en vaixell i portava ocults entre dos i dos quilos i mig de cocaïna al cotxe.",
+   "body": [
+    "La Policia Nacional va comunicar que aquest dimarts va detenir un home nascut a la República Dominicana en arribar a Palma en vaixell. El sospitós va ser interceptat al seu vehicle, on es va trobar una quantitat de cocaïna que varia segons les fonts: dos quilos segons Última Hora i dos quilos i mig segons Mallorcadiario i Europa Press Balears. Després de la detenció, el detingut va ser traslladat a la Jefatura Superior per ser interrogat i s’investiguen l’origen i la destinació del carregament.",
+    "Segons Mallorcadiario, a més de la droga, es van trobar més de 1.000 euros al cotxe. Les investigacions continuen per aclarir la xarxa de tràfic implicada."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El detenido es de la República Dominicana",
+    "ca": "El detingut és de la República Dominicana",
+    "sources": [
+     "ultimahora",
+     "mallorcadiario",
+     "europapress"
+    ]
+   },
+   {
+    "es": "Llegó a Palma en barco y fue detenido en la ciudad",
+    "ca": "Va arribar a Palma en vaixell i va ser detingut a la ciutat",
+    "sources": [
+     "ultimahora",
+     "mallorcadiario",
+     "europapress"
+    ]
+   },
+   {
+    "es": "Se hallaron entre dos y dos kilos y medio de cocaína en el coche",
+    "ca": "Es van trobar entre dos i dos quilos i mig de cocaïna al cotxe",
+    "sources": [
+     "ultimahora",
+     "mallorcadiario",
+     "europapress"
+    ]
+   },
+   {
+    "es": "Mallorcadiario indica que también se encontraron más de 1.000 euros",
+    "ca": "Mallorcadiario indica que també es van trobar més de 1.000 euros",
+    "sources": [
+     "mallorcadiario"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": true,
+  "updatedAt": "2026-11-20T09:13:19.360Z",
+  "slug": "detenido-en-palma-un-hombre-con-entre-dos-y-dos-kilos-y-medio-de-1e9c0",
+  "status": "verified",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4855159.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/20/2753233/detenido-hombre-dos-kilos-cocaina-coche-puerto-palma.html"
+  }
+ },
+ {
+  "id": "st94e81af930",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T03:48:00.000Z",
+  "articles": [
+   {
+    "id": "7a0b104cd8e6",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/20/2753283/muelas-molino-tinajas-cuernos-ciervo-carga-del-primer-pecio-islamico-hallado-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Muelas de molino, tinajas y cuernos de ciervo: la carga del primer pecio islámico hallado en Mallorca",
+    "published": "2026-11-20T03:48:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:00.000Z"
+ },
+ {
+  "id": "st60ef38d512",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "18a1543c1353",
+    "url": "https://www.menorca.info/opinion/blogs/2026/11/20/2753751/sentencia-pionera.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sentència pionera",
+    "published": "2026-11-20T05:50:00.000Z"
+   },
+   {
+    "id": "f09039dca4d3",
+    "url": "https://www.menorca.info/menorca/local/2026/11/20/2753605/sentencia-pionera-contra-paciente-amenazo-personal-sanitario-hospital.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sentencia pionera contra un paciente que amenazó a sanitarios en el Hospital Mateu Orfila",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T05:50:00.000Z"
+ },
+ {
+  "id": "st5561ee5be6",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "790fcad13e09",
+    "url": "https://www.menorca.info/deportes/baloncesto/2026/11/20/2753689/sergio-llull-repasa-carrera-desvela-como-vivio-opcion-fichar-por-houston-rockets.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sergio Llull repasa su carrera y desvela cómo vivió la opción de fichar por los Houston Rockets",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "stbf01850a91",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "3707b92186e8",
+    "url": "https://www.menorca.info/deportes/polideportivo/2026/11/20/2753679/freeplay-borde-final-internacional.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El CE Freeplay, al borde de la final internacional",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "sta371482d36",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "6223c4bb4b24",
+    "url": "https://www.menorca.info/opinion/editorial/2026/11/20/2753667/condenar-agresiones-profesionales-sanitarios.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Condenar las agresiones a los profesionales sanitarios",
+    "published": "2026-11-20T02:59:01.000Z"
+   },
+   {
+    "id": "046669ca9f49",
+    "url": "https://www.menorca.info/menorca/local/2026/11/20/2753651/area-salud-registra-ano-agresiones.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El Área de Salud registra en lo que va de año 42 agresiones",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "st7d0806cd86",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "898cd63281cc",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/20/2753655/joan-mesquida-mayans-faltaria-mas-podamos-pactar-vox-cuando-sanchez-claudica-ante-bildu.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Joan Mesquida Mayans : «Faltaría más que el PP no pueda pactar con Vox cuando Sánchez claudica ante Bildu»",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "st432ca268fb",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "9ec8130926da",
+    "url": "https://www.menorca.info/menorca/cultura/2026/11/20/2753647/sueno-salvador-oliva-paul-auster.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El sueño de Salvador Oliva y Paul Auster llega al Auditori de Ferreries",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "st824580a61e",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "ada537e7885a",
+    "url": "https://www.menorca.info/menorca/cultura/2026/11/20/2753643/nueva-etapa-escola-musica.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Nueva etapa en la Escola de Música de Ciutadella con Lluís Gener como director",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "stfa2feb3ac1",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "5310954641dd",
+    "url": "https://www.menorca.info/deportes/ciclismo/2026/11/20/2753633/antonio-alix-ciclismo-deporte-minoritario-espana.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Antonio Alix: «El ciclismo en España no es un deporte minoritario, ocupa portadas y abre telediarios»",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "stb67f94a9b5",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "68b36aadfa5c",
+    "url": "https://www.menorca.info/menorca/cultura/2026/11/20/2753599/arriba-discografia-menorquina-vol-bep-cardona.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El primer volum de la 'Discografia menorquina' de Bep Cardona reivindica el llegat musical de l'Illa",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "stdb47879cb5",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "d1b3a15ac4d2",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/20/2753589/por-recuperar-cultura-del-esfuerzo-aulas.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El PP apuesta por recuperar la cultura del esfuerzo en las aulas tras los resultados de PISA",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
+  "id": "stc1412980f8",
+  "createdAt": "2026-11-20T09:10:30.807Z",
+  "firstPublished": "2026-11-20T02:59:01.000Z",
+  "articles": [
+   {
+    "id": "a06ce2f69d7a",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/20/2753587/marc-pons-defiende-mejoras-salariales-del-actual-gobierno.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Marc Pons defiende las mejoras salariales impulsadas por el Gobierno de Pedro Sánchez",
+    "published": "2026-11-20T02:59:01.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T02:59:01.000Z"
+ },
+ {
   "id": "stb0318b8d13",
   "createdAt": "2026-11-20T01:13:38.188Z",
   "firstPublished": "2026-11-19T23:59:00.000Z",
@@ -19,10 +1207,18 @@
     "lang": "es",
     "title": "El Sporting de Portugal destrona al Palma Futsal",
     "published": "2026-11-19T23:59:00.000Z"
+   },
+   {
+    "id": "95cc060c0ef7",
+    "url": "https://www.ultimahora.es/deportes/palma-futsal/2026/11/20/2753741/rota-racha-impoluta.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Rota una racha impoluta",
+    "published": "2026-11-20T03:48:01.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-20T00:21:19.000Z",
+  "lastArticleAt": "2026-11-20T03:48:01.000Z",
   "model": "groq/openai/gpt-oss-20b",
   "writtenAt": "2026-11-20T01:14:33.488Z",
   "islands": [
@@ -221,7 +1417,11 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4856183.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/deportes/baloncesto/2026/11/19/2753707/palmer-basket-supera-ourense-copa-espana.html"
-  }
+  },
+  "distinctFrom": [
+   "ste1355cc71e",
+   "stb06f068bc5"
+  ]
  },
  {
   "id": "st6e7d3362f1",
@@ -365,7 +1565,9 @@
    "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20364583_1.webp",
    "sourceId": "ib3",
    "articleUrl": "https://ib3.org/son-roca-relats-i-secrets-els-veinats-mostren-el-barri-amb-els-seus-ulls"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "std26cfbfb52"
  },
  {
   "id": "st2ef4bfdda3",
@@ -854,7 +2056,13 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/a3fd7a2e-5c13-452c-93f4-9dd41a826cbe_16-9-aspect-ratio_default_0_x1000y444.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/formentera/2026/11/19/formentera-cordoba-pedir-dimision-veronica-136615341.html"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "st7110cdc843",
+  "distinctFrom": [
+   "st745d120d9f",
+   "st3961652038"
+  ]
  },
  {
   "id": "st8929f9a9cf",
@@ -1278,53 +2486,86 @@
     "lang": "es",
     "title": "Emoción, valores y compromiso en unos Siurells de Plata que premian la dedicación a la sociedad balear",
     "published": "2026-11-19T19:55:00.000Z"
+   },
+   {
+    "id": "0ecf6c4e6be0",
+    "url": "https://www.arabalears.cat/societat/siurells-plata-brillen-nit-d-emocio-talent-compromis_1_5916732.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Els Siurells de Plata brillen en una nit d’emoció, talent i compromís",
+    "published": "2026-11-20T06:27:10.000Z"
+   },
+   {
+    "id": "20ec0c242667",
+    "url": "https://www.ultimahora.es/opinion/editorial/2026/11/20/2753743/siurells-plata-valor-que-dejan-huella.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Siurells de Plata: el valor de los que dejan huella",
+    "published": "2026-11-20T03:48:01.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-19T19:55:00.000Z",
+  "lastArticleAt": "2026-11-20T06:27:10.000Z",
   "model": "groq/qwen/qwen3.8-27b",
-  "writtenAt": "2026-11-20T01:17:03.336Z",
+  "writtenAt": "2026-11-20T09:17:41.656Z",
   "islands": [
    "mallorca"
   ],
   "topic": "cultura",
   "es": {
    "title": "Son Termes acoge la gala de los Siurells de Plata 2026",
-   "summary": "Última Hora ha celebrado la entrega de sus distinciones anuales en el municipio de Son Termes.",
+   "summary": "Última Hora ha entregado sus distinciones anuales en Bunyola, reconociendo a nueve personas y entidades por su labor en Baleares.",
    "body": [
-    "La finca de Son Termes ha sido el escenario de la gala de los Siurells de Plata 2026, un acto organizado por el diario Última Hora para reconocer la labor de diversas personas e instituciones de las Islas Baleares.",
-    "Según la información publicada por el medio, los galardones de este año han recaído en Dora Romaguera, Jaume Llabrés, Aina Pascual, la asociación ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la Federació de Futbol de les Illes Balears (FFIB), Joan Punyet Miró y José María Sevilla."
+    "El recinto de Son Termes, en Bunyola, ha sido el escenario de la entrega de los Siurells de Plata 2026, los premios anuales de Última Hora. La ceremonia ha reunido a la sociedad balear para distinguir a figuras que han dejado huella en ámbitos como la cultura, la ciencia, el deporte, el medio ambiente y la acción social.",
+    "Los galardonados de este año son Dora Romaguera, Jaume Llabrés, Aina Pascual, ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la Federació de Futbol de les Illes Balears (FFIB), Joan Punyet Miró y José María Sevilla.",
+    "Según Ara Balears, la gala coincidió con el trigésimo aniversario del Club Última Hora-Valores. Estos galardones, que se otorgan desde 1965, reconocen la dedicación y las aportaciones de personas destacadas de las islas."
    ]
   },
   "ca": {
    "title": "Son Termes acull la gala dels Siurells de Plata 2026",
-   "summary": "Última Hora ha celebrat la entrega de les seves distincions anuals al municipi de Son Termes.",
+   "summary": "Última Hora ha lliurat les seves distincions anuals a Bunyola, reconeixent nou persones i entitats per la seva feina a les Illes.",
    "body": [
-    "La finca de Son Termes ha estat l'escenari de la gala dels Siurells de Plata 2026, un acte organitzat pel diari Última Hora per reconèixer la feina de diverses persones i institucions de les Illes Balears.",
-    "Segons la informació publicada pel mitjà, els guardons d'enguany han estat per a Dora Romaguera, Jaume Llabrés, Aina Pascual, l'associació ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la Federació de Futbol de les Illes Balears (FFIB), Joan Punyet Miró i José María Sevilla."
+    "El recinte de Son Termes, a Bunyola, ha acollit la entrega dels Siurells de Plata 2026, els premis anuals d'Última Hora. La cerimònia ha reunit la societat balear per distingir figures que han deixat empremta en àmbits com la cultura, la ciència, l'esport, el medi ambient i l'acció social.",
+    "Els guardonats d'enguany són Dora Romaguera, Jaume Llabrés, Aina Pascual, ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la Federació de Futbol de les Illes Balears (FFIB), Joan Punyet Miró i José María Sevilla.",
+    "Segons Ara Balears, la gala coincidia amb el 30è aniversari del Club Última Hora-Valores. Aquests premis, que s'atorguen des de 1965, reconeixen la dedicació i les aportacions de persones destacades de les Illes."
    ]
   },
   "facts": [
    {
-    "es": "La gala se celebró en Son Termes.",
-    "ca": "La gala es va celebrar a Son Termes.",
+    "es": "La gala se celebró en Son Termes, Bunyola.",
+    "ca": "La gala es va celebrar a Son Termes, Bunyola.",
+    "sources": [
+     "ultimahora",
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Los premiados son Dora Romaguera, Jaume Llabrés, Aina Pascual, ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la FFIB, Joan Punyet Miró y José María Sevilla.",
+    "ca": "Els premiats són Dora Romaguera, Jaume Llabrés, Aina Pascual, ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la FFIB, Joan Punyet Miró i José María Sevilla.",
     "sources": [
      "ultimahora"
     ]
    },
    {
-    "es": "Los premiados incluyen a Dora Romaguera, Jaume Llabrés, Aina Pascual, ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la FFIB, Joan Punyet Miró y José María Sevilla.",
-    "ca": "Els premiats inclouen Dora Romaguera, Jaume Llabrés, Aina Pascual, ASNIMO, Montserrat Pons i Boscana, Úrsula Pueyo, la FFIB, Joan Punyet Miró i José María Sevilla.",
+    "es": "Los premios se otorgan desde 1965.",
+    "ca": "Els premis s'atorguen des de 1965.",
     "sources": [
-     "ultimahora"
+     "arabalears"
+    ]
+   },
+   {
+    "es": "La gala coincidió con el 30.º aniversario del Club Última Hora-Valores.",
+    "ca": "La gala coincidia amb el 30è aniversari del Club Última Hora-Valores.",
+    "sources": [
+     "arabalears"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-20T01:17:03.336Z",
+  "updatedAt": "2026-11-20T09:17:41.656Z",
   "slug": "son-termes-acoge-la-gala-de-los-siurells-de-plata-2026-534d7",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4853035.webp",
    "sourceId": "ultimahora",
@@ -1631,10 +2872,18 @@
     "lang": "es",
     "title": "Calvià, elegida capital europea del Turismo 2027",
     "published": "2026-11-19T15:48:12.000Z"
+   },
+   {
+    "id": "19ae7ebce789",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/calvia-arrebata-ibiza-capital-europea-136652454.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Calvià arrebata a Ibiza la capital europea del Turismo 2027",
+    "published": "2026-11-20T09:01:37.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-19T16:49:58.000Z",
+  "lastArticleAt": "2026-11-20T09:01:37.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-19T18:44:59.298Z",
   "islands": [
@@ -2146,10 +3395,18 @@
     "lang": "ca",
     "title": "El Ple de Formentera rebutja destinar 2,4 milions d’euros a les possibles reclamacions de Prezero",
     "published": "2026-11-19T14:20:54.000Z"
+   },
+   {
+    "id": "071e33ddedaf",
+    "url": "https://www.diariodeibiza.es/formentera/2026/11/19/formentera-cordoba-pedir-dimision-veronica-136615341.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Córdoba vuelve a pedir la dimisión de Verónica Castelló en un tenso pleno extraordinario del Consell de Formentera",
+    "published": "2026-11-19T18:48:09.000Z"
    }
   ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-19T15:58:08.000Z",
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-19T18:48:09.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-19T18:48:07.034Z",
   "islands": [
@@ -2198,7 +3455,8 @@
    "st745d120d9f",
    "ste454e36105",
    "st3961652038"
-  ]
+  ],
+  "writeErrors": 1
  },
  {
   "id": "st4ab95fd0d2",
@@ -2665,10 +3923,18 @@
     "lang": "es",
     "title": "Más de 600 expertos en autismo se reúnen en Palma para reclamar una sociedad más inclusiva",
     "published": "2026-11-19T13:11:58.000Z"
+   },
+   {
+    "id": "fc3a4ccfe08b",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/ibiza-mallorca-madre-autismo-congreso-136650585.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Ser madre con autismo: una realidad que centra el debate de más de 600 expertos en Baleares",
+    "published": "2026-11-20T08:24:47.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-19T13:11:58.000Z"
+  "lastArticleAt": "2026-11-20T08:24:47.000Z"
  },
  {
   "id": "st670fd7e54d",
@@ -3348,7 +4614,13 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/06fc5aae-8dd1-4827-b112-df0ef64534ee_16-9-aspect-ratio_default_0_x600y266.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/19/nuevo-control-policia-local-corea-136618640.html"
-  }
+  },
+  "distinctFrom": [
+   "st3de37b3a7f",
+   "stf9d30cf9ec",
+   "stbcf3bb0dc2",
+   "st20e00b11cf"
+  ]
  },
  {
   "id": "steb4112e557",
@@ -3678,7 +4950,10 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4855191.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/19/2753249/ibiza-despliega-diez-dias-cine-talleres-lectura-para-concienciar-contra-violencia-machista-por-25n.html"
-  }
+  },
+  "distinctFrom": [
+   "sta113915241"
+  ]
  },
  {
   "id": "st7e94651002",
@@ -3872,7 +5147,9 @@
    "articleUrl": "https://www.periodicodeibiza.es/cronica-negra/local/2026/11/19/2753369/detenidos-ibiza-cocaina-hachis-5000-euros-tras-circular-sentido-contrario.html"
   },
   "distinctFrom": [
-   "sta7412fae62"
+   "sta7412fae62",
+   "st084b80b077",
+   "stb9c3133dd1"
   ]
  },
  {
@@ -4435,7 +5712,12 @@
   "distinctFrom": [
    "st990dafb030",
    "sta7412fae62",
-   "st1719590aae"
+   "st1719590aae",
+   "st0f9d4a8f21",
+   "staab28de376",
+   "stca4d614617",
+   "stf12d10bf33",
+   "st5279e55bc2"
   ]
  },
  {
@@ -4815,10 +6097,26 @@
     "lang": "es",
     "title": "Así ha sido el cara a cara entre Sánchez y Feijóo",
     "published": "2026-11-19T18:54:00.000Z"
+   },
+   {
+    "id": "d1081c3634a7",
+    "url": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753787/cuando-debate-cuatro-elecciones-generales-del-sanchez-feijoo-abascal-colau-fecha-hora.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Cuándo es el debate a cuatro de las elecciones generales del 29N con Sánchez, Feijóo, Abascal y Colau: fecha y hora",
+    "published": "2026-11-20T08:26:00.000Z"
+   },
+   {
+    "id": "508b020410e8",
+    "url": "https://ib3.org/cara-a-cara-el-darrer-minut",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Cara a cara, el darrer minut",
+    "published": "2026-11-20T08:12:03.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-19T21:21:41.000Z",
+  "lastArticleAt": "2026-11-20T08:26:00.000Z",
   "model": "groq/openai/gpt-oss-20b",
   "writtenAt": "2026-11-20T01:14:06.449Z",
   "hidden": true
@@ -5243,7 +6541,10 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854817.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/19/2753015/ultimo-dia-para-pedir-voto-por-correo-donde-hasta-hora-tramitarlo-ibiza.html"
-  }
+  },
+  "distinctFrom": [
+   "st5164b06088"
+  ]
  },
  {
   "id": "st5ea641248e",
@@ -6710,7 +8011,9 @@
   },
   "distinctFrom": [
    "stf12b2e54e8"
-  ]
+  ],
+  "hidden": true,
+  "mergedInto": "st2be83ea59b"
  },
  {
   "id": "stddf83e08ed",
@@ -7322,201 +8625,6 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-18T17:40:00.000Z"
- },
- {
-  "id": "st2be83ea59b",
-  "createdAt": "2026-11-18T19:34:22.236Z",
-  "firstPublished": "2026-11-18T17:16:35.000Z",
-  "articles": [
-   {
-    "id": "114b80ed9d64",
-    "url": "https://ib3.org/inca-dona-el-sus-a-la-revetla-del-dijous-bo-amb-cinc-festes-simultanies-al-carrer",
-    "sourceId": "ib3",
-    "lang": "ca",
-    "title": "Inca dona el sus a la revetla del Dijous Bo amb cinc festes simultànies al carrer",
-    "published": "2026-11-18T18:06:39.000Z"
-   },
-   {
-    "id": "c774c70cbf5e",
-    "url": "https://www.diariodemallorca.es/fotos/part-forana/2026/11/18/imagenes-dimecres-bo-inca-136591419.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Las imágenes del Dimecres Bo de Inca",
-    "published": "2026-11-18T18:03:12.000Z"
-   },
-   {
-    "id": "a029b3f6e879",
-    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/18/2752795/fira-fires-inauguracion-oficial-del-dijous-bo.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "'Sus' a la Fira de Fires con la inauguración oficial del Dijous Bo",
-    "published": "2026-11-18T17:30:00.000Z"
-   },
-   {
-    "id": "54d9a41722ad",
-    "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/dijous-bo-despliega-ocho-kilometros-136583569.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "El Dijous Bo despliega ocho kilómetros de feria en una ‘revetlla’ multitudinaria",
-    "published": "2026-11-18T17:16:35.000Z"
-   },
-   {
-    "id": "700414b2d589",
-    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/directo-dijous-bo-2026-inca-136605547.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "DIRECTO | Dijous Bo 2026 en Inca",
-    "published": "2026-11-19T07:30:00.000Z"
-   },
-   {
-    "id": "f81ab3002ff9",
-    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/sobrasada-porc-negre-neules-productos-136581942.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "De la sobrasada de porc negre a las 'neules': los productos que más se compran en el Dijous Bo de Inca",
-    "published": "2026-11-19T05:00:57.000Z"
-   },
-   {
-    "id": "fe1d49804b3b",
-    "url": "https://www.ultimahora.es/xaloc/dudas-respuestas/2026/11/19/2751699/todo-tienes-saber-del-dijous-2026-inca-mercado-tradicional-programa-actividades-dispositivo-trafico.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Todo lo que tienes que saber del Dijous Bo 2026 en Inca: mercado tradicional, programa de actividades y dispositivo de tráfico",
-    "published": "2026-11-19T03:48:01.000Z"
-   },
-   {
-    "id": "5a6acb1e28ad",
-    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/19/2752329/dijous-2026-inca-vive-dia-grande.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Dijous Bo 2026: Inca vive su día grande",
-    "published": "2026-11-19T03:48:00.000Z"
-   },
-   {
-    "id": "7ef7cb192415",
-    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/19/2753581/maquinaria-agricola-recupera-protagonismo-una-gran-exposicion.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "La maquinaria agrícola recupera protagonismo con una gran exposición",
-    "published": "2026-11-19T17:52:00.000Z"
-   },
-   {
-    "id": "24557a45aadb",
-    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/19/2753575/tren-consolida-como-alternativa-para-visitar-feria.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "El tren se consolida como alternativa para visitar la feria",
-    "published": "2026-11-19T17:48:00.000Z"
-   },
-   {
-    "id": "b23475261b15",
-    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/calor-convierte-protagonista-dijous-bo-136624131.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "El calor se convierte en el protagonista del Dijous Bo",
-    "published": "2026-11-19T15:57:07.000Z"
-   },
-   {
-    "id": "638e403c1bde",
-    "url": "https://www.arabalears.cat/societat/inca-torna-capital-mallorca-dia-dijous-bo-multitudinari_1_5916411.html",
-    "sourceId": "arabalears",
-    "lang": "ca",
-    "title": "Inca torna a ser la capital de Mallorca per un dia amb un Dijous Bo multitudinari",
-    "published": "2026-11-19T19:23:18.000Z"
-   },
-   {
-    "id": "bc1d2bb8e21a",
-    "url": "https://www.mallorcadiario.com/inca-celebra-su-gran-dia-con-un-dijous-bo-que-vuelve-a-reunir-a-miles-de-visitantes",
-    "sourceId": "mallorcadiario",
-    "lang": "es",
-    "title": "Inca celebra su gran día con un Dijous Bo que vuelve a reunir a miles de visitantes",
-    "published": "2026-11-19T11:44:04.000Z"
-   },
-   {
-    "id": "3078781de8cc",
-    "url": "https://www.dbalears.cat/balears/balears/2026/11/19/424199/virgilio-moreno-som-societat-plural-tothom-ben-rebut.html",
-    "sourceId": "dbalears",
-    "lang": "ca",
-    "title": "Virgilio Moreno: «Som una societat plural on tothom és ben rebut»",
-    "published": "2026-11-19T11:05:00.000Z"
-   },
-   {
-    "id": "c74e8b934905",
-    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/dijous-bo-inca-lado-mostrador-136609675.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "El Dijous Bo de Inca desde el otro lado del mostrador: «Es mucho trabajo, pero también una alegría»",
-    "published": "2026-11-19T11:01:31.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-19T19:23:18.000Z",
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-20T01:13:49.586Z",
-  "islands": [
-   "mallorca"
-  ],
-  "topic": "sociedad",
-  "es": {
-   "title": "El Dijous Bo 2026 se celebra en Inca con la presencia de ganado y multitud de visitantes",
-   "summary": "El evento, que se inauguró a las 17:30 del miércoles 18 de noviembre, reunió a miles de personas en la plaza del Bestiar y contó con la participación de autoridades locales.",
-   "body": [
-    "El Dijous Bo 2026 se celebró en Inca el miércoles 18 de noviembre, con la inauguración oficial a las 17:30 en la plaza del Bestiar, según el Diario de Mallorca y Última Hora. El alcalde Virgilio Moreno, el presidente del Consell Llorenç Galmés y el delegado de Gobierno Pere Joan Pons estuvieron presentes, junto con animadores y danzas tradicionales. La feria incluyó la exposición de ganado vacuno y ovino, recuperado tras dos años de ausencia por la enfermedad de la lengua azul, y contó con la presencia de ovejas, cabras y vacas. La jornada atrajo a una gran multitud, con la entrada de miles de visitantes, y se planificó un pasacalles final a partir de las 20:30, según Mallorcadiario.com."
-   ]
-  },
-  "ca": {
-   "title": "El Dijous Bo 2026 es celebra a Inca amb la presència de bestiar i una multitud de visitants",
-   "summary": "L’esdeveniment, que es va inaugurar a les 17:30 del dimecres 18 de novembre, va reunir milers de persones a la plaça del Bestiar i va comptar amb la participació d’autoritats locals.",
-   "body": [
-    "El Dijous Bo 2026 es va celebrar a Inca el dimecres 18 de novembre, amb la inauguració oficial a les 17:30 a la plaça del Bestiar, segons el Diario de Mallorca i Última Hora. L’alcalde Virgilio Moreno, el president del Consell Llorenç Galmés i el delegat de Govern Pere Joan Pons van assistir, juntament amb animadors i danses tradicionals. La fira inclou l’exposició de bestiar vacun i oví, recuperat després de dos anys d’absència per la malaltia de la llengua blava, i va comptar amb la presència d’ovelles, cabres i vaques. La jornada va atraure una gran multitud, amb l’entrada de milers de visitants, i es va planificar un pasacalles final a partir de les 20:30, segons Mallorcadiario.com."
-   ]
-  },
-  "facts": [
-   {
-    "es": "El Dijous Bo 2026 se celebró el miércoles 18 de noviembre",
-    "ca": "El Dijous Bo 2026 es va celebrar el dimecres 18 de novembre",
-    "sources": [
-     "diariodemallorca",
-     "ultimahora",
-     "ib3"
-    ]
-   },
-   {
-    "es": "La inauguración oficial tuvo lugar a las 17:30 en la plaza del Bestiar",
-    "ca": "La inauguració oficial es va tenir a les 17:30 a la plaça del Bestiar",
-    "sources": [
-     "diariodemallorca",
-     "ultimahora",
-     "ib3"
-    ]
-   },
-   {
-    "es": "El evento contó con la presencia de ganado vacuno y ovino",
-    "ca": "L’esdeveniment va comptar amb la presència de bestiar vacun i oví",
-    "sources": [
-     "diariodemallorca",
-     "arabalears"
-    ]
-   },
-   {
-    "es": "Miles de visitantes asistieron al evento",
-    "ca": "Milers de visitants van assistir a l’esdeveniment",
-    "sources": [
-     "mallorcadiario",
-     "arabalears"
-    ]
-   }
-  ],
-  "discrepancies": [],
-  "contradiction": true,
-  "updatedAt": "2026-11-20T01:13:49.586Z",
-  "slug": "el-dijous-bo-se-inaugura-en-inca-con-autoridades-y-regreso-del-ganado-ea59b",
-  "status": "verified",
-  "image": {
-   "url": "https://estaticos-cdn.prensaiberica.es/clip/0f1818cc-39c6-43cb-b02f-774b52f8039b_16-9-aspect-ratio_default_0_x609y270.jpg",
-   "sourceId": "diariodemallorca",
-   "articleUrl": "https://www.diariodemallorca.es/fotos/part-forana/2026/11/18/imagenes-dimecres-bo-inca-136591419.html"
-  }
  },
  {
   "id": "st18acb7bb80",
@@ -9784,10 +10892,74 @@
     "lang": "es",
     "title": "Noche tropical en Ibiza y Formentera con mínimas de 20 grados en pleno mes de noviembre",
     "published": "2026-11-18T11:27:00.000Z"
+   },
+   {
+    "id": "ca36205e7523",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/llama-atencion-ibiza-sant-antoni-136638068.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Llama la atención: que Ibiza y Sant Antoni registren noches tropicales en pleno noviembre",
+    "published": "2026-11-20T05:00:54.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-18T11:27:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-20T05:00:54.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-20T09:17:56.232Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "medioambiente",
+  "es": {
+   "title": "Temperaturas nocturnas en Ibiza y Formentera no bajan de los 20 grados en noviembre",
+   "summary": "El miércoles 18 de noviembre se registró una noche tropical en las islas de Ibiza y Formentera, con mínimas que se mantuvieron por encima de los 20 grados.",
+   "body": [
+    "Una jornada meteorológica atípica se vivió el miércoles 18 de noviembre en Ibiza y Formentera, con una escasa oscilación térmica entre el día y la noche y un notable incremento del viento. Según el Periódico de Ibiza y Formentera, las temperaturas nocturnas no descendieron de los 20 grados y las máximas diurnas apenas superaron los 23 grados.",
+    "El Diario de Ibiza indica que en Ibiza la temperatura mínima alcanzó los 20,3 grados y en Sant Antoni los 21 grados, mientras que en Formentera los termómetros se quedaron a una décima de grado de ese umbral. La AEMET atribuye este fenómeno a los vientos de poniente y al relieve peninsular que favorecen la llegada de aire cálido a las Pitiusas."
+   ]
+  },
+  "ca": {
+   "title": "Temperatures nocturnes a Eivissa i Formentera no baixen dels 20 graus al novembre",
+   "summary": "El dimecres 18 de novembre es va registrar una nit tropical a les illes d'Eivissa i Formentera, amb mínimes que es van mantenir per sobre dels 20 graus.",
+   "body": [
+    "Una jornada meteorològica atípica es va viure el dimecres 18 de novembre a Eivissa i Formentera, amb una escassa oscil·lació tèrmica entre el dia i la nit i un notable increment del vent. Segons el Periódico de Ibiza y Formentera, les temperatures nocturnes no van baixar dels 20 graus i les màximes diurnes només van superar els 23 graus.",
+    "El Diario de Ibiza indica que a Eivissa la temperatura mínima va arribar a 20,3 graus i a Sant Antoni a 21 graus, mentre que a Formentera els termòmetres es van quedar a una dècima de grau d'aquest llindar. L'AEMET atribueix aquest fenomen als vents de ponent i al relleu peninsular que afavoreixen l'arribada d'aire càlid a les Pitiüses."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Temperaturas mínimas nocturnas de 20,3 °C en Ibiza y 21 °C en Sant Antoni",
+    "ca": "Temperatures mínimes nocturnes de 20,3 °C a Eivissa i 21 °C a Sant Antoni",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Temperaturas nocturnas no bajaron de 20 °C en Formentera, a una décima de grado del umbral",
+    "ca": "Temperatures nocturnes no van baixar de 20 °C a Formentera, a una dècima de grau del llindar",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Máximas diurnas de 23 °C en ambas islas",
+    "ca": "Màximes diurnes de 23 °C a ambdues illes",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-20T09:17:56.232Z",
+  "slug": "temperaturas-nocturnas-en-ibiza-y-formentera-no-bajan-de-los-20-bdb87",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/d462b2ea-7cae-4d3c-b00b-4c197eb1663f_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/20/llama-atencion-ibiza-sant-antoni-136638068.html"
+  }
  },
  {
   "id": "stf9d30cf9ec",
@@ -11597,7 +12769,10 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4854565.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/19/2752961/sant-rafel-reune-grabados-esculturas-siglos-xix-exposicion-museum-art.html"
-  }
+  },
+  "distinctFrom": [
+   "std26cfbfb52"
+  ]
  },
  {
   "id": "st86fdab7a09",
@@ -12120,6 +13295,234 @@
   "lastArticleAt": "2026-11-18T05:00:22.000Z"
  },
  {
+  "id": "st2be83ea59b",
+  "createdAt": "2026-11-18T19:34:22.236Z",
+  "firstPublished": "2026-11-18T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "114b80ed9d64",
+    "url": "https://ib3.org/inca-dona-el-sus-a-la-revetla-del-dijous-bo-amb-cinc-festes-simultanies-al-carrer",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Inca dona el sus a la revetla del Dijous Bo amb cinc festes simultànies al carrer",
+    "published": "2026-11-18T18:06:39.000Z"
+   },
+   {
+    "id": "c774c70cbf5e",
+    "url": "https://www.diariodemallorca.es/fotos/part-forana/2026/11/18/imagenes-dimecres-bo-inca-136591419.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Las imágenes del Dimecres Bo de Inca",
+    "published": "2026-11-18T18:03:12.000Z"
+   },
+   {
+    "id": "a029b3f6e879",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/18/2752795/fira-fires-inauguracion-oficial-del-dijous-bo.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "'Sus' a la Fira de Fires con la inauguración oficial del Dijous Bo",
+    "published": "2026-11-18T17:30:00.000Z"
+   },
+   {
+    "id": "54d9a41722ad",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/dijous-bo-despliega-ocho-kilometros-136583569.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Dijous Bo despliega ocho kilómetros de feria en una ‘revetlla’ multitudinaria",
+    "published": "2026-11-18T17:16:35.000Z"
+   },
+   {
+    "id": "700414b2d589",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/directo-dijous-bo-2026-inca-136605547.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "DIRECTO | Dijous Bo 2026 en Inca",
+    "published": "2026-11-19T07:30:00.000Z"
+   },
+   {
+    "id": "f81ab3002ff9",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/sobrasada-porc-negre-neules-productos-136581942.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "De la sobrasada de porc negre a las 'neules': los productos que más se compran en el Dijous Bo de Inca",
+    "published": "2026-11-19T05:00:57.000Z"
+   },
+   {
+    "id": "fe1d49804b3b",
+    "url": "https://www.ultimahora.es/xaloc/dudas-respuestas/2026/11/19/2751699/todo-tienes-saber-del-dijous-2026-inca-mercado-tradicional-programa-actividades-dispositivo-trafico.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Todo lo que tienes que saber del Dijous Bo 2026 en Inca: mercado tradicional, programa de actividades y dispositivo de tráfico",
+    "published": "2026-11-19T03:48:01.000Z"
+   },
+   {
+    "id": "5a6acb1e28ad",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/19/2752329/dijous-2026-inca-vive-dia-grande.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Dijous Bo 2026: Inca vive su día grande",
+    "published": "2026-11-19T03:48:00.000Z"
+   },
+   {
+    "id": "7ef7cb192415",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/19/2753581/maquinaria-agricola-recupera-protagonismo-una-gran-exposicion.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "La maquinaria agrícola recupera protagonismo con una gran exposición",
+    "published": "2026-11-19T17:52:00.000Z"
+   },
+   {
+    "id": "24557a45aadb",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/19/2753575/tren-consolida-como-alternativa-para-visitar-feria.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El tren se consolida como alternativa para visitar la feria",
+    "published": "2026-11-19T17:48:00.000Z"
+   },
+   {
+    "id": "b23475261b15",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/calor-convierte-protagonista-dijous-bo-136624131.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El calor se convierte en el protagonista del Dijous Bo",
+    "published": "2026-11-19T15:57:07.000Z"
+   },
+   {
+    "id": "638e403c1bde",
+    "url": "https://www.arabalears.cat/societat/inca-torna-capital-mallorca-dia-dijous-bo-multitudinari_1_5916411.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Inca torna a ser la capital de Mallorca per un dia amb un Dijous Bo multitudinari",
+    "published": "2026-11-19T19:23:18.000Z"
+   },
+   {
+    "id": "bc1d2bb8e21a",
+    "url": "https://www.mallorcadiario.com/inca-celebra-su-gran-dia-con-un-dijous-bo-que-vuelve-a-reunir-a-miles-de-visitantes",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Inca celebra su gran día con un Dijous Bo que vuelve a reunir a miles de visitantes",
+    "published": "2026-11-19T11:44:04.000Z"
+   },
+   {
+    "id": "3078781de8cc",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/19/424199/virgilio-moreno-som-societat-plural-tothom-ben-rebut.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Virgilio Moreno: «Som una societat plural on tothom és ben rebut»",
+    "published": "2026-11-19T11:05:00.000Z"
+   },
+   {
+    "id": "c74e8b934905",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/19/dijous-bo-inca-lado-mostrador-136609675.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Dijous Bo de Inca desde el otro lado del mostrador: «Es mucho trabajo, pero también una alegría»",
+    "published": "2026-11-19T11:01:31.000Z"
+   },
+   {
+    "id": "6a36d247cda9",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/veterano-comerciante-dijous-bo-inca-136533542.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El veterano comerciante del Dijous Bo de Inca que cada año sorprende con un producto gigante",
+    "published": "2026-11-18T05:00:41.000Z"
+   },
+   {
+    "id": "546a04c49ac2",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/18/2752151/dijous-feria-ferias-arranca-este-miercoles.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Dijous Bo: La feria de ferias arranca este miércoles",
+    "published": "2026-11-18T03:48:01.000Z"
+   },
+   {
+    "id": "03ab40870177",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/18/2752803/restaurantes-llenos-calles-repletas-noche-del-dimecres-bo.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Restaurantes llenos y calles repletas en la noche del Dimecres Bo",
+    "published": "2026-11-18T20:02:16.000Z"
+   },
+   {
+    "id": "142cc0c483c1",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/18/dimecres-bo-calienta-motores-gran-136584462.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Dimecres Bo calienta los motores de la gran feria: \"Es el mejor momento\"",
+    "published": "2026-11-18T20:00:36.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-19T19:23:18.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-20T09:10:39.185Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Inca celebra el Dijous Bo con la vuelta de la muestra ganadera tras dos años",
+   "summary": "La feria de Inca ha reunido a miles de visitantes este jueves, recuperando la presencia de ganado tras las restricciones por lengua azul.",
+   "body": [
+    "Inca ha vivido este jueves su gran cita anual, el Dijous Bo, que ha atraído a miles de personas desde primera hora de la mañana. La jornada comenzó el miércoles con la 'revetla', una marcha nocturna que se prolongó hasta las cuatro de la madrugada, según Última Hora.",
+    "El ayuntamiento inauguró oficialmente la feria a las 17:30 horas, momento en el que las calles ya estaban llenas de visitantes. Entre los atractivos principales destaca el retorno de las ovejas, cabras y vacas a la muestra ganadera, ausentes los dos últimos años debido a las restricciones derivadas de la lengua azul, según Ara Balears.",
+    "El evento ha mantenido su carácter tradicional con el protagonismo del cerdo negro mallorquín y las muestras agrícolas. El programa se cerrará con un pasacalles final previsto para las 20:30 horas, según Mallorcadiario."
+   ]
+  },
+  "ca": {
+   "title": "Inca celebra el Dijous Bo amb el retorn de la mostra ramadera",
+   "summary": "La fira d'Inca ha reunit milers de visitants aquest dijous, recuperant la presència de ramat després de les restriccions per la llengua blava.",
+   "body": [
+    "Inca ha viscut aquest dijous la seva gran cita anual, el Dijous Bo, que ha atret milers de persones des de primera hora del matí. La jornada va començar dimarts amb la revetla, una marxa nocturna que es va allargar fins a les quatre de la matinada, segons Última Hora.",
+    "L'ajuntament va inaugurar oficialment la fira a les 17:30 hores, quan els carrers ja estaven plens de visitants. Entre els atractius principals destaca el retorn de les ovelles, cabres i vaques a la mostra ramadera, absents els dos darrers anys a causa de les restriccions derivades de la llengua blava, segons Ara Balears.",
+    "L'esdeveniment ha mantingut el seu caràcter tradicional amb el protagonisme del porc negre mallorquí i les mostres agrícoles. El programa es tancarà amb un pasacalles final previst per a les 20:30 hores, segons Mallorcadiario."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La feria se inauguró oficialmente a las 17:30 horas.",
+    "ca": "La fira es va inaugurar oficialment a les 17:30 hores.",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "El ganado (ovejas, cabras, vacas) vuelve a la muestra tras dos años de ausencia por lengua azul.",
+    "ca": "El ramat (ovelles, cabres i vaques) torna a la mostra després de dos anys d'absència per la llengua blava.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "El pasacalles final está previsto para las 20:30 horas.",
+    "ca": "El pasacalles final està previst per a les 20:30 hores.",
+    "sources": [
+     "mallorcadiario"
+    ]
+   },
+   {
+    "es": "La jornada anterior (miércoles) incluyó una marcha nocturna hasta las 4:00.",
+    "ca": "La jornada anterior (dimecres) va incloure una marxa nocturna fins a les 4:00.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-20T09:10:39.185Z",
+  "slug": "el-dijous-bo-se-inaugura-en-inca-con-autoridades-y-regreso-del-ganado-ea59b",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/0f1818cc-39c6-43cb-b02f-774b52f8039b_16-9-aspect-ratio_default_0_x609y270.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/fotos/part-forana/2026/11/18/imagenes-dimecres-bo-inca-136591419.html"
+  },
+  "distinctFrom": [
+   "std0b761db0b"
+  ]
+ },
+ {
   "id": "st6e872559da",
   "createdAt": "2026-11-18T11:30:55.830Z",
   "firstPublished": "2026-11-18T03:48:01.000Z",
@@ -12285,7 +13688,9 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/1050f233-99b6-42f9-8209-c431fa73ca2c_16-9-aspect-ratio_default_0_x1024y307.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/18/veterano-comerciante-dijous-bo-inca-136533542.html"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "st2be83ea59b"
  },
  {
   "id": "std9fa70a4d5",
@@ -13233,10 +14638,18 @@
     "lang": "es",
     "title": "Kohlberg, en el homenaje a los abonados más fieles del Mallorca: «Nuestro compromiso es firme»",
     "published": "2026-11-17T19:51:03.000Z"
+   },
+   {
+    "id": "ad5db04644c4",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/20/2753567/mensaje-kohlberg-puertas-para-dentro-mallorca-esta-venta.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El mensaje de Kohlberg de puertas para dentro: el Mallorca no está en venta",
+    "published": "2026-11-20T03:48:01.000Z"
    }
   ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-17T19:51:03.000Z",
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-20T03:48:01.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-17T21:01:01.967Z",
   "islands": [
@@ -13272,7 +14685,7 @@
   "contradiction": false,
   "updatedAt": "2026-11-17T21:01:01.967Z",
   "slug": "el-real-mallorca-homenajea-a-abonados-con-25-y-50-anos-de-fidelidad-bdb72",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://estaticos-cdn.prensaiberica.es/clip/a34e8beb-ae4f-4505-848f-977684921cd0_16-9-aspect-ratio_default_0_x834y828.jpg",
    "sourceId": "diariodemallorca",
@@ -13536,10 +14949,18 @@
     "lang": "es",
     "title": "Ver Son Roca desde los ojos de su juventud",
     "published": "2026-11-18T18:10:22.000Z"
+   },
+   {
+    "id": "ad9a3c421b34",
+    "url": "https://ib3.org/son-roca-relats-i-secrets-els-veinats-mostren-el-barri-amb-els-seus-ulls",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "“Son Roca: Relats i secrets” els veinats mostren el barri amb els seus ulls",
+    "published": "2026-11-19T20:28:34.000Z"
    }
   ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-18T18:10:22.000Z",
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-19T20:28:34.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-18T19:39:57.731Z",
   "islands": [
@@ -13596,7 +15017,7 @@
   "contradiction": false,
   "updatedAt": "2026-11-18T19:39:57.731Z",
   "slug": "se-inaugura-la-exposicion-fotografica-son-roca-relatos-y-secretos-en-bfb52",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4853055.webp",
    "sourceId": "ultimahora",
@@ -20514,24 +21935,6 @@
    "sourceId": "arabalears",
    "articleUrl": "https://www.arabalears.cat/educacio/catala-enfonsa-escoles-privades-concertades-palma-nomes-38-53-dels-examens-selectivitat_1_5912076.html"
   }
- },
- {
-  "id": "st71aea22fe8",
-  "createdAt": "2026-11-17T02:53:59.371Z",
-  "firstPublished": "2026-11-16T20:11:46.000Z",
-  "articles": [
-   {
-    "id": "9ce4965b8a8a",
-    "url": "https://ib3.org/un-centenar-destudiant-pitiusos-reben-un-reconeixement-al-seu-esforc",
-    "sourceId": "ib3",
-    "lang": "ca",
-    "title": "Un centenar d’estudiant pitiüsos reben un reconeixement al seu esforç",
-    "published": "2026-11-16T20:11:46.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-16T20:11:46.000Z",
-  "writeErrors": 1
  },
  {
   "id": "st86762a9724",
@@ -27644,10 +29047,26 @@
     "lang": "es",
     "title": "Encendido de luces de Navidad en Palma: día, hora y localizaciones",
     "published": "2026-11-19T03:48:01.000Z"
+   },
+   {
+    "id": "4a9289d06e7b",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/20/2752671/palma-prepara-para-encendido-luces-navidenas-como-gran-plan-del-finde.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Palma se prepara para el encendido de las luces navideñas como gran plan del finde",
+    "published": "2026-11-20T03:48:01.000Z"
+   },
+   {
+    "id": "b4209df6b921",
+    "url": "https://www.ultimahora.es/xaloc/dudas-respuestas/2026/11/20/2751845/encendido-luces-navidad-palma-iluminacion-calle-calle-novedades-2026.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Encendido de luces de Navidad en Palma: iluminación calle a calle y novedades de 2026",
+    "published": "2026-11-20T03:48:01.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-19T03:48:01.000Z",
+  "lastArticleAt": "2026-11-20T03:48:01.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-16T19:50:39.966Z",
   "islands": [
