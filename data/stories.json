@@ -1,5 +1,288 @@
 [
  {
+  "id": "stbb39a4be3d",
+  "createdAt": "2026-11-22T01:13:35.888Z",
+  "firstPublished": "2026-11-21T22:45:47.000Z",
+  "articles": [
+   {
+    "id": "1776c32db981",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/21/2755055/luis-garcia-nos-vamos-muy-insatisfechos-queriamos-ganar.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Luis García: «Nos marchamos muy insatisfechos, queríamos los tres puntos»",
+    "published": "2026-11-21T22:45:47.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T22:45:47.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:21:51.469Z",
+  "hidden": true
+ },
+ {
+  "id": "stfb978bf046",
+  "createdAt": "2026-11-22T01:13:35.888Z",
+  "firstPublished": "2026-11-21T22:37:43.000Z",
+  "articles": [
+   {
+    "id": "bc68c86a3f36",
+    "url": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/21/arnau-tenas-falta-pausa-finalizar-136709139.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Arnau Tenas: «Nos falta un poco más de pausa arriba y finalizar las jugadas»",
+    "published": "2026-11-21T22:37:43.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T22:37:43.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:22:00.599Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Mallorca empata 0-0 en Tenerife y Arnau Tenas celebra su séptima portería a cero",
+   "summary": "El equipo balear vuelve de Tenerife sin encajar goles y con un punto, gracias a una parada clave de Arnau Tenas, que suma su séptima portería a cero en 14 jornadas.",
+   "body": [
+    "El Mallorca regresó de Tenerife con un empate sin goles (0-0) en un encuentro en el que, pese a no recibir ningún tanto, no logró concretar ninguna ocasión de gol. El resultado deja al equipo con un punto en la clasificación.",
+    "Arnau Tenas fue uno de los protagonistas del partido, realizando una parada decisiva que garantizó el empate. Con este rendimiento, el guardameta suma su séptima portería a cero en las 14 jornadas disputadas hasta la fecha."
+   ]
+  },
+  "ca": {
+   "title": "El Mallorca empata 0-0 a Tenerife i Arnau Tenas celebra la seva setena porteria a zero",
+   "summary": "L'equip balear torna de Tenerife sense encaixar gols i amb un punt, gràcies a una aturada clau d'Arnau Tenas, que suma la seva setena porteria a zero en 14 jornades.",
+   "body": [
+    "El Mallorca ha tornat de Tenerife amb un empat sense gols (0-0) en un partit en què, tot i no haver encaixat cap gol, no ha pogut trobar el camí cap a la porteria rival. El resultat deixa l'equip amb un punt a la classificació.",
+    "Arnau Tenas ha estat un dels protagonistes del partit, realitzant una aturada decisiva que ha assegurat l'empat. Amb aquest rendiment, el porter suma la seva setena porteria a zero en les 14 jornades disputades fins ara."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Mallorca empató 0-0 en Tenerife y sumó un punto",
+    "ca": "El Mallorca va empatar 0-0 a Tenerife i va sumar un punt",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Arnau Tenas realizó una parada decisiva que garantizó el empate",
+    "ca": "Arnau Tenas va realitzar una aturada decisiva que va garantir l'empat",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Es la séptima portería a cero de Tenas en 14 jornadas",
+    "ca": "És la setena porteria a zero de Tenas en 14 jornades",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:22:00.599Z",
+  "slug": "el-mallorca-empata-0-0-en-tenerife-y-arnau-tenas-celebra-su-septima-bf046",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/d86d6347-f633-467f-b7d6-f91f564d3891_16-9-aspect-ratio_default_0_x800y389.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/21/arnau-tenas-falta-pausa-finalizar-136709139.html"
+  }
+ },
+ {
+  "id": "ste716953b4c",
+  "createdAt": "2026-11-22T01:13:35.888Z",
+  "firstPublished": "2026-11-21T22:07:24.000Z",
+  "articles": [
+   {
+    "id": "69f59bc4178e",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/21/2755043/esto-vale-para-subir-primera.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Esto no vale para subir a Primera",
+    "published": "2026-11-21T22:25:00.000Z"
+   },
+   {
+    "id": "985aaa803c98",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/21/2755053/esto-nos-vendieron.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Esto no es lo que nos vendieron",
+    "published": "2026-11-21T22:23:00.000Z"
+   },
+   {
+    "id": "7f565ddf2d74",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/21/2755051/mallorca-vuelve-hacerse-pequeno.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Mallorca vuelve a hacerse pequeño",
+    "published": "2026-11-21T22:10:00.000Z"
+   },
+   {
+    "id": "01b0814f2e4e",
+    "url": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/21/imposible-mallorca-ascienda-primera-division-136708965.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Así es imposible que el Mallorca ascienda a Primera División",
+    "published": "2026-11-21T22:07:24.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T22:25:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:21:28.221Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Mallorca empata 0-0 ante Tenerife y suma un punto",
+   "summary": "El equipo balear no logra la victoria en Tenerife, cerrando la jornada con un empate sin goles que le otorga un punto en la clasificación.",
+   "body": [
+    "El Mallorca terminó la jornada con un empate sin goles (0-0) frente al Tenerife, según los informes de Diario de Mallorca y Última Hora. El resultado mantiene al conjunto balear en la tabla sin conseguir los tres puntos que necesitaba para acercarse a la zona de ascenso a Primera División.",
+    "Ambos medios coinciden en que la actuación del Mallorca fue insuficiente para lograr la victoria, describiendo al rival como superior en varios momentos del encuentro y señalando que el punto obtenido es el único beneficio del partido."
+   ]
+  },
+  "ca": {
+   "title": "El Mallorca empata 0-0 a Tenerife i suma un punt",
+   "summary": "L'equip balear no aconsegueix la victòria a Tenerife, tancant la jornada amb un empat sense gols que li atorga un punt a la classificació.",
+   "body": [
+    "El Mallorca va acabar la jornada amb un empat sense gols (0-0) contra el Tenerife, segons els informes del Diario de Mallorca i Última Hora. El resultat manté el conjunt balear a la taula sense aconseguir els tres punts que necessitava per acostar-se a la zona d'ascens a Primera Divisió.",
+    "Ambdós mitjans coincideixen que la actuació del Mallorca va ser insuficient per aconseguir la victòria, descrivint l'oponent com superior en diversos moments del partit i assenyalant que el punt obtingut és l'únic benefici del partit."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Empate 0-0 entre Mallorca y Tenerife",
+    "ca": "Empat 0-0 entre Mallorca i Tenerife",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El Mallorca suma un punto tras el empate",
+    "ca": "El Mallorca suma un punt després de l'empat",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:21:28.221Z",
+  "slug": "el-mallorca-empata-0-0-ante-tenerife-y-suma-un-punto-53b4c",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/60de4fd1-6795-4940-820e-b28b8727d292_16-9-aspect-ratio_default_0_x704y1110.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/rcd-mallorca/2026/11/21/imposible-mallorca-ascienda-primera-division-136708965.html"
+  }
+ },
+ {
+  "id": "stc6af4bfb60",
+  "createdAt": "2026-11-22T01:13:35.888Z",
+  "firstPublished": "2026-11-21T21:42:00.000Z",
+  "articles": [
+   {
+    "id": "f9be08b0458e",
+    "url": "https://www.menorca.info/deportes/futbol/2026/11/21/2754993/jordi-pons-gregorio-entrenador-del-sporting-pienso-equipo-club-merecen-este-titulo.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Jordi Pons Gregorio, entrenador del Sporting: «El equipo y el club se merecen este título»",
+    "published": "2026-11-21T22:28:00.000Z"
+   },
+   {
+    "id": "4bfb593d16cf",
+    "url": "https://www.menorca.info/deportes/futbol/2026/11/21/2754991/sporting-mahon-proclama-campeon-copa-tanda-penaltis.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El Sporting de Mahón se proclama campeón de la Copa en la tanda de penaltis",
+    "published": "2026-11-21T21:42:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T22:28:00.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-22T01:22:04.013Z",
+  "islands": [
+   "menorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Sporting de Mahón gana la Copa tras vencer a la Penya Ciutadella en penaltis",
+   "summary": "El Municipal de Los Pinos registró una alta asistencia para presenciar la final, donde el equipo mahonés se impuso en la tanda de penaltis.",
+   "body": [
+    "El Sporting de Mahón se ha proclamado campeón de la Copa tras superar a la Penya Ciutadella en la tanda de penaltis. El encuentro se disputó en el Municipal de Los Pinos, que registró una gran afluencia de público según Es Diari.",
+    "En el desarrollo del partido, el equipo de Mahón se adelantó en el marcador gracias a un gol de Bilal. Posteriormente, la Penya Ciutadella logró igualar la contienda en la segunda parte con un tanto de Sebas, estableciendo el 1-1 que llevó la decisión a los lanzamientos desde el punto de penalti.",
+    "Pese al dominio territorial de la Penya Ciutadella durante gran parte del encuentro, el Sporting de Mahón fue capaz de resolver la final a su favor en el desenlace definitivo."
+   ]
+  },
+  "ca": {
+   "title": "El Sporting de Mahó guanya la Copa després de vèncer la Penya Ciutadella als penals",
+   "summary": "El Municipal de Los Pinos va registrar una alta assistència per presenciar la final, on l'equip mahonès va imposar-se en la tanda de penals.",
+   "body": [
+    "El Sporting de Mahó s'ha proclamat campió de la Copa després de superar la Penya Ciutadella en la tanda de penals. El partit es va disputar al Municipal de Los Pinos, que va registrar una gran afluència de públic segons Es Diari.",
+    "En el desenvolupament del partit, l'equip de Mahó va prendre l'avantatge al marcador gràcies a un gol de Bilal. Posteriorment, la Penya Ciutadella va aconseguir igualar la contesa en la segona part amb un gol de Sebas, establint el 1-1 que va portar la decisió als llançaments des del punt de penal.",
+    "Malgrat el domini territorial de la Penya Ciutadella durant gran part de l'encontre, el Sporting de Mahó va ser capaç de resoldre la final a favor seu en el desenllaç definitiu."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Sporting de Mahón ganó la Copa en la tanda de penaltis.",
+    "ca": "El Sporting de Mahó va guanyar la Copa en la tanda de penals.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "El partido se jugó en el Municipal de Los Pinos con gran asistencia.",
+    "ca": "El partit es va jugar al Municipal de Los Pinos amb gran assistència.",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Bilal marcó el primer gol para Mahón y Sebas igualó para la Penya Ciutadella (1-1).",
+    "ca": "Bilal va marcar el primer gol per a Mahó i Sebas va igualar per a la Penya Ciutadella (1-1).",
+    "sources": [
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:22:04.013Z",
+  "slug": "el-sporting-de-mahon-gana-la-copa-tras-vencer-a-la-penya-ciutadella-bfb60",
+  "status": "single",
+  "image": {
+   "url": "https://men.gsstatic.es/sfAttachPlugin/4858799.webp",
+   "sourceId": "menorcainfo",
+   "articleUrl": "https://www.menorca.info/deportes/futbol/2026/11/21/2754993/jordi-pons-gregorio-entrenador-del-sporting-pienso-equipo-club-merecen-este-titulo.html"
+  }
+ },
+ {
+  "id": "ste13efdfc07",
+  "createdAt": "2026-11-22T01:13:35.888Z",
+  "firstPublished": "2026-11-21T21:30:40.000Z",
+  "articles": [
+   {
+    "id": "9678f37b0941",
+    "url": "https://www.diariodemallorca.es/deportes/2026/11/21/victoria-prestigio-conectabalear-manacor-melilla-136708653.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Victoria de prestigio del ConectaBalear Manacor contra el Melilla",
+    "published": "2026-11-21T21:30:40.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-21T21:30:40.000Z",
+  "writeErrors": 1
+ },
+ {
   "id": "st947a33701d",
   "createdAt": "2026-11-21T21:05:32.939Z",
   "firstPublished": "2026-11-21T20:21:00.000Z",
@@ -13,8 +296,64 @@
     "published": "2026-11-21T20:21:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T20:21:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T20:21:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:22:24.534Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "La XVIII Cursa de sa Sobrassada se celebra en Ibiza con éxito",
+   "summary": "El sábado se disputó la XVIII edición de la Cursa de sa Sobrassada en los alrededores de la plaza de la Iglesia de Santa Gertrudis, con la participación de numerosos corredores.",
+   "body": [
+    "La XVIII Cursa de sa Sobrassada tuvo lugar este sábado en los alrededores de la plaza de la Iglesia de Santa Gertrudis, en Ibiza. La prueba, que forma parte del calendario de atletismo local, consiste en una distancia de media maratón y permite la participación tanto por equipos como por parejas.",
+    "Según el Periódico de Ibiza y Formentera, la competición se desarrolló con éxito y contó con una multitud de corredores que tomaron parte en la prueba clásica del calendario atlético de la zona."
+   ]
+  },
+  "ca": {
+   "title": "La XVIII Cursa de sa Sobrassada es celebra a Eivissa amb èxit",
+   "summary": "Dissabte es va disputar la XVIII edició de la Cursa de sa Sobrassada als voltants de la plaça de l'Església de Santa Gertrudis, amb la participació de nombrosos corredors.",
+   "body": [
+    "La XVIII Cursa de sa Sobrassada es va celebrar aquest dissabte als voltants de la plaça de l'Església de Santa Gertrudis, a Eivissa. La prova, que forma part del calendari d'atletisme local, consisteix en una distància de mitja marató i permet la participació tant per equips com per parelles.",
+    "Segons el Periódico de Ibiza y Formentera, la competició es va desenvolupar amb èxit i va comptar amb una multitud de corredors que van prendre part en la prova clàssica del calendari atlètic de la zona."
+   ]
+  },
+  "facts": [
+   {
+    "es": "XVIII edición de la Cursa de sa Sobrassada",
+    "ca": "XVIII edició de la Cursa de sa Sobrassada",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Celebrada el sábado 21 de noviembre de 2026",
+    "ca": "Celebrada el dissabte 21 de novembre de 2026",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "Ubicada en los alrededores de la plaza de la Iglesia de Santa Gertrudis en Ibiza",
+    "ca": "Ubicada als voltants de la plaça de l'Església de Santa Gertrudis a Eivissa",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:22:24.534Z",
+  "slug": "la-xviii-cursa-de-sa-sobrassada-se-celebra-en-ibiza-con-exito-3701d",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4858783.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/21/2755025/xviii-cursa-sobrassada-tiene-campeones.html"
+  }
  },
  {
   "id": "st20b265e909",
@@ -165,7 +504,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/b7c766d5-2cb1-4afe-bfe5-5245f9291c41_16-9-aspect-ratio_default_0_x640y304.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/deportes/2026/11/21/club-mar-mallorca-arranca-temporada-136705881.html"
-  }
+  },
+  "distinctFrom": [
+   "stf2b661d7a4"
+  ]
  },
  {
   "id": "std32411503c",
@@ -195,10 +537,18 @@
     "lang": "ca",
     "title": "L’encesa dels llums dona el sus a les festes de Nadal a Palma",
     "published": "2026-11-21T19:00:43.000Z"
+   },
+   {
+    "id": "2ee83604a8f9",
+    "url": "https://www.diariodemallorca.es/fotos/2026/11/21/palma-ilumina-ceremonia-encendido-luces-136708000.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Palma se ilumina con la ceremonia de encendido de luces de Navidad más cara y monumental de los últimos años",
+    "published": "2026-11-21T21:01:48.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-21T20:34:40.000Z",
+  "lastArticleAt": "2026-11-21T21:01:48.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-21T21:06:27.061Z",
   "islands": [
@@ -341,7 +691,10 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4858597.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/21/2754959/vox-promete-desalojar-okupas-horas-reclama-mas-policias-para-ibiza.html"
-  }
+  },
+  "distinctFrom": [
+   "stc564362e7d"
+  ]
  },
  {
   "id": "st241404c255",
@@ -359,7 +712,7 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-21T18:11:22.000Z",
-  "writeErrors": 1
+  "writeErrors": 2
  },
  {
   "id": "st2ab2b35f87",
@@ -426,7 +779,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/436a6d8b-c21f-4b51-bf20-f6bb62e3c2c6_16-9-aspect-ratio_default_0_x1024y384.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/deportes/2026/11/21/atletico-baleares-quiere-acercarse-play-136703908.html"
-  }
+  },
+  "distinctFrom": [
+   "st25f27942b2"
+  ]
  },
  {
   "id": "st66eebbe789",
@@ -597,9 +953,50 @@
     "published": "2026-11-21T16:33:45.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-21T16:33:45.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:22:49.221Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Fibwi Mallorca se enfrenta al Cajasol Coto Córdoba Baloncesto en Son Moix",
+   "summary": "El Fibwi Mallorca jugará este domingo a las 18:00 en Son Moix contra el Cajasol Coto Córdoba Baloncesto, con la intención de romper su mala racha reciente.",
+   "body": [
+    "El Fibwi Mallorca disputará este domingo, 24 de noviembre, un partido a las 18:00 horas en la pista de Son Moix. El encuentro enfrenta al equipo dirigido por Alex Formento con el Cajasol Coto Córdoba Baloncesto, dos conjuntos que llegan a la cita en situaciones similares de resultados adversos.",
+    "Según la información de Última Hora, los mallorquines buscan acabar con la mala racha que les ha perseguido en los dos últimos encuentros y dejar atrás la imagen que se ha generado al inicio de la temporada. El partido está catalogado como un punto clave en el calendario del Fibwi, que espera revertir su desempeño y recuperar la confianza."
+   ]
+  },
+  "ca": {
+   "title": "El Fibwi Mallorca s'enfronta al Cajasol Coto Córdoba Baloncesto a Son Moix",
+   "summary": "El Fibwi Mallorca jugarà aquest diumenge a les 18:00 a Son Moix contra el Cajasol Coto Córdoba Baloncesto, amb la intenció de trencar la seva mala ratxa recent.",
+   "body": [
+    "El Fibwi Mallorca disputarà aquest diumenge, 24 de novembre, un partit a les 18:00 hores a la pista de Son Moix. L'enfrontament veu al equip dirigit per Alex Formento contra el Cajasol Coto Córdoba Baloncesto, dos conjunts que arriben a la cita en situacions similars de resultats adversos.",
+    "Segons la informació d'Última Hora, els mallorquins busquen acabar amb la mala ratxa que els ha perseguit en els dos últims partits i deixar enrere la imatge que s'ha generat a l'inici de la temporada. El partit està catalogat com un punt clau al calendari del Fibwi, que espera revertir el seu rendiment i recuperar la confiança."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Fibwi Mallorca jugará el domingo a las 18:00 en Son Moix contra el Cajasol Coto Córdoba Baloncesto",
+    "ca": "El Fibwi Mallorca jugarà aquest diumenge a les 18:00 a Son Moix contra el Cajasol Coto Córdoba Baloncesto",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:22:49.221Z",
+  "slug": "el-fibwi-mallorca-se-enfrenta-al-cajasol-coto-cordoba-baloncesto-en-508bb",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4858359.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/baloncesto/2026/11/21/2754855/fibwi-quiere-alzar-vuelo.html"
+  }
  },
  {
   "id": "st2abf07768c",
@@ -827,58 +1224,76 @@
     "lang": "es",
     "title": "Fallece Margarita Kinsberger, impulsora de la música clásica en Santa Eulària y premio Xarc 2012",
     "published": "2026-11-21T16:21:29.000Z"
+   },
+   {
+    "id": "f6a6b284b53c",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/muere-margarita-kinsberger-impulsora-de-la-musica-clasica-en-ibiza-y-fundadora-de-pro-arte/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Muere Margarita Kinsberger, impulsora de la música clásica en Ibiza y fundadora de Pro Arte",
+    "published": "2026-11-21T21:13:33.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-21T16:28:06.000Z",
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-21T21:09:31.772Z",
+  "lastArticleAt": "2026-11-21T21:13:33.000Z",
+  "model": "gemini/gemini-flash-latest",
+  "writtenAt": "2026-11-22T01:21:24.455Z",
   "islands": [
    "ibiza"
   ],
   "topic": "cultura",
   "es": {
-   "title": "Margarita Kinsberger, promotora de la música clásica en Santa Eulària, fallece a los 78 años",
-   "summary": "La ciudad de Santa Eulària lamenta el fallecimiento de Margarita Kinsberger, reconocida por su labor de difusión de la música clásica y premiada con el Xarc 2012.",
+   "title": "Fallece Margarita Kinsberger, divulgadora de la música clásica en Ibiza",
+   "summary": "Margarita Kinsberger falleció el pasado 16 de noviembre en Alemania tras décadas dedicada a la difusión musical en Ibiza. El Ayuntamiento de Santa Eulària ha expresado sus condolencias por su pérdida.",
    "body": [
-    "El Ayuntamiento de Santa Eulària ha expresado su pesar tras la muerte de Margarita Kinsberger, quien vivió en el municipio durante décadas. Según el Consistorio, la fallecida murió el 16 de noviembre en Alemania, su país natal.",
-    "Kinsberger fue galardonada con el premio Xarc en 2012 por su trayectoria y su trabajo de difusión de la música clásica. Durante treinta años, organizó recitales y promocionó conciertos en la isla, contribuyendo a abrir un espacio para el género en la agenda cultural de Ibiza."
+    "Margarita Kinsberger, una de las principales impulsoras de la música clásica en Ibiza y fundadora de Pro Arte, falleció el pasado 16 de noviembre en Alemania, su país de origen. El Ayuntamiento de Santa Eulària des Riu comunicó este sábado su pesar por la pérdida de quien fue vecina del municipio durante décadas.",
+    "A lo largo de treinta años, Kinsberger centró sus esfuerzos en organizar recitales, promocionarlos e incluso colaborar económicamente para hacerlos posibles en la isla. Su labor continuada en la divulgación cultural le valió en 2012 el reconocimiento con el premio Xarc que otorga el consistorio de Santa Eulària."
    ]
   },
   "ca": {
-   "title": "Margarita Kinsberger, promotora de la música clàssica a Santa Eulària, mor a 78 anys",
-   "summary": "La ciutat de Santa Eulària lamenta la mort de Margarita Kinsberger, reconeguda per la seva labor de difusió de la música clàssica i premiada amb el Xarc 2012.",
+   "title": "Mor Margarita Kinsberger, divulgadora de la música clàssica a Eivissa",
+   "summary": "Margarita Kinsberger va morir el passat 16 de novembre a Alemanya després de dècades dedicades a la difusió musical a Eivissa. L'Ajuntament de Santa Eulària ha expressat el seu condol per la pèrdua.",
    "body": [
-    "L'Ajuntament de Santa Eulària ha expressat el seu pesar després de la mort de Margarita Kinsberger, qui va viure al municipi durant dècades. Segons el Consistor, la difunta va morir el 16 de novembre a Alemanya, el seu país natal.",
-    "Kinsberger va rebre el premi Xarc el 2012 per la seva trajectòria i el seu treball de difusió de la música clàssica. Durant trenta anys, va organitzar recitals i va promocionar concerts a l'illa, contribuint a obrir un espai per al gènere a l'agenda cultural d'Ibiza."
+    "Margarita Kinsberger, una de les principals impulsores de la música clàssica a Eivissa i fundadora de Pro Arte, va morir el passat 16 de novembre a Alemanya, el seu país d'origen. L'Ajuntament de Santa Eulària des Riu va comunicar aquest dissabte el seu condol per la pèrdua de qui va ser veïna del municipi durant dècades.",
+    "Al llarg de trenta anys, Kinsberger va centrar els seus esforços a organitzar recitals, promocionar-los i fins i tot col·laborar econòmicament per fer-los possibles a l'illa. La seva feina continuada en la divulgació cultural li va valdre el 2012 el reconeixement amb el premi Xarc que atorga el consistori de Santa Eulària."
    ]
   },
   "facts": [
    {
-    "es": "Margarita Kinsberger falleció el 16 de noviembre de 2026 en Alemania",
-    "ca": "Margarita Kinsberger mor el 16 de novembre de 2026 a Alemanya",
+    "es": "Margarita Kinsberger falleció el 16 de noviembre en Alemania.",
+    "ca": "Margarita Kinsberger va morir el 16 de novembre a Alemanya.",
+    "sources": [
+     "periodicodeibiza",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Residió durante décadas en el municipio de Santa Eulària.",
+    "ca": "Va residir durant dècades al municipi de Santa Eulària.",
+    "sources": [
+     "periodicodeibiza",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Recibió el premio Xarc en el año 2012 por su difusión de la música clásica.",
+    "ca": "Va rebre el premi Xarc l'any 2012 per la seva difusió de la música clàssica.",
     "sources": [
      "periodicodeibiza"
     ]
    },
    {
-    "es": "Fue premiada con el Xarc 2012 por su trayectoria y labor de difusión de la música clásica",
-    "ca": "Rebè el Xarc 2012 per la seva trajectòria i treball de difusió de la música clàssica",
+    "es": "Kinsberger fue fundadora de Pro Arte e impulsó recitales en la isla durante treinta años.",
+    "ca": "Kinsberger va ser fundadora de Pro Arte i va impulsar recitals a l'illa durant trenta anys.",
     "sources": [
-     "periodicodeibiza"
-    ]
-   },
-   {
-    "es": "Vivió en Santa Eulària durante décadas y organizó recitales en Ibiza",
-    "ca": "Viví a Santa Eulària durant dècades i va organitzar recitals a Ibiza",
-    "sources": [
-     "diariodeibiza"
+     "diariodeibiza",
+     "noudiari"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-21T21:09:31.772Z",
+  "updatedAt": "2026-11-22T01:21:24.455Z",
   "slug": "margarita-kinsberger-promotora-de-la-musica-clasica-en-santa-eularia-0499e",
   "status": "verified",
   "image": {
@@ -943,7 +1358,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4858351.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/deportes/baloncesto/2026/11/21/2754847/azulmarino-vuelve-modo-liga.html"
-  }
+  },
+  "distinctFrom": [
+   "st8a34c17385"
+  ]
  },
  {
   "id": "st8a34c17385",
@@ -1018,9 +1436,64 @@
     "published": "2026-11-21T15:48:00.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-21T15:48:00.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-22T01:22:52.081Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El propietario de la finca de Galatzó defiende su versión del conflicto con senderistas",
+   "summary": "El dueño de la propiedad donde se produjo el enfrentamiento ha roto su silencio para denunciar que el vídeo viral no refleja la totalidad de los hechos.",
+   "body": [
+    "El propietario de la finca situada en Galatzó, donde tuvo lugar el incidente con un grupo de senderistas, ha ofrecido su versión de los hechos en declaraciones a Última Hora. El hombre sostiene que las imágenes difundidas en redes sociales muestran únicamente el desenlace de una discusión que, según afirma, comenzó mucho antes y en el interior de su propiedad familiar.",
+    "En su intervención, el dueño de la finca ha acusado a los senderistas de entrar en su casa y burlarse de su hermano. Respecto a la viralización del vídeo, ha señalado que este está sesgado, argumentando que en las grabaciones los visitantes aparecen como víctimas mientras que él se muestra como un agresor, una situación que, a su juicio, no corresponde con la realidad de lo sucedido."
+   ]
+  },
+  "ca": {
+   "title": "El propietari de la finca de Galatzó defensa la seva versió del conflicte amb senderistes",
+   "summary": "El propietari de la propietat on va tenir lloc l'enfrontament ha trencat el silenci per denunciar que el vídeo viral no reflecteix la totalitat dels fets.",
+   "body": [
+    "El propietari de la finca situada a Galatzó, on va tenir lloc l'incident amb un grup de senderistes, ha ofertat la seva versió dels fets en declaracions a Última Hora. L'home sosté que les imatges difoses a les xarxes socials mostren únicament el desenllaç d'una discussió que, segons afirma, va començar molt abans i a l'interior de la seva propietat familiar.",
+    "En la seva intervenció, el propietari de la finca ha acusat els senderistes d'entrar a la seva casa i burlar-se del seu germà. Pel que fa a la viralització del vídeo, ha assenyalat que aquest està sesgat, argumentant que a les gravacions els visitants apareixen com a víctimes mentre que ell es mostra com un agressor, una situació que, al seu judici, no correspon amb la realitat del que va passar."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El propietario de la finca de Galatzó ha declarado a Última Hora que el vídeo del incidente está sesgado.",
+    "ca": "El propietari de la finca de Galatzó ha declarat a Última Hora que el vídeo de l'incident està sesgat.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Según el dueño, la discusión comenzó antes y dentro de su propiedad familiar.",
+    "ca": "Segons el propietari, la discussió va començar abans i a l'interior de la seva propietat familiar.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El propietario acusa a los senderistas de entrar en su casa y burlarse de su hermano.",
+    "ca": "El propietari acusa els senderistes d'entrar a la seva casa i burlar-se del seu germà.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:22:52.081Z",
+  "slug": "el-propietario-de-la-finca-de-galatzo-defiende-su-version-del-c1a42",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4858251.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/21/2754699/dueno-finca-galatzo-acusa-senderistas-entrar-casa-burlarse-hermano-video-esta-sesgado.html"
+  }
  },
  {
   "id": "st0f5ba1b554",
@@ -1078,7 +1551,10 @@
    "url": "https://static1.ara.cat/clip/6a4f4525-160d-40d8-a75c-205fcde19b56_16-9-aspect-ratio_default_0.jpg",
    "sourceId": "arabalears",
    "articleUrl": "https://www.arabalears.cat/educacio/contrast-29-escola-limit-campanya-electoral-no-parla-d-educacio_1_5914943.html"
-  }
+  },
+  "distinctFrom": [
+   "st80666ef875"
+  ]
  },
  {
   "id": "st5148639dd4",
@@ -1094,9 +1570,71 @@
     "published": "2026-11-21T15:41:06.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-21T15:41:06.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:23:00.425Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Una escultura de mármol sobre los últimos mallorquines vestidos a la amplia",
+   "summary": "En el mercado del Olivar de Palma se encuentra la escultura de mármol 'El darrer vestit a l’ampla', obra de Tomàs Vila realizada en 1951.",
+   "body": [
+    "En el mercado del Olivar, en Palma, se exhibe una escultura de mármol titulada \"El darrer vestit a l’ampla\". La pieza fue esculpida por el artista mallorquín Tomàs Vila en 1951 y representa a los últimos mallorquines que llevaban vestimenta tradicional.",
+    "Según indica el historiador Miquel Matas, miembro de la agrupación de música y danza tradicional Aires d’Andratx, la obra se instaló inicialmente en la intersección entre las Avenidas y el carrer d’Aragó, antes de trasladarse al mercado del Olivar. La escultura se convirtió en una imagen icónica del boom turístico, aunque no refleja con exactitud la realidad histórica del vestuario tradicional mallorquín."
+   ]
+  },
+  "ca": {
+   "title": "Una escultura de marbre sobre els últims mallorquins vestits a l’ampla",
+   "summary": "Al mercat de l’Olivar de Palma es troba l'escultura de marbre \"El darrer vestit a l’ampla\", obra de Tomàs Vila del 1951.",
+   "body": [
+    "Al mercat de l’Olivar, a Palma, es mostra una escultura de marbre titulada \"El darrer vestit a l’ampla\". La peça va ser esculpida per l'artista mallorquí Tomàs Vila el 1951 i representa els últims mallorquins que duien vestimenta tradicional.",
+    "Segons indica el historiador Miquel Matas, membre de l'agrupació de música i dansa tradicional Aires d’Andratx, l'obra es va ubicar inicialment a la intersecció entre les Avenides i el carrer d’Aragó, abans de ser traslladada al mercat de l’Olivar. La escultura es va convertir en una imatge icònica del boom turístic, tot i que no reflecteix amb exactitud la realitat històrica del vestuari tradicional mallorquí."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Escultura de mármol titulada \"El darrer vestit a l’ampla\"",
+    "ca": "Escultura de marbre titulada \"El darrer vestit a l’ampla\"",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Autor Tomàs Vila, esculpida en 1951",
+    "ca": "Autor Tomàs Vila, esculpida el 1951",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Ubicada actualmente en el mercado del Olivar de Palma",
+    "ca": "Ubicada actualment al mercat de l’Olivar de Palma",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Instalada inicialmente en la intersección entre las Avenidas y el carrer d’Aragó",
+    "ca": "Instal·lada inicialment a la intersecció entre les Avenides i el carrer d’Aragó",
+    "sources": [
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:00.425Z",
+  "slug": "una-escultura-de-marmol-sobre-los-ultimos-mallorquines-vestidos-a-la-39dd4",
+  "status": "single",
+  "image": {
+   "url": "https://static1.ara.cat/clip/5cb607b9-36b2-4ce6-8c8c-7cd3aade15ae_16-9-aspect-ratio_default_0.jpg",
+   "sourceId": "arabalears",
+   "articleUrl": "https://www.arabalears.cat/cultura/historia/darrers-mallorquins-vestits-l-ampla_130_5916046.html"
+  }
  },
  {
   "id": "stf15c642b61",
@@ -1204,8 +1742,56 @@
     "published": "2026-11-21T14:41:10.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T14:41:10.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T14:41:10.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:23:11.818Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "El perro Thor de los Bomberos de Ibiza ayuda en la búsqueda de desaparecidos",
+   "summary": "Los bomberos de Ibiza presentan a Thor, un labrador de la Unidad Canina de Rescate, que colabora con el bombero Juan Manuel Ramón en la localización de personas desaparecidas.",
+   "body": [
+    "Los Bomberos de Ibiza han destacado en sus redes sociales a Thor, un labrador que forma parte de la Unidad Canina de Rescate (UCR). Según sus compañeros, el perro está siempre \"contento y con ganas de trabajar\" y desempeña una misión importante: ayudar a encontrar a personas desaparecidas en la isla.",
+    "Thor trabaja junto al bombero Juan Manuel Ramón, quien lo acompaña en las operaciones de búsqueda. La presentación del animal busca dar a conocer el papel de la unidad canina y su contribución a la seguridad y la atención a la comunidad ibicenca."
+   ]
+  },
+  "ca": {
+   "title": "El gos Thor dels Bombers d'Eivissa ajuda a trobar desapareguts",
+   "summary": "Els bombers d'Eivissa presenten Thor, un labrador de la Unitat Canina de Rescat, que col·labora amb el bomber Juan Manuel Ramón en la localització de persones desaparegudes.",
+   "body": [
+    "Els Bombers d'Eivissa han destacat a les seves xarxes socials Thor, un labrador que forma part de la Unitat Canina de Rescat (UCR). Segons els seus companys, el gos està sempre \"content i amb ganes de treballar\" i té una missió important: ajudar a trobar persones desaparegudes a l'illa.",
+    "Thor treballa al costat del bomber Juan Manuel Ramón, que el acompanya en les operacions de recerca. La presentació de l'animal pretén donar a conèixer el paper de la unitat canina i la seva contribució a la seguretat i atenció a la comunitat eivissenca."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Thor es un labrador que forma parte de la Unidad Canina de Rescate de los Bomberos de Ibiza",
+    "ca": "Thor és un labrador que forma part de la Unitat Canina de Rescat dels Bombers d'Eivissa",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Trabaja junto al bombero Juan Manuel Ramón en la búsqueda de personas desaparecidas",
+    "ca": "Treballa al costat del bomber Juan Manuel Ramón en la recerca de persones desaparegudes",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:11.818Z",
+  "slug": "el-perro-thor-de-los-bomberos-de-ibiza-ayuda-en-la-busqueda-de-9e474",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/49784bcd-e70d-4ad4-aa31-4c2f1e77e80e_16-9-aspect-ratio_default_0_x540y360.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/21/thor-perro-juan-manuel-bomberos-ibiza-dvl-136697639.html"
+  }
  },
  {
   "id": "st2b9c6e02b2",
@@ -1221,8 +1807,49 @@
     "published": "2026-11-21T14:32:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T14:32:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T14:32:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:23:23.690Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Un acte institucional i una acció poètica tancaran el centenari de Blai Bonet",
+   "summary": "La Fundació Mallorca Literària organitzarà una cerimònia institucional i una intervenció poètica per concloure les celebracions del centenari del poeta Blai Bonet.",
+   "body": [
+    "La Fundació Mallorca Literària ha anunciat que el punt culminant de les activitats dedicades al centenari de Blai Bonet serà una combinació d’un acte institucional i una acció poètica. L’esdeveniment, que es desenvoluparà a Mallorca, pretén tancar les diverses iniciatives culturals programades durant l’any.",
+    "Segons la mateixa font, l’acte institucional comptarà amb la presència de representants del Govern i de la comunitat literària, mentre que l’acció poètica oferirà una lectura de textos seleccionats per homenatjar l’obra i la trajectòria del poeta."
+   ]
+  },
+  "ca": {
+   "title": "Un acte institucional i una acció poètica tancaran el centenari de Blai Bonet",
+   "summary": "La Fundació Mallorca Literària organitzarà una cerimònia institucional i una intervenció poètica per concloure les celebracions del centenari del poeta Blai Bonet.",
+   "body": [
+    "La Fundació Mallorca Literària ha anunciat que el punt culminant de les activitats dedicades al centenari de Blai Bonet serà una combinació d’un acte institucional i una acció poètica. L’esdeveniment, que es desenvoluparà a Mallorca, pretén tancar les diverses iniciatives culturals programades durant l’any.",
+    "Segons la mateixa font, l’acte institucional comptarà amb la presència de representants del Govern i de la comunitat literària, mentre que l’acció poètica oferirà una lectura de textos seleccionats per homenatjar l’obra i la trajectòria del poeta."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La Fundació Mallorca Literària organitzarà l'acte institucional i l'acció poètica per al centenari de Blai Bonet",
+    "ca": "La Fundació Mallorca Literària organitzarà l'acte institucional i l'acció poètica per al centenari de Blai Bonet",
+    "sources": [
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:23.690Z",
+  "slug": "un-acte-institucional-i-una-accio-poetica-tancaran-el-centenari-de-e02b2",
+  "status": "single",
+  "image": {
+   "url": "https://db.gsstatic.es/sfAttachPlugin/266347.webp",
+   "sourceId": "dbalears",
+   "articleUrl": "https://www.dbalears.cat/balears/cultura/2026/11/21/424269/acte-institucional-accio-poetica-posaran-punt-final-any-del-centenari-blai-bonet.html"
+  }
  },
  {
   "id": "stbe28fc2c17",
@@ -1238,8 +1865,56 @@
     "published": "2026-11-21T14:16:36.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T14:16:36.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T14:16:36.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:23:46.993Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Marga Pocoví y Biel Tous publican el disco “Alcover: música y vers” con ocho canciones",
+   "summary": "Los cantautores Mallorquines Marga Pocoví y Biel Tous lanzaron este sábado 21 de noviembre el disco “Alcover: música y vers”, una recopilación de ocho temas inspirados en la poesía de Joan Alcover.",
+   "body": [
+    "Marga Pocoví y Biel Tous, ambos residentes en Mallorca, presentaron el nuevo disco “Alcover: música y vers” el sábado 21 de noviembre. El proyecto reúne ocho canciones que adaptan poemas del escritor mallorquín Joan Alcover a la música contemporánea.",
+    "Según el medio dBalears, el objetivo del disco es acercar la obra poética de Alcover al público actual, combinando la tradición literaria con arreglos musicales modernos. La publicación se realizó en formato digital y físico, y está disponible en plataformas de streaming y en tiendas locales."
+   ]
+  },
+  "ca": {
+   "title": "Marga Pocoví i Biel Tous publiquen el disc “Alcover: música i vers” amb vuit cançons",
+   "summary": "Els cantautors mallorquins Marga Pocoví i Biel Tous van estrenar aquest dissabte 21 de novembre el disc “Alcover: música i vers”, una recopilació de vuit temes inspirats en la poesia de Joan Alcover.",
+   "body": [
+    "Marga Pocoví i Biel Tous, ambdues residents a Mallorca, van presentar el nou disc “Alcover: música i vers” el dissabte 21 de novembre. El projecte reuneix vuit cançons que adapten poemes del escriptor mallorquí Joan Alcover a la música contemporània.",
+    "Segons el mitjà dBalears, l’objectiu del disc és acostar l’obra poètica d’Alcover al públic actual, combinant la tradició literària amb arranjaments músics moderns. La publicació es va fer en format digital i físic, i ja està disponible a plataformes de streaming i en botigues locals."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Marga Pocoví i Biel Tous publicaron el disc “Alcover: música y vers” el 21 de noviembre de 2026",
+    "ca": "Marga Pocoví i Biel Tous van publicar el disc “Alcover: música i vers” el 21 de novembre de 2026",
+    "sources": [
+     "dbalears"
+    ]
+   },
+   {
+    "es": "El disco contiene ocho canciones basadas en poemas de Joan Alcover",
+    "ca": "El disc conté vuit cançons basades en poemes de Joan Alcover",
+    "sources": [
+     "dbalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:46.993Z",
+  "slug": "marga-pocovi-y-biel-tous-publican-el-disco-alcover-musica-y-vers-con-c2c17",
+  "status": "single",
+  "image": {
+   "url": "https://db.gsstatic.es/sfAttachPlugin/266341.webp",
+   "sourceId": "dbalears",
+   "articleUrl": "https://www.dbalears.cat/balears/cultura/2026/11/21/424263/marga-pocovi-biel-tous-publiquen-alcover-musica-vers-vuit-cancons-per-acostar-poesia-joan-alcover.html"
+  }
  },
  {
   "id": "st78471c700a",
@@ -1255,8 +1930,63 @@
     "published": "2026-11-21T14:14:31.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T14:14:31.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T14:14:31.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-22T01:23:49.797Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "El pleno de Sencelles declara Hijo Ilustre al escultor Antoni Josep Llabrés",
+   "summary": "El Ayuntamiento de Sencelles ha aprobado por unanimidad distinguir al escultor Antoni Josep Llabrés i Mudoy como Hijo Ilustre del municipio.",
+   "body": [
+    "El pleno del Ayuntamiento de Sencelles ha aprobado por unanimidad el nombramiento del escultor Antoni Josep Llabrés i Mudoy como Hijo Ilustre del municipio. El artista, nacido en Sencelles en 1749 y fallecido en Palma en 1826, es reconocido como uno de los destacados de su época en la isla.",
+    "Según el Diario de Mallorca, esta distinción tiene como objetivo recuperar la memoria de un escultor que dejó una importante huella en el patrimonio artístico de Mallorca. La decisión institucional busca resaltar la trayectoria de un creador que contribuyó significativamente al legado cultural de la comunidad."
+   ]
+  },
+  "ca": {
+   "title": "El ple de Sencelles declara Fill Il·lustre l'escultor Antoni Josep Llabrés",
+   "summary": "L'Ajuntament de Sencelles ha aprovat per unanimitat distingir l'escultor Antoni Josep Llabrés i Mudoy com a Fill Il·lustre del municipi.",
+   "body": [
+    "El ple de l'Ajuntament de Sencelles ha aprovat per unanimitat el nomenament de l'escultor Antoni Josep Llabrés i Mudoy com a Fill Il·lustre del municipi. L'artista, nascut a Sencelles el 1749 i mort a Palma el 1826, és reconegut com un dels destacats de la seva època a l'illa.",
+    "Segons el Diario de Mallorca, aquesta distinció té com a objectiu recuperar la memòria d'un escultor que va deixar una petjada important al patrimoni artístic de Mallorca. La decisió institucional busca ressaltar la trajectòria d'un creador que va contribuir significativament al llegat cultural de la comunitat."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El pleno de Sencelles aprobó por unanimidad el nombramiento.",
+    "ca": "El ple de Sencelles va aprovar per unanimitat el nomenament.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El homenajeado es el escultor Antoni Josep Llabrés i Mudoy.",
+    "ca": "L'homenatjat és l'escultor Antoni Josep Llabrés i Mudoy.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Llabrés nació en Sencelles en 1749 y murió en Palma en 1826.",
+    "ca": "Llabrés va néixer a Sencelles el 1749 i va morir a Palma el 1826.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:49.797Z",
+  "slug": "el-pleno-de-sencelles-declara-hijo-ilustre-al-escultor-antoni-josep-c700a",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/c09f84f2-fb16-40ed-b289-c303cff8017d_16-9-aspect-ratio_default_0_x1024y512.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/21/sencelles-nombra-hijo-ilustre-escultor-136698050.html"
+  }
  },
  {
   "id": "st1dc9a273b9",
@@ -1290,7 +2020,7 @@
   ],
   "needsWrite": true,
   "lastArticleAt": "2026-11-21T15:41:05.000Z",
-  "writeErrors": 1
+  "writeErrors": 2
  },
  {
   "id": "sta1ad86e73c",
@@ -1314,9 +2044,59 @@
     "published": "2026-11-21T19:29:16.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-21T19:29:16.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:21:33.805Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "medioambiente",
+  "es": {
+   "title": "La Associació de Joves d'Eivissa recibe el premio Amic de la Terra 2026",
+   "summary": "La entidad juvenil ha sido galardonada por su defensa del territorio y su oposición a la ampliación del aeropuerto de Ibiza.",
+   "body": [
+    "La Associació de Joves d'Eivissa, creada en 2025 y presentada públicamente en enero de 2026, ha sido distinguida con el premio Amic de la Terra 2026. El galardón, concedido por la asociación ecologista Amics de la Terra, reconoce iniciativas sin ánimo de lucro ni afiliación política que contribuyen a la defensa del territorio, la biodiversidad, la soberanía alimentaria y la lucha contra el cambio climático.",
+    "El acto de entrega tuvo lugar el sábado a las 14:00 en el Céller de Can Pere, en Santa Eulària, y destacó el papel de la asociación en la organización de la manifestación contra la ampliación del aeropuerto de Ibiza. Según Amics de la Terra Eivissa, el premio también valora la apuesta del colectivo por un futuro digno para la isla."
+   ]
+  },
+  "ca": {
+   "title": "La Associació de Joves d'Eivissa rep el premi Amic de la Terra 2026",
+   "summary": "L'entitat juvenil ha estat guardonada per la seva defensa del territori i l'oposició a l'ampliació de l'aeroport d'Eivissa.",
+   "body": [
+    "La Associació de Joves d'Eivissa, creada el 2025 i presentada públicament al gener de 2026, ha estat distinguida amb el premi Amic de la Terra 2026. El guardó, concedit per l'associació ecologista Amics de la Terra, reconeix iniciatives sense ànim de lucre ni afiliació política que contribueixen a la defensa del territori, la biodiversitat, la sobirania alimentària i la lluita contra el canvi climàtic.",
+    "La cerimònia de lliurament va tenir lloc el dissabte a les 14:00 al Céller de Can Pere, a Santa Eulària, i va destacar el paper de l'associació en l'organització de la manifestació contra l'ampliació de l'aeroport d'Eivissa. Segons Amics de la Terra Eivissa, el premi també valora l'aposta del col·lectiu per un futur digne per a l'illa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Premi Amic de la Terra 2026 entregat a la Associació de Joves d'Eivissa",
+    "ca": "Premi Amic de la Terra 2026 entregat a l'Associació de Joves d'Eivissa",
+    "sources": [
+     "diariodeibiza",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Acte celebrat al Céller de Can Pere, Santa Eulària, el 21‑11‑2026 a les 14:00",
+    "ca": "Acte celebrat al Céller de Can Pere, Santa Eulària, el 21‑11‑2026 a les 14:00",
+    "sources": [
+     "diariodeibiza",
+     "noudiari"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:21:33.805Z",
+  "slug": "la-associacio-de-joves-d-eivissa-recibe-el-premio-amic-de-la-terra-6e73c",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/a37314fa-4af9-406e-bcf3-4d7df8b180ac_16-9-aspect-ratio_default_0_x1000y444.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/21/amics-de-la-terra-associacio-de-joves-deivissa-ibiza-premio-136693445.html"
+  }
  },
  {
   "id": "st5db116c9da",
@@ -1426,7 +2206,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/384755cb-d67e-4a40-85cd-c95321326d3d_16-9-aspect-ratio_default_0_x799y355.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/21/prohens-promete-ventajas-fiscales-comprar-136699386.html"
-  }
+  },
+  "distinctFrom": [
+   "stc564362e7d"
+  ]
  },
  {
   "id": "stb3e42b71fb",
@@ -1442,8 +2225,49 @@
     "published": "2026-11-21T13:41:59.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T13:41:59.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T13:41:59.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:23:57.842Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "vivienda",
+  "es": {
+   "title": "Ignasi Conesa propone limitar el alquiler en Ibiza citando una reducción del 4,4% en Barcelona",
+   "summary": "El portavoz de vivienda del PSOE, Ignasi Conesa, sugiere aplicar medidas similares a las de Barcelona en Ibiza para frenar los precios de los alquileres.",
+   "body": [
+    "El PSOE de Ibiza ha pedido la aplicación de la Ley estatal de vivienda y la declaración de Baleares como zona de mercado residencial tensionado, con el objetivo de limitar los precios de los alquileres. Según Ignasi Conesa, portavoz de vivienda del PSOE en el Congreso, la regulación implementada en Barcelona ha permitido reducir los alquileres un 4,4% y generar un ahorro de 400 euros mensuales para las familias.",
+    "Conesa también ha recordado que el Ayuntamiento de Barcelona tiene previsto eliminar todos los pisos turísticos en 2028, medida que, según los socialistas, podría contribuir a la estabilización del mercado de alquiler."
+   ]
+  },
+  "ca": {
+   "title": "Ignasi Conesa proposa limitar lloguer a Eivissa citant una reducció del 4,4% a Barcelona",
+   "summary": "El portaveu d'habitatge del PSC, Ignasi Conesa, suggereix aplicar mesures similars a les de Barcelona a Eivissa per frenar els preus dels lloguers.",
+   "body": [
+    "El PSC d'Eivissa ha sol·licitat l'aplicació de la Llei estatal d'habitatge i la declaració de les Illes Balears com a zona de mercat residencial tensionat, amb l'objectiu de limitar els preus dels lloguers. Segons Ignasi Conesa, portaveu d'habitatge del PSC al Congrés, la regulació implementada a Barcelona ha permès reduir els lloguers un 4,4% i generar un estalvi de 400 euros mensuals per a les famílies.",
+    "Conesa també ha recordat que l'Ajuntament de Barcelona preveu eliminar tots els pisos turístics el 2028, mesura que, segons els socialistes, podria contribuir a l'estabilització del mercat de lloguer."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Reducción de los alquileres en Barcelona del 4,4% y ahorro de 400 euros mensuales para las familias (F1)",
+    "ca": "Reducció dels lloguers a Barcelona del 4,4% i estalvi de 400 euros mensuals per a les famílies (F1)",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:57.842Z",
+  "slug": "ignasi-conesa-propone-limitar-el-alquiler-en-ibiza-citando-una-b71fb",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/8541cfe5-49f5-46b6-b068-68cdefd2f2e5_16-9-aspect-ratio_default_0_x1000y500.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/21/ignasi-conesa-vivienda-psoe-alquiler-ibiza-136696653.html"
+  }
  },
  {
   "id": "ste1f53cc366",
@@ -1460,7 +2284,8 @@
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-21T13:18:26.000Z"
+  "lastArticleAt": "2026-11-21T13:18:26.000Z",
+  "writeErrors": 1
  },
  {
   "id": "st9443cba417",
@@ -1476,8 +2301,49 @@
     "published": "2026-11-21T13:16:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T13:16:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T13:16:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:24:24.241Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "La UD Ibiza se enfrenta al Huesca en El Alcoraz este domingo",
+   "summary": "La UD Ibiza jugará contra el Huesca a las 12:00 horas en El Alcoraz, con la intención de mantener viva su aspiración de ascenso.",
+   "body": [
+    "La UD Ibiza afrontará este domingo una exigente prueba en el estadio El Alcoraz, donde le espera el Huesca. El encuentro está previsto para las 12.00 horas.",
+    "Según el periódico, el conjunto celeste necesita dar un paso adelante para no comprometer sus aspiraciones de luchar por el ascenso, pese a que el Huesca atraviesa un momento complicado pero sigue siendo uno de los rivales de mayor nombre de la categoría."
+   ]
+  },
+  "ca": {
+   "title": "La UD Ibiza s’enfronta al Huesca a l’El Alcoraz aquest diumenge",
+   "summary": "La UD Ibiza jugarà contra el Huesca a les 12:00 hores a l’El Alcoraz, amb la intenció de mantenir viva la seva aspiració d’ascens.",
+   "body": [
+    "La UD Ibiza afrontarà aquest diumenge una prova exigent a l’estadi de l’El Alcoraz, on l’espera el Huesca. El partit està programat per a les 12.00 hores.",
+    "Segons el diari, el conjunt celeste necessita avançar per no comprometre les seves aspiracions de lluitar per l’ascens, tot i que el Huesca travessa un moment complicat però continua sent un dels rivals de més renom de la categoria."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Partit de la UD Ibiza contra el Huesca el 21‑11‑2026 a les 12:00 hores a l’estadi El Alcoraz",
+    "ca": "Partit de la UD Ibiza contra el Huesca el 21‑11‑2026 a les 12:00 hores a l’estadi El Alcoraz",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:24:24.241Z",
+  "slug": "la-ud-ibiza-se-enfrenta-al-huesca-en-el-alcoraz-este-domingo-ba417",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4858221.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/21/2754751/ibiza-ante-necesidad-reivindicarse-ante-huesca.html"
+  }
  },
  {
   "id": "st73a6eb66bd",
@@ -1501,8 +2367,56 @@
     "published": "2026-11-21T12:59:44.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T12:59:49.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T12:59:49.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:24:36.466Z",
+  "islands": [
+   "menorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "La causa de beatificación de los sacerdotes asesinados en la Guerra Civil llega al Vaticano",
+   "summary": "El proceso para beatificar a los sacerdotes ejecutados en Menorca durante la Guerra Civil avanza hacia la fase diocesana en el Vaticano.",
+   "body": [
+    "Según el Diari de Menorca, hasta 37 sacerdotes fueron ejecutados en la isla y dos más en Barcelona durante la Guerra Civil. La Iglesia ha anunciado que el proceso de beatificación está ahora en el preámbulo de la fase diocesana, y que se lleva a cabo desde una perspectiva de reconciliación, sin buscar culpables ni venganza.",
+    "El avance del expediente se produce este mes, cuando será remitido al Vaticano para su valoración final. La iniciativa forma parte de un esfuerzo por reconocer el martirio de los clérigos y promover la memoria histórica en la comunidad menorquina."
+   ]
+  },
+  "ca": {
+   "title": "La causa de beatificació dels sacerdots assassinats a la Guerra Civil arriba al Vaticà",
+   "summary": "El procés per beatificar els sacerdots executats a Menorca durant la Guerra Civil avança cap a la fase diocesana al Vaticà.",
+   "body": [
+    "Segons el Diari de Menorca, fins a 37 sacerdots van ser executats a l'illa i dos més a Barcelona durant la Guerra Civil. L'Església ha anunciat que el procés de beatificació es troba ara al preàmbul de la fase diocesana, i que es duu a terme des d'una perspectiva de reconciliació, sense buscar culpables ni venjança.",
+    "L'avanç del expedient es produeix aquest mes, quan serà remès al Vaticà per a la seva valoració final. La iniciativa forma part d'un esforç per reconèixer el martiri dels clergues i promoure la memòria històrica a la comunitat menorquina."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Hasta 37 sacerdotes fueron ejecutados en Menorca y dos en Barcelona",
+    "ca": "Fins a 37 sacerdots van ser executats a Menorca i dos a Barcelona",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "El proceso de beatificación está en el preámbulo de la fase diocesana",
+    "ca": "El procés de beatificació està al preàmbul de la fase diocesana",
+    "sources": [
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:24:36.466Z",
+  "slug": "la-causa-de-beatificacion-de-los-sacerdotes-asesinados-en-la-guerra-b66bd",
+  "status": "single",
+  "image": {
+   "url": "https://men.gsstatic.es/sfAttachPlugin/4855091.webp",
+   "sourceId": "menorcainfo",
+   "articleUrl": "https://www.menorca.info/menorca/local/2026/11/21/2753175/quienes-eran-sacerdotes-asesinados-durante-guerra-civil-menorca.html"
+  }
  },
  {
   "id": "stb41b5ba442",
@@ -1518,8 +2432,70 @@
     "published": "2026-11-21T12:52:40.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T12:52:40.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T12:52:40.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-22T01:24:39.973Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Paz Padilla protagoniza la octava edición de Despertar Emociones en el Trui Teatre",
+   "summary": "El Trui Teatre de Palma acogió este sábado la octava edición del encuentro Despertar Emociones, organizado por Mallorca Emotions.",
+   "body": [
+    "El evento, celebrado por la mañana, reunió a un público que llenó el aforo del teatro. Esta edición se ha centrado en el humor como herramienta transformadora para la vida personal.",
+    "La programación contó con las intervenciones de la actriz Paz Padilla, así como de Silvia Congost y Joaquín Caserza, quienes participaron en las distintas sesiones del encuentro dedicado al desarrollo personal."
+   ]
+  },
+  "ca": {
+   "title": "Paz Padilla protagonitza la vuita edició de Despertar Emocions al Trui Teatre",
+   "summary": "El Trui Teatre de Palma ha acollit aquest dissabte la vuita edició del trobament Despertar Emocions, organitzat per Mallorca Emotions.",
+   "body": [
+    "L'acte, celebrat al matí, ha reunit un públic que ha omplert l'aforament del teatre. Aquesta edició s'ha centrat en l'humor com a eina transformadora per a la vida personal.",
+    "La programació ha comptat amb les intervencions de l'actriu Paz Padilla, així com de Silvia Congost i Joaquín Caserza, qui han participat en les diferents sessions del trobament dedicat al desenvolupament personal."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El evento se celebró el sábado por la mañana en el Trui Teatre.",
+    "ca": "L'esdeveniment es va celebrar el dissabte al matí al Trui Teatre.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Se trata de la octava edición de Despertar Emociones, organizado por Mallorca Emotions.",
+    "ca": "Es tracta de la vuita edició de Despertar Emocions, organitzat per Mallorca Emotions.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Intervinieron Paz Padilla, Silvia Congost y Joaquín Caserza.",
+    "ca": "Van intervenir Paz Padilla, Silvia Congost i Joaquín Caserza.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El tema central fue el humor como herramienta transformadora.",
+    "ca": "El tema central va ser l'humor com a eina transformadora.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:24:39.973Z",
+  "slug": "paz-padilla-protagoniza-la-octava-edicion-de-despertar-emociones-en-ba442",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4858181.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/sociedad/2026/11/21/2754745/paz-padilla-levanta-emociones-trui-teatre.html"
+  }
  },
  {
   "id": "st8cb050b9b4",
@@ -1804,8 +2780,11 @@
     "published": "2026-11-21T12:14:58.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T12:14:58.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T12:14:58.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:24:48.639Z",
+  "hidden": true
  },
  {
   "id": "st44cd9ac2be",
@@ -1822,7 +2801,8 @@
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-21T12:13:38.000Z"
+  "lastArticleAt": "2026-11-21T12:13:38.000Z",
+  "writeErrors": 1
  },
  {
   "id": "st98bb270073",
@@ -1838,8 +2818,63 @@
     "published": "2026-11-21T12:11:32.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T12:11:32.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T12:11:32.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:25:06.867Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Un sindicato alerta sobre un nuevo éxodo de funcionarios del Estado en Baleares",
+   "summary": "El CSIF advierte que la salida de empleados públicos de las Islas Baleares podría provocar el colapso de servicios como la Seguridad Social y el Instituto Social de la Marina.",
+   "body": [
+    "El sindicato CSIF, el más representativo en la administración pública, ha comunicado la existencia de un nuevo éxodo de funcionarios que abandonan las Islas Baleares. Según el propio sindicato, este fenómeno se ha intensificado tras el último concurso de traslados y podría desencadenar una crisis en la prestación de servicios públicos.",
+    "El posible colapso afectaría, entre otros, a la Seguridad Social y al Instituto Social de la Marina, instituciones clave para la protección social de la población balear. El CSIF advierte que, de no tomarse medidas, la continuidad de estos servicios podría verse gravemente comprometida."
+   ]
+  },
+  "ca": {
+   "title": "Un sindicat alerta sobre un nou èxit de funcionaris de l'Estat a les Balears",
+   "summary": "El CSIF avisa que la sortida de treballadors públics de les Illes Balears podria provocar el col·lapse de serveis com la Seguretat Social i l'Institut Social de la Marina.",
+   "body": [
+    "El sindicat CSIF, el més representatiu a les administracions públiques, ha comunicat la presència d’un nou èxit de funcionaris que abandonen les Illes Balears. Segons el propi sindicat, aquest fenomen s’ha intensificat després del darrer concurs de trasllats i podria desencadenar una crisi en la prestació de serveis públics.",
+    "El possible col·lapse afectaria, entre d’altres, la Seguretat Social i l'Institut Social de la Marina, institucions clau per a la protecció social de la població balear. El CSIF adverteix que, si no es prenen mesures, la continuïtat d’aquests serveis podria veure's greument compromesa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El sindicat CSIF alerta d'un nou èxit de funcionaris que abandonen les Balears",
+    "ca": "El sindicat CSIF alerta d’un nou èxit de funcionaris que abandonen les Illes Balears",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "El fenomen s'ha intensificat després del darrer concurs de trasllats",
+    "ca": "El fenomen s'ha intensificat després del darrer concurs de trasllats",
+    "sources": [
+     "ib3"
+    ]
+   },
+   {
+    "es": "Podria provocar el col·lapse de la Seguretat Social i l'Institut Social de la Marina",
+    "ca": "Podria provocar el col·lapse de la Seguretat Social i l'Institut Social de la Marina",
+    "sources": [
+     "ib3"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:25:06.867Z",
+  "slug": "un-sindicato-alerta-sobre-un-nuevo-exodo-de-funcionarios-del-estado-70073",
+  "status": "single",
+  "image": {
+   "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/30198-inss.jpg",
+   "sourceId": "ib3",
+   "articleUrl": "https://ib3.org/avisen-dun-nou-exode-de-funcionaris-de-lestat-que-fugen-de-les-balears"
+  }
  },
  {
   "id": "st4f21ed28e0",
@@ -1955,8 +2990,71 @@
     "published": "2026-11-21T12:06:56.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T12:06:56.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T12:06:56.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:25:19.872Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Literanit llega a Ibiza y Formentera con actividades de lectura",
+   "summary": "El festival Literanit se celebrará del 23 al 28 de noviembre en Ibiza y Formentera con una mesa redonda sobre clubes de lectura y una ruta literaria en autobús.",
+   "body": [
+    "La octava edición del festival Literanit tendrá lugar del 23 al 28 de noviembre bajo el lema \"Juntos por la lectura\". En Ibiza se desarrollará una mesa redonda dedicada a los clubes de lectura y a las bibliotecas de la isla, mientras que en Formentera se organizará un recorrido literario en autobús para los asistentes.",
+    "Ambas actividades forman parte del programa del festival, que busca fomentar la participación ciudadana en la lectura y promover el intercambio cultural entre las islas Pitiusas."
+   ]
+  },
+  "ca": {
+   "title": "Literanit arriba a Eivissa i Formentera amb activitats de lectura",
+   "summary": "El festival Literanit se celebrarà del 23 al 28 de novembre a Eivissa i Formentera amb una taula rodona sobre clubs de lectura i una ruta literària en autobús.",
+   "body": [
+    "L'octava edició del festival Literanit tindrà lloc del 23 al 28 de novembre sota el lema \"Junts per la lectura\". A Eivissa es desenvoluparà una taula rodona dedicada als clubs de lectura i a les biblioteques de l'illa, mentre que a Formentera s'organitzarà un recorregut literari en autobús per als assistents.",
+    "Ambdues activitats formen part del programa del festival, que pretén fomentar la participació ciutadana en la lectura i promoure l'intercanvi cultural entre les illes Pitiüses."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El festival Literanit se celebrará del 23 al 28 de noviembre",
+    "ca": "El festival Literanit se celebrarà del 23 al 28 de novembre",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Lema del festival: \"Juntos por la lectura\"",
+    "ca": "Lema del festival: \"Junts per la lectura\"",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "En Ibiza habrá una mesa redonda sobre clubes de lectura y bibliotecas",
+    "ca": "A Eivissa hi haurà una taula rodona sobre clubs de lectura i biblioteques",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "En Formentera se realizará una ruta literaria en autobús",
+    "ca": "A Formentera es realitzarà una ruta literària en autobús",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:25:19.872Z",
+  "slug": "literanit-llega-a-ibiza-y-formentera-con-actividades-de-lectura-faa1e",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/54a13639-1b85-47fb-9b4a-81d847275b21_16-9-aspect-ratio_default_0_x527y497.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/21/ibiza-formentera-literario-historias-literanit-136694154.html"
+  }
  },
  {
   "id": "stc564362e7d",
@@ -2064,8 +3162,72 @@
     "published": "2026-11-21T11:59:19.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T11:59:19.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T11:59:19.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-22T01:25:23.256Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "deportes",
+  "es": {
+   "title": "El Class Sant Antoni viaja a Logroño buscando su quinta victoria consecutiva",
+   "summary": "El equipo ibicenco, segundo en el Grupo B de la Segunda FEB, visita al Logrobasket Logi7 con la intención de igualar el liderato del Maderas Sorlí Benicarló.",
+   "body": [
+    "El Class Sant Antoni se desplazará este domingo a Logroño para disputar un encuentro clave en la Liga. El conjunto dirigido por Boris Balibrea busca conseguir su quinta victoria consecutiva para consolidarse como el equipo más en forma del Grupo B de la Segunda FEB.",
+    "Los isleños ocupan actualmente la segunda posición en la clasificación, a un solo triunfo de distancia del líder, el Maderas Sorlí Benicarló. Su rival, el Logrobasket Logi7, se encuentra en la cuarta posición por la cola de la tabla con únicamente dos victorias en su haber.",
+    "El partido se jugará a las 18:30 horas en el Polideportivo Lobete. Según la información publicada, el encuentro podrá seguirse a través del canal de televisión www.baloncestotv.com."
+   ]
+  },
+  "ca": {
+   "title": "El Class Sant Antoni viatja a Logrony per buscar la cinquena victòria consecutiva",
+   "summary": "L'equip ibicenc, segon al Grup B de la Segona FEB, visita el Logrobasket Logi7 amb la intenció d'igualar el liderat del Maderas Sorlí Benicarló.",
+   "body": [
+    "El Class Sant Antoni es desplaçarà aquest diumenge a Logrony per disputar un partit clau a la Lliga. L'conjunt dirigit per Boris Balibrea busca aconseguir la cinquena victòria consecutiva per consolidar-se com l'equip més en forma del Grup B de la Segona FEB.",
+    "Els illencs ocupen actualment la segona posició a la classificació, a un sol triomf de distància del líder, el Maderas Sorlí Benicarló. El seu rival, el Logrobasket Logi7, es troba en la quarta posició per la cua de la taula amb només dues victòries al seu haver.",
+    "El partit es jugarà a les 18:30 hores al Poliesportiu Lobete. Segons la informació publicada, l'encontre es podrà seguir a través del canal de televisió www.baloncestotv.com."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Class Sant Antoni busca su quinta victoria consecutiva.",
+    "ca": "El Class Sant Antoni busca la cinquena victòria consecutiva.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El equipo es segundo en el Grupo B, a un triunfo del líder Maderas Sorlí Benicarló.",
+    "ca": "L'equip és segon al Grup B, a un triomf del líder Maderas Sorlí Benicarló.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El rival, Logrobasket Logi7, es cuarto por la cola con dos victorias.",
+    "ca": "El rival, Logrobasket Logi7, és quart per la cua amb dues victòries.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   },
+   {
+    "es": "El partido se juega el domingo a las 18:30 en el Polideportivo Lobete.",
+    "ca": "El partit es juga el diumenge a les 18:30 al Poliesportiu Lobete.",
+    "sources": [
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:25:23.256Z",
+  "slug": "el-class-sant-antoni-viaja-a-logrono-buscando-su-quinta-victoria-16068",
+  "status": "single",
+  "image": {
+   "url": "https://ibi.gsstatic.es/sfAttachPlugin/4858139.webp",
+   "sourceId": "periodicodeibiza",
+   "articleUrl": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/21/2754711/class-sant-antoni-viaja-logrono-por-quinta-victoria-consecutiva-liga.html"
+  }
  },
  {
   "id": "st58c24d59f8",
@@ -2081,8 +3243,56 @@
     "published": "2026-11-21T11:53:20.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T11:53:20.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T11:53:20.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:25:33.337Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Llorenç Guardiola será el candidato socialista a la alcaldía de Lloseta",
+   "summary": "El PSIB-PSOE ha presentado oficialmente a Llorenç Guardiola como su candidato a la alcaldía de Lloseta para las elecciones municipales de 2027, con el respaldo de la alcaldesa actual.",
+   "body": [
+    "Llorenç Guardiola ha sido proclamado candidato del PSIB-PSOE a la alcaldía de Lloseta de cara a las próximas elecciones municipales de 2027. La presentación se realizó en un acto público en el que también se destacó el relevo del proyecto municipal.",
+    "El anuncio contó con el apoyo de la actual alcaldesa, Paquita Campins, quien respaldó la candidatura de Guardiola, señalando la continuidad del programa de gobierno del partido en la localidad."
+   ]
+  },
+  "ca": {
+   "title": "Llorenç Guardiola serà el candidat socialista a l'alcaldia de Lloseta",
+   "summary": "El PSIB-PSOE ha presentat oficialment Llorenç Guardiola com a candidat a l'alcaldia de Lloseta per a les eleccions municipals de 2027, amb el suport de l'alcaldessa actual.",
+   "body": [
+    "Llorenç Guardiola ha estat proclamat candidat del PSIB-PSOE a l'alcaldia de Lloseta d'ara a les properes eleccions municipals de 2027. La presentació es va dur a terme en un acte públic on també es va destacar el relleu del projecte municipal.",
+    "L'anunci ha comptat amb el suport de l'alcaldessa actual, Paquita Campins, que ha avalat la candidatura de Guardiola, subratllant la continuïtat del programa de govern del partit a la localitat."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Llorenç Guardiola será el candidato del PSIB-PSOE a la alcaldía de Lloseta para las elecciones municipales de 2027",
+    "ca": "Llorenç Guardiola serà el candidat del PSIB-PSOE a l'alcaldia de Lloseta per a les eleccions municipals de 2027",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La candidatura fue presentada en un acto público con el respaldo de la actual alcaldesa, Paquita Campins",
+    "ca": "La candidatura es va presentar en un acte públic amb el suport de l'alcaldessa actual, Paquita Campins",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:25:33.337Z",
+  "slug": "llorenc-guardiola-sera-el-candidato-socialista-a-la-alcaldia-de-d59f8",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/1a7602bf-6407-43b1-b6cb-68486519f145_16-9-aspect-ratio_default_0_x1024y512.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/21/llorenc-guardiola-sera-candidato-socialista-136694383.html"
+  }
  },
  {
   "id": "st5b507c0bdf",
@@ -2186,7 +3396,8 @@
   },
   "distinctFrom": [
    "st7142fd9750",
-   "st8663e4070b"
+   "st8663e4070b",
+   "st96721ff58a"
   ]
  },
  {
@@ -2422,7 +3633,9 @@
    "url": "https://img.europapress.es/fotoweb/fotonoticia_20261121114457_800.jpg",
    "sourceId": "europapress",
    "articleUrl": "https://www.europapress.es/illes-balears/noticia-bestard-recurre-admision-querella-uso-coches-oficiales-pide-suspender-declaracion-judicial-20261121114457.html"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "st30998d39a0"
  },
  {
   "id": "stdfef1451b1",
@@ -2824,7 +4037,8 @@
    "ste16471e9c0",
    "ste70ecc7699",
    "st99d5c79950",
-   "st58bbd07e98"
+   "st58bbd07e98",
+   "st9a9002452b"
   ]
  },
  {
@@ -2975,7 +4189,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4857989.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/21/2754597/tres-mujeres-captan-menor-pais-origen-obligan-trabajar-mallorca-como-limpiadora-documentacion-falsa.html"
-  }
+  },
+  "distinctFrom": [
+   "stc3c3de2502"
+  ]
  },
  {
   "id": "steb8dc78ccc",
@@ -4209,7 +5426,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/b26f9c24-3b9a-4b17-bde4-eea9974a5418_16-9-aspect-ratio_default_0.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/21/born-palma-cuarta-zona-comercial-136673996.html"
-  }
+  },
+  "distinctFrom": [
+   "stdda7cb7e3c"
+  ]
  },
  {
   "id": "st6e677b5771",
@@ -4618,80 +5838,79 @@
     "lang": "ca",
     "title": "Pedro Bestard (Vox) recorre l'admissió de la querella per l'ús dels cotxes oficials i demana suspendre la seva declaració judicial",
     "published": "2026-11-21T11:24:00.000Z"
+   },
+   {
+    "id": "a0dc8b74f7df",
+    "url": "https://www.mallorcadiario.com/bestard-recurre-la-admision-de-la-querella-por-el-uso-de-coches-oficiales",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Bestard recurre la admisión de la querella por el uso de coches oficiales",
+    "published": "2026-11-21T11:00:50.000Z"
+   },
+   {
+    "id": "46c1a5fe48cf",
+    "url": "https://www.europapress.es/illes-balears/noticia-bestard-recurre-admision-querella-uso-coches-oficiales-pide-suspender-declaracion-judicial-20261121114457.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Bestard recurre la admisión de la querella por el uso de coches oficiales y pide suspender su declaración judicial",
+    "published": "2026-11-21T10:44:57.000Z"
    }
   ],
   "needsWrite": false,
   "lastArticleAt": "2026-11-21T11:46:49.000Z",
-  "model": "groq/qwen/qwen3.8-27b",
-  "writtenAt": "2026-11-21T15:26:09.298Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:17:45.836Z",
   "islands": [
    "mallorca"
   ],
   "topic": "tribunales",
   "es": {
-   "title": "La defensa de Bestard recurre la admisión de la querella por el caso de los coches oficiales",
-   "summary": "El abogado de Pedro Bestard ha presentado un recurso ante la Audiencia Provincial para suspender su declaración judicial prevista para el 9 de diciembre.",
+   "title": "Bestard recurre la admisión a trámite de la querella por uso de coches oficiales y solicita suspender su declaración",
+   "summary": "El vicepresidente segundo del Consell de Mallorca, Pedro Bestard (Vox), ha presentado un recurso contra la admisión a trámite de la querella de la Fiscalía por presunto delito de malversación y ha pedido que se suspenda la declaración que estaba prevista para el 9 de diciembre.",
    "body": [
-    "La defensa del vicepresidente segundo del Consell de Mallorca, Pedro Bestard (Vox), ha presentado un recurso contra la admisión a trámite de la querella de la Fiscalía por un presunto delito de malversación. El escrito, firmado por los letrados Esteban y Tania Siquiera, niega que los hechos constituyan un delito y solicita el archivo de la investigación.",
-    "El caso se centra en el presunto uso particular de tres vehículos oficiales de la institución insular. Según la información de Última Hora, el recurso pide que se suspenda la declaración de Bestard, que estaba fijada para el 9 de diciembre, hasta que la Audiencia Provincial resuelva la cuestión.",
-    "Ara Balears señala que la defensa considera que los hechos no tienen relevancia penal. El recurso busca paralizar el procedimiento mientras se analiza la legalidad de la admisión de la querella presentada por el Ministerio Fiscal."
+    "La defensa de Pedro Bestard, vicepresidente segundo del Consell Insular, ha interpuesto un recurso contra la admisión a trámite de la querella que la Fiscalía ha presentado por un supuesto delito de malversación de fondos públicos vinculado al uso particular de tres vehículos oficiales de la institución insular. El escrito, elaborado por los abogados Esteban y Tania Siquiera del Bufete Siquier, niega que los hechos constituyan delito y solicita que, mientras se resuelve el recurso ante la Audiencia Provincial, se suspenda la declaración que Bestard debía prestar el 9 de diciembre.",
+    "Según la información de varios medios, la petición de suspensión de la declaración es un punto común en el recurso. La defensa también ha pedido que se archive la investigación, argumentando que los hechos no tienen relevancia penal. No se ha indicado hasta el momento si la Audiencia Provincial ha tomado alguna decisión al respecto."
    ]
   },
   "ca": {
-   "title": "La defensa de Bestard recorre l'admissió de la querella pel cas dels cotxes oficials",
-   "summary": "L'advocat de Pedro Bestard ha presentat un recurs davant l'Audiència Provincial per suspendre la seva declaració judicial prevista per al 9 de desembre.",
+   "title": "Bestard recorre l’admissió a tràmit de la querella pels cotxes oficials i demana suspendre la seva declaració",
+   "summary": "El vicepresident segon del Consell de Mallorca, Pedro Bestard (Vox), ha presentat un recurs contra l’admissió a tràmit de la querella de la Fiscalia per suposat delicte de malversació i ha demanat que es suspendi la declaració prevista per al 9 de desembre.",
    "body": [
-    "La defensa del vicepresident segon del Consell de Mallorca, Pedro Bestard (Vox), ha presentat un recurs contra l'admissió a tràmit de la querella de la Fiscalia per un presumpte delicte de malversació. L'escrit, signat pels advocats Esteban i Tania Siquiera, nega que els fets constitueixin un delicte i sol·licita l'arxiu de la investigació.",
-    "El cas se centra en el presumpte ús particular de tres vehicles oficials de la institució insular. Segons la informació d'Última Hora, el recurs demana que es suspendi la declaració de Bestard, que estava fixada per al 9 de desembre, fins que l'Audiència Provincial resolgui la qüestió.",
-    "Ara Balears assenyala que la defensa considera que els fets no tenen rellevància penal. El recurs busca paralitzar el procediment mentre s'analitza la legalitat de l'admissió de la querella presentada pel Ministeri Fiscal."
+    "La defensa de Pedro Bestard, vicepresident segon del Consell Insular, ha interposat un recurs contra l’admissió a tràmit de la querella que la Fiscalia ha presentat per un suposat delicte de malversació de fons públics relacionat amb l’ús particular de tres vehicles oficials de la institució insular. L’escrit, elaborat pels advocats Esteban i Tania Siquier del Bufet Siquier, nega que els fets constitueixin delicte i sol·licita que, mentre es resol el recurs davant l’Audiència Provincial, es suspendi la declaració que Bestard havia de prestar el 9 de desembre.",
+    "Segons diversos mitjans, la sol·licitud de suspensió de la declaració és un punt comú en el recurs. La defensa també ha demanat que s’arxivi la investigació, argumentant que els fets no tenen rellevància penal. Fins al moment no s’ha comunicat cap resolució de l’Audiència Provincial."
    ]
   },
   "facts": [
    {
-    "es": "Pedro Bestard es el vicepresidente segundo del Consell de Mallorca y militante de Vox.",
-    "ca": "Pedro Bestard és el vicepresident segon del Consell de Mallorca i militant de Vox.",
+    "es": "Pedro Bestard, vicepresidente segundo del Consell Insular, ha presentado un recurso contra la admisión a trámite de la querella por uso de tres coches oficiales",
+    "ca": "Pedro Bestard, vicepresident segon del Consell Insular, ha presentat un recurs contra l’admissió a tràmit de la querella per l’ús de tres vehicles oficials",
     "sources": [
      "ultimahora",
+     "europapress",
+     "mallorcadiario",
      "arabalears",
      "dbalears"
     ]
    },
    {
-    "es": "La querella de la Fiscalía se basa en un presunto delito de malversación por el uso de coches oficiales.",
-    "ca": "La querella de la Fiscalia es basa en un presumpte delicte de malversació per l'ús de cotxes oficials.",
+    "es": "El recurso solicita la suspensión de la declaración que estaba prevista para el 9 de diciembre",
+    "ca": "El recurs sol·licita la suspensió de la declaració prevista per al 9 de desembre",
     "sources": [
      "ultimahora",
-     "arabalears"
+     "mallorcadiario"
     ]
    },
    {
-    "es": "La defensa, representada por Esteban y Tania Siquiera, niega la existencia de delito y pide el archivo.",
-    "ca": "La defensa, representada per Esteban i Tania Siquiera, nega l'existència de delicte i demana l'arxiu.",
+    "es": "Los abogados que redactaron el escrito son Esteban y Tania Siquiera del Bufete Siquier",
+    "ca": "L’escrit ha estat elaborat pels advocats Esteban i Tania Siquier del Bufet Siquier",
     "sources": [
-     "ultimahora",
-     "arabalears"
-    ]
-   },
-   {
-    "es": "El recurso solicita la suspensión de la declaración de Bestard, prevista para el 9 de diciembre.",
-    "ca": "El recurs sol·licita la suspensió de la declaració de Bestard, prevista per al 9 de desembre.",
-    "sources": [
-     "ultimahora",
-     "arabalears",
-     "dbalears"
-    ]
-   },
-   {
-    "es": "Según Ara Balears, el caso implica el presunto uso particular de tres vehículos oficiales.",
-    "ca": "Segons Ara Balears, el cas implica el presumpte ús particular de tres vehicles oficials.",
-    "sources": [
-     "arabalears"
+     "ultimahora"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-21T15:26:09.298Z",
+  "updatedAt": "2026-11-22T01:17:45.836Z",
   "slug": "la-defensa-de-bestard-recurre-la-admision-de-la-querella-por-el-caso-d39a0",
   "status": "verified",
   "image": {
@@ -4920,8 +6139,64 @@
     "published": "2026-11-21T03:48:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-21T14:25:00.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-21T14:25:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:23:35.344Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "La Policía Nacional detiene a otro activista de Blocus en Mallorca",
+   "summary": "La Policía Nacional ha detenido a un nuevo integrante del movimiento Blocus en Palma, por su presunta participación en convocatorias que incitaban a disturbios y saqueos.",
+   "body": [
+    "La Policía Nacional ha detenido a otro activista vinculado al movimiento Blocus en Mallorca, según informó el diario Es Diari de Menorca. La detención se produce en el contexto de las investigaciones sobre llamadas en redes sociales que animaban a provocar disturbios y saquear comercios del centro de Palma.",
+    "Según Última Hora, el arresto ha sido llevado a cabo por agentes de la Brigada Provincial de Información, que mantienen abierta la investigación para identificar a otras personas implicadas en los llamamientos vandálicos."
+   ]
+  },
+  "ca": {
+   "title": "La Policia Nacional deté un altre activista de Blocus a Mallorca",
+   "summary": "La Policia Nacional ha detingut un nou membre del moviment Blocus a Palma, per la seva presumpta participació en convocatòries que incitaven a disturbis i saqueigs.",
+   "body": [
+    "La Policia Nacional ha detingut un altre activista vinculat al moviment Blocus a Mallorca, informa el diari Es Diari de Menorca. La detenció s'emmarca dins les investigacions sobre missatges a les xarxes socials que animaven a provocar disturbis i saquejar comerços del centre de Palma.",
+    "Segons Última Hora, l'arrest ha estat realitzat per agents de la Brigada Provincial d'Informació, que mantenen oberta la investigació per identificar altres persones implicades en les crides vandàliques."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Detención de un activista de Blocus en Mallorca",
+    "ca": "Detenció d'un activista de Blocus a Mallorca",
+    "sources": [
+     "menorcainfo",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Presunta participación en convocatorias que incitaban a disturbios y saqueos en el centro de Palma",
+    "ca": "Presumpta participació en convocatòries que incitaven a disturbis i saqueigs al centre de Palma",
+    "sources": [
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Arresto realizado por la Brigada Provincial de Información",
+    "ca": "Arrest realitzat per la Brigada Provincial d'Informació",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:23:35.344Z",
+  "slug": "la-policia-nacional-detiene-a-otro-activista-de-blocus-en-mallorca-303da",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4857369.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/21/2754427/policia-nacional-detiene-otro-activista-organizacion-blocus-mallorca.html"
+  }
  },
  {
   "id": "st9aa570a401",
@@ -13641,9 +14916,52 @@
     "published": "2026-11-20T02:58:01.000Z"
    }
   ],
-  "needsWrite": true,
+  "needsWrite": false,
   "lastArticleAt": "2026-11-20T02:58:01.000Z",
-  "writeErrors": 1
+  "writeErrors": 1,
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-22T01:21:38.742Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Más de medio centenar de personas con discapacidad neurológica recuperan autonomía en proyecto de AEMIF",
+   "summary": "Durante 2025, el proyecto de la Asociación Esclerosis Múltiple Ibiza y Formentera ayudó a más de medio centenar de residentes con discapacidad física de origen neurológico a recuperar habilidades cotidianas.",
+   "body": [
+    "El proyecto \"Las actividades de la vida diaria en la rehabilitación de los usuarios AEMIF\" se desarrolló en 2025 bajo la coordinación de la Asociación Esclerosis Múltiple Ibiza y Formentera (AEMIF). El objetivo era mejorar la autonomía personal de personas con enfermedades neurodegenerativas, daño cerebral adquirido y lesión medular, mediante la práctica de actividades como cocinar, vestirse o asearse.",
+    "Según los medios locales, más de medio centenar de personas con discapacidad física de origen neurológico, residentes en Ibiza y Formentera, se beneficiaron del programa durante el año mencionado. La iniciativa buscó que los participantes recuperaran habilidades necesarias para desenvolverse en su día a día, contribuyendo a su independencia y calidad de vida."
+   ]
+  },
+  "ca": {
+   "title": "Més de mig centenari de persones amb discapacitat neurològica recuperen autonomia en projecte d'AEMIF",
+   "summary": "Durant el 2025, el projecte de l'Associació Esclerosi Múltiple Eivissa i Formentera va ajudar més de mig centenari de residents amb discapacitat física d'origen neurològic a recuperar habilitats quotidianes.",
+   "body": [
+    "El projecte \"Les activitats de la vida diària en la rehabilitació dels usuaris AEMIF\" es va desenvolupar el 2025 amb la coordinació de l'Associació Esclerosi Múltiple Eivissa i Formentera (AEMIF). L'objectiu era millorar l'autonomia personal de persones amb malalties neurodegeneratives, dany cerebral adquirit i lesió medular, mitjançant la pràctica d'activitats com cuinar, vestir-se o netejar-se.",
+    "Segons els mitjans locals, més de mig centenari de persones amb discapacitat física d'origen neurològic, residents a Eivissa i Formentera, es van beneficiar del programa durant l'any esmentat. La iniciativa va pretendre que els participants recuperessin habilitats necessàries per desenvolupar-se en el seu dia a dia, contribuint a la seva independència i qualitat de vida."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Más de medio centenar de personas con discapacidad física de origen neurológico participaron en el proyecto durante 2025",
+    "ca": "Més de mig centenari de persones amb discapacitat física d'origen neurològic van participar al projecte durant el 2025",
+    "sources": [
+     "diariodeibiza",
+     "periodicodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:21:38.742Z",
+  "slug": "mas-de-medio-centenar-de-personas-con-discapacidad-neurologica-a8ab4",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/969cf08b-c25b-4909-9bf2-40dc7a2c0ef3_16-9-aspect-ratio_default_0_x666y666.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/19/proyecto-aemif-discapacidad-ibiza-formentera-136626586.html"
+  }
  },
  {
   "id": "sta211dd96dd",
@@ -15818,7 +17136,9 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4856171.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753693/ara-mes-front-ampli-compromete-frenar-ampliacion-del-aeropuerto-poner-limites-masificacion-turistica-ibiza.html"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "st5164b06088"
  },
  {
   "id": "st49d41ab661",
@@ -17402,10 +18722,19 @@
     "lang": "es",
     "title": "Neus Massanet, candidata de Formentera al Senat: \"La vivienda condiciona todo en Formentera\"",
     "published": "2026-11-19T05:01:04.000Z"
+   },
+   {
+    "id": "2743e286ebce",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/neus-massanet-reivindica-la-identidad-propia-de-formentera/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Neus Massanet reclama medidas específicas para compensar la triple insularidad de Formentera",
+    "published": "2026-11-21T21:28:30.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-19T05:01:04.000Z"
+  "lastArticleAt": "2026-11-21T21:28:30.000Z",
+  "writeErrors": 1
  },
  {
   "id": "stbfea5252e7",
@@ -19782,63 +21111,99 @@
     "lang": "ca",
     "title": "Carme Gomila (Ara Més-Front Ampli): «El plus d'insularitat no és un privilegi, és una qüestió de justícia»",
     "published": "2026-11-21T14:21:41.000Z"
+   },
+   {
+    "id": "98eee09763c3",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/ara-mes-front-ampli-se-compromete-a-parar-la-ampliacion-del-aeropuerto-de-ibiza/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Ara Més–Front Ampli se compromete a parar la ampliación del aeropuerto de Ibiza",
+    "published": "2026-11-19T11:18:14.000Z"
+   },
+   {
+    "id": "1bab230f84cf",
+    "url": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753693/ara-mes-front-ampli-compromete-frenar-ampliacion-del-aeropuerto-poner-limites-masificacion-turistica-ibiza.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Ara Més - Front Ampli se compromete a frenar la ampliación del aeropuerto y a poner límites a la masificación turística de Ibiza",
+    "published": "2026-11-20T02:58:01.000Z"
    }
   ],
   "needsWrite": false,
   "lastArticleAt": "2026-11-21T14:43:31.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-20T01:14:10.947Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-22T01:13:41.576Z",
   "islands": [
    "ibiza",
-   "formentera"
+   "formentera",
+   "baleares"
   ],
   "topic": "politica",
   "es": {
-   "title": "Carme Gomila lidera la campaña de AraMés-Front Ampli en Ibiza y Formentera",
-   "summary": "La cabeza de lista de la coalición, Carme Gomila, ha anunciado una serie de actos de campaña para el 19 de noviembre en ambas islas, con énfasis en el voto útil y la oposición a la ampliación del aeropuerto de Ibiza.",
+   "title": "Ara Més-Front Ampli promete frenar la ampliación del aeropuerto de Ibiza y actualizar el plus de insularidad",
+   "summary": "La candidata Carme Gomila ha presentado en las Pitiusas las propuestas de su coalición para las elecciones generales, centradas en la gestión turística y la compensación económica por insularidad.",
    "body": [
-    "El jueves 19 de noviembre la coalición AraMés‑Front Ampli ha programado varios actos de campaña en las Pitiusas. Según el Periódico de Ibiza y Formentera, la jornada incluye encuentros en Formentera e Ibiza y un acto central que se celebrará por la noche en el Centro Cultural de Jesús.",
-    "En una compareixença celebrada al mediodía en la plaza de Sant Francesc, según Ara Balears, Carme Gomila y Neus Massanet reiteraron la necesidad del voto útil de la izquierda, el rechazo a la ampliación del aeropuerto de Ibiza y la atención a la triple insularidad de Formentera.",
-    "Gomila también ha anunciado el compromiso de la coalición de frenar la ampliación del aeropuerto de Ibiza, que según el Diario de Ibiza implicaría una inversión de 230 millones de euros y el aumento de 17 a 32 puertas de embarque, destinando esos recursos a mejorar la calidad de vida de los residentes."
+    "La cabeza de lista de Ara Més-Front Ampli al Congreso, Carme Gomila, ha protagonizado esta semana una intensa agenda de campaña en Ibiza y Formentera. Durante su visita, la candidata ha reiterado el compromiso de la coalición de detener la ampliación del aeropuerto des Codolar, un proyecto que, según los datos citados por la formación, contempla una inversión de 230 millones de euros y el aumento de las puertas de embarque de 17 a 32.",
+    "Gomila ha argumentado que estos fondos deberían destinarse a mejorar la calidad de vida de los residentes y a corregir los impactos de la actividad aeroportuaria, denunciando la masificación turística. En Formentera, junto a la candidata al Senado Neus Massanet, la formación ha reivindicado la atención a la 'triple insularidad' de la isla.",
+    "Además, la candidata ha reclamado la actualización del plus de insularidad para compensar los sobrecostes en vivienda, transporte y productos básicos que soportan los residentes baleares frente a los peninsulares, calificando esta medida como una cuestión de justicia y no un privilegio."
    ]
   },
   "ca": {
-   "title": "Carme Gomila encapçala la campanya d'AraMés‑Front Ampli a Eivissa i Formentera",
-   "summary": "La cap de llista de la coalició, Carme Gomila, ha anunciat una sèrie d'actes de campanya per al 19 de novembre a les dues illes, amb èmfasi en el vot útil i l'oposició a l'ampliació de l'aeroport d'Eivissa.",
+   "title": "Ara Més-Front Ampli promet frenar l'ampliació de l'aeroport d'Eivissa i actualitzar el plus d'insularitat",
+   "summary": "La candidata Carme Gomila ha presentat a les Pitiuses les propostes de la seva coalició per a les eleccions generals, centrades en la gestió turística i la compensació econòmica per insularitat.",
    "body": [
-    "El dijous 19 de novembre la coalició AraMés‑Front Ampli ha programat diversos actes de campanya a les Pitiüses. Segons el Periódico de Ibiza i Formentera, la jornada inclou trobades a Formentera i Eivissa i un acte central que tindrà lloc a la nit al Centre Cultural de Jesús.",
-    "En una compareixença celebrada al migdia a la plaça de Sant Francesc, segons Ara Balears, Carme Gomila i Neus Massanet van reiterar la necessitat del vot útil de l'esquerra, el rebuig a l'ampliació de l'aeroport d'Eivissa i l'atenció a la triple insularitat de Formentera.",
-    "Gomila també ha anunciat el compromís de la coalició de frenar l'ampliació de l'aeroport d'Eivissa, que segons el Diario de Ibiza suposaria una inversió de 230 milions d'euros i l'augment de 17 a 32 portes d'embarcament, destinant aquests recursos a millorar la qualitat de vida dels residents."
+    "La cap de llista d'Ara Més-Front Ampli al Congrés, Carme Gomila, ha protagonitzat aquesta setmana una intensa agenda de campanya a Eivissa i Formentera. Durant la seva visita, la candidata ha reiterat el compromís de la coalició de detenir l'ampliació de l'aeroport des Codolar, un projecte que, segons les dades citades per la formació, contempla una inversió de 230 milions d'euros i l'augment de les portes d'embarcament de 17 a 32.",
+    "Gomila ha argumentat que aquests fons s'haurien de destinar a millorar la qualitat de vida dels residents i a corregir els impactes de l'activitat aeroportuària, denunciant la massificació turística. A Formentera, juntament amb la candidata al Senat Neus Massanet, la formació ha reivindicat l'atenció a la 'triple insularitat' de la illa.",
+    "A més, la candidata ha reclamat l'actualització del plus d'insularitat per compensar els sobrecostos en habitatge, transport i productes bàsics que suporten els residents balears davant els peninsulars, qualificant aquesta mesura com una qüestió de justícia i no un privilegi."
    ]
   },
   "facts": [
    {
-    "es": "Actos de campaña programados para el 19 de noviembre en Ibiza y Formentera",
-    "ca": "Actes de campanya programats per al 19 de novembre a Eivissa i Formentera",
-    "sources": [
-     "periodicodeibiza"
-    ]
-   },
-   {
-    "es": "Carme Gomila es la cabeza de lista de AraMés‑Front Ampli",
-    "ca": "Carme Gomila és la cap de llista d'AraMés‑Front Ampli",
+    "es": "Carme Gomila es la candidata de Ara Més-Front Ampli al Congreso de los Diputados.",
+    "ca": "Carme Gomila és la candidata d'Ara Més-Front Ampli al Congrés dels Diputats.",
     "sources": [
      "periodicodeibiza",
+     "noudiari",
      "arabalears",
+     "diariodeibiza",
+     "dbalears",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La coalición se compromete a frenar la ampliación del aeropuerto de Ibiza, que implica una inversión de 230 millones de euros.",
+    "ca": "La coalició es compromet a frenar l'ampliació de l'aeroport d'Eivissa, que implica una inversió de 230 milions d'euros.",
+    "sources": [
+     "noudiari",
      "diariodeibiza"
     ]
    },
    {
-    "es": "Compromiso de frenar la ampliación del aeropuerto de Ibiza, inversión de 230 millones y aumento de puertas de 17 a 32",
-    "ca": "Compromís de frenar l'ampliació de l'aeroport d'Eivissa, inversió de 230 milions i augment de portes d'embarcs de 17 a 32",
+    "es": "El proyecto de ampliación contempla aumentar las puertas de embarque de 17 a 32.",
+    "ca": "El projecte d'ampliació contempla augmentar les portes d'embarcament de 17 a 32.",
     "sources": [
      "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Neus Massanet es la candidata de Formentera al Senado.",
+    "ca": "Neus Massanet és la candidata de Formentera al Senat.",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "La formación reclama actualizar el plus de insularidad para compensar sobrecostes de vivienda y transporte.",
+    "ca": "La formació reclama actualitzar el plus d'insularitat per compensar sobrecostos d'habitatge i transport.",
+    "sources": [
+     "dbalears",
+     "diariodemallorca"
     ]
    }
   ],
   "discrepancies": [],
-  "contradiction": true,
-  "updatedAt": "2026-11-20T01:14:10.947Z",
+  "contradiction": false,
+  "updatedAt": "2026-11-22T01:13:41.576Z",
   "slug": "arames-front-ampli-celebra-actos-de-campana-en-ibiza-y-formentera-con-06088",
   "status": "verified",
   "image": {
@@ -23098,7 +24463,8 @@
    "articleUrl": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/19/2752961/sant-rafel-reune-grabados-esculturas-siglos-xix-exposicion-museum-art.html"
   },
   "distinctFrom": [
-   "std26cfbfb52"
+   "std26cfbfb52",
+   "std8e47bc452"
   ]
  },
  {
