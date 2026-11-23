@@ -1,5 +1,1523 @@
 [
  {
+  "id": "st85973b41d9",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T12:06:09.000Z",
+  "articles": [
+   {
+    "id": "e6af91a66c7a",
+    "url": "https://www.europapress.es/illes-balears/noticia-pp-vox-aprueban-cuartos-presupuestos-calvia-124-millones-euros-2027-aumento-23-20261123131218.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "El PP y Vox aprueban sus cuartos presupuestos en Calvià: 124 millones de euros para 2027, un aumento del 2,3%",
+    "published": "2026-11-23T12:12:18.000Z"
+   },
+   {
+    "id": "da03c7643c0c",
+    "url": "https://www.mallorcadiario.com/presupuesto-calvia-2027-servicios-deuda",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Calvià aprueba un presupuesto de 124,3 millones para 2027",
+    "published": "2026-11-23T12:06:09.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T12:12:18.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-23T12:29:58.835Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El Ayuntamiento de Calviá aprueba un presupuesto de 124,3 millones para 2027",
+   "summary": "El pleno municipal ha validado las cuentas con el apoyo del PP y Vox, lo que supone un incremento del 2,3% respecto al ejercicio anterior.",
+   "body": [
+    "El pleno del Ayuntamiento de Calviá ha aprobado el presupuesto municipal para el ejercicio 2027, que asciende a 124,3 millones de euros. La votación ha contado con los votos favorables de los grupos del Partido Popular y Vox, quienes han respaldado las cuentas que suponen un aumento del 2,3% en comparación con el presupuesto de este año.",
+    "Según Europa Press, esta aprobación marca el cuarto presupuesto consecutivo aprobado por esta coalición en lo que va de legislatura. Por su parte, Mallorcadiario destaca que las nuevas cuentas incrementan las partidas destinadas a deportes, mantenimiento, seguridad y servicios sociales.",
+    "Además, el medio local señala que el presupuesto consolidado, que incluye las empresas públicas vinculadas al consistorio, alcanza una cifra total de 155,4 millones de euros."
+   ]
+  },
+  "ca": {
+   "title": "L'Ajuntament de Calvià aprova un pressupost de 124,3 milions per al 2027",
+   "summary": "El ple municipal ha validat les comptes amb el suport del PP i Vox, cosa que suposa un augment del 2,3% respecte a l'exercici anterior.",
+   "body": [
+    "El ple de l'Ajuntament de Calvià ha aprovat el pressupost municipal per a l'exercici 2027, que s'eleva a 124,3 milions d'euros. La votació ha comptat amb els vots favorables dels grups del Partit Popular i Vox, que han donat suport a les comptes que suposen un augment del 2,3% en comparació amb el pressupost d'enguany.",
+    "Segons Europa Press, aquesta aprovació marca el quart pressupost consecutiu aprovat per aquesta coalició en el que va de legislatura. Per la seva banda, Mallorcadiario destaca que les noves comptes incrementen les partides destinades a esports, manteniment, seguretat i serveis socials.",
+    "A més, el mitjà local assenyala que el pressupost consolidat, que inclou les empreses públiques vinculades a l'ajuntament, arriba a una xifra total de 155,4 milions d'euros."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El presupuesto municipal para 2027 asciende a 124,3 millones de euros.",
+    "ca": "El pressupost municipal per al 2027 s'eleva a 124,3 milions d'euros.",
+    "sources": [
+     "mallorcadiario",
+     "europapress"
+    ]
+   },
+   {
+    "es": "La aprobación ha contado con los votos a favor del PP y Vox.",
+    "ca": "L'aprovació ha comptat amb els vots favorables del PP i Vox.",
+    "sources": [
+     "europapress"
+    ]
+   },
+   {
+    "es": "Supone un incremento del 2,3% respecto al presupuesto de 2026.",
+    "ca": "Suposa un augment del 2,3% respecte al pressupost del 2026.",
+    "sources": [
+     "europapress"
+    ]
+   },
+   {
+    "es": "Es el cuarto presupuesto consecutivo aprobado por esta coalición en la legislatura.",
+    "ca": "És el quart pressupost consecutiu aprovat per aquesta coalició en la legislatura.",
+    "sources": [
+     "europapress"
+    ]
+   },
+   {
+    "es": "El presupuesto consolidado, incluyendo empresas públicas, alcanza los 155,4 millones de euros.",
+    "ca": "El pressupost consolidat, incloent-hi les empreses públiques, arriba als 155,4 milions d'euros.",
+    "sources": [
+     "mallorcadiario"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:29:58.835Z",
+  "slug": "el-ayuntamiento-de-calvia-aprueba-un-presupuesto-de-124-3-millones-b41d9",
+  "status": "verified",
+  "image": {
+   "url": "https://img.europapress.es/fotoweb/fotonoticia_20261123131218_800.jpg",
+   "sourceId": "europapress",
+   "articleUrl": "https://www.europapress.es/illes-balears/noticia-pp-vox-aprueban-cuartos-presupuestos-calvia-124-millones-euros-2027-aumento-23-20261123131218.html"
+  }
+ },
+ {
+  "id": "st54b8801403",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T12:05:21.000Z",
+  "articles": [
+   {
+    "id": "5c16bdd760d2",
+    "url": "https://www.ultimahora.es/noticias/sociedad/2026/11/23/2755841/palma-xxi-apb-recuperan-llauts-para-acercar-patrimonio-maritimo-ciudadania.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Palma XXI y la APB recuperan los llaüts para acercar el patrimonio marítimo a la ciudadanía",
+    "published": "2026-11-23T12:05:21.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T12:05:21.000Z"
+ },
+ {
+  "id": "st35fdc2a0bd",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T12:01:56.000Z",
+  "articles": [
+   {
+    "id": "85149c09063b",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/23/medicos-mundo-alerta-especial-vulnerabilidad-136746865.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Médicos del Mundo alerta de la especial vulnerabilidad de las mujeres sin hogar ante la violencia machista en Baleares",
+    "published": "2026-11-23T12:01:56.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T12:01:56.000Z"
+ },
+ {
+  "id": "st1dbadc8952",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:56:35.000Z",
+  "articles": [
+   {
+    "id": "23614969b6e5",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/sorprendido-cocaina-extasis-discoteca-ibiza-136747202.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Sorprendido con cocaína y éxtasis junto a una discoteca de Ibiza: piden cuatro años y medio de cárcel para un reincidente",
+    "published": "2026-11-23T11:56:35.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:56:35.000Z"
+ },
+ {
+  "id": "stca83b03b8e",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:55:23.000Z",
+  "articles": [
+   {
+    "id": "7f52e70f5560",
+    "url": "https://www.europapress.es/illes-balears/noticia-tomates-menorquines-llegados-navarra-vinos-denominacion-mitad-restaurantes-engana-cartas-20261123125523.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Tomates menorquines llegados desde Navarra y vinos sin denominación: irregularidades en las cartas de los restaurantes",
+    "published": "2026-11-23T11:55:23.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:55:23.000Z"
+ },
+ {
+  "id": "st54b43c90e3",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:55:20.000Z",
+  "articles": [
+   {
+    "id": "f7be0a480bb8",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/formentera-amplia-las-citas-de-la-itv-por-las-mananas-y-las-tardes-para-reducir-esperas/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Formentera amplía las citas de la ITV por las mañanas y las tardes para reducir esperas",
+    "published": "2026-11-23T11:55:20.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:55:20.000Z"
+ },
+ {
+  "id": "st45e4b1a1ca",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:54:00.000Z",
+  "articles": [
+   {
+    "id": "8c1d7df49fba",
+    "url": "https://www.dbalears.cat/balears/politica/2026/11/23/424303/denuncien-director-general-habitatge-davant-junta-electoral-per-fer-declaracions-partidistes-ib3-radio.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Denuncien el director general d'Habitatge davant la Junta Electoral per fer declaracions partidistes a IB3 Ràdio",
+    "published": "2026-11-23T11:54:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:54:00.000Z"
+ },
+ {
+  "id": "st02784e1fda",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:47:44.000Z",
+  "articles": [
+   {
+    "id": "69b4dde9170e",
+    "url": "https://ib3.org/una-fuita-daigua-deixa-sense-subministrament-a-uns-350-abonats-de-la-zona-nou-llevant-a-palma",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Una fuita d’aigua deixa sense subministrament uns 350 abonats de la zona Nou Llevant, a Palma",
+    "published": "2026-11-23T11:47:44.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:47:44.000Z"
+ },
+ {
+  "id": "st44be5e7501",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:44:34.000Z",
+  "articles": [
+   {
+    "id": "5f4121a613d2",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/23/2755787/feminismo-vuelve-fracturarse-este-25n-dos-marchas-indepedientes.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El feminismo vuelve a fracturarse este 25N en dos marchas indepedientes",
+    "published": "2026-11-23T11:44:34.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:44:34.000Z"
+ },
+ {
+  "id": "st4717bde1b4",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:43:06.000Z",
+  "articles": [
+   {
+    "id": "0af9bfa50b24",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/piden-ocho-anos-carcel-drogas-ibiza-136746492.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Piden ocho años de cárcel para tres acusados de recibir un paquete de éxtasis y almacenar drogas por 80.000 euros en Ibiza",
+    "published": "2026-11-23T11:43:06.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:43:06.000Z"
+ },
+ {
+  "id": "stc7701ca62c",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:43:00.000Z",
+  "articles": [
+   {
+    "id": "422d5bb49d36",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/23/2755831/coalicio-per-mallorca-exige-solucion-agua-potable-denuncia-mala-gestion-del-consistorio.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Coalició per Mallorca exige una solución al agua potable en Manacor y denuncia una mala gestión del consistorio",
+    "published": "2026-11-23T11:43:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:43:00.000Z"
+ },
+ {
+  "id": "st9d19acf088",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:35:00.000Z",
+  "articles": [
+   {
+    "id": "49733dd985b7",
+    "url": "https://www.diariodemallorca.es/palma/2026/11/23/mes-propone-eliminar-progresivamente-vuelos-136746541.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Més propone eliminar progresivamente los vuelos directos entre Palma y América",
+    "published": "2026-11-23T11:47:01.000Z"
+   },
+   {
+    "id": "89047f0013d0",
+    "url": "https://www.ultimahora.es/noticias/palma/2026/11/23/2755801/mes-per-palma-reclama-reducir-vuelos-para-evitar-otro-verano-saturacion-turistica.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "MÉS per Palma reclama reducir los vuelos para evitar otro verano de saturación turística",
+    "published": "2026-11-23T11:35:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:47:01.000Z"
+ },
+ {
+  "id": "st690d0530be",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:34:00.000Z",
+  "articles": [
+   {
+    "id": "8c560b7fd7a2",
+    "url": "https://www.menorca.info/menorca/local/2026/11/23/2755735/activistas-plantan-ante-consell-para-exigir-solucion-para-mari-carmen-menorquina.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Activistas se plantan ante el Consell para exigir una solución para la 'Mari Carmen menorquina'",
+    "published": "2026-11-23T11:34:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:34:00.000Z"
+ },
+ {
+  "id": "st92ecca27f9",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:33:00.000Z",
+  "articles": [
+   {
+    "id": "09abac7333df",
+    "url": "https://www.mallorcadiario.com/canadas-tarjeta-censal-marido-fallecido",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "La tarjeta censal del marido de Cañadas llega 15 años después de su muerte",
+    "published": "2026-11-23T11:33:48.000Z"
+   },
+   {
+    "id": "f72f3dff4d9f",
+    "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/23/2755785/canadas-agita-fraude-electoral-denuncia-recibido-tarjeta-censal-marido-fallecido-hace-anos.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Cañadas agita el fraude electoral y denuncia que ha recibido la tarjeta censal de su marido, fallecido hace 15 años",
+    "published": "2026-11-23T11:33:00.000Z"
+   },
+   {
+    "id": "65198f73749b",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/23/2755785/canadas-agita-fraude-electoral-denuncia-recibido-tarjeta-censal-marido-fallecido-hace-anos.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Cañadas agita el fraude electoral y denuncia que ha recibido la tarjeta censal de su marido, fallecido hace 15 años",
+    "published": "2026-11-23T11:33:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:33:48.000Z"
+ },
+ {
+  "id": "st7b88548b56",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:25:18.000Z",
+  "articles": [
+   {
+    "id": "ee49034653aa",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/violencia-machista-policia-local-ibiza-136745744.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Los avisos por violencia machista a la Policía Local de Ibiza caen un 37% este año",
+    "published": "2026-11-23T11:32:44.000Z"
+   },
+   {
+    "id": "79747ff99826",
+    "url": "https://www.periodicodeibiza.es/cronica-negra/local/2026/11/23/2755789/policia-local-ibiza-registra-avisos-por-violencia-machista-2026-mantiene-casos-activos-viogen.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "La Policía Local de Ibiza registra 59 avisos por violencia machista en 2026 y mantiene 28 casos activos en VioGen",
+    "published": "2026-11-23T11:31:49.000Z"
+   },
+   {
+    "id": "f1362e524b14",
+    "url": "https://www.noudiari.es/local-ibiza/la-policia-local-de-ibiza-sigue-28-casos-de-violencia-de-genero-cinco-de-riesgo-medio/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "La Policía Local de Ibiza sigue 28 casos de violencia de género, cinco de riesgo medio",
+    "published": "2026-11-23T11:25:18.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T11:32:44.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:25:23.880Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "La Policía Local de Ibiza registra 59 avisos de violencia de género en 2026",
+   "summary": "Entre enero y noviembre de 2026 la Policía Local de Ibiza ha contabilizado 59 avisos por violencia de género, frente a los 93 del mismo periodo del año anterior.",
+   "body": [
+    "La Policía Local de Ibiza ha registrado 59 avisos relacionados con violencia de género entre enero y noviembre de 2026, según los datos facilitados por el Ayuntamiento de Ibiza. De esos avisos, 28 siguen activos en el registro VioGen, de los cuales cinco se consideran de riesgo medio.",
+    "En comparación, en el mismo intervalo temporal de 2025 se habían registrado 93 denuncias o avisos de mujeres denunciantes o víctimas atendidas. La diferencia supone una caída de 34 avisos, lo que equivale a una disminución del 36,6 % respecto al año anterior."
+   ]
+  },
+  "ca": {
+   "title": "La Policia Local d'Eivissa registra 59 avisos de violència de gènere el 2026",
+   "summary": "Entre gener i novembre de 2026 la Policia Local d'Eivissa ha comptat 59 avisos per violència de gènere, enfront dels 93 del mateix període de l'any anterior.",
+   "body": [
+    "La Policia Local d'Eivissa ha registrat 59 avisos relacionats amb violència de gènere entre gener i novembre de 2026, segons les dades facilitades per l'Ajuntament d'Eivissa. D'aquests avisos, 28 continuen actius al registre VioGen, cinc dels quals es consideren de risc mitjà.",
+    "En comparació, en el mateix interval temporal de 2025 es van registrar 93 denúncies o avisos de dones denunciants o víctimes ateses. Aquesta diferència representa una baixada de 34 avisos, equivalent a una disminució del 36,6 % respecte a l'any anterior."
+   ]
+  },
+  "facts": [
+   {
+    "es": "59 avisos de violencia de género registrados entre enero y noviembre de 2026",
+    "ca": "59 avisos de violència de gènere registrats entre gener i novembre de 2026",
+    "sources": [
+     "noudiari",
+     "periodicodeibiza",
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "28 casos activos en VioGen, 5 de riesgo medio",
+    "ca": "28 casos actius al VioGen, 5 de risc mitjà",
+    "sources": [
+     "noudiari"
+    ]
+   },
+   {
+    "es": "93 denuncias en el mismo periodo de 2025, una caída del 36,6 %",
+    "ca": "93 denúncies en el mateix període de 2025, una baixada del 36,6 %",
+    "sources": [
+     "noudiari",
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:25:23.880Z",
+  "slug": "la-policia-local-de-ibiza-registra-59-avisos-de-violencia-de-genero-48b56",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/177df5d7-91d6-42de-9a7d-2b8e00c5e738_16-9-aspect-ratio_default_0_x808y360.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/23/violencia-machista-policia-local-ibiza-136745744.html"
+  }
+ },
+ {
+  "id": "stf9e63ebdf2",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:22:52.000Z",
+  "articles": [
+   {
+    "id": "8b3829c3a69f",
+    "url": "https://www.diariodemallorca.es/videos/mallorca/2026/11/23/video-historico-llaut-llucia-volvera-136747586.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Vídeo | El histórico llaüt ‘Llucia’ volverá a navegar por la bahía de Palma como barco escuela",
+    "published": "2026-11-23T12:00:16.000Z"
+   },
+   {
+    "id": "9ae1b744a46d",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/23/historico-llaut-llucia-volvera-navegar-136744058.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El histórico llaüt ‘Llucia’ volverá a navegar por la bahía de Palma como barco escuela",
+    "published": "2026-11-23T11:22:52.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T12:00:16.000Z"
+ },
+ {
+  "id": "steb30b750b2",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:22:09.000Z",
+  "articles": [
+   {
+    "id": "6004034ce1cd",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/23/2755809/condenado-tres-anos-carcel-por-intentar-matar-punaladas-companero-piso-arta.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Condenado a tres años de cárcel por intentar matar a puñaladas a su compañero de piso en Artà",
+    "published": "2026-11-23T11:51:00.000Z"
+   },
+   {
+    "id": "a84e34de9dbe",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/23/acepta-tres-anos-carcel-matar-136743566.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Acepta tres años de cárcel por intentar matar de nueve puñaladas a su compañero de piso en Artà",
+    "published": "2026-11-23T11:22:09.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T11:51:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:33:38.742Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "Un hombre es condenado a tres años de cárcel por tentativa de homicidio en Artà",
+   "summary": "El acusado de intentar matar a su compañero de piso con nueve puñaladas en Artà ha sido sentenciado a tres años de prisión, con una indemnización de 6.000 euros como atenuante.",
+   "body": [
+    "El juzgado de la Sección Segunda de la Audiencia de Palma dictó este lunes una condena de tres años de cárcel por tentativa de homicidio contra un hombre que, en julio de 2025, apuñaló a su compañero de piso en Artà. El fiscal había solicitado inicialmente una pena de seis años, pero la redujo a la mitad tras considerar la consignación de 6.000 euros a favor de la víctima como reparación del daño y la influencia del alcohol como atenuantes.",
+    "Según la información de Última Hora, además de la indemnización, el tribunal valoró como atenuantes la alteración psíquica y la toxifrenia del procesado. El condenado ya se encuentra en prisión mientras se cumplen la sentencia y las medidas complementarias establecidas por el tribunal."
+   ]
+  },
+  "ca": {
+   "title": "Un home és condemnat a tres anys de presó per tentativa d'homicidi a Artà",
+   "summary": "L'acusat d'intentar matar el seu company de pis amb nou apunyals a Artà ha estat sentenciat a tres anys de presó, amb una indemnització de 6.000 euros com a atenuant.",
+   "body": [
+    "El jutge de la Segona Secció de l'Audiència de Palma ha imposat aquest dilluns una pena de tres anys de presó per tentativa d'homicidi a un home que, al juliol de 2025, va apunyalar el seu company de pis a Artà. El fiscau havia demanat inicialment sis anys, però va reduir la pena a la meitat després d'apreciar la consignació de 6.000 euros a favor de la víctima com a reparació del dany i l'estat d'alcohol com a atenuant.",
+    "Segons Última Hora, a més de la indemnització, el tribunal va considerar com a atenuants l'alteració psíquica i la toxifrenia de l'acusat. El condemnat ja es troba a la presó mentre es compleix la condemna i les mesures complementàries establertes pel jutge."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Condena a tres años de cárcel por tentativa de homicidio",
+    "ca": "Condena a tres anys de presó per tentativa d'homicidi",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Indemnización de 6.000 euros a favor de la víctima",
+    "ca": "Indemnització de 6.000 euros a favor de la víctima",
+    "sources": [
+     "diariodemallorca",
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El fiscal redujo la petición de seis años a la mitad",
+    "ca": "El fiscau va reduir la petició de sis anys a la meitat",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Se valoraron atenuantes de alteración psíquica y toxifrenia",
+    "ca": "Es van valorar atenuants d'alteració psíquica i toxifrenia",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:33:38.742Z",
+  "slug": "un-hombre-es-condenado-a-tres-anos-de-carcel-por-tentativa-de-750b2",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/2823e09e-ca33-40f9-b441-245dcb313248_16-9-aspect-ratio_default_0_x1024y512.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/23/acepta-tres-anos-carcel-matar-136743566.html"
+  }
+ },
+ {
+  "id": "steae02814a8",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:18:28.000Z",
+  "articles": [
+   {
+    "id": "23d8885b69ee",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/23/consell-mallorca-investiga-vivienda-vinculada-136746877.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Consell de Mallorca investiga si una vivienda vinculada a la pareja de Rosario Sánchez ofrece dos plazas turísticas ilegales",
+    "published": "2026-11-23T11:50:04.000Z"
+   },
+   {
+    "id": "f17e81f4bffe",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/23/2755811/senalan-villa-pareja-rosario-sanchez-por-ofertar-dos-plazas-turisticas-mas-autorizadas.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Señalan a la villa de la pareja de Rosario Sánchez por ofertar dos plazas turísticas más de las autorizadas",
+    "published": "2026-11-23T11:46:00.000Z"
+   },
+   {
+    "id": "5ef6ab6bb281",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/23/2755811/senalan-villa-pareja-rosario-sanchez-por-ofertar-dos-plazas-turisticas-mas-autorizadas.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Señalan a la villa de la pareja de Rosario Sánchez por ofertar dos plazas turísticas más de las autorizadas",
+    "published": "2026-11-23T11:46:00.000Z"
+   },
+   {
+    "id": "97a0c82edb57",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/23/2755781/consell-investiga-pareja-rosario-sanchez-por-dos-presuntas-plazas-ilegales-alquiler.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Consell investiga si la pareja de Rosario Sánchez oferta una vivienda turística con dos plazas ilegales en Mallorca",
+    "published": "2026-11-23T11:37:00.000Z"
+   },
+   {
+    "id": "9794e6226d07",
+    "url": "https://www.europapress.es/illes-balears/noticia-consell-mallorca-investiga-si-pareja-rosario-sanchez-oferta-vivienda-turistica-dos-plazas-ilegales-20261123121828.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "El Consell de Mallorca investiga si la pareja de Rosario Sánchez oferta una vivienda turística con dos plazas ilegales",
+    "published": "2026-11-23T11:18:28.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T11:50:04.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:23:03.229Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El Consell de Mallorca investiga oferta de dos plazas turísticas ilegales vinculada a la pareja de Rosario Sánchez",
+   "summary": "El Consell ha iniciado una investigación para determinar si la vivienda turística gestionada por la pareja de la candidata del PSIB a la presidencia del Govern y secretaria de Estado de Turismo, Rosario Sánchez, ofrece dos plazas más de las autorizadas.",
+   "body": [
+    "El Consell de Mallorca ha abierto una investigación para esclarecer si la pareja de Rosario Sánchez, candidata del PSIB a la presidencia del Govern balear y secretaria de Estado de Turismo, comercializa una vivienda turística con dos plazas ilegales. La investigación se produce tras la publicación de El Debate, que indica que el alojamiento situado en Port d'Andratx aparece anunciado con capacidad para seis personas, aunque sólo cuenta con cuatro plazas registradas en el registro turístico del Consell.",
+    "Según ha confirmado el conseller insular de Turisme, Guillem Ginard, el Consell está verificando la información y ha iniciado las comprobaciones pertinentes. La vivienda está vinculada a una sociedad administrada por la pareja de la candidata, y se sospecha que se están ofreciendo dos plazas turísticas más de las que la normativa permite."
+   ]
+  },
+  "ca": {
+   "title": "El Consell de Mallorca investiga l'oferta de dues places turístiques il·legals vinculada a la parella de Rosario Sánchez",
+   "summary": "El Consell ha iniciat una investigació per determinar si l'habitatge turístic gestionat per la parella de la candidata del PSIB a la presidència del Govern i secretaria d'Estat de Turisme, Rosario Sánchez, ofereix dues places més de les autoritzades.",
+   "body": [
+    "El Consell de Mallorca ha obert una investigació per aclarir si la parella de Rosario Sánchez, candidata del PSIB a la presidència del Govern balear i secretaria d'Estat de Turisme, comercialitza una vivenda turística amb dues places il·legals. La investigació s'ha desencadenat després que El Debate publicés que l'allotjament situat al Port d'Andratx apareix anunciat amb capacitat per a sis persones, tot i que només disposa de quatre places registrades al registre turístic del Consell.",
+    "Segons ha confirmat el conseller insular de Turisme, Guillem Ginard, el Consell està verificant la informació i ha iniciat les comprovacions pertinents. La vivenda està vinculada a una societat administrada per la parella de la candidata, i es sospita que s'estan oferint dues places turístiques més del que permet la normativa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Consell de Mallorca ha abierto una investigación sobre la posible oferta de dos plazas turísticas ilegales vinculada a la pareja de Rosario Sánchez",
+    "ca": "El Consell de Mallorca ha obert una investigació sobre la possible oferta de dues places turístiques il·legals vinculada a la parella de Rosario Sánchez",
+    "sources": [
+     "europapress",
+     "ultimahora",
+     "diariodemallorca",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "La vivienda está situada en Port d'Andratx y según El Debate se anuncia para seis personas aunque solo tiene cuatro plazas registradas",
+    "ca": "L'habitatge està situat al Port d'Andratx i segons El Debate s'anuncia per a sis persones encara que només té quatre places registrades",
+    "sources": [
+     "diariodemallorca",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "El conseller insular de Turisme, Guillem Ginard, ha confirmado que el Consell ha iniciado las comprobaciones",
+    "ca": "El conseller insular de Turisme, Guillem Ginard, ha confirmat que el Consell ha iniciat les comprovacions",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:23:03.229Z",
+  "slug": "el-consell-de-mallorca-investiga-oferta-de-dos-plazas-turisticas-814a8",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/6778e279-0b68-4d75-b1e2-0369d8be83da_16-9-aspect-ratio_default_0_x571y253.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/23/consell-mallorca-investiga-vivienda-vinculada-136746877.html"
+  }
+ },
+ {
+  "id": "st5a8315b14e",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:17:59.000Z",
+  "articles": [
+   {
+    "id": "e66d20ecd18b",
+    "url": "https://www.diariodeibiza.es/formentera/2026/11/23/formentera-senador-cordoba-cuestiona-independencia-136741470.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Senador por Formentera: Córdoba cuestiona la independencia de Massanet y Tur por los pactos electorales de sus coaliciones",
+    "published": "2026-11-23T11:17:59.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:17:59.000Z"
+ },
+ {
+  "id": "st97b4f7d63a",
+  "createdAt": "2026-11-23T12:22:44.734Z",
+  "firstPublished": "2026-11-23T11:09:00.000Z",
+  "articles": [
+   {
+    "id": "0b60647f212b",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/23/buscan-mujer-desaparecida-algaida-montuiri-136746601.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Buscan a una mujer desaparecida entre Algaida y Montuïri",
+    "published": "2026-11-23T11:59:31.000Z"
+   },
+   {
+    "id": "df1cdb4df445",
+    "url": "https://www.mallorcadiario.com/amplio-despliegue-emergencias-para-buscar-mujer-desaparecida-algaida",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Amplio despliegue de emergencias para buscar a una mujer desaparecida en Algaida",
+    "published": "2026-11-23T11:12:09.000Z"
+   },
+   {
+    "id": "d8a1c6917fdf",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/23/2755747/amplio-dispositivo-para-localizar-mujer-anos-desaparecida-algaida.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Amplio dispositivo para localizar a una mujer de 76 años desaparecida en Algaida",
+    "published": "2026-11-23T11:09:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T11:59:31.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-23T12:22:49.158Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "Decenas de agentes buscan a una mujer de 76 años desaparecida en Algaida",
+   "summary": "Un amplio dispositivo de emergencias localiza a una vecina de Algaida con demencia, desaparecida desde la tarde del domingo.",
+   "body": [
+    "Decenas de agentes de la Guardia Civil, Policía Local, Protección Civil y Bombers de Mallorca se han desplegado esta mañana en Algaida para localizar a una mujer de 76 años que desapareció la tarde-noche del domingo. Según el Diario de Mallorca, la vecina, identificada como Maria Carmen, sufre demencia y podría estar desorientada.",
+    "La búsqueda se centra en una zona boscosa no muy lejos de su residencia, concretamente en el área comprendida entre Pina y Montuïri, según informa el mismo medio. El Ayuntamiento de Algaida ha solicitado la colaboración ciudadana para encontrarla.",
+    "Mallorcadiario.com añade que en el operativo participan efectivos de Felanitx y Llucmajor, el Grupo de Rescate Canino, así como mandos y técnicos. El dispositivo sigue abierto a la espera de localizar a la septuagenaria."
+   ]
+  },
+  "ca": {
+   "title": "Desenes d'agents busquen una dona de 76 anys desapareguda a Algaida",
+   "summary": "Un ampli dispositiu d'emergències busca una veïna d'Algaida amb demència, desapareguda des de la tarda de diumenge.",
+   "body": [
+    "Desenes d'agents de la Guàrdia Civil, la Policia Local, Protecció Civil i els Bombers de Mallorca s'han desplegat aquest matí a Algaida per localitzar una dona de 76 anys que va desaparèixer la tarda-nit de diumenge. Segons el Diario de Mallorca, la veïna, identificada com a Maria Carmen, pateix demència i podria estar desorientada.",
+    "La recerca se centra en una zona boscosa no gaire lluny de la seva residència, concretament a l'àrea compresa entre Pina i Montuïri, segons informa el mateix mitjà. L'Ajuntament d'Algaida ha sol·licitat la col·laboració ciutadana per trobar-la.",
+    "Mallorcadiario.com afegeix que en l'operatiu hi participen efectius de Felanitx i Llucmajor, el Grup de Rescat Caní, així com mandos i tècnics. El dispositiu segueix obert a l'espera de localitzar la septuagenària."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La desaparecida es una mujer de 76 años residente en Algaida.",
+    "ca": "La desapareguda és una dona de 76 anys resident a Algaida.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Desapareció la tarde-noche del domingo.",
+    "ca": "Va desaparèixer la tarda-nit de diumenge.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La mujer sufre demencia y podría estar desorientada.",
+    "ca": "La dona pateix demència i podria estar desorientada.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La búsqueda se centra en una zona boscosa entre Pina y Montuïri.",
+    "ca": "La recerca se centra en una zona boscosa entre Pina i Montuïri.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Participan Guardia Civil, Policía Local, Protección Civil, Bombers, efectivos de Felanitx y Llucmajor, y el Grupo de Rescate Canino.",
+    "ca": "Hi participen la Guàrdia Civil, la Policia Local, Protecció Civil, els Bombers, efectius de Felanitx i Llucmajor, i el Grup de Rescat Caní.",
+    "sources": [
+     "ultimahora",
+     "mallorcadiario"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:22:49.158Z",
+  "slug": "decenas-de-agentes-buscan-a-una-mujer-de-76-anos-desaparecida-en-7d63a",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/d07c15d6-945e-46ff-b060-cc5e865c90c5_16-9-aspect-ratio_default_0_x263y233.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/23/buscan-mujer-desaparecida-algaida-montuiri-136746601.html"
+  }
+ },
+ {
+  "id": "st8e49a77a21",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:06:21.000Z",
+  "articles": [
+   {
+    "id": "5af53a00c72f",
+    "url": "https://www.ara.cat/politica/ultim-cis-29-n-psoe-alca-guanya-deu-punts-pp_1_5920146.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Últim CIS abans del 29-N: un PSOE en alça guanya per deu punts el PP",
+    "published": "2026-11-23T11:06:21.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:06:21.000Z"
+ },
+ {
+  "id": "st1509b29e3b",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:04:31.000Z",
+  "articles": [
+   {
+    "id": "e2b25b5538d0",
+    "url": "https://www.mallorcadiario.com/banda-municipal-santanyi-teatre-principal-palma",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Santanyí llena el Teatre Principal de Palma con 70 músicos",
+    "published": "2026-11-23T11:04:31.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:04:31.000Z"
+ },
+ {
+  "id": "st83667201e6",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T11:00:34.000Z",
+  "articles": [
+   {
+    "id": "4a2c62977d11",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/pablo-carbonell-listo-actuar-festival-136744293.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Pablo Carbonell, listo para actuar en el Festival Mal del Cap de Ibiza: \"Llego con mis canciones y mis monólogos\"",
+    "published": "2026-11-23T11:00:34.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:00:34.000Z"
+ },
+ {
+  "id": "stc14c02aabc",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:50:47.000Z",
+  "articles": [
+   {
+    "id": "fa3e2cddd61f",
+    "url": "https://www.arabalears.cat/parlament/canadas-rep-carta-censal-d-familiar-difunt-acusa-pedro-sanchez-votar-morts_1_5920134.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Cañadas rep la carta censal d’un familiar difunt i acusa Pedro Sánchez de “fer votar els morts”",
+    "published": "2026-11-23T11:15:19.000Z"
+   },
+   {
+    "id": "1e36df05382a",
+    "url": "https://www.europapress.es/illes-balears/noticia-29n-canadas-afirma-haber-recibido-tarjeta-censal-marido-fallecido-son-capaces-hacer-votar-muertos-20261123115047.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "29N.- Cañadas afirma haber recibido la tarjeta censal de su marido fallecido: \"Son capaces de hacer votar a los muertos\"",
+    "published": "2026-11-23T10:50:47.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T11:15:19.000Z"
+ },
+ {
+  "id": "st47d24a8665",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:41:00.000Z",
+  "articles": [
+   {
+    "id": "0eeb7eff203b",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/millon-euros-ayudar-estudiar-1-136744324.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Un millón de euros para ayudar a estudiar: 1.030 alumnos de Ibiza recibirán becas",
+    "published": "2026-11-23T11:07:22.000Z"
+   },
+   {
+    "id": "4cfe2546a51f",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/el-consell-de-ibiza-concede-ayudas-por-un-millon-de-euros-a-1-030-estudiantes-para-el-curso-2025-2026/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "El Consell de Ibiza concede ayudas por un millón de euros a 1.030 estudiantes para el curso 2025-2026",
+    "published": "2026-11-23T10:44:19.000Z"
+   },
+   {
+    "id": "f80cc87305dc",
+    "url": "https://www.periodicodeibiza.es/pitiusas/ibiza/2026/11/23/2755709/resueltas-ayudas-del-consell-para-curso-2025-2026-para-1030-estudiantes-ibicencos.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Resueltas las ayudas del Consell para el curso 2025-2026 para 1.030 estudiantes ibicencos",
+    "published": "2026-11-23T10:41:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T11:07:22.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:27:48.593Z",
+  "islands": [
+   "ibiza",
+   "formentera"
+  ],
+  "topic": "educacion",
+  "es": {
+   "title": "El Consell de Ibiza aprueba ayudas de casi un millón de euros para 1.030 estudiantes 2025‑2026",
+   "summary": "El Consell Insular de Ibiza ha concluido la tramitación de la Línea 1 de ayudas al estudio, destinando 999.996,81 euros a 1.030 alumnos de la isla para el curso académico 2025‑2026.",
+   "body": [
+    "El Consell Insular de Ibiza ha resuelto la convocatoria de la Línea 1 de ayudas a estudiantes correspondiente al curso académico 2025‑2026. La resolución concede ayudas a 1.030 alumnos de la isla, con una dotación total de 999.996,81 euros, financiados íntegramente con fondos propios del Consell.",
+    "Según la información publicada, las becas están dirigidas a estudiantes que cursan estudios universitarios, enseñanzas artísticas superiores o formación profesional, tanto dentro como fuera de Ibiza, con el objetivo de compensar parte de los gastos que deben afrontar durante su formación."
+   ]
+  },
+  "ca": {
+   "title": "El Consell d'Eivissa aprova ajudes d'aproximadament un milió d'euros per a 1.030 estudiants 2025‑2026",
+   "summary": "El Consell Insular d'Eivissa ha finalitzat la gestió de la Línia 1 d'ajudes a l'estudi, destinant 999.996,81 euros a 1.030 alumnes de l'illa per al curs acadèmic 2025‑2026.",
+   "body": [
+    "El Consell Insular d'Eivissa ha resolt la convocatòria de la Línia 1 d'ajudes a estudiants corresponent al curs acadèmic 2025‑2026. La resolució concedeix ajudes a 1.030 alumnes de l'illa, amb una dotació total de 999.996,81 euros, finançats íntegrament amb fons propis del Consell.",
+    "Segons la informació publicada, les beques estan destinades a estudiants que cursen estudis universitaris, ensenyaments artístics superiors o formació professional, tant dins com fora d'Eivissa, amb l'objectiu de compensar part de les despeses que han d'afrontar durant la seva formació."
+   ]
+  },
+  "facts": [
+   {
+    "es": "1.030 estudiantes beneficiados",
+    "ca": "1.030 alumnes beneficiats",
+    "sources": [
+     "periodicodeibiza",
+     "noudiari",
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Importe total de 999.996,81 euros",
+    "ca": "Import total de 999.996,81 euros",
+    "sources": [
+     "periodicodeibiza",
+     "noudiari",
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Financiación íntegra con fondos propios del Consell",
+    "ca": "Finançament íntegre amb fons propis del Consell",
+    "sources": [
+     "periodicodeibiza",
+     "noudiari",
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:27:48.593Z",
+  "slug": "el-consell-de-ibiza-aprueba-ayudas-de-casi-un-millon-de-euros-para-1-a8665",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/85c31446-839d-49be-aa0f-8d8ba7542d25_16-9-aspect-ratio_default_0_x526y233.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/23/millon-euros-ayudar-estudiar-1-136744324.html"
+  }
+ },
+ {
+  "id": "stfa3fa74a63",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:34:55.000Z",
+  "articles": [
+   {
+    "id": "b2c7165301ec",
+    "url": "https://www.europapress.es/illes-balears/noticia-oposicion-acusa-galmes-priorizar-vox-presupuestos-2027-pide-devolucion-cuentas-20261123113455.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "La oposición acusa a Galmés de \"priorizar\" a Vox en los presupuestos para 2027 y pide la devolución de las cuentas",
+    "published": "2026-11-23T10:34:55.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:34:55.000Z"
+ },
+ {
+  "id": "st3f5a1e028a",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:33:55.000Z",
+  "articles": [
+   {
+    "id": "3e55150f32e3",
+    "url": "https://www.menorca.info/menorca/local/2026/11/23/2755693/ley-para-limitar-vehiculos-menorca-llega-parlament-apenas-incluir-enmiendas.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "La ley para limitar los vehículos en Menorca llega al Parlament sin apenas incluir enmiendas",
+    "published": "2026-11-23T10:33:55.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:33:55.000Z"
+ },
+ {
+  "id": "st3104ae6f69",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:32:00.000Z",
+  "articles": [
+   {
+    "id": "106e0f17ac96",
+    "url": "https://www.dbalears.cat/balears/cultura/2026/11/23/424301/esgleieta-acull-aquest-dissabte-jornada-solidaria-teatre-carrer.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "S'Esgleieta acull aquest dissabte una jornada solidària de teatre de carrer",
+    "published": "2026-11-23T10:32:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:32:00.000Z"
+ },
+ {
+  "id": "stf26ee246e4",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:14:00.000Z",
+  "articles": [
+   {
+    "id": "d4449e48c8bc",
+    "url": "https://www.dbalears.cat/opinio/opinio/2026/11/23/424299/ara-mes-front-ampli-vot-eficac.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Ara Més-Front Ampli, el vot eficaç",
+    "published": "2026-11-23T10:14:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:14:00.000Z"
+ },
+ {
+  "id": "stf5eb51ecd3",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:06:40.000Z",
+  "articles": [
+   {
+    "id": "8204794c56eb",
+    "url": "https://www.noudiari.es/local-ibiza/las-reservas-turisticas-en-baleares-crecen-un-173-interanual/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Las reservas turísticas en Baleares crecen un 17,3% interanual",
+    "published": "2026-11-23T10:06:40.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:06:40.000Z"
+ },
+ {
+  "id": "st93c02b4c8f",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:05:00.000Z",
+  "articles": [
+   {
+    "id": "29539cf66ccf",
+    "url": "https://www.dbalears.cat/opinio/opinio/2026/11/23/424297/soroll-electoral.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "El soroll electoral",
+    "published": "2026-11-23T10:05:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:05:00.000Z"
+ },
+ {
+  "id": "stc46558389b",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T10:04:00.000Z",
+  "articles": [
+   {
+    "id": "0a3a2e7cdb90",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/23/424295/formentera-identitat-propia-mereix-ser-respectada.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "«Formentera té una identitat pròpia que mereix ser respectada»",
+    "published": "2026-11-23T10:04:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:04:00.000Z"
+ },
+ {
+  "id": "st222bd4eabf",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:59:37.000Z",
+  "articles": [
+   {
+    "id": "1c82e8711909",
+    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/23/2755659/club-nautic-sant-antoni-proyectara-brama-tonyina-documental-sobre-ultimos-pescadores-tradicionales-almadraba.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El Club Nàutic Sant Antoni proyectará ‘On brama la tonyina’, un documental sobre los últimos pescadores tradicionales con almadraba",
+    "published": "2026-11-23T09:59:37.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:59:37.000Z"
+ },
+ {
+  "id": "stc64989d70a",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:54:40.000Z",
+  "articles": [
+   {
+    "id": "72ffddf6f7d6",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/los-hoteles-de-baleares-sumaron-71-millones-de-pernoctaciones-en-octubre-un-33-mas/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Los hoteles de Baleares sumaron 7,1 millones de pernoctaciones en octubre, un 3,3% más",
+    "published": "2026-11-23T09:54:40.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:54:40.000Z"
+ },
+ {
+  "id": "st3c93aa86b0",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:53:09.000Z",
+  "articles": [
+   {
+    "id": "134fc084c0c5",
+    "url": "https://www.menorca.info/menorca/local/2026/11/23/2755651/centenar-pasajeros-tirados-por-cancelacion-del-primer-vuelo-manana-madrid.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Un centenar de pasajeros ‘tirados’ por la cancelación del primer vuelo de la mañana con Madrid",
+    "published": "2026-11-23T09:53:09.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:53:09.000Z"
+ },
+ {
+  "id": "st49691b114f",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:52:33.000Z",
+  "articles": [
+   {
+    "id": "38da93b6b5e5",
+    "url": "https://www.dbalears.cat/balears/cultura/2026/11/23/424291/portol-comenca-setmana-amb-activitats-amb-motiu-del-25n-sota-lema-anomenar-les-recordar-les.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Pòrtol comença la setmana amb activitats amb motiu del 25N sota el lema 'Anomenar-les és recordar-les'",
+    "published": "2026-11-23T09:52:33.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:52:33.000Z"
+ },
+ {
+  "id": "st0cba920216",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:51:21.000Z",
+  "articles": [
+   {
+    "id": "9aab43a1452b",
+    "url": "https://www.europapress.es/illes-balears/noticia-buscan-hombre-37-anos-desaparecido-palma-15-noviembre-20261123105121.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Buscan a un hombre de 37 años desaparecido en Palma desde el 15 de noviembre",
+    "published": "2026-11-23T09:51:21.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:51:21.000Z"
+ },
+ {
+  "id": "st107f6324e7",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:40:59.000Z",
+  "articles": [
+   {
+    "id": "612c8a2e7982",
+    "url": "https://www.mallorcadiario.com/black-friday-corte-ingles-2026-ofertas-descuentos",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Black Friday en El Corte Inglés: los mayores descuentos y las fechas clave",
+    "published": "2026-11-23T09:40:59.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:40:59.000Z"
+ },
+ {
+  "id": "st35421afac8",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:33:00.000Z",
+  "articles": [
+   {
+    "id": "41a0540bc741",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/23/2755619/municipio-mallorca-distinguido-como-pueblo-mas-internacional-2026.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Un municipio de Mallorca, distinguido como Pueblo Más Internacional 2026",
+    "published": "2026-11-23T09:33:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:33:00.000Z"
+ },
+ {
+  "id": "st53e5e79275",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:27:45.000Z",
+  "articles": [
+   {
+    "id": "81e2a00b6fd4",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/primer-circuito-pump-track-ibiza-dvl-136739649.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Ibiza estrena su primer ‘Pump Track’: así será el nuevo circuito de Puig d’en Valls",
+    "published": "2026-11-23T09:27:45.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:27:45.000Z"
+ },
+ {
+  "id": "std88e1cdea2",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:18:00.000Z",
+  "articles": [
+   {
+    "id": "225218f32a2a",
+    "url": "https://www.menorca.info/menorca/local/2026/11/23/2755611/fallece-guillermo-pons-pons-decano-sacerdotes-menorca.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Fallece Guillermo Pons Pons, decano de los sacerdotes de Menorca",
+    "published": "2026-11-23T09:18:00.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:18:00.000Z"
+ },
+ {
+  "id": "st95b7e15504",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:16:26.000Z",
+  "articles": [
+   {
+    "id": "c82682dc6b58",
+    "url": "https://www.ultimahora.es/xaloc/dudas-respuestas/2026/11/23/2755685/horario-mercadona-para-nochebuena-nochevieja-esta-hora-cerrara-dias-diciembre.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Horario de Mercadona para Nochebuena y Nochevieja: a esta hora cerrará los días 24 y 31 de diciembre",
+    "published": "2026-11-23T10:20:00.000Z"
+   },
+   {
+    "id": "459503513e0e",
+    "url": "https://www.menorca.info/actualidad/dudas-respuestas/2026/11/23/2755685/horario-mercadona-para-nochebuena-nochevieja-esta-hora-cerrara-dias-diciembre.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Horario de Mercadona para Nochebuena y Nochevieja: a esta hora cerrará los días 24 y 31 de diciembre",
+    "published": "2026-11-23T10:20:00.000Z"
+   },
+   {
+    "id": "6b0661a837f6",
+    "url": "https://www.mallorcadiario.com/a-que-hora-cierran-los-supermercados-en-nochebuena-mercadona-anuncia-un-cambio-de-horario",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "¿A qué hora cierran los supermercados en Nochebuena? Mercadona anuncia un cambio de horario",
+    "published": "2026-11-23T09:16:26.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:20:00.000Z"
+ },
+ {
+  "id": "st5e86b6c2ea",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:09:18.000Z",
+  "articles": [
+   {
+    "id": "1084361169b6",
+    "url": "https://www.arabalears.cat/societat/citen-declarar-lucia-munoz-il-lustradora-cartell-polemic-sant-sebastia-2025_1_5920176.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Citen a declarar Lucía Muñoz i la il·lustradora del cartell polèmic de Sant Sebastià de 2025",
+    "published": "2026-11-23T11:39:40.000Z"
+   },
+   {
+    "id": "96e9d9aeb672",
+    "url": "https://www.diariodemallorca.es/palma/2026/11/23/juez-cita-concejal-lucia-munoz-fq-136745159.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El juez cita a la concejal de Podemos Lucía Muñoz por el cartel sexualizado de la figura de San Sebastià",
+    "published": "2026-11-23T11:11:26.000Z"
+   },
+   {
+    "id": "1e68d1d8f876",
+    "url": "https://www.europapress.es/illes-balears/noticia-citan-declarar-lucia-munoz-cartel-sant-sebastia-denunciado-abogados-cristianos-20261123100918.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Citan a declarar a Lucía Muñoz por el cartel de Sant Sebastià denunciado por Abogados Cristianos",
+    "published": "2026-11-23T09:09:18.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-23T11:39:40.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:25:13.657Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "El juzgado de Palma cita a declarar a Lucía Muñoz y a la ilustradora del cartel de Sant Sebastià",
+   "summary": "El Tribunal de Palma ha citado como investigadas a la portavoz de Unidas Podemos en el Ayuntamiento, Lucía Muñoz, y a la ilustradora Luisa Febrer, por el cartel de las fiestas de Sant Sebastià de 2025 denunciado por Abogados Cristianos.",
+   "body": [
+    "El Tribunal de Instancia de Palma ha citado a declarar el próximo 3 de febrero a Lucía Muñoz, portavoz de Unidas Podemos en el Ayuntamiento de Palma, y a la ilustradora Luisa Febrer, en calidad de investigadas por la creación y difusión de un cartel de las fiestas de Sant Sebastià de 2025 que incluye representaciones sexualizadas del patrón de la ciudad.",
+    "Según la denuncia presentada por la Fundación Española de Abogados Cristianos, el cartel vulnera los sentimientos religiosos. Ambas citadas deberán comparecer ante el juzgado para responder a la querella interpuesta por dicha organización.",
+    "Las citaciones fueron publicadas por varios medios el mismo día, coincidiendo en los nombres de las investigadas, la fecha de comparecencia y el motivo de la investigación, sin registrar discrepancias entre las fuentes."
+   ]
+  },
+  "ca": {
+   "title": "El tribunal de Palma cita a declarar Lucía Muñoz i la il·lustradora del cartell de Sant Sebastià",
+   "summary": "El Tribunal d'Instància de Palma ha citat com a investigades la portaveu d'Unides Podemos al Ajuntament, Lucía Muñoz, i la il·lustradora Luisa Febrer, per al cartell de les festes de Sant Sebastià de 2025 denunciat per Advocats Cristians.",
+   "body": [
+    "El Tribunal d'Instància de Palma ha citat a declarar el proper 3 de febrer a Lucía Muñoz, portaveu d'Unides Podemos a l'Ajuntament de Palma, i a la il·lustradora Luisa Febrer, com a investigades per la creació i difusió d'un cartell de les festes de Sant Sebastià de 2025 que inclou representacions sexualitzades del patró de la ciutat.",
+    "Segons la querella presentada per la Fundació Espanyola d'Advocats Cristians, el cartell vulnera els sentiments religiosos. Les dues citades hauran de compareixent davant del jutge per respondre a la denúncia.",
+    "Les citacions apareixen en diversos mitjans el mateix dia, coincidint en els noms de les investigades, la data de compareixença i el motiu de la investigació, sense registrar contradiccions entre les fonts."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Lucía Muñoz, portavoz de Unidas Podemos en el Ayuntamiento de Palma, citada a declarar como investigada",
+    "ca": "Lucía Muñoz, portaveu d'Unides Podemos a l'Ajuntament de Palma, citada a declarar com a investigada",
+    "sources": [
+     "europapress",
+     "diariodemallorca",
+     "arabalears"
+    ]
+   },
+   {
+    "es": "Luisa Febrer (Lluïsa Febrer Bausá), ilustradora citada a declarar como investigada",
+    "ca": "Luisa Febrer (Lluïsa Febrer Bausá), il·lustradora citada a declarar com a investigada",
+    "sources": [
+     "europapress",
+     "diariodemallorca",
+     "arabalears"
+    ]
+   },
+   {
+    "es": "La comparecencia está prevista para el 3 de febrero",
+    "ca": "La compareixença està prevista per al 3 de febrer",
+    "sources": [
+     "arabalears"
+    ]
+   },
+   {
+    "es": "El cartel de las fiestas de Sant Sebastià de 2025 fue denunciado por la Fundación Española de Abogados Cristianos por supuesta ofensa a los sentimientos religiosos",
+    "ca": "El cartell de les festes de Sant Sebastià de 2025 va ser denunciat per la Fundació Espanyola d'Advocats Cristians per suposada ofensa als sentiments religiosos",
+    "sources": [
+     "diariodemallorca",
+     "arabalears"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-23T12:25:13.657Z",
+  "slug": "el-juzgado-de-palma-cita-a-declarar-a-lucia-munoz-y-a-la-ilustradora-6c2ea",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/44c81a8f-b678-434f-9f95-0e884290337a_16-9-aspect-ratio_default_0_x396y320.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/palma/2026/11/23/juez-cita-concejal-lucia-munoz-fq-136745159.html"
+  }
+ },
+ {
+  "id": "st788183970a",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T09:04:46.000Z",
+  "articles": [
+   {
+    "id": "9e533a4431f6",
+    "url": "https://www.periodicodeibiza.es/pitiusas/formentera/2026/11/23/2755623/empieza-calendario-cursos-gratuitos-del-consell-formentera-soib-para-trabajadores-desocupados.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Empieza el calendario de cursos gratuitos del Consell de Formentera y el SOIB para trabajadores y desocupados",
+    "published": "2026-11-23T09:27:00.000Z"
+   },
+   {
+    "id": "a86cc6806d86",
+    "url": "https://www.diariodeibiza.es/formentera/2026/11/23/formentera-cursos-gratuitos-ingles-inteligencia-artificial-136739302.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Cursos gratuitos de inglés, inteligencia artificial y formación para el empleo en Formentera",
+    "published": "2026-11-23T09:04:46.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T09:27:00.000Z"
+ },
+ {
+  "id": "st177e21c5f6",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T08:56:35.000Z",
+  "articles": [
+   {
+    "id": "94f049523c12",
+    "url": "https://ib3.org/proliferen-els-galls-i-gallines-al-cami-verd-entre-mao-i-es-castell",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "Proliferen els galls i gallines al camí verd entre Maó i es Castell",
+    "published": "2026-11-23T08:56:35.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T08:56:35.000Z"
+ },
+ {
+  "id": "st69f6535f14",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T08:39:27.000Z",
+  "articles": [
+   {
+    "id": "0198a0eec5ad",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/23/2755601/herido-grave-hombre-anos-tras-ser-atropellado-frente-sala-augusta-palma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Herido grave un hombre de 45 años tras ser atropellado frente a la Sala Augusta, en Palma",
+    "published": "2026-11-23T08:39:27.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T08:39:27.000Z"
+ },
+ {
+  "id": "st8307b6552d",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T08:14:18.000Z",
+  "articles": [
+   {
+    "id": "246cc4fd78ee",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/23/2755657/masa-aire-polar-bajara-temperaturas-esta-semana-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Una masa de aire polar bajará las temperaturas esta semana en Mallorca",
+    "published": "2026-11-23T10:26:00.000Z"
+   },
+   {
+    "id": "3d4e41adbcc4",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/23/lluvias-viento-bajada-temperaturas-prevision-136737246.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Lluvias, viento y bajada de temperaturas: la previsión de la Aemet para Mallorca esta semana",
+    "published": "2026-11-23T08:14:18.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T10:26:00.000Z"
+ },
+ {
+  "id": "st0b51b07433",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T08:11:02.000Z",
+  "articles": [
+   {
+    "id": "4b33d1491ff3",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/marc-marquez-volver-ibiza-dvl-136737427.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Marc Márquez explica por qué no piensa volver a Ibiza: \"Con una vez que te roben ya es suficiente\"",
+    "published": "2026-11-23T08:11:02.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T08:11:02.000Z"
+ },
+ {
+  "id": "st89da6d6364",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T08:01:24.000Z",
+  "articles": [
+   {
+    "id": "563e3d3476a9",
+    "url": "https://www.europapress.es/illes-balears/noticia-cortan-suministro-agua-varias-calles-palma-fuga-20261123090325.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Fuga de agua en Foners (Palma): 350 abonados afectados y calles cortadas",
+    "published": "2026-11-23T08:03:25.000Z"
+   },
+   {
+    "id": "a238abf32582",
+    "url": "https://www.mallorcadiario.com/fuga-agua-foners-palma-23-noviembre",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Una fuga de agua deja sin suministro a diez calles del barrio de Foners",
+    "published": "2026-11-23T08:01:24.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T08:03:25.000Z"
+ },
+ {
+  "id": "stdccf599daa",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T07:26:28.000Z",
+  "articles": [
+   {
+    "id": "ea2a1da5a5a6",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/23/abierto-plazo-participar-tradicional-festival-136735908.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Abierto el plazo para participar en el tradicional festival de villancicos del Obispado de Ibiza",
+    "published": "2026-11-23T07:26:28.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T07:26:28.000Z"
+ },
+ {
+  "id": "st9ef4892f67",
+  "createdAt": "2026-11-23T12:22:44.735Z",
+  "firstPublished": "2026-11-23T07:25:39.000Z",
+  "articles": [
+   {
+    "id": "4b63f01d86fb",
+    "url": "https://www.arabalears.cat/economia/mallorca-mon-ciencia-neix-turisme_1_5914867.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "De Mallorca al món: la ciència que neix del turisme",
+    "published": "2026-11-23T07:25:39.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-23T07:25:39.000Z"
+ },
+ {
   "id": "stffe959b315",
   "createdAt": "2026-11-23T03:04:06.972Z",
   "firstPublished": "2026-11-23T02:59:02.000Z",
@@ -997,10 +2515,82 @@
     "lang": "ca",
     "title": "Declarat un incendi a la zona de Formentor, que avança cap al Far",
     "published": "2026-11-22T20:21:11.000Z"
+   },
+   {
+    "id": "2dc293eb71e0",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/23/2755827/prohens-pone-valor-trabajo-equipos-emergencia-incendio-han-trabajado-toda-noche-para-proteger-uno-entornos-mas-queridos-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Prohens destaca que los cortafuegos de Cala Murta han sido «fundamentales para frenar el avance de las llamas» en Formentor",
+    "published": "2026-11-23T12:11:00.000Z"
+   },
+   {
+    "id": "62778fc87068",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/23/424305/incendi-formentor-cremat-mes-200-hectarees.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "L'incendi de Formentor ja ha cremat més de 200 hectàrees",
+    "published": "2026-11-23T12:06:00.000Z"
+   },
+   {
+    "id": "2e384179ea0b",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/23/incendio-formentor-superar-200-hectareas-136741214.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El incendio de Formentor podría superar las 200 hectáreas",
+    "published": "2026-11-23T10:29:50.000Z"
+   },
+   {
+    "id": "c51d7a68843e",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/23/2755673/incendio-formentor-arrasa-mas-200-hectareas.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El incendio de Formentor arrasa ya más de 200 hectáreas",
+    "published": "2026-11-23T10:21:00.000Z"
+   },
+   {
+    "id": "04db58af7952",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/23/2755673/incendio-formentor-arrasa-mas-200-hectareas.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El incendio de Formentor arrasa ya más de 200 hectáreas",
+    "published": "2026-11-23T10:21:00.000Z"
+   },
+   {
+    "id": "5a152ba6bf19",
+    "url": "https://www.europapress.es/illes-balears/noticia-incendio-formentor-quema-ya-mas-200-hectareas-20261123110518.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "El incendio de Formentor quema ya más de 200 hectáreas",
+    "published": "2026-11-23T10:05:18.000Z"
+   },
+   {
+    "id": "e8ceab1526fc",
+    "url": "https://ib3.org/mobilitzats-46-bombers-i-dos-helicopters-en-lincendi-forestal-de-formentor",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "L’incendi de Formentor supera les 200 hectàrees",
+    "published": "2026-11-23T09:28:02.000Z"
+   },
+   {
+    "id": "0888fd880b4b",
+    "url": "https://www.dbalears.cat/balears/balears/2026/11/23/424289/els-mitjans-aeris-incorporen-les-tasques-extincio-formentor-despres-llarga-nit.html",
+    "sourceId": "dbalears",
+    "lang": "ca",
+    "title": "Els mitjans aeris s'incorporen a les tasques d'extinció a Formentor després d'una llarga nit",
+    "published": "2026-11-23T09:08:00.000Z"
+   },
+   {
+    "id": "59f03a572dff",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/23/viento-dara-tregua-lunes-formentor-136738225.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El viento dará una tregua en Formentor: la Aemet prevé que pierda fuerza durante la mañana",
+    "published": "2026-11-23T08:40:03.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-22T22:02:00.000Z",
+  "lastArticleAt": "2026-11-23T12:11:00.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-22T22:27:03.595Z",
   "islands": [
@@ -1299,7 +2889,9 @@
   },
   "distinctFrom": [
    "st2eeb275bec",
-   "st775c3aa090"
+   "st775c3aa090",
+   "stf58656aebe",
+   "st96308573d3"
   ]
  },
  {
@@ -1358,7 +2950,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4859885.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/22/2755491/baleares-brilla-campeonato-espana-kendo.html"
-  }
+  },
+  "distinctFrom": [
+   "stc42effcb91"
+  ]
  },
  {
   "id": "stea5b08639c",
@@ -1578,7 +3173,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4859625.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/22/2755483/handbol-mallorca-cae-tras-rozar-remontada.html"
-  }
+  },
+  "distinctFrom": [
+   "st1ed4c508bb"
+  ]
  },
  {
   "id": "stde9b6c8252",
@@ -2020,60 +3618,69 @@
     "lang": "es",
     "title": "La Cooperativa Agrícola de Sant Antoni celebra 75 años defendiendo el campo de Ibiza: \"El sector primario es cultura y tradición de la isla\"",
     "published": "2026-11-22T18:33:00.000Z"
+   },
+   {
+    "id": "3e2ff9636e27",
+    "url": "https://ib3.org/la-cooperativa-de-sant-antoni-celebra-el-seu-75-aniversari",
+    "sourceId": "ib3",
+    "lang": "ca",
+    "title": "La cooperativa de Sant Antoni celebra el seu 75 aniversari",
+    "published": "2026-11-23T10:41:24.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-22T18:57:00.000Z",
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-22T22:27:49.313Z",
+  "lastArticleAt": "2026-11-23T10:41:24.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:29:56.495Z",
   "islands": [
    "ibiza"
   ],
-  "topic": "sociedad",
+  "topic": "cultura",
   "es": {
-   "title": "La Cooperativa Agrícola de Sant Antoni celebra 75 años con una jornada festiva",
-   "summary": "La cooperativa, fundada en 1951, conmemora su 75.º aniversario con actividades que reunieron a socios, familias y vecinos.",
+   "title": "La Cooperativa Agrícola de Sant Antoni celebra sus 75 años con una jornada festiva",
+   "summary": "La entidad, fundada en 1951, organizó este domingo actividades para socios y vecinos, resaltando su papel en el campo ibicenco.",
    "body": [
-    "El 25 de noviembre, la Cooperativa Agrícola de Sant Antoni celebró su 75.º aniversario con una jornada festiva en la que se reunieron socios, familias y vecinos de la zona. La entidad, que se fundó en 1951, ha acompañado durante siete décadas y media la transformación de Ibiza sin perder su vínculo con el sector primario.",
-    "La jornada incluyó actividades típicas como el ball pagès, música en directo con Pep Còsmic y es Verros de Balàfia, concursos de ucs y de brular corn, juegos gigantes de madera para los más pequeños, una torrada, una visita a las instalaciones de procesado de la algarroba y un taller con Fina Prats, cofundadora de la quesería Ses Cabretes, para aprender a elaborar queso fresco de cabra a la antigua usanza."
+    "La Cooperativa Agrícola de Sant Antoni conmemoró este domingo sus 75 años de historia con una jornada festiva que reunió a socios, familias y vecinos. Según el Diario de Ibiza, la celebración incluyó un programa con ball pagès, música en directo de Pep Còsmic i es Verros de Balàfia, concursos de ucs y de brular corn, juegos gigantes de madera, torrada y una visita a las instalaciones de procesado de la algarroba. Además, se ofreció un taller impartido por Fina Prats, cofundadora de la quesería Ses Cabretes, para aprender a elaborar queso fresco de cabra a la antigua usanza.",
+    "El Periódico de Ibiza y Formentera destaca que la cooperativa, fundada en 1951 cuando la agricultura era uno de los principales motores económicos de la isla, ha acompañado durante siete décadas y media la transformación de Ibiza sin perder su vínculo con el sector primario. IB3 Notícies menciona que durante la celebración se rindió homenaje a tres de los trabajadores más antiguos y se recordó la importancia del movimiento cooperativista en la isla, señalando que hoy la cooperativa cuenta con unos 3.000 socios."
    ]
   },
   "ca": {
-   "title": "La Cooperativa Agrícola de Sant Antoni celebra 75 anys amb una jornada festiva",
-   "summary": "La cooperativa, fundada el 1951, conmemora el seu 75.º aniversari amb activitats que reuniren socis, famílies i veïns.",
+   "title": "La cooperativa agrícola de Sant Antoni celebra els seus 75 anys amb una jornada festiva",
+   "summary": "L'entitat, fundada el 1951, va organitzar aquest diumenge activitats per a socis i veïns, ressaltant el seu paper al camp ibicenc.",
    "body": [
-    "El 25 de novembre, la Cooperativa Agrícola de Sant Antoni va celebrar el seu 75.º aniversari amb una jornada festiva en la qual es van reunir socis, famílies i veïns de la zona. L'entitat, fundada el 1951, ha acompanyat durant set dècades i mitja la transformació d'Ibiza sense perdre el seu vincle amb el sector primari.",
-    "La jornada va incloure activitats típics com el ball pagès, música en directe amb Pep Còsmic i es Verros de Balàfia, concursos d'ucs i de brular corn, jocs gegants de fusta per als més petits, una torrada, una visita a les instal·lacions de processament de l'algarroba i un taller amb Fina Prats, cofundadora de la queverseria Ses Cabretes, per aprendre a elaborar formatge fresc de cabra a l'antiga usança."
+    "La cooperativa agrícola de Sant Antoni va commemorar aquest diumenge els seus 75 anys d'història amb una jornada festiva que va reunir socis, famílies i veïns. Segons el Diario de Ibiza, la celebració va incloure un programa amb ball pagès, música en directe de Pep Còsmic i es Verros de Balàfia, concursos d'ucs i de brular corn, jocs gegants de fusta, torrada i una visita a les instal·lacions de processament de l'algarroba. A més, es va oferir un taller impartit per la Fina Prats, cofundadora de la queseria Ses Cabretes, per aprendre a elaborar formatge fresc de cabra a l'antiga manera.",
+    "El Periódico de Ibiza i Formentera destaca que la cooperativa, fundada el 1951 quan l'agricultura era un dels principals motors econòmics de l'illa, ha acompanyat durant set dècades i mitja la transformació d'Eivissa sense perdre el seu vincle amb el sector primari. IB3 Notícies menciona que durant la celebració es va retre homenatge a tres dels treballadors més antics i es va recordar la importància del moviment cooperativista a l'illa, assenyalant que avui la cooperativa compta amb uns 3.000 socis."
    ]
   },
   "facts": [
    {
-    "es": "La cooperativa celebra su 75.º aniversario el 25 de noviembre",
-    "ca": "La cooperativa celebra el seu 75.º aniversari el 25 de novembre",
+    "es": "La cooperativa celebra su 75 aniversario el 25 de noviembre de 2026",
+    "ca": "La cooperativa celebra el seu 75 aniversari el 25 de novembre de 2026",
     "sources": [
      "diariodeibiza",
      "periodicodeibiza"
     ]
    },
    {
-    "es": "Fundada en 1951",
-    "ca": "Fundada el 1951",
+    "es": "Fundación en 1951 y alrededor de 3.000 socios actuales",
+    "ca": "Fundació el 1951 i uns 3.000 socis actuals",
     "sources": [
-     "periodicodeibiza"
+     "periodicodeibiza",
+     "ib3"
     ]
    },
    {
-    "es": "Actividades incluyeron ball pagès, música en directo, concursos de ucs y de brular corn, juegos gigantes de madera, torrada, visita a instalaciones de procesado de algarroba y taller con Fina Prats",
-    "ca": "Activitats inclouen ball pagès, música en directe, concursos d'ucs i de brular corn, jocs gegants de fusta, torrada, visita a instal·lacions de processament d'algarroba i taller amb Fina Prats",
+    "es": "Actividades incluyeron música en directo, concursos y taller de queso fresco",
+    "ca": "Activitats van incloure música en directe, concursos i taller de formatge fresc",
     "sources": [
      "diariodeibiza",
-     "periodicodeibiza"
+     "ib3"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-22T22:27:49.313Z",
+  "updatedAt": "2026-11-23T12:29:56.495Z",
   "slug": "la-cooperativa-agricola-de-sant-antoni-celebra-75-anos-con-una-6e6e7",
   "status": "verified",
   "image": {
@@ -2420,7 +4027,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/65249b17-2ca3-4008-9f33-a91e3cc92167_16-9-aspect-ratio_default_0_x800y300.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/22/tres-jovenes-empujan-agreden-turista-136717081.html"
-  }
+  },
+  "distinctFrom": [
+   "st1bcefde1cc"
+  ]
  },
  {
   "id": "st06c25e4aaf",
@@ -2645,7 +4255,9 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/65f68f3d-9a96-44c0-959c-f016d85d966a_16-9-aspect-ratio_default_0_x1125y421.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/22/superestrella-bolanos-baile-socialistas-ibiza-136726067.html"
-  }
+  },
+  "hidden": true,
+  "mergedInto": "st2eeb275bec"
  },
  {
   "id": "stf58656aebe",
@@ -2703,7 +4315,12 @@
    "url": "https://www.noudiari.es/wp-content/uploads/2026/11/3C6FA26C-7CC3-48E0-811A-6715D779F59C.jpeg",
    "sourceId": "noudiari",
    "articleUrl": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/bolanos-anuncia-en-formentera-que-el-estado-triplicara-la-inversion-en-vivienda-en-baleares/"
-  }
+  },
+  "distinctFrom": [
+   "st775c3aa090",
+   "st848267fad6",
+   "st2eeb275bec"
+  ]
  },
  {
   "id": "st4ac1371c17",
@@ -2840,7 +4457,11 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4859347.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/22/2755361/trasladan-helicoptero-hospital-turista-accidentada-capdepera.html"
-  }
+  },
+  "distinctFrom": [
+   "st65ea2982c6",
+   "sta7a16a441b"
+  ]
  },
  {
   "id": "st848267fad6",
@@ -2912,7 +4533,10 @@
    "url": "https://e01-phantom-elmundo.uecdn.es/ec079a070950474724b618e82eb6c3ee/resize/600/assets/multimedia/imagenes/2026/11/22/17953663225321.jpg",
    "sourceId": "elmundobaleares",
    "articleUrl": "https://www.elmundo.es/baleares/2026/11/22/6b031472fc6c8339628b457e.html"
-  }
+  },
+  "distinctFrom": [
+   "stc9fa40ae77"
+  ]
  },
  {
   "id": "stbb839f41f0",
@@ -3069,7 +4693,12 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/919aabd5-af92-44f5-a562-c499e3071fed_16-9-aspect-ratio_default_1534741.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/videos/sucesos/2026/11/22/bombers-mallorca-helicoptero-milana-rescatan-136725675.html"
-  }
+  },
+  "distinctFrom": [
+   "sta7a16a441b",
+   "st16a717e60c",
+   "st65ea2982c6"
+  ]
  },
  {
   "id": "steb4843a194",
@@ -3134,7 +4763,10 @@
    "url": "https://static1.ara.cat/clip/1584e2e1-df48-4c1c-b052-7c353323d837_16-9-aspect-ratio_default_0.jpg",
    "sourceId": "arabalears",
    "articleUrl": "https://www.arabalears.cat/politica/vox-atura-des-madrid-destitucio-l-investigat-pedro-bestard_1_5917743.html"
-  }
+  },
+  "distinctFrom": [
+   "st30998d39a0"
+  ]
  },
  {
   "id": "stc5c818f864",
@@ -3404,7 +5036,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4859309.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/deportes/baloncesto/2026/11/22/2755321/azulmarino-vence-vuelta-liga-pone-ojos-copa-reina.html"
-  }
+  },
+  "distinctFrom": [
+   "st25f27942b2"
+  ]
  },
  {
   "id": "st2eeb275bec",
@@ -3418,10 +5053,18 @@
     "lang": "es",
     "title": "Bolaños compara en Ibiza al PSOE de la «alegría y derechos» con la derecha de la «tristeza y recortes»",
     "published": "2026-11-22T16:05:30.000Z"
+   },
+   {
+    "id": "14b082273775",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/22/superestrella-bolanos-baile-socialistas-ibiza-136726067.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "La 'superestrella' Bolaños y su baile con los socialistas de Ibiza",
+    "published": "2026-11-22T17:11:24.000Z"
    }
   ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-22T16:05:30.000Z",
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-22T17:11:24.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-22T17:12:00.137Z",
   "islands": [
@@ -3464,7 +5107,7 @@
   "contradiction": false,
   "updatedAt": "2026-11-22T17:12:00.137Z",
   "slug": "bolanos-afirma-que-el-psoe-propone-alegria-y-derechos-y-la-derecha-75bec",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://www.noudiari.es/wp-content/uploads/2026/11/b9ab3510-a530-43dd-bd88-01279294edf1.jpeg",
    "sourceId": "noudiari",
@@ -3890,9 +5533,17 @@
     "lang": "es",
     "title": "Rescatado un senderista tras sufrir una caída desde dos metros en la zona de Cala Vella, en Llucmajor",
     "published": "2026-11-22T14:40:00.000Z"
+   },
+   {
+    "id": "396b7a48042b",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/22/2755275/rescatado-senderista-tras-sufrir-caida-desde-dos-metros-zona-cala-bella-llucmajor.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Rescatado un senderista tras sufrir una caída desde dos metros en la zona de Cala Bella, en Llucmajor",
+    "published": "2026-11-22T14:40:00.000Z"
    }
   ],
-  "needsWrite": false,
+  "needsWrite": true,
   "lastArticleAt": "2026-11-22T16:28:04.000Z",
   "writeErrors": 1,
   "model": "groq/openai/gpt-oss-120b",
@@ -3960,7 +5611,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/919aabd5-af92-44f5-a562-c499e3071fed_16-9-aspect-ratio_default_0_x960y360.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/22/rescate-helicoptero-excursionista-herido-caer-136725572.html"
-  }
+  },
+  "distinctFrom": [
+   "st65ea2982c6"
+  ]
  },
  {
   "id": "st62f0c40573",
@@ -4020,8 +5674,11 @@
    "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/22/2755275/rescatado-senderista-tras-sufrir-caida-desde-dos-metros-zona-cala-bella-llucmajor.html"
   },
   "distinctFrom": [
-   "ste0d3224d98"
-  ]
+   "ste0d3224d98",
+   "st16a717e60c"
+  ],
+  "hidden": true,
+  "mergedInto": "sta7a16a441b"
  },
  {
   "id": "st4e2ad0f50a",
@@ -5434,10 +7091,18 @@
     "lang": "ca",
     "title": "La Biblioteca Municipal d’Eivissa Can Ventosa acull la presentació del llibre ‘Embadaliments de l’oracle’ de Bartomeu Ribes",
     "published": "2026-11-22T10:18:03.000Z"
+   },
+   {
+    "id": "067ca0d90203",
+    "url": "https://www.periodicodeibiza.es/pitiusas/aldia/2026/11/23/2755757/bartomeu-ribes-presenta-embaladiments-oracle-noviembre-can-ventosa-cierra-zta-bes.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Bartomeu Ribes presenta «Embaladiments de l’oracle» el 24 de noviembre en Can Ventosa y cierra ZTA BES",
+    "published": "2026-11-23T11:12:28.000Z"
    }
   ],
   "needsWrite": true,
-  "lastArticleAt": "2026-11-22T10:18:03.000Z"
+  "lastArticleAt": "2026-11-23T11:12:28.000Z"
  },
  {
   "id": "stffa3b8fc1f",
@@ -11844,44 +13509,70 @@
     "lang": "es",
     "title": "Son Espases estrena en España las barras de titanio para corregir el pecho hundido",
     "published": "2026-11-21T05:02:36.000Z"
+   },
+   {
+    "id": "6dd5452e0078",
+    "url": "https://www.europapress.es/illes-balears/noticia-son-espases-referente-nacional-primeras-barras-nuss-titanio-corregir-pecho-hundido-20261123125928.html",
+    "sourceId": "europapress",
+    "lang": "es",
+    "title": "Son Espases, referente nacional: primeras barras de Nuss de titanio para corregir el pecho hundido",
+    "published": "2026-11-23T11:59:28.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-21T05:06:05.000Z",
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-21T06:58:13.512Z",
+  "lastArticleAt": "2026-11-23T11:59:28.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:31:26.590Z",
   "islands": [
    "mallorca"
   ],
-  "topic": "sociedad",
+  "topic": "sanidad",
   "es": {
-   "title": "El Hospital Son Espases inicia uso de barras de titanio para corregir el pecho hundido",
-   "summary": "El centro de salud de Son Espases ha comenzado a emplear barras de titanio para tratar el pectus excavatum, una deformidad que afecta el pecho.",
+   "title": "El Hospital Son Espases implanta por primera vez barras de titanio para corregir el pecho hundido",
+   "summary": "El Hospital Universitario Son Espases de Mallorca ha empezado a usar barras de titanio en la técnica de Nuss para tratar el pectus excavatum, con seis pacientes jóvenes operados.",
    "body": [
-    "El Hospital Son Espases, situado en la isla de Mallorca, ha empezado a utilizar barras de titanio para corregir el pectus excavatum, una deformidad conocida popularmente como pecho hundido. Según el jefe del Servicio de Cirugía Torácica, Ángel Carvajal, es la primera vez que se emplea este material para esta intervención en España. La técnica, que consiste en colocar barras de titanio en el interior del tórax para corregir la forma del pecho, se ha introducido en el hospital con la intención de mejorar los resultados quirúrgicos y reducir las complicaciones.\n\nPara ello, cirujanos de distintos hospitales de todo el país se han desplazado a Mallorca para aprender cómo se realiza la técnica. El uso de las barras de titanio se considera una innovación en la práctica quirúrgica española y se espera que permita a los pacientes con pectus excavatum una recuperación más rápida y un menor riesgo de complicaciones postoperatorias. El Hospital Son Espases se posiciona así como un referente en la atención de esta patología en la región."
+    "El Hospital Universitario Son Espases ha iniciado la utilización de barras de titanio en la cirugía de corrección del pectus excavatum, conocida como pecho hundido. Según el jefe del Servicio de Cirugía Torácica, Ángel Carvajal, es la primera vez que este material se emplea en España para este tipo de intervención.",
+    "Cirujanos de varios hospitales del país se desplazaron a Mallorca para observar la técnica, que consiste en la implantación de barras de Nuss de titanio. Hasta la fecha, se han operado a seis pacientes jóvenes con este método."
    ]
   },
   "ca": {
-   "title": "El Hospital Son Espases inicia l’ús de barres de titanio per corregir el pit hundit",
-   "summary": "El centre de salut de Son Espases ha començat a utilitzar barres de titanio per tractar el pectus excavatum, una deformitat que afecta el pit.",
+   "title": "L'Hospital Son Espases implanta per primera vegada barres de titani per corregir el pit enfonsat",
+   "summary": "L'Hospital Universitari Son Espases de Mallorca ha començat a utilitzar barres de titani en la tècnica de Nuss per tractar el pectus excavatum, amb sis pacients joves operats.",
    "body": [
-    "El Hospital Son Espases, situat a l’illa de Mallorca, ha iniciat l’ús de barres de titanio per corregir el pectus excavatum, una deformitat coneguda popularment com a pit hundit. Segons el cap del Servei de Cirurgia Toràcica, Ángel Carvajal, és la primera vegada que s’utilitza aquest material per a aquesta intervenció a Espanya. La tècnica, que consisteix en col·locar barres de titanio a l’interior del tòrax per corregir la forma del pit, s’ha introduït al centre amb l’objectiu d’optimitzar els resultats quirúrgics i reduir les complicacions.\n\nPer això, cirurgians de diversos hospitals de tot el país s’han desplaçat a Mallorca per aprendre com es realitza la tècnica. L’ús de les barres de titanio es considera una innovació en la pràctica quirúrgica espanyola i es preveu que permeti als pacients amb pectus excavatum una recuperació més ràpida i un menor risc de complicacions postoperatoris. El Hospital Son Espases es posiciona així com a referent en l’atenció d’aquesta patologia a la regió."
+    "L'Hospital Universitari Son Espases ha iniciat l'ús de barres de titani en la cirurgia de correcció del pectus excavatum, conegut com a pit enfonsat. Segons el cap del Servei de Cirurgia Toràcica, Ángel Carvajal, és la primera vegada que aquest material s'empra a Espanya per a aquesta intervenció.",
+    "Cirurgians de diversos hospitals del país es van desplaçar a Mallorca per observar la tècnica, que consisteix en la implantació de barres de Nuss de titani. Fins ara s'han operat sis pacients joves amb aquest mètode."
    ]
   },
   "facts": [
    {
-    "es": "El Hospital Son Espases ha comenzado a usar barras de titanio para corregir el pectus excavatum",
-    "ca": "El Hospital Son Espases ha iniciat l’ús de barres de titanio per corregir el pectus excavatum",
+    "es": "El Hospital Universitario Son Espases ha implantado barras de titanio para corregir el pectus excavatum",
+    "ca": "L'Hospital Universitari Son Espases ha implantat barres de titani per corregir el pectus excavatum",
     "sources": [
-     "diariodemallorca"
+     "diariodemallorca",
+     "europapress"
+    ]
+   },
+   {
+    "es": "Es la primera vez que se usa este material en España para esa intervención",
+    "ca": "És la primera vegada que s'utilitza aquest material a Espanya per a aquesta intervenció",
+    "sources": [
+     "diariodemallorca",
+     "europapress"
+    ]
+   },
+   {
+    "es": "Se han operado a seis pacientes jóvenes",
+    "ca": "S'han operat sis pacients joves",
+    "sources": [
+     "europapress"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-21T06:58:13.512Z",
+  "updatedAt": "2026-11-23T12:31:26.590Z",
   "slug": "el-hospital-son-espases-inicia-uso-de-barras-de-titanio-para-corregir-93f17",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://estaticos-cdn.prensaiberica.es/clip/80357a58-8b06-4d00-8fa2-aac1049db737_16-9-aspect-ratio_default_0_x800y355.jpg",
    "sourceId": "diariodemallorca",
@@ -12487,10 +14178,18 @@
     "lang": "es",
     "title": "Mismo vuelo cancelado de Ibiza a Palma, distinta indemnización: Iberia paga 250 euros a tres profesores y se los niega a otros tres",
     "published": "2026-11-21T05:01:46.000Z"
+   },
+   {
+    "id": "694e461f1602",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/23/aeropuerto-de-ibiza-iberia-cancelacion-vuelo-136740044.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Mismo vuelo cancelado de Ibiza a Palma, distinta indemnización: Iberia paga 250 euros a tres profesores y se los niega a otros tres",
+    "published": "2026-11-23T09:20:48.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-21T05:01:46.000Z",
+  "lastArticleAt": "2026-11-23T09:20:48.000Z",
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-21T06:59:58.249Z",
   "islands": [
@@ -19238,40 +20937,6 @@
   }
  },
  {
-  "id": "st8179f07fbe",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T09:02:49.000Z",
-  "articles": [
-   {
-    "id": "f20bc26b4f63",
-    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/ibiza-feria-navidad-sa-joveria-churros-136652429.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "Cuenta atrás para la Feria de Navidad de Ibiza: ¡prepara el estómago para las atracciones y los churros!",
-    "published": "2026-11-20T09:02:49.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T09:02:49.000Z"
- },
- {
-  "id": "st851336f4f6",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T08:22:00.000Z",
-  "articles": [
-   {
-    "id": "4ad0ca5e20ac",
-    "url": "https://www.menorca.info/menorca/sucesos/2026/11/20/2753785/motorista-resulta-herido-tras-accidente-variante-alaior.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Un motorista resulta herido grave tras un accidente en la variante de Alaior",
-    "published": "2026-11-20T08:22:00.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T08:22:00.000Z"
- },
- {
   "id": "st691042d424",
   "createdAt": "2026-11-20T09:10:30.807Z",
   "firstPublished": "2026-11-20T07:30:54.000Z",
@@ -19346,609 +21011,6 @@
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-20T09:17:37.784Z",
   "hidden": true
- },
- {
-  "id": "sta00e8359da",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:42:30.000Z",
-  "articles": [
-   {
-    "id": "18459a5cc20b",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753017/experiencias-turisticas-menorca-buscan-mar.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Las experiencias turísticas de Menorca buscan el mar",
-    "published": "2026-11-20T06:42:30.000Z"
-   },
-   {
-    "id": "bdbddc67462a",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753017/experiencias-turisticas-menorca-buscan-mar.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Las experiencias turísticas de Menorca buscan el mar",
-    "published": "2026-11-20T06:42:30.000Z"
-   },
-   {
-    "id": "739981fdf5d5",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753017/experiencias-turisticas-menorca-buscan-mar.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Las experiencias turísticas de Menorca buscan el mar",
-    "published": "2026-11-20T06:42:30.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:42:30.000Z"
- },
- {
-  "id": "st52ae04f497",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:42:10.000Z",
-  "articles": [
-   {
-    "id": "31958efcb53d",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753029/eivissa-busca-consolidar-turismo-familiar.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Eivissa busca consolidar el turismo familiar",
-    "published": "2026-11-20T06:42:10.000Z"
-   },
-   {
-    "id": "0331195d20b6",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753029/eivissa-busca-consolidar-turismo-familiar.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Eivissa busca consolidar el turismo familiar",
-    "published": "2026-11-20T06:42:10.000Z"
-   },
-   {
-    "id": "94b725dbdc30",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753029/eivissa-busca-consolidar-turismo-familiar.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Eivissa busca consolidar el turismo familiar",
-    "published": "2026-11-20T06:42:10.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:42:10.000Z"
- },
- {
-  "id": "st307071582d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:41:45.000Z",
-  "articles": [
-   {
-    "id": "6eac7633c855",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753011/sundock-solucion-para-ampliar-amarres.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Sundock: una solución para ampliar los amarres",
-    "published": "2026-11-20T06:41:45.000Z"
-   },
-   {
-    "id": "fc395f1ceeb6",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753011/sundock-solucion-para-ampliar-amarres.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Sundock: una solución para ampliar los amarres",
-    "published": "2026-11-20T06:41:45.000Z"
-   },
-   {
-    "id": "46028f5965cd",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753011/sundock-solucion-para-ampliar-amarres.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Sundock: una solución para ampliar los amarres",
-    "published": "2026-11-20T06:41:45.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:41:45.000Z"
- },
- {
-  "id": "stf3d01c9182",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:40:53.000Z",
-  "articles": [
-   {
-    "id": "fee431afdf50",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2752573/paisaje-cuida.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "El paisaje que cuida",
-    "published": "2026-11-20T06:40:53.000Z"
-   },
-   {
-    "id": "69250309822f",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2752573/paisaje-cuida.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "El paisaje que cuida",
-    "published": "2026-11-20T06:40:53.000Z"
-   },
-   {
-    "id": "024927360523",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2752573/paisaje-cuida.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "El paisaje que cuida",
-    "published": "2026-11-20T06:40:53.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:40:53.000Z"
- },
- {
-  "id": "st30f6e1fff1",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:40:39.000Z",
-  "articles": [
-   {
-    "id": "c4f80bdba36c",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753069/puede-sexo-hacer-caer-empresa-mas-importante.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "¿Puede el sexo hacer caer a la empresa más importante?",
-    "published": "2026-11-20T06:40:39.000Z"
-   },
-   {
-    "id": "4f759da29feb",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753069/puede-sexo-hacer-caer-empresa-mas-importante.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "¿Puede el sexo hacer caer a la empresa más importante?",
-    "published": "2026-11-20T06:40:39.000Z"
-   },
-   {
-    "id": "ce72a591cbbc",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753069/puede-sexo-hacer-caer-empresa-mas-importante.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "¿Puede el sexo hacer caer a la empresa más importante?",
-    "published": "2026-11-20T06:40:39.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:40:39.000Z"
- },
- {
-  "id": "st2cb557bb0d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:40:27.000Z",
-  "articles": [
-   {
-    "id": "604ab55a3777",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753075/instagram-instagram.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Instagram sin Instagram",
-    "published": "2026-11-20T06:40:27.000Z"
-   },
-   {
-    "id": "b628d3792160",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753075/instagram-instagram.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Instagram sin Instagram",
-    "published": "2026-11-20T06:40:27.000Z"
-   },
-   {
-    "id": "d9a54ba8c8f9",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753075/instagram-instagram.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Instagram sin Instagram",
-    "published": "2026-11-20T06:40:27.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:40:27.000Z"
- },
- {
-  "id": "stf4b6983f15",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:39:59.000Z",
-  "articles": [
-   {
-    "id": "3e02ebe9ba2b",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753101/open-studio-camp-empresa-creatividad-cultura.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Open Studio Camp: empresa, creatividad y cultura",
-    "published": "2026-11-20T06:39:59.000Z"
-   },
-   {
-    "id": "61878bae4934",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753101/open-studio-camp-empresa-creatividad-cultura.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Open Studio Camp: empresa, creatividad y cultura",
-    "published": "2026-11-20T06:39:59.000Z"
-   },
-   {
-    "id": "d88fa74bd971",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753101/open-studio-camp-empresa-creatividad-cultura.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Open Studio Camp: empresa, creatividad y cultura",
-    "published": "2026-11-20T06:39:59.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:39:59.000Z"
- },
- {
-  "id": "stc1247d5a1d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:39:38.000Z",
-  "articles": [
-   {
-    "id": "3d59e143c87b",
-    "url": "https://www.ultimahora.es/noticias/economico/2026/11/20/2753257/predocs-industrials-conecta-empresas-investigadores.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Predocs Industrials conecta empresas e investigadores",
-    "published": "2026-11-20T06:39:38.000Z"
-   },
-   {
-    "id": "0d0347593851",
-    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/20/2753257/predocs-industrials-conecta-empresas-investigadores.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Predocs Industrials conecta empresas e investigadores",
-    "published": "2026-11-20T06:39:38.000Z"
-   },
-   {
-    "id": "73327234202e",
-    "url": "https://www.menorca.info/balears/economico/2026/11/20/2753257/predocs-industrials-conecta-empresas-investigadores.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Predocs Industrials conecta empresas e investigadores",
-    "published": "2026-11-20T06:39:38.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:39:38.000Z"
- },
- {
-  "id": "st173d789fef",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:38:00.000Z",
-  "articles": [
-   {
-    "id": "4da0d954c0a0",
-    "url": "https://www.ultimahora.es/noticias/palma/2026/11/20/2753755/fuga-agua-sorprende-madrugada-conductores-avenida-argentina-palma.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Una fuga de agua sorprende de madrugada a los conductores en la avenida Argentina de Palma",
-    "published": "2026-11-20T06:38:00.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:38:00.000Z"
- },
- {
-  "id": "st22a0956bb1",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:07:47.000Z",
-  "articles": [
-   {
-    "id": "67c428009cd1",
-    "url": "https://www.mallorcadiario.com/necesidad-sin-virtud-fernando-navarro",
-    "sourceId": "mallorcadiario",
-    "lang": "es",
-    "title": "Necesidad sin virtud",
-    "published": "2026-11-20T06:07:47.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:07:47.000Z"
- },
- {
-  "id": "stae6df18bce",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T06:01:44.000Z",
-  "articles": [
-   {
-    "id": "4b4d383dfaa6",
-    "url": "https://www.mallorcadiario.com/cine-cena-palma-un-viaje-de-diez-metros-antoni-juaneda",
-    "sourceId": "mallorcadiario",
-    "lang": "es",
-    "title": "Un viaje de diez metros, cine y cena en un sitio muy especial",
-    "published": "2026-11-20T06:01:44.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T06:01:44.000Z"
- },
- {
-  "id": "st3662acd8b0",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:30:23.000Z",
-  "articles": [
-   {
-    "id": "a30ac54fd7a7",
-    "url": "https://www.mallorcadiario.com/elecciones-generales-29n-candidata-maribel-cerezo-vox",
-    "sourceId": "mallorcadiario",
-    "lang": "es",
-    "title": "Maribel Cerezo (Vox): \"Si el PP necesita nuestros votos, tendrá que aceptar las propuestas de Vox\"",
-    "published": "2026-11-20T05:30:23.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:30:23.000Z"
- },
- {
-  "id": "st9d35f1f570",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:19:35.000Z",
-  "articles": [
-   {
-    "id": "f38dac808dda",
-    "url": "https://www.noudiari.es/local-ibiza/perros-sueltos-en-ses-salines-la-prohibicion-que-se-ignora-en-el-parque-mas-protegido-de-ibiza/",
-    "sourceId": "noudiari",
-    "lang": "es",
-    "title": "Perros sueltos en Ses Salines, la prohibición que se ignora en el parque más ‘protegido’ de Ibiza",
-    "published": "2026-11-20T05:19:35.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:19:35.000Z"
- },
- {
-  "id": "st3eb362dd5d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:02:10.000Z",
-  "articles": [
-   {
-    "id": "e49b605d8dfd",
-    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/jovenes-mallorca-empleo-turismo-practicas-estudiantes-136629355.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Jóvenes de Mallorca buscan abrirse camino en las grandes empresas de la isla: \"Se nos debería dar una oportunidad aunque no tengamos experiencia\"",
-    "published": "2026-11-20T05:02:10.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:02:10.000Z"
- },
- {
-  "id": "st3a86f24878",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:02:08.000Z",
-  "articles": [
-   {
-    "id": "f9e2fe38c99d",
-    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/aumentan-27-ingresos-infecciones-respiratorias-136635512.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Aumentan un 27% los ingresos por infecciones respiratorias graves pese a la caída de contagios en Baleares",
-    "published": "2026-11-20T05:02:08.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:02:08.000Z"
- },
- {
-  "id": "stcd7b2813d9",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:54.000Z",
-  "articles": [
-   {
-    "id": "7c061dbcf9fd",
-    "url": "https://www.diariodemallorca.es/part-forana/2026/11/20/politica-producto-comercial-136637622.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "La política es un producto comercial",
-    "published": "2026-11-20T05:00:54.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:54.000Z"
- },
- {
-  "id": "st2b7d00f92d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:53.000Z",
-  "articles": [
-   {
-    "id": "db9093b3fde6",
-    "url": "https://www.diariodemallorca.es/videos/mallorca/2026/11/20/video-condenado-blanquear-palma-dinero-136651259.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Vídeo | Condenado por blanquear en Palma el dinero de un chiringuito financiero que captaba inversores",
-    "published": "2026-11-20T08:27:27.000Z"
-   },
-   {
-    "id": "c4b066eaacaf",
-    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/condenado-blanquear-palma-dinero-chiringuito-136615745.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Condenado por blanquear en Palma el dinero de un chiringuito financiero que captaba inversores",
-    "published": "2026-11-20T05:00:53.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T08:27:27.000Z"
- },
- {
-  "id": "st66a21bcd3d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:48.000Z",
-  "articles": [
-   {
-    "id": "f728b77cd7e1",
-    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/pp-baleares-amanar-elecciones-dinero-135393135.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Cuando el PP de Baleares intentó amañar las elecciones con dinero público: \"¿A qué precio nos sale cada voto?\"",
-    "published": "2026-11-20T05:00:48.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:48.000Z"
- },
- {
-  "id": "stb6858dc7b6",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:41.000Z",
-  "articles": [
-   {
-    "id": "58e574d0694c",
-    "url": "https://www.diariodemallorca.es/videos/sucesos/2026/11/20/video-incognitas-disparo-hirio-policia-136652799.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Vídeo | Las incógnitas del disparo que hirió a un policía en Palma",
-    "published": "2026-11-20T09:04:48.000Z"
-   },
-   {
-    "id": "d090eaf37881",
-    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/20/incognitas-disparo-hirio-policia-palma-136625717.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Las incógnitas del disparo que hirió a un policía en Palma",
-    "published": "2026-11-20T05:00:41.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T09:04:48.000Z"
- },
- {
-  "id": "st4aef228f6d",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:33.000Z",
-  "articles": [
-   {
-    "id": "a8cb6a74bf33",
-    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/20/policia-local-palma-protocolo-seguros-136624622.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "La Policía Local de Palma no tiene un protocolo sobre los seguros de las pistolas",
-    "published": "2026-11-20T05:00:33.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:33.000Z"
- },
- {
-  "id": "st8b8ef56944",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:28.000Z",
-  "articles": [
-   {
-    "id": "2d0c71ac1ba8",
-    "url": "https://www.diariodemallorca.es/mallorca/2026/11/20/baleares-financiacion-pendiente-presion-migratoria-136582738.html",
-    "sourceId": "diariodemallorca",
-    "lang": "es",
-    "title": "Baleares: la financiación pendiente, la presión migratoria y la cogestión de los aeropuertos",
-    "published": "2026-11-20T05:00:28.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:28.000Z"
- },
- {
-  "id": "sta0bcbcfabe",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:26.000Z",
-  "articles": [
-   {
-    "id": "3aca974ec3c9",
-    "url": "https://www.mallorcadiario.com/deporte-elemento-dinamizacion-baleares-fuera-temporada-alta",
-    "sourceId": "mallorcadiario",
-    "lang": "es",
-    "title": "El deporte como elemento estratégico de dinamización en Baleares fuera de la temporada alta",
-    "published": "2026-11-20T05:00:26.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:26.000Z"
- },
- {
-  "id": "st2ab4aa408e",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:24.000Z",
-  "articles": [
-   {
-    "id": "b5c937a55eb0",
-    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/fecha-puesta-marcha-escaleras-mecanicas-136615571.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "Sin fecha para la puesta en marcha de las escaleras mecánicas en Puig des Molins",
-    "published": "2026-11-20T05:00:24.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:24.000Z"
- },
- {
-  "id": "st87f694610a",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:20.000Z",
-  "articles": [
-   {
-    "id": "e426df12b04f",
-    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/javier-veiga-marta-hazas-rara-ibiza-movil-136613807.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "Javier Veiga y Marta Hazas, en Ibiza: \"Rara es la pareja que no tenga un problema grave con el móvil\"",
-    "published": "2026-11-20T05:00:20.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:20.000Z"
- },
- {
-  "id": "std6a32ec5c5",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:10.000Z",
-  "articles": [
-   {
-    "id": "70609abc868b",
-    "url": "https://www.diariodeibiza.es/ibiza/2026/11/20/marivi-amengual-frente-amplio-ibiza-136588432.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "\"Limitar los precios de los alquileres y expropiar a los fondos buitre son soluciones comprensibles\": Mariví Mengual, candidata de Ara Més-Front Ampli por Ibiza",
-    "published": "2026-11-20T05:00:10.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:10.000Z"
- },
- {
-  "id": "stcb7040a136",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:04.000Z",
-  "articles": [
-   {
-    "id": "c858efe79308",
-    "url": "https://www.diariodeibiza.es/ibiza/ido/2026/11/20/fer-esplai-mallorca-vegada-mes-136400327.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "Fer esplai a Mallorca, cada vegada més complicat",
-    "published": "2026-11-20T05:00:04.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:04.000Z"
- },
- {
-  "id": "stb3bf9ee963",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T05:00:02.000Z",
-  "articles": [
-   {
-    "id": "57b4e156ce34",
-    "url": "https://www.diariodeibiza.es/ibiza/ido/2026/11/20/scouts-ibiza-perque-desaparegut-136399185.html",
-    "sourceId": "diariodeibiza",
-    "lang": "es",
-    "title": "Per què han desaparegut els grups 'scout' d'Eivissa?",
-    "published": "2026-11-20T05:00:02.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T05:00:02.000Z"
  },
  {
   "id": "st5430cc7986",
@@ -20035,91 +21097,6 @@
   "distinctFrom": [
    "stdcdea9e8ec"
   ]
- },
- {
-  "id": "st6a51d3d9d4",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T03:48:01.000Z",
-  "articles": [
-   {
-    "id": "d58d0594a686",
-    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/20/2753241/juicio-abogada-por-llamar-prevaricador-juez-palma-expulso-declaracion.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Juicio a una abogada por llamar prevaricador a un juez de Palma que la expulsó de una declaración",
-    "published": "2026-11-20T03:48:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T03:48:01.000Z"
- },
- {
-  "id": "st8d99db53aa",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T03:48:01.000Z",
-  "articles": [
-   {
-    "id": "11a2c0419750",
-    "url": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/20/2753139/fanny-blasco-subcampeona-del-mundo-surfcasting-aguas-italia.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Fanny Blasco, subcampeona del mundo de Surfcasting en aguas de Italia",
-    "published": "2026-11-20T03:48:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T03:48:01.000Z"
- },
- {
-  "id": "st620f955a22",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T03:48:01.000Z",
-  "articles": [
-   {
-    "id": "9847f687efe4",
-    "url": "https://www.ultimahora.es/noticias/virales/2026/11/20/2753117/hasta-donde-llegaria-bomba-nuclear-palma-simulacion-muestra-pasaria-cinco-explosiones-distinta-potencia.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "¿Hasta dónde llegaría una bomba nuclear en Palma? Una simulación muestra qué pasaría con cinco explosiones de distinta potencia",
-    "published": "2026-11-20T03:48:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T03:48:01.000Z"
- },
- {
-  "id": "st6c094d2b32",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T03:48:01.000Z",
-  "articles": [
-   {
-    "id": "00a91cb36aee",
-    "url": "https://www.ultimahora.es/noticias/local/2026/11/20/2751929/analisis-casi-4000-menus-revela-cuanto-cuesta-comer-entre-semana-mallorca.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Un análisis de casi 4.000 menús revela cuánto cuesta comer entre semana en Mallorca",
-    "published": "2026-11-20T03:48:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T03:48:01.000Z"
- },
- {
-  "id": "stfc7d340fab",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T03:48:01.000Z",
-  "articles": [
-   {
-    "id": "ddad725d18d5",
-    "url": "https://www.ultimahora.es/noticias/local/2026/11/20/2751493/startup-mallorquina-crea-cerebro-conecta-todos-datos-hotel.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Una startup mallorquina crea el «cerebro» que conecta todos los datos de un hotel",
-    "published": "2026-11-20T03:48:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T03:48:01.000Z"
  },
  {
   "id": "stdcdea9e8ec",
@@ -20320,23 +21297,6 @@
   ]
  },
  {
-  "id": "st94e81af930",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T03:48:00.000Z",
-  "articles": [
-   {
-    "id": "7a0b104cd8e6",
-    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/20/2753283/muelas-molino-tinajas-cuernos-ciervo-carga-del-primer-pecio-islamico-hallado-mallorca.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Muelas de molino, tinajas y cuernos de ciervo: la carga del primer pecio islámico hallado en Mallorca",
-    "published": "2026-11-20T03:48:00.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T03:48:00.000Z"
- },
- {
   "id": "st60ef38d512",
   "createdAt": "2026-11-20T09:10:30.807Z",
   "firstPublished": "2026-11-20T02:59:01.000Z",
@@ -20415,184 +21375,6 @@
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/20/tribunal-supremo-avala-modelo-linguistico-136665609.html"
   }
- },
- {
-  "id": "st5561ee5be6",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "790fcad13e09",
-    "url": "https://www.menorca.info/deportes/baloncesto/2026/11/20/2753689/sergio-llull-repasa-carrera-desvela-como-vivio-opcion-fichar-por-houston-rockets.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Sergio Llull repasa su carrera y desvela cómo vivió la opción de fichar por los Houston Rockets",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "stbf01850a91",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "3707b92186e8",
-    "url": "https://www.menorca.info/deportes/polideportivo/2026/11/20/2753679/freeplay-borde-final-internacional.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "El CE Freeplay, al borde de la final internacional",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "sta371482d36",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "6223c4bb4b24",
-    "url": "https://www.menorca.info/opinion/editorial/2026/11/20/2753667/condenar-agresiones-profesionales-sanitarios.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Condenar las agresiones a los profesionales sanitarios",
-    "published": "2026-11-20T02:59:01.000Z"
-   },
-   {
-    "id": "046669ca9f49",
-    "url": "https://www.menorca.info/menorca/local/2026/11/20/2753651/area-salud-registra-ano-agresiones.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "El Área de Salud registra en lo que va de año 42 agresiones",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "st7d0806cd86",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "898cd63281cc",
-    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/20/2753655/joan-mesquida-mayans-faltaria-mas-podamos-pactar-vox-cuando-sanchez-claudica-ante-bildu.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Joan Mesquida Mayans : «Faltaría más que el PP no pueda pactar con Vox cuando Sánchez claudica ante Bildu»",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "st432ca268fb",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "9ec8130926da",
-    "url": "https://www.menorca.info/menorca/cultura/2026/11/20/2753647/sueno-salvador-oliva-paul-auster.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "El sueño de Salvador Oliva y Paul Auster llega al Auditori de Ferreries",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "st824580a61e",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "ada537e7885a",
-    "url": "https://www.menorca.info/menorca/cultura/2026/11/20/2753643/nueva-etapa-escola-musica.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Nueva etapa en la Escola de Música de Ciutadella con Lluís Gener como director",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "stfa2feb3ac1",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "5310954641dd",
-    "url": "https://www.menorca.info/deportes/ciclismo/2026/11/20/2753633/antonio-alix-ciclismo-deporte-minoritario-espana.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Antonio Alix: «El ciclismo en España no es un deporte minoritario, ocupa portadas y abre telediarios»",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "stb67f94a9b5",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "68b36aadfa5c",
-    "url": "https://www.menorca.info/menorca/cultura/2026/11/20/2753599/arriba-discografia-menorquina-vol-bep-cardona.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "El primer volum de la 'Discografia menorquina' de Bep Cardona reivindica el llegat musical de l'Illa",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "stdb47879cb5",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "d1b3a15ac4d2",
-    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/20/2753589/por-recuperar-cultura-del-esfuerzo-aulas.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "El PP apuesta por recuperar la cultura del esfuerzo en las aulas tras los resultados de PISA",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
- },
- {
-  "id": "stc1412980f8",
-  "createdAt": "2026-11-20T09:10:30.807Z",
-  "firstPublished": "2026-11-20T02:59:01.000Z",
-  "articles": [
-   {
-    "id": "a06ce2f69d7a",
-    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/20/2753587/marc-pons-defiende-mejoras-salariales-del-actual-gobierno.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Marc Pons defiende las mejoras salariales impulsadas por el Gobierno de Pedro Sánchez",
-    "published": "2026-11-20T02:59:01.000Z"
-   }
-  ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-20T02:59:01.000Z"
  },
  {
   "id": "st9fe752eeb8",
@@ -23617,67 +24399,76 @@
     "lang": "es",
     "title": "Cierran hasta nuevo aviso las oficinas de expedición del DNI de la Policía en Palma tras el desplome del falso techo",
     "published": "2026-11-21T15:40:37.000Z"
+   },
+   {
+    "id": "bf7b8cd17b5f",
+    "url": "https://www.diariodemallorca.es/palma/2026/11/23/trasladan-oficinas-dni-palma-molinar-136744989.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Trasladan las oficinas del DNI de Palma al Molinar y a s'Escorxador",
+    "published": "2026-11-23T11:29:01.000Z"
+   },
+   {
+    "id": "6a730cb69285",
+    "url": "https://www.mallorcadiario.com/cierra-temporalmente-oficina-dni-pasaporte-jefatura-policia-obras",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Cierra temporalmente la oficina del DNI y el pasaporte de la Jefatura de Policía por obras",
+    "published": "2026-11-23T08:57:49.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-21T19:50:57.000Z",
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-19T18:49:13.102Z",
+  "lastArticleAt": "2026-11-23T11:29:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-23T12:25:42.036Z",
   "islands": [
    "mallorca"
   ],
   "topic": "sociedad",
   "es": {
-   "title": "Desplome de parte del falso techo de la oficina del DNI de la Policía en Palma",
-   "summary": "Un trozo del falso techo de la oficina del DNI de la Policía de Palma se desplomó sin causar heridos.",
+   "title": "Se desploma parte del techo de la oficina del DNI de la Policía en Palma",
+   "summary": "Un tramo del falso techo de la oficina de expedición del DNI de la Jefatura de Policía de Palma se derrumbó, sin causar heridos, y provocó el cierre temporal de las dependencias.",
    "body": [
-    "El derrumbe ocurrió en la oficina de expedición del DNI de la Jefatura de Policía de Palma. Según el Diario de Mallorca, el colapso se produjo a las 15:00, cuando las dependencias estaban cerradas al público. En cambio, Última Hora indica que el incidente tuvo lugar a las 14:35, media hora antes del cierre de la atención al público. En ambos informes se confirma que no hubo heridos y que el número de personas presentes en el momento del accidente era mínimo. La policía ha revisado el resto de la instalación y ha descartado la posibilidad de más desprendimientos."
+    "El 18 de noviembre, un segmento del falso techo de la oficina de expedición del DNI de la Jefatura de Policía de Palma se desplomó. Según el Diario de Mallorca, el incidente ocurrió a las tres de la tarde, cuando las instalaciones estaban cerradas al público, mientras que Última Hora indica que el derrumbe tuvo lugar a las 14.35 horas, media hora antes del cierre de la atención al público. Ambas fuentes coinciden en que no se registraron heridos.",
+    "El derrumbe obligó a clausurar la zona afectada. La oficina de DNI y pasaporte permanece cerrada mientras se realizan las inspecciones y reparaciones necesarias. Mallorcadiario.com informa que la reapertura está prevista para el miércoles 25 de noviembre, siempre que se superen los controles de seguridad. Las autoridades policiales han revisado el resto de la instalación y han descartado la posibilidad de nuevos desprendimientos."
    ]
   },
   "ca": {
-   "title": "Desplom d’una part del sostre fals de l’oficina del DNI de la Policia a Palma",
-   "summary": "Un tros del sostre fals de l’oficina del DNI de la Policia de Palma es va caure sense causar ferits.",
+   "title": "Es desploma part del sostre de l'oficina del DNI de la Policia a Palma",
+   "summary": "Un tros del fals sostre de l'oficina d'expedició del DNI de la Jefatura de Policia de Palma s'ha caigut, sense ferir ningú, i ha provocat el tancament temporal de les dependències.",
    "body": [
-    "El col·lapse va tenir lloc a l’oficina d’expedició del DNI de la Jefatura de Policia de Palma. Segons el Diari de Mallorca, el col·lapse va ocórrer a les 15:00, quan les dependències estaven tancades al públic. En canvi, Última Hora indica que l’incident va tenir lloc a les 14:35, mig hora abans del tancament de l’atenció al públic. En ambdós informes es confirma que no hi ha hagut ferits i que el nombre de persones presents en el moment del col·lapse era mínim. La policia ha revisat la resta de la instal·lació i ha descartat la possibilitat de més desprenediments."
+    "El 18 de novembre, un segment del fals sostre de l'oficina d'expedició del DNI de la Jefatura de Policia de Palma es va desplomar. Segons el Diario de Mallorca, l'incident va ocórrer a les tres de la tarda, quan les instal·lacions estaven tancades al públic, mentre que Última Hora indica que la caiguda va tenir lloc a les 14.35 hores, mig hora abans del tancament de l'atenció al públic. Ambdues fonts coincideixen que no hi ha hagut ferits.",
+    "El despreniment ha obligat a clausurar la zona afectada. L'oficina de DNI i passaport continua tancada mentre es duen a terme les inspeccions i reparacions necessàries. Mallorcadiario.com informa que la reobertura està prevista per al dimecres 25 de novembre, sempre que es superin els controls de seguretat. Les autoritats policials han revisat la resta de la instal·lació i han descartat la possibilitat de nous despreniments."
    ]
   },
   "facts": [
    {
-    "es": "El colapso del falso techo ocurrió a las 15:00 según el Diario de Mallorca y a las 14:35 según Última Hora.",
-    "ca": "El col·lapse del sostre fals va ocórrer a les 15:00 segons el Diari de Mallorca i a les 14:35 segons Última Hora.",
+    "es": "El derrumbe ocurrió el 18 de noviembre sin causar heridos",
+    "ca": "El despreniment va ocórrer el 18 de novembre sense ferir ningú",
     "sources": [
      "diariodemallorca",
      "ultimahora"
     ]
    },
    {
-    "es": "No hubo heridos en el incidente.",
-    "ca": "No hi ha hagut ferits en l’incident.",
+    "es": "Hora del incidente: 15:00 (según Diario de Mallorca) y 14:35 (según Última Hora)",
+    "ca": "Hora de l'incident: 15:00 (segons Diario de Mallorca) i 14:35 (segons Última Hora)",
     "sources": [
      "diariodemallorca",
      "ultimahora"
     ]
    },
    {
-    "es": "El incidente tuvo lugar en la oficina de expedición del DNI de la Jefatura de Policía de Palma.",
-    "ca": "L’incident va tenir lloc a l’oficina d’expedició del DNI de la Jefatura de Policia de Palma.",
+    "es": "La oficina de DNI y pasaporte permanecerá cerrada hasta al menos el 25 de noviembre",
+    "ca": "L'oficina de DNI i passaport romandrà tancada fins al 25 de novembre",
     "sources": [
-     "diariodemallorca",
-     "ultimahora"
-    ]
-   },
-   {
-    "es": "La policía revisó la instalación y descartó más desprendimientos.",
-    "ca": "La policia revisa la instal·lació i descarta més desprenediments.",
-    "sources": [
-     "diariodemallorca",
-     "ultimahora"
+     "mallorcadiario"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": true,
-  "updatedAt": "2026-11-19T18:49:13.102Z",
+  "updatedAt": "2026-11-23T12:25:42.036Z",
   "slug": "desplome-de-parte-del-falso-techo-de-la-oficina-del-dni-de-la-policia-c3a25",
   "status": "verified",
   "image": {
