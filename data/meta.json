@@ -1,13 +1,13 @@
 {
- "lastRun": "2026-11-24T10:34:48.281Z",
- "lastPublishAt": "2026-11-24T10:34:48.281Z",
+ "lastRun": "2026-11-24T20:56:06.574Z",
+ "lastPublishAt": "2026-11-24T20:56:06.574Z",
  "run": {
-  "fetched": 302,
-  "new": 168,
+  "fetched": 296,
+  "new": 185,
   "clustered": 120,
-  "written": 13,
+  "written": 25,
   "archived": 0,
-  "minutes": 12.1
+  "minutes": 4.5
  },
  "sources": {
   "ultimahora": {
@@ -18,7 +18,7 @@
   "diariodemallorca": {
    "ok": 4,
    "failed": 0,
-   "items": 39
+   "items": 36
   },
   "cronicabalear": {
    "ok": 0,
@@ -28,7 +28,7 @@
   "diariodeibiza": {
    "ok": 4,
    "failed": 0,
-   "items": 31
+   "items": 30
   },
   "periodicodeibiza": {
    "ok": 1,
@@ -43,7 +43,7 @@
   "arabalears": {
    "ok": 1,
    "failed": 0,
-   "items": 40
+   "items": 38
   },
   "dbalears": {
    "ok": 1,
@@ -78,20 +78,24 @@
  },
  "aiUsage": {
   "groq/openai/gpt-oss-120b": {
-   "calls": 11,
-   "tokens": 27732
+   "calls": 18,
+   "tokens": 42587
   },
   "groq/qwen/qwen3.8-27b": {
-   "calls": 7,
-   "tokens": 20831
+   "calls": 6,
+   "tokens": 16231
   },
   "groq/openai/gpt-oss-20b": {
-   "calls": 2,
-   "tokens": 8937
+   "calls": 11,
+   "tokens": 28015
   },
   "gemini/gemini-flash-lite-latest": {
    "calls": 1,
-   "tokens": 2202
+   "tokens": 4868
+  },
+  "gemini/gemini-2.5-flash": {
+   "calls": 2,
+   "tokens": 6118
   }
  }
 }
