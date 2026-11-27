@@ -1,5 +1,1773 @@
 [
  {
+  "id": "stec1d956fcd",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T07:05:27.000Z",
+  "articles": [
+   {
+    "id": "006917ead051",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/victor-villatoro-presidente-anpe-baleares-136910261.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Víctor Villatoro, presidente de ANPE Baleares: «Queremos que los profesores vuelvan a sentirse valorados en su profesión»",
+    "published": "2026-11-27T07:05:27.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T07:05:27.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:01:18.007Z",
+  "hidden": true
+ },
+ {
+  "id": "st22df6962ae",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T06:23:23.000Z",
+  "articles": [
+   {
+    "id": "390eb22bf6dd",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/27/2757845/ingresos-turisticos-subiran.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Los ingresos turísticos no subirán",
+    "published": "2026-11-27T06:23:23.000Z"
+   },
+   {
+    "id": "a660e4396a66",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/27/2757845/ingresos-turisticos-subiran.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Los ingresos turísticos no subirán",
+    "published": "2026-11-27T06:23:23.000Z"
+   },
+   {
+    "id": "67b549257e40",
+    "url": "https://www.menorca.info/balears/economico/2026/11/27/2757845/ingresos-turisticos-subiran.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Los ingresos turísticos no subirán",
+    "published": "2026-11-27T06:23:23.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T06:23:23.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:01:36.016Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "turismo",
+  "es": {
+   "title": "Los ingresos turísticos de Baleares no crecerán según los últimos datos",
+   "summary": "Los principales mercados emisores de turistas a las Islas Baleares mantienen su peso, pero los ingresos no se prevé que aumenten.",
+   "body": [
+    "Los datos de evolución económica de los principales mercados de origen de los turistas a las Baleares indican que, pese a la ventaja competitiva de España en el contexto geopolítico internacional, los ingresos turísticos no subirán. Reino Unido, Alemania, Francia e Italia concentran más de la mitad del total de visitantes extranjeros y, en conjunto, aportan un porcentaje ligeramente inferior de los ingresos totales.",
+    "Según los informes, de los turistas procedentes de esas cuatro naciones, tres cuartas partes son viajeros que repiten su visita, lo que se considera la garantía del funcionamiento del sistema turístico de las islas."
+   ]
+  },
+  "ca": {
+   "title": "Els ingressos turístics de les Balears no augmentaran segons les últimes dades",
+   "summary": "Els principals mercats emissors de turistes a les Balears mantenen el seu pes, però no s'espera que augmentin els ingressos.",
+   "body": [
+    "Les dades d'evolució econòmica dels principals mercats d'origen dels turistes a les Balears indiquen que, malgrat l'avantatge competitiu d'Espanya en el context geopolític internacional, els ingressos turístics no pujaran. El Regne Unit, Alemanya, França i Itàlia concentren més de la meitat del total de visitants estrangers i, conjuntament, aporten un percentatge lleugerament inferior dels ingressos totals.",
+    "Segons els informes, d'aquests turistes procedents d'aquestes quatre nacions, tres quarts són viatgers que repeteixen la visita, cosa que es considera la garantia del funcionament del sistema turístic de les illes."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Reino Unido, Alemania, Francia e Italia envían más de la mitad de los turistas extranjeros a las Baleares",
+    "ca": "Regne Unit, Alemanya, França i Itàlia envien més de la meitat dels turistes estrangers a les Balears",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Estos cuatro países aportan un porcentaje ligeramente inferior de los ingresos turísticos",
+    "ca": "Aquests quatre països aporten un percentatge lleugerament inferior dels ingressos turístics",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Tres cuartas partes de los turistas de esas naciones son visitantes que repiten",
+    "ca": "Tres quarts dels turistes d'aquestes nacions són visitants que repeteixen",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:01:36.016Z",
+  "slug": "los-ingresos-turisticos-de-baleares-no-creceran-segun-los-ultimos-962ae",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/autor/social/ignacio-vasallo/92.jpg",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/economico/2026/11/27/2757845/ingresos-turisticos-subiran.html"
+  }
+ },
+ {
+  "id": "stfdb9705f52",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T06:22:32.000Z",
+  "articles": [
+   {
+    "id": "5909772eff33",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758045/beneficios-hoteleros-continuan-disparados.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Los beneficios hoteleros continúan disparados",
+    "published": "2026-11-27T06:22:32.000Z"
+   },
+   {
+    "id": "1439fa68fd81",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/27/2758045/beneficios-hoteleros-continuan-disparados.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Los beneficios hoteleros continúan disparados",
+    "published": "2026-11-27T06:22:32.000Z"
+   },
+   {
+    "id": "dad556f5e47d",
+    "url": "https://www.menorca.info/balears/economico/2026/11/27/2758045/beneficios-hoteleros-continuan-disparados.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Los beneficios hoteleros continúan disparados",
+    "published": "2026-11-27T06:22:32.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T06:22:32.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:02:07.239Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "Los beneficios de los hoteles vinculados a Riu lideran el sector en 2025",
+   "summary": "Meliá y Fiesta Hotels & Resorts, ambas vinculadas a grupos hoteleros internacionales, registraron los mayores beneficios en 2025, superando los 170 y 125 millones de euros respectivamente.",
+   "body": [
+    "Según varios medios locales, los resultados financieros de 2025 muestran que Meliá, empresa vinculada al grupo Riu, obtuvo un beneficio superior a 170 millones de euros. Por su parte, Fiesta Hotels & Resorts, asociada al grupo Palladium, alcanzó más de 125 millones de euros en beneficios. Estos datos sitúan a ambas compañías como las más rentables del sector hotelero en las Islas Baleares durante el último año.",
+    "Los informes publicados por Última Hora, Periódico de Ibiza y Formentera y Menorca · Es Diari coinciden en estas cifras, lo que indica una tendencia de crecimiento sostenido en la rentabilidad de los grandes operadores hoteleros de la región."
+   ]
+  },
+  "ca": {
+   "title": "Els beneficis dels hotels vinculats a Riu lideren el sector el 2025",
+   "summary": "Meliá i Fiesta Hotels & Resorts, ambdós vinculats a grups hotelers internacionals, van registrar els majors beneficis el 2025, superant els 170 i 125 milions d'euros respectivament.",
+   "body": [
+    "Segons diversos mitjans locals, els resultats financers del 2025 mostren que Meliá, empresa vinculada al grup Riu, va obtenir un benefici superior a 170 milions d'euros. Per la seva banda, Fiesta Hotels & Resorts, associada al grup Palladium, va assolir més de 125 milions d'euros en beneficis. Aquestes xifres situen ambdues companyies com les més rendibles del sector hoteler a les Illes Balears durant l'últim any.",
+    "Els informes publicats per Última Hora, Periódico d'Eivissa i Formentera i Menorca · Es Diari coincideixen en aquestes xifres, la qual cosa indica una tendència de creixement sostingut en la rendibilitat dels grans operadors hotelers de la regió."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Meliá obtuvo un beneficio superior a 170 millones de euros en 2025",
+    "ca": "Meliá va obtenir un benefici superior a 170 milions d'euros el 2025",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Fiesta Hotels & Resorts obtuvo más de 125 millones de euros en 2025",
+    "ca": "Fiesta Hotels & Resorts va obtenir més de 125 milions d'euros el 2025",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:02:07.239Z",
+  "slug": "los-beneficios-de-los-hoteles-vinculados-a-riu-lideran-el-sector-en-05f52",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4863993.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758045/beneficios-hoteleros-continuan-disparados.html"
+  }
+ },
+ {
+  "id": "st95794d6b82",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T06:22:19.000Z",
+  "articles": [
+   {
+    "id": "5832ef297eb7",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758091/menu-hoy-reune-menus-bares-restaurantes.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Menú de Hoy reúne los menús de bares y restaurantes",
+    "published": "2026-11-27T06:22:19.000Z"
+   },
+   {
+    "id": "f48922387b48",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/27/2758091/menu-hoy-reune-menus-bares-restaurantes.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Menú de Hoy reúne los menús de bares y restaurantes",
+    "published": "2026-11-27T06:22:19.000Z"
+   },
+   {
+    "id": "20bb116b28fe",
+    "url": "https://www.menorca.info/balears/economico/2026/11/27/2758091/menu-hoy-reune-menus-bares-restaurantes.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Menú de Hoy reúne los menús de bares y restaurantes",
+    "published": "2026-11-27T06:22:19.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T06:22:19.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:02:13.743Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "Miguel Titos lanza una nueva versión de la app Menú de Hoy con IA",
+   "summary": "El desarrollador ha actualizado la aplicación que recopila la oferta diaria de bares y restaurantes de Mallorca, incorporando inteligencia artificial.",
+   "body": [
+    "Miguel Titos ha presentado la nueva versión de la aplicación Menú de Hoy, una herramienta digital que reúne la oferta gastronómica diaria de los establecimientos de Mallorca. Esta actualización incorpora el uso de inteligencia artificial para mejorar la gestión de la información.",
+    "Según las fuentes, Titos elaboró el primer prototipo de esta iniciativa en 2010. Tras más de una década, ha lanzado esta nueva iteración que busca facilitar el acceso a los menús de los locales de la isla."
+   ]
+  },
+  "ca": {
+   "title": "Miguel Titos llança una nova versió de l'aplicació Menú de Hoy amb IA",
+   "summary": "El desenvolupador ha actualitzat l'aplicació que recull l'oferta diària de bars i restaurants de Mallorca, incorporant intel·ligència artificial.",
+   "body": [
+    "Miguel Titos ha presentat la nova versió de l'aplicació Menú de Hoy, una eina digital que recull l'oferta gastronòmica diària dels establiments de Mallorca. Aquesta actualització incorpora l'ús de l'intel·ligència artificial per millorar la gestió de la informació.",
+    "Segons les fonts, Titos va elaborar el primer prototip d'aquesta iniciativa el 2010. Després de més d'una dècada, ha llançat aquesta nova iteració que busca facilitar l'accés als menús dels locals de la illa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Miguel Titos ha desarrollado la aplicación Menú de Hoy.",
+    "ca": "Miguel Titos ha desenvolupat l'aplicació Menú de Hoy.",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "La aplicación recoge la oferta diaria de establecimientos de Mallorca.",
+    "ca": "L'aplicació recull l'oferta diària dels establiments de Mallorca.",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "El primer prototipo se elaboró en 2010.",
+    "ca": "El primer prototip s'elaborà el 2010.",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "La nueva versión utiliza inteligencia artificial.",
+    "ca": "La nova versió utilitza intel·ligència artificial.",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:02:13.743Z",
+  "slug": "miguel-titos-lanza-una-nueva-version-de-la-app-menu-de-hoy-con-ia-d6b82",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864053.avif",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758091/menu-hoy-reune-menus-bares-restaurantes.html"
+  }
+ },
+ {
+  "id": "st42bb4960d5",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T06:22:05.000Z",
+  "articles": [
+   {
+    "id": "b2113e7d05e9",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758105/miquel-tur-eivissa-hay-nivel-restaurantes-espectacular.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Miquel Tur: «En Eivissa hay un nivel de restaurantes espectacular»",
+    "published": "2026-11-27T06:22:05.000Z"
+   },
+   {
+    "id": "ca04bb86961a",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/27/2758105/miquel-tur-eivissa-hay-nivel-restaurantes-espectacular.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Miquel Tur: «En Eivissa hay un nivel de restaurantes espectacular»",
+    "published": "2026-11-27T06:22:05.000Z"
+   },
+   {
+    "id": "f3d0fc31f5d6",
+    "url": "https://www.menorca.info/balears/economico/2026/11/27/2758105/miquel-tur-eivissa-hay-nivel-restaurantes-espectacular.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Miquel Tur: «En Eivissa hay un nivel de restaurantes espectacular»",
+    "published": "2026-11-27T06:22:05.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T06:22:05.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:02:30.427Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "turismo",
+  "es": {
+   "title": "Miquel Tur destaca el nivel de restaurantes en Ibiza y advierte sobre el descenso del turismo de clase media",
+   "summary": "El presidente de Pimeef Restauración, Miquel Tur, señala que el turismo de clase media pierde peso frente al de lujo y al de estancias cortas, mientras el nivel de la oferta gastronómica en la isla es considerado espectacular.",
+   "body": [
+    "El presidente de la asociación empresarial Pimeef Restauración, Miquel Tur, ha declarado que el nivel de los restaurantes en Ibiza es \"espectacular\". Según sus palabras, la isla cuenta con una oferta gastronómica de alta calidad que se sitúa entre los mejores destinos del archipiélago.",
+    "Tur también ha advertido que el turismo de clase media está perdiendo peso en comparación con el visitante de lujo y con aquellos que llegan para estancias breves. Este cambio de perfil de los turistas, según el empresario, podría influir en la dinámica del sector de la restauración en la isla."
+   ]
+  },
+  "ca": {
+   "title": "Miquel Tur destaca el nivell de restaurants a Eivissa i adverteix sobre la caiguda del turisme de classe mitjana",
+   "summary": "El president de Pimeef Restauració, Miquel Tur, assenyala que el turisme de classe mitjana perd pes davant del de luxe i del de estades curtes, mentre el nivell de l'oferta gastronòmica a l'illa és considerat espectacular.",
+   "body": [
+    "El president de l'associació empresarial Pimeef Restauració, Miquel Tur, ha declarat que el nivell dels restaurants a Eivissa és \"espectacular\". Segons les seves paraules, l'illa compta amb una oferta gastronòmica d'alta qualitat que es situa entre les millors del grup illenc.",
+    "Tur també ha advertit que el turisme de classe mitjana està perdent pes en comparació amb el visitant de luxe i amb aquells que arriben per estades curtes. Aquest canvi de perfil dels turistes, segons l'empresari, podria influir en la dinàmica del sector de la restauració a l'illa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Miquel Tur, presidente de Pimeef Restauración, afirma que el nivel de restaurantes en Ibiza es espectacular",
+    "ca": "Miquel Tur, president de Pimeef Restauració, afirma que el nivell de restaurants a Eivissa és espectacular",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   },
+   {
+    "es": "Tur advierte que el turismo de clase media pierde peso frente al de lujo y al de estancias cortas",
+    "ca": "Tur adverteix que el turisme de classe mitjana perd pes davant del de luxe i del de estades curtes",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:02:30.427Z",
+  "slug": "miquel-tur-destaca-el-nivel-de-restaurantes-en-ibiza-y-advierte-sobre-960d5",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864079.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758105/miquel-tur-eivissa-hay-nivel-restaurantes-espectacular.html"
+  }
+ },
+ {
+  "id": "stc41e6985c5",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T06:21:53.000Z",
+  "articles": [
+   {
+    "id": "fd9c3914f692",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758127/emprendedor-fabrica-ideas-soluciona-problemas.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El emprendedor que fabrica ideas y soluciona problemas",
+    "published": "2026-11-27T06:21:53.000Z"
+   },
+   {
+    "id": "c8e4d417d5cd",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/27/2758127/emprendedor-fabrica-ideas-soluciona-problemas.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El emprendedor que fabrica ideas y soluciona problemas",
+    "published": "2026-11-27T06:21:53.000Z"
+   },
+   {
+    "id": "b103d16a1309",
+    "url": "https://www.menorca.info/balears/economico/2026/11/27/2758127/emprendedor-fabrica-ideas-soluciona-problemas.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El emprendedor que fabrica ideas y soluciona problemas",
+    "published": "2026-11-27T06:21:53.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T06:21:53.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:02:41.950Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Trofeus Dani amplía su actividad en las Islas Baleares",
+   "summary": "El taller Trofeus Dani, originario de una pequeña tienda de trofeos, se ha convertido en un espacio especializado en diseño y personalización de productos.",
+   "body": [
+    "Trofeus Dani comenzó como una tienda dedicada a la venta y grabado de trofeos. Con el paso del tiempo, la empresa ha ampliado su oferta, transformándose en un taller especializado en el diseño, creación y personalización de todo tipo de productos, según varios medios locales.",
+    "Esta evolución refleja una estrategia de diversificación y adaptación a las demandas del mercado en las Islas Baleares, aunque los artículos consultados no especifican la ubicación exacta del taller ni datos adicionales sobre su actividad."
+   ]
+  },
+  "ca": {
+   "title": "Trofeus Dani amplia la seva activitat a les Illes Balears",
+   "summary": "El taller Trofeus Dani, nascut d’una petita botiga de trofeus, s’ha convertit en un espai especialitzat en disseny i personalització de productes.",
+   "body": [
+    "Trofeus Dani va començar com una botiga dedicada a la venda i gravat de trofeus. Amb el temps, l’empresa ha ampliat la seva oferta, transformant‑se en un taller especialitzat en el disseny, creació i personalització de tot tipus de productes, segons diversos mitjans locals.",
+    "Aquesta evolució reflecteix una estratègia de diversificació i adaptació a les demandes del mercat a les Illes Balears, encara que els articles consultats no especifiquen la ubicació exacta del taller ni dades addicionals sobre la seva activitat."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Trofeus Dani evolucionó de una pequeña tienda de venta y grabado de trofeos a un taller especializado en diseño, creación y personalización de productos",
+    "ca": "Trofeus Dani va evolucionar d’una petita botiga de venda i gravat de trofeus a un taller especialitzat en disseny, creació i personalització de productes",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:02:41.950Z",
+  "slug": "trofeus-dani-amplia-su-actividad-en-las-islas-baleares-985c5",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864115.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758127/emprendedor-fabrica-ideas-soluciona-problemas.html"
+  }
+ },
+ {
+  "id": "st0a4ef4cea2",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T06:21:42.000Z",
+  "articles": [
+   {
+    "id": "cfbf7759cae3",
+    "url": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758147/aecc-miquel-moya-ejemplo-compromiso.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "AECC y Miquel Moyà, ejemplo de compromiso",
+    "published": "2026-11-27T06:21:42.000Z"
+   },
+   {
+    "id": "4a4f38d6445f",
+    "url": "https://www.periodicodeibiza.es/noticias/economico/2026/11/27/2758147/aecc-miquel-moya-ejemplo-compromiso.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "AECC y Miquel Moyà, ejemplo de compromiso",
+    "published": "2026-11-27T06:21:42.000Z"
+   },
+   {
+    "id": "423ff51ca142",
+    "url": "https://www.menorca.info/balears/economico/2026/11/27/2758147/aecc-miquel-moya-ejemplo-compromiso.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "AECC y Miquel Moyà, ejemplo de compromiso",
+    "published": "2026-11-27T06:21:42.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T06:21:42.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:02:58.427Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "El Consell Social de la UIB otorga los Premis Sa Riera 2026 a AECC y Miquel Moyà",
+   "summary": "El Consell Social de la Universitat d'Illes Balears ha concedido los Premis Sa Riera 2026 en reconocimiento a la trayectoria profesional y al impulso de la investigación de la AECC y del investigador Miquel Moyà.",
+   "body": [
+    "El Consell Social de la Universitat d'Illes Balears (UIB) ha anunciado la entrega de los Premis Sa Riera 2026. Los galardones se otorgan a la Asociación Española contra el Cáncer (AECC) y al investigador Miquel Moyà como reconocimiento a su trayectoria profesional y al impulso que han dado a la investigación en el ámbito sanitario.",
+    "Según los comunicados publicados por varios medios locales el mismo día, la ceremonia de entrega se realizará en la sede del Consell Social, aunque no se han especificado la fecha exacta ni el programa de la misma. La iniciativa forma parte de las acciones de la UIB para destacar la labor de entidades y profesionales que contribuyen al avance científico y a la mejora de la salud pública."
+   ]
+  },
+  "ca": {
+   "title": "El Consell Social de la UIB atorga els Premis Sa Riera 2026 a l'AECC i a Miquel Moyà",
+   "summary": "El Consell Social de la Universitat d'Illes Balears ha concedit els Premis Sa Riera 2026 en reconeixement a la trajectòria professional i a l'impuls de la investigació de l'AECC i del investigador Miquel Moyà.",
+   "body": [
+    "El Consell Social de la Universitat d'Illes Balears (UIB) ha anunciat la concessió dels Premis Sa Riera 2026. Els premis es destinen a l'Associació Espanyola contra el Càncer (AECC) i a l'investigador Miquel Moyà com a reconeixement de la seva trajectòria professional i de l'impuls que han donat a la investigació en l'àmbit sanitari.",
+    "Segons els comunicats publicats per diversos mitjans locals el mateix dia, la cerimònia d'entrega es durà a terme a la seu del Consell Social, tot i que no s'han especificat la data exacta ni el programa de la mateixa. La iniciativa forma part de les accions de la UIB per destacar la labor d'entitats i professionals que contribueixen al avanç científic i a la millora de la salut pública."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Premis Sa Riera 2026 concedits per el Consell Social de la UIB a l'AECC i a Miquel Moyà",
+    "ca": "Premis Sa Riera 2026 concedits per el Consell Social de la UIB a l'AECC i a Miquel Moyà",
+    "sources": [
+     "ultimahora",
+     "periodicodeibiza",
+     "menorcainfo"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:02:58.427Z",
+  "slug": "el-consell-social-de-la-uib-otorga-los-premis-sa-riera-2026-a-aecc-y-4cea2",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864137.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/economico/2026/11/27/2758147/aecc-miquel-moya-ejemplo-compromiso.html"
+  }
+ },
+ {
+  "id": "st4f52355a30",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:30:11.000Z",
+  "articles": [
+   {
+    "id": "9f5936093309",
+    "url": "https://www.mallorcadiario.com/los-interminables-plenos-de-cort",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Los interminables y agotadores plenos de Cort",
+    "published": "2026-11-27T05:30:11.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:30:11.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:03:01.411Z",
+  "hidden": true
+ },
+ {
+  "id": "st46490773a6",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:20:10.000Z",
+  "articles": [
+   {
+    "id": "25d39590a7af",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/joven-acepta-cinco-anos-prision-136889436.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Un joven acepta cinco años de prisión por violar y coaccionar a su pareja discapacitada en Palma",
+    "published": "2026-11-27T05:20:10.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:20:10.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:03:03.822Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "tribunales",
+  "es": {
+   "title": "La Audiencia de Palma condena a cinco años de prisión a un joven por violar a su pareja",
+   "summary": "Un tribunal ha impuesto una pena de prisión y una multa a un hombre por agredir sexualmente y coaccionar a su novia, una mujer con discapacidad, en un domicilio de Palma.",
+   "body": [
+    "La Audiencia de Palma ha condenado a un joven a cinco años de prisión y al pago de una multa por los delitos de violación y coacciones. Los hechos ocurrieron en febrero de 2024 en el domicilio de un amigo común de la pareja, situado en la ciudad de Palma.",
+    "La víctima, según los datos proporcionados por el medio, es una mujer con discapacidad que mantenía una relación sentimental con el condenado. La sentencia, dictada ayer, establece las penas correspondientes por las agresiones sexuales y las presiones ejercidas sobre la joven."
+   ]
+  },
+  "ca": {
+   "title": "L'Audiència de Palma condemna a cinc anys de presó un jove per violar la seva parella",
+   "summary": "Un tribunal ha imposat una pena de presó i una multa a un home per agredir sexualment i coaccionar la seva núvia, una dona amb discapacitat, en un domicili de Palma.",
+   "body": [
+    "L'Audiència de Palma ha condemnat un jove a cinc anys de presó i al pagament d'una multa pels delictes d'agressió sexual i coaccions. Els fets van tenir lloc el febrer de 2024 al domicili d'un amic en comú de la parella, situat a la ciutat de Palma.",
+    "La víctima, segons les dades facilitades pel mitjà, és una dona amb discapacitat que mantenia una relació sentimental amb el condemnat. La sentència, dictada ahir, estableix les penes corresponents per les agressions sexuals i les pressions exercides sobre la jove."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Condena de cinco años de prisión y multa",
+    "ca": "Condemna de cinc anys de presó i multa",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Delitos de violación y coacciones",
+    "ca": "Delictes d'agressió sexual i coaccions",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Hechos ocurridos en febrero de 2024",
+    "ca": "Fets ocorreguts el febrer de 2024",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "Lugar: domicilio de un amigo común en Palma",
+    "ca": "Lloc: domicili d'un amic en comú a Palma",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:03:03.822Z",
+  "slug": "la-audiencia-de-palma-condena-a-cinco-anos-de-prision-a-un-joven-por-773a6",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/dd1a6bd3-3e11-4adf-a27f-5ba42dd1b46a_16-9-aspect-ratio_default_0_x1011y438.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/27/joven-acepta-cinco-anos-prision-136889436.html"
+  }
+ },
+ {
+  "id": "std23474fe1c",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:01:24.000Z",
+  "articles": [
+   {
+    "id": "e04c93d1656c",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/aeropuerto-palma-transformara-terraza-solarium-zona-ocio-cuatro-bares-espacios-descanso-136890983.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El aeropuerto de Palma transformará su terraza solárium en una zona de ocio con cuatro bares y espacios de descanso",
+    "published": "2026-11-27T05:01:24.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:01:24.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:03:23.632Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "turismo",
+  "es": {
+   "title": "El aeropuerto de Palma convertirá su terraza solárium en zona de ocio con cuatro bares",
+   "summary": "El aeropuerto de Palma destinará la terraza solárium, actualmente infrautilizada, a un nuevo espacio de ocio con bares y zonas de descanso durante el invierno.",
+   "body": [
+    "El aeropuerto de Palma aprovechará la menor actividad de los meses de invierno para dar un nuevo uso a su terraza solárium, instalando cuatro bares‑restaurantes y áreas de descanso. El espacio, con cubierta acristalada, se encontraba en la anterior distribución de la terminal, frente a los filtros de seguridad, en la cuarta planta.",
+    "Tras la reciente reforma del edificio aeroportuario, la zona pasa a formar parte del área restringida, situada tras la zona comercial a la que acceden los pasajeros antes de dirigirse a los módulos de embarque. La iniciativa busca optimizar un área hasta ahora infrautilizada y ofrecer a los viajeros un entorno de ocio dentro del propio aeropuerto."
+   ]
+  },
+  "ca": {
+   "title": "L’aeroport de Palma transformarà la seva terrassa solárium en zona d’oci amb quatre bars",
+   "summary": "L’aeroport de Palma destinarà la terrassa solárium, actualment infrautilitzada, a un nou espai d’oci amb bars i zones de descans durant l’hivern.",
+   "body": [
+    "L’aeroport de Palma aprofitarà la menor activitat dels mesos d’hivern per donar un nou ús a la seva terrassa solárium, instal·lant quatre bars‑restaurants i àrees de descans. L’espai, amb coberta acristalada, es trobava en l’antiga distribució de la terminal, davant dels filtres de seguretat, al quart pis.",
+    "Després de la recent reforma de l’edifici aeroportuari, la zona passa a formar part de l’àrea restringida, situada darrere de la zona comercial a la qual accedeixen els passatgers abans d’anar cap als mòduls d’embarcament. La iniciativa pretén optimitzar una àrea fins ara infrautilitzada i oferir als viatgers un entorn d’oci dins del propi aeroport."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El aeropuerto de Palma instalará cuatro bares‑restaurantes y zonas de descanso en la terraza solárium",
+    "ca": "L’aeroport de Palma instal·larà quatre bars‑restaurants i zones de descans a la terrassa solárium",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:03:23.632Z",
+  "slug": "el-aeropuerto-de-palma-convertira-su-terraza-solarium-en-zona-de-ocio-4fe1c",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/b172fbfb-9c7b-4c63-adf8-7fdea3e043d0_16-9-aspect-ratio_default_1537015.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/27/aeropuerto-palma-transformara-terraza-solarium-zona-ocio-cuatro-bares-espacios-descanso-136890983.html"
+  }
+ },
+ {
+  "id": "stffa1b1d1a2",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:01:13.000Z",
+  "articles": [
+   {
+    "id": "bc3fc524c370",
+    "url": "https://www.diariodeibiza.es/formentera/2026/11/27/formentera-massanet-aborda-sindicato-stei-136893384.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Neus Massanet aborda con el sindicato STEI los problemas de los docentes de Formentera",
+    "published": "2026-11-27T05:01:13.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:01:13.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:07.385Z",
+  "islands": [
+   "formentera"
+  ],
+  "topic": "educacion",
+  "es": {
+   "title": "Neus Massanet se reúne con el sindicato STEI para abordar la situación docente en Formentera",
+   "summary": "La candidata al Senado por Formentera, Neus Massanet, sostuvo una reunión con representantes del sindicato STEI para analizar los problemas de los centros educativos y recoger las reivindicaciones del profesorado de cara a la próxima legislatura.",
+   "body": [
+    "El jueves, Neus Massanet, candidata de Formentera al Senado, mantuvo un encuentro con los representantes del sindicato de enseñanza STEI. La reunión tuvo como objetivo examinar la situación actual de los centros educativos de la isla y escuchar las demandas del profesorado.",
+    "Durante el encuentro se abordaron cuestiones relacionadas con la dotación de recursos, la organización del horario escolar y otras problemàtiques que afectan al personal docente. Massanet manifestó su intención de trasladar esas reivindicaciones al debate legislativo una vez que inicie la nueva legislatura."
+   ]
+  },
+  "ca": {
+   "title": "Neus Massanet es troba amb el sindicat STEI per abordar la situació docent a Formentera",
+   "summary": "La candidata al Senat per Formentera, Neus Massanet, ha mantingut una reunió amb representants del sindicat STEI per analitzar els problemes dels centres educatius i recollir les reivindicacions del professorat d’antena a la propera legislatura.",
+   "body": [
+    "El dijous, Neus Massanet, candidata de Formentera al Senat, va mantenir una trobada amb els representants del sindicat d’ensenyament STEI. La reunió va tenir com a objectiu examinar la situació actual dels centres educatius de l’illa i escoltar les demandes del professorat.",
+    "Durant la trobada es van tractar qüestions relacionades amb la dotació de recursos, l’organització de l’horari escolar i altres problemàtiques que afecten al personal docent. Massanet va manifestar la seva intenció de traslladar aquestes reivindicacions al debat legislatiu una vegada que comenci la nova legislatura."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Neus Massanet, candidata al Senado por Formentera, se reunió con representantes del sindicato STEI",
+    "ca": "Neus Massanet, candidata al Senat per Formentera, es va reunir amb representants del sindicat STEI",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:07.385Z",
+  "slug": "neus-massanet-se-reune-con-el-sindicato-stei-para-abordar-la-1d1a2",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/a3340c97-849b-4aa5-a765-9a458f81baac_16-9-aspect-ratio_default_0_x602y329.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/formentera/2026/11/27/formentera-massanet-aborda-sindicato-stei-136893384.html"
+  }
+ },
+ {
+  "id": "st7e9c7fddcf",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:01:11.000Z",
+  "articles": [
+   {
+    "id": "16e16884aa90",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/27/clan-charly-usaba-tiendas-compraventa-136893603.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El clan del Charly usaba tiendas de compraventa de oro para blanquear los beneficios del narcotráfico",
+    "published": "2026-11-27T05:01:16.000Z"
+   },
+   {
+    "id": "94bdb9a84eb5",
+    "url": "https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/27/fiscalia-pide-14-anos-carcel-136888252.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "La Fiscalía pide 14 años de cárcel para el Charly por liderar la entrada de cocaína en Mallorca",
+    "published": "2026-11-27T05:01:11.000Z"
+   }
+  ],
+  "needsWrite": true,
+  "lastArticleAt": "2026-11-27T05:01:16.000Z",
+  "writeErrors": 1
+ },
+ {
+  "id": "st6e808d14e1",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:01:03.000Z",
+  "articles": [
+   {
+    "id": "ede7f6b75ffe",
+    "url": "https://www.diariodeibiza.es/formentera/2026/11/27/formentera-recortar-silencio-dar-voz-136887691.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Recortar el silencio: el arte de dar voz a las mujeres en Formentera",
+    "published": "2026-11-27T05:01:03.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:01:03.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:04:11.559Z",
+  "islands": [
+   "formentera"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Mireia Ripoll inaugura en Formentera la exposición 'SOM. Collages i memòries vives'",
+   "summary": "La muestra, que forma parte de las actividades del 25N, entrelaza fotografías antiguas, testimonios y tejidos con memoria en la sala del Ajuntament Vell.",
+   "body": [
+    "La sala de exposiciones del Ajuntament Vell, en Sant Francesc, acoge desde el pasado lunes la exposición 'SOM. Collages i memòries vives', de la artista Mireia Ripoll Bertomeu, conocida como MireiaCreativa. La inauguración se enmarca dentro del programa de actividades conmemorativas del 25 de noviembre, Día Internacional para la Eliminación de la Violencia contra las Mujeres.",
+    "La propuesta artística combina diversos elementos para dar voz a las mujeres de la isla. Según detalla Diario de Ibiza, la muestra entrelaza fotografías antiguas de Formentera, fragmentos de historias, tejidos cargados de memoria, testimonios de mujeres y experiencias personales.",
+    "El objetivo de la instalación es recortar el silencio y visibilizar la realidad femenina a través de un lenguaje visual y narrativo que fusiona lo histórico con lo contemporáneo."
+   ]
+  },
+  "ca": {
+   "title": "Mireia Ripoll inaugura a Formentera l'exposició 'SOM. Collages i memòries vives'",
+   "summary": "La mostra, que forma part de les activitats del 25N, entrellaça fotografies antigues, testimonis i teixits amb memòria a la sala de l'Ajuntament Vell.",
+   "body": [
+    "La sala d'exposicions de l'Ajuntament Vell, a Sant Francesc, acull des del passat dilluns l'exposició 'SOM. Collages i memòries vives', de l'artista Mireia Ripoll Bertomeu, coneguda com a MireiaCreativa. L'inauguració s'emmarca dins del programa d'activitats commemoratives del 25 de novembre, Dia Internacional per a l'Eliminació de la Violència contra les Dones.",
+    "La proposta artística combina diversos elements per donar veu a les dones de la illa. Segons detalla el Diario de Ibiza, la mostra entrellaça fotografies antigues de Formentera, fragments d'històries, teixits carregats de memòria, testimonis de dones i experiències personals.",
+    "L'objectiu de la instal·lació és recortar el silenci i visibilitzar la realitat femenina a través d'un llenguatge visual i narratiu que fusiona el històric amb el contemporani."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La exposición se titula 'SOM. Collages i memòries vives' y es de Mireia Ripoll Bertomeu.",
+    "ca": "L'exposició es diu 'SOM. Collages i memòries vives' i és de Mireia Ripoll Bertomeu.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Se celebra en la sala de exposiciones del Ajuntament Vell, en Sant Francesc.",
+    "ca": "Es celebra a la sala d'exposicions de l'Ajuntament Vell, a Sant Francesc.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Fue inaugurada el lunes anterior a la publicación (26 de noviembre de 2026).",
+    "ca": "Va ser inaugurada el dilluns anterior a la publicació (26 de novembre de 2026).",
+    "sources": [
+     "diariodeibiza"
+    ]
+   },
+   {
+    "es": "Forma parte del programa de actividades del 25N.",
+    "ca": "Forma part del programa d'activitats del 25N.",
+    "sources": [
+     "diariodeibiza"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:11.559Z",
+  "slug": "mireia-ripoll-inaugura-en-formentera-la-exposicion-som-collages-i-d14e1",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/71148b4f-6c39-4b46-920b-7f6c1e8e868c_16-9-aspect-ratio_default_0_x1000y500.jpg",
+   "sourceId": "diariodeibiza",
+   "articleUrl": "https://www.diariodeibiza.es/formentera/2026/11/27/formentera-recortar-silencio-dar-voz-136887691.html"
+  }
+ },
+ {
+  "id": "st3832ac71bf",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:00:47.000Z",
+  "articles": [
+   {
+    "id": "3e4c6081ec8f",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/27/malestar-productores-serra-tramuntana-inmovilizacion-136871109.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Malestar entre los productores de la Serra de Tramuntana: la inmovilización del 12% del aceite de oliva también afecta al autoconsumo",
+    "published": "2026-11-27T05:00:47.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:00:47.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:20.809Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "economia",
+  "es": {
+   "title": "El Ministerio inmoviliza el 12% del aceite de oliva y afecta al autoconsumo en la Serra de Tramuntana",
+   "summary": "La medida del Gobierno central de congelar el 12% de la producción de aceite de oliva para la campaña 2026/2027 también incluye el aceite destinado al autoconsumo, generando inquietud entre los pequeños productores de la Serra de Tramuntana.",
+   "body": [
+    "El Ministerio de Agricultura ha decidido inmovilizar el 12% de la producción de aceite de oliva correspondiente a la campaña 2026/2027. La medida, anunciada el 27 de noviembre, se aplicará a toda la producción, sin distinción entre aceite destinado a la comercialización y el elaborado para autoconsumo.",
+    "Según el Diario de Mallorca, la decisión afecta también al aceite elaborado para autoconsumo, lo que ha provocado preocupación entre los pequeños productores de la Serra de Tramuntana, una zona conocida por su producción artesanal de aceite. Los agricultores temen que la inmovilización reduzca sus ingresos y limite la disponibilidad de aceite para el consumo familiar."
+   ]
+  },
+  "ca": {
+   "title": "El Ministeri immobilitza el 12% de l'oli d'oliva i afecta l'autoconsum a la Serra de Tramuntana",
+   "summary": "La mesura del Govern central de congelar el 12% de la producció d'oli d'oliva per a la campanya 2026/2027 també inclou l'oli destinat a l'autoconsum, generant inquietud entre els petits productors de la Serra de Tramuntana.",
+   "body": [
+    "El Ministeri d'Agricultura ha decidit immobilitzar el 12% de la producció d'oli d'oliva corresponent a la campanya 2026/2027. La mesura, anunciada el 27 de novembre, s'aplicarà a tota la producció, sense distinció entre oli destinat a la comercialització i el elaborat per a l'autoconsum.",
+    "Segons el Diario de Mallorca, la decisió afecta també l'oli elaborat per a l'autoconsum, cosa que ha provocat preocupació entre els petits productors de la Serra de Tramuntana, una zona coneguda per la seva producció artesanal d'oli. Els agricultors temen que la immobilització redueixi els seus ingressos i limiti la disponibilitat d'oli per al consum familiar."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Ministerio de Agricultura inmoviliza el 12% de la producción de aceite de oliva para la campaña 2026/2027",
+    "ca": "El Ministeri d'Agricultura immobilitza el 12% de la producció d'oli d'oliva per a la campanya 2026/2027",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "La medida afecta también al aceite elaborado para autoconsumo",
+    "ca": "La mesura afecta també a l'oli elaborat per a l'autoconsum",
+    "sources": [
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:20.809Z",
+  "slug": "el-ministerio-inmoviliza-el-12-del-aceite-de-oliva-y-afecta-al-c71bf",
+  "status": "single",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/6d85ae37-6f91-4a81-aa03-5a243ee55856_16-9-aspect-ratio_default_0_x800y400.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/27/malestar-productores-serra-tramuntana-inmovilizacion-136871109.html"
+  }
+ },
+ {
+  "id": "st0fdfbed34d",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T05:00:00.000Z",
+  "articles": [
+   {
+    "id": "6ff7febecee0",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/milena-herrera-candidata-del-psoe-al-congreso-quien-ha-cotizado-30-40-o-50-anos-de-su-vida-no-puede-jubilarse-temiendo-por-su-pension/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Milena Herrera, candidata del PSOE al Congreso: «Un aeropuerto mejor para Ibiza, sí; más capacidad, no»",
+    "published": "2026-11-27T05:00:00.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:00:00.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:23.259Z",
+  "islands": [
+   "ibiza"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "Milena Herrera, candidata del PSOE, prioriza la vivienda y rechaza ampliar la capacidad del aeropuerto de Ibiza",
+   "summary": "En el cuestionario de candidatos, Milena Herrera, del PSOE, señala la vivienda como el principal problema de Eivissa y se opone a aumentar la capacidad del aeropuerto, aunque sí apoya su mejora.",
+   "body": [
+    "Milena Herrera, candidata del PSOE al Congreso, ha declarado que el acceso a la vivienda constituye el principal problema de la isla de Eivissa. Propone que se declaren zonas tensionadas para limitar los precios del alquiler, medida que según ella ayudaría a paliar la dificultad de acceso a la vivienda.",
+    "En el mismo cuestionario, Herrera ha rechazado la ampliación de la capacidad del aeropuerto de Ibiza, aunque sí ha manifestado su apoyo a la mejora de sus infraestructuras. Asimismo, ha defendido la necesidad de blindar la oferta de empleo y otros servicios en la isla."
+   ]
+  },
+  "ca": {
+   "title": "Milena Herrera, candidata del PSC, prioritza l'habitatge i rebutja ampliar la capacitat de l'aeroport d'Eivissa",
+   "summary": "En el qüestionari de candidats, Milena Herrera, del PSC, assenyala l'habitatge com el principal problema d'Eivissa i es oposa a augmentar la capacitat de l'aeroport, tot i donar suport a la seva millora.",
+   "body": [
+    "Milena Herrera, candidata del PSC al Congrés, ha declarat que l'accés a l'habitatge és el principal problema de l'illa d'Eivissa. Proposa declarar zones tensionades per limitar els preus del lloguer, una mesura que, segons ella, ajudaria a alleujar la dificultat d'accés a l'habitatge.",
+    "En el mateix qüestionari, Herrera ha rebutjat l'ampliació de la capacitat de l'aeroport d'Eivissa, tot i que ha manifestat el seu suport a la millora de les seves infraestructures. També ha defensat la necessitat de reforçar l'oferta d'ocupació i altres serveis a l'illa."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Milena Herrera es candidata del PSOE al Congreso",
+    "ca": "Milena Herrera és candidata del PSC al Congrés",
+    "sources": [
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Considera la vivienda el principal problema de Ibiza",
+    "ca": "Considera l'habitatge el principal problema d'Eivissa",
+    "sources": [
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Propone declarar zonas tensionadas para limitar precios del alquiler",
+    "ca": "Proposa declarar zones tensionades per limitar els preus del lloguer",
+    "sources": [
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Rechaza aumentar la capacidad del aeropuerto de Ibiza y defiende su mejora",
+    "ca": "Rebutja augmentar la capacitat de l'aeroport d'Eivissa i defensa la seva millora",
+    "sources": [
+     "noudiari"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:23.259Z",
+  "slug": "milena-herrera-candidata-del-psoe-prioriza-la-vivienda-y-rechaza-ed34d",
+  "status": "single",
+  "image": {
+   "url": "https://www.noudiari.es/wp-content/uploads/2026/11/milena-herrera-pleno-congreso-scaled-1.jpg",
+   "sourceId": "noudiari",
+   "articleUrl": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/milena-herrera-candidata-del-psoe-al-congreso-quien-ha-cotizado-30-40-o-50-anos-de-su-vida-no-puede-jubilarse-temiendo-por-su-pension/"
+  }
+ },
+ {
+  "id": "stba5cd9eacd",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T04:59:34.000Z",
+  "articles": [
+   {
+    "id": "4cbb83972ae1",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/ernesto-ekaizer-pedro-sanchez-caido-136895489.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Ernesto Ekaizer: \"Pedro Sánchez ha caído por culpa de la ofensiva judicial\"",
+    "published": "2026-11-27T04:59:34.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T04:59:34.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:24.548Z",
+  "hidden": true
+ },
+ {
+  "id": "st548fb1f5d4",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "ce8205aea36e",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/27/2758617/asesora-vox-parlament-ejerce-abogada-pese-hay-dudas-incompatibilidad.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "La asesora de Vox en el Parlament ejerce de abogada pese a que hay dudas de incompatibilidad",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:28.356Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "La asesora de Vox en el Parlament balear ejerce como abogada pese a dudas de incompatibilidad",
+   "summary": "Melina Merki, asesora parlamentaria de Vox y vicepresidenta de la formación en Baleares, sigue trabajando como abogada aunque su cargo presenta posibles incompatibilidades según la normativa de empleados públicos.",
+   "body": [
+    "La asesora parlamentaria de Vox y vicepresidenta de la formación en Baleares, Melina Merki, continúa ejerciendo como abogada a pesar de que su puesto en el Parlament balear genera dudas sobre su compatibilidad con la actividad profesional. Según el artículo, el cargo de Merki es de personal eventual al servicio del Parlament y está sujeto al mismo régimen de incompatibilidades que los empleados públicos.",
+    "Para poder ejercer la abogacía mientras ocupa el cargo, la normativa exige la autorización expresa de la Mesa del Parlament, autorización que, según indica el medio, no consta en el registro público. Además, Merki figura en la lista de Vox al Congreso como número tres, lo que refuerza la atención sobre su situación."
+   ]
+  },
+  "ca": {
+   "title": "L'assessora de Vox al Parlament balear exerceix com a advocada malgrat dubtes d'incompatibilitat",
+   "summary": "Melina Merki, assessora parlamentària de Vox i vicepresidenta de la formació a les Balears, continua treballant com a advocada tot i que el seu càrrec presenta possibles incompatibilitats segons la normativa d'empleats públics.",
+   "body": [
+    "L'assessora parlamentària de Vox i vicepresidenta de la formació a les Balears, Melina Merki, continua exercint com a advocada malgrat que el seu lloc al Parlament balear genera dubtes sobre la seva compatibilitat amb l'activitat professional. Segons l'article, el càrrec de Merki és de personal eventual al servei del Parlament i està subjecte al mateix règim d'incompatibilitats que els empleats públics.",
+    "Per poder exercir l'advocacia mentre ocupa el càrrec, la normativa exigeix l'autorització expressa de la Mesa del Parlament, autorització que, segons indica el mitjà, no consta al registre públic. A més, Merki figura a la llista de Vox al Congrés com a número tres, cosa que intensifica l'atenció sobre la seva situació."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Melina Merki es asesora parlamentaria de Vox y vicepresidenta de la formación en Baleares",
+    "ca": "Melina Merki és assessora parlamentària de Vox i vicepresidenta de la formació a les Balears",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Ejercía como abogada pese a dudas de incompatibilidad según el régimen de empleados públicos",
+    "ca": "Exerceix com a advocada malgrat dubtes d'incompatibilitat segons el règim d'empleats públics",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Para ejercer debería contar con autorización expresa de la Mesa del Parlament, que no consta",
+    "ca": "Per exercir hauria de comptar amb autorització expressa de la Mesa del Parlament, que no consta",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:28.356Z",
+  "slug": "la-asesora-de-vox-en-el-parlament-balear-ejerce-como-abogada-pese-a-1f5d4",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4865197.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/27/2758617/asesora-vox-parlament-ejerce-abogada-pese-hay-dudas-incompatibilidad.html"
+  }
+ },
+ {
+  "id": "sta32a5e1bd2",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "e344346bd5ba",
+    "url": "https://www.ultimahora.es/noticias/palma/2026/11/27/2758597/activista-demanda-cort-por-quedarse-material-acampada.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Una activista demanda a Cort por quedarse con su material de la acampada",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:31.208Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Una activista demanda al Ayuntamiento de Palma por retener su documentación y material de la acampada",
+   "summary": "Stefanie Knabe ha presentado una demanda de responsabilidad patrimonial contra el Ayuntamiento de Palma por la incautación y falta de devolución de su DNI y otros objetos durante el desalojo de la acampada de la Plaza de España.",
+   "body": [
+    "La activista cultural Stefanie Knabe ha interpuesto una demanda de responsabilidad patrimonial ante la Policía Nacional contra el Ayuntamiento de Palma. Según su denuncia, la Policía Local incautó su documentación personal, incluido el DNI, y una cantidad de material que ella había listado, durante el desalojo de la acampada que se había instalado en la Plaza de España.",
+    "Knabe afirma que, antes del desalojo, había acudido al Ayuntamiento para registrar su material, pero le negaron el acceso por no presentar el DNI, documento que ella reclamaba que le habían retenido. La demanda busca que el Ayuntamiento devuelva los objetos incautados y responda por los posibles daños patrimoniales derivados de la actuación policial."
+   ]
+  },
+  "ca": {
+   "title": "Una activista demanda l'Ajuntament de Palma per retenir la seva documentació i material de l'acampada",
+   "summary": "Stefanie Knabe ha presentat una demanda de responsabilitat patrimonial contra l'Ajuntament de Palma per la incautació i falta de devolució del seu DNI i altres objectes durant l'esborrat de l'acampada de la Plaça d'Espanya.",
+   "body": [
+    "L'activista cultural Stefanie Knabe ha interposat una demanda de responsabilitat patrimonial davant la Policia Nacional contra l'Ajuntament de Palma. Segons la seva denúncia, la Policia Local va incautar la seva documentació personal, inclòs el DNI, i una quantitat de material que ella havia llistat, durant l'esborrat de l'acampada que s'havia instal·lat a la Plaça d'Espanya.",
+    "Knabe afirma que, abans de l'esborrat, havia acudit a l'Ajuntament per registrar el seu material, però li van negar l'accés per no presentar el DNI, document que ella reclama que li havien retingut. La demanda pretén que l'Ajuntament torni els objectes incautats i respongui pels possibles danys patrimonials derivats de l'actuació policial."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Stefanie Knabe presentó una demanda de responsabilidad patrimonial contra el Ayuntamiento de Palma por la incautación de su DNI y material durante el desalojo de la acampada de la Plaza de España",
+    "ca": "Stefanie Knabe va presentar una demanda de responsabilitat patrimonial contra l'Ajuntament de Palma per la incautació del seu DNI i material durant l'esborrat de l'acampada de la Plaça d'Espanya",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:31.208Z",
+  "slug": "una-activista-demanda-al-ayuntamiento-de-palma-por-retener-su-e1bd2",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864859.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/palma/2026/11/27/2758597/activista-demanda-cort-por-quedarse-material-acampada.html"
+  }
+ },
+ {
+  "id": "st82f2256efd",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "e2855871b57c",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/27/2758595/acusado-tambien-era-poco-fantasma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El acusado que también era un poco fantasma",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:35.334Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Un detenido contacta a su abogado por temor a ingresar en prisión antes de votar",
+   "summary": "Un acusado con antecedentes amplios llamó a su letrado en Palma para evitar una posible entrada en prisión antes de ejercer su derecho al voto.",
+   "body": [
+    "Un hombre con un historial delictivo extenso se puso en contacto con su abogado en Palma, temiendo que la justicia le obligara a ingresar en prisión a partir del lunes. El detenido manifestó que su principal preocupación era poder ejercer su derecho al voto antes de cualquier posible reclusión.",
+    "El letrado, sorprendido por la petición, preguntó el motivo de la urgencia. El acusado respondió que desea “ser un buen ciudadano” y votar, indicando que prefiere cumplir con su deber cívico antes de enfrentar una posible pena."
+   ]
+  },
+  "ca": {
+   "title": "Un detingut contacta el seu advocat per por d’entrar a la presó abans de votar",
+   "summary": "Un acusat amb antecedents amplis va trucar al seu advocat a Palma per evitar una possible entrada a la presó abans d’exercir el seu dret al vot.",
+   "body": [
+    "Un home amb un historial delictiu extens va posar-se en contacte amb el seu advocat a Palma, temerós que la justícia l’obligués a ingressar a la presó a partir del dilluns. L’acusat va manifestar que la seva principal preocupació era poder exercir el seu dret al vot abans de qualsevol possible reclusió.",
+    "L’advocat, sorprès per la petició, va preguntar el motiu de la urgència. L’acusat va respondre que vol “ser un bon ciutadà” i votar, indicant que prefereix complir amb el seu deure cívic abans d’enfrontar una possible pena."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El acusado temía ingresar en prisión a partir del lunes y quería votar antes",
+    "ca": "L'acusat temia ingressar a la presó a partir del dilluns i volia votar abans",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:35.334Z",
+  "slug": "un-detenido-contacta-a-su-abogado-por-temor-a-ingresar-en-prision-56efd",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864871.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/27/2758595/acusado-tambien-era-poco-fantasma.html"
+  }
+ },
+ {
+  "id": "stcd23f0cb34",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "b9c276b3e906",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/27/2758569/parc-musica-nuestro-regalo-ciudad-estara-listo-2028.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Antonio Obrador, fundador de Estudio AO: «El Parc de la Música es nuestro regalo a la ciudad y estará listo en 2028»",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:46.180Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "Antonio Obrador presenta su nuevo libro en la Galería Pelaires de Mallorca",
+   "summary": "El arquitecto Antonio Obrador y su estudio AO presentaron el libro “Antonio Obrador: Arquitectura de la armonía” en la Galería Pelaires, con una exposición que recorre cuatro décadas de su obra.",
+   "body": [
+    "El viernes a las 19.00 horas la Galería Pelaires de Palma acogerá la presentación del libro “Antonio Obrador: Arquitectura de la armonía”, editado por la firma italiana Franco Maria Ricci. El volumen recorre cuarenta años de trayectoria del arquitecto Antonio Obrador y su estudio AO, mostrando 46 proyectos que incluyen rehabilitaciones, viviendas de gran escala y la intervención en la fortaleza de Cap Rocat.",
+    "El libro incluye textos de la escritora Carme Riera y ensayos críticos de los arquitectos Ludovica Vacirca y Alessandro Benetti. En la presentación, Obrador recordó que el Parc de la Música, que será entregado a la ciudad en 2028, constituye “nuestro regalo a la ciudad”."
+   ]
+  },
+  "ca": {
+   "title": "Antonio Obrador presenta el seu nou llibre a la Galeria Pelaires de Mallorca",
+   "summary": "L'arquitecte Antonio Obrador i el seu estudi AO han presentat el llibre “Antonio Obrador: Arquitectura de l'harmonia” a la Galeria Pelaires, amb una exposició que recorre quatre dècades de la seva obra.",
+   "body": [
+    "Divendres a les 19.00 hores la Galeria Pelaires de Palma acollirà la presentació del llibre “Antonio Obrador: Arquitectura de l'harmonia”, editat per la firma italiana Franco Maria Ricci. El volum recorre quaranta anys de trajectòria de l'arquitecte Antonio Obrador i del seu estudi AO, mostrant 46 projectes que inclouen rehabilitacions, cases de gran escala i la intervenció a la fortalesa del Cap Rocat.",
+    "El llibre inclou textos de l'escriptora Carme Riera i assaigs crítics dels arquitectes Ludovica Vacirca i Alessandro Benetti. En la presentació, Obrador va recordar que el Parc de la Música, que serà entregat a la ciutat el 2028, constitueix “el nostre regal a la ciutat”."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Presentación del libro “Antonio Obrador: Arquitectura de la armonía” el viernes a las 19.00 en la Galería Pelaires de Palma",
+    "ca": "Presentació del llibre “Antonio Obrador: Arquitectura de l'harmonia” divendres a les 19.00 a la Galeria Pelaires de Palma",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El libro recorre 46 proyectos arquitectónicos de cuatro décadas del estudio AO",
+    "ca": "El llibre recorre 46 projectes arquitectònics de quaranta anys de l'estudi AO",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Incluye textos de Carme Riera y ensayos de Ludovica Vacirca y Alessandro Benetti",
+    "ca": "Inclou textos de Carme Riera i assaigs de Ludovica Vacirca i Alessandro Benetti",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Obrador afirma que el Parc de la Música será entregado a la ciudad en 2028",
+    "ca": "Obrador afirma que el Parc de la Música serà entregat a la ciutat el 2028",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:46.180Z",
+  "slug": "antonio-obrador-presenta-su-nuevo-libro-en-la-galeria-pelaires-de-0cb34",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864831.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/27/2758569/parc-musica-nuestro-regalo-ciudad-estara-listo-2028.html"
+  }
+ },
+ {
+  "id": "st8a64666391",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "a4a629464a31",
+    "url": "https://www.ultimahora.es/noticias/local/2026/11/27/2758547/personal-escoletas-concertado-cobrara-equiparacion-salarial-partir-del-enero.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El personal de las escoletas concertadas 0-3 cobrará la equiparación salarial a partir del 1 de enero",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:04:54.515Z",
+  "islands": [
+   "baleares"
+  ],
+  "topic": "educacion",
+  "es": {
+   "title": "El personal de escoletas concertadas 0-3 recibirá la equiparación salarial a partir del 1 de enero",
+   "summary": "A partir del 1 de enero las educadoras y docentes de escoletas concertadas de 0 a 3 años cobrarán el nuevo complemento salarial mediante la Conselleria d’Educació, aunque el decreto que lo regula está bajo amenaza de inconstitucionalidad.",
+   "body": [
+    "A partir del próximo 1 de enero, el personal docente y de educación de las escoletas concertadas de 0 a 3 años percibirá el complemento de equiparación salarial directamente a través de la Conselleria d’Educació. La medida pretende igualar la retribución de este colectivo con la del sector público.",
+    "Sin embargo, el decreto‑ley que regula la concertada y que incluye este complemento está siendo cuestionado. El Govern ha solicitado un aviso de inconstitucionalidad como paso previo a la presentación de un recurso judicial. Mientras se resuelve la cuestión jurídica, los dos gobiernos deberán reunirse para intentar llegar a un acuerdo que garantice la puesta en marcha del complemento."
+   ]
+  },
+  "ca": {
+   "title": "El personal d'escoletes concertades 0‑3 rebrà l'equiparació salarial a partir de l'1 de gener",
+   "summary": "Des de l'1 de gener les educadores i docents d'escoletes concertades de 0 a 3 anys cobriran el nou complement salarial a través de la Conselleria d'Educació, tot i que el decret que el regula està sota amenaça d'inconstitucionalitat.",
+   "body": [
+    "A partir del proper 1 de gener, el personal docent i d'educació de les escoletes concertades de 0 a 3 anys percebrà el complement d'equiparació salarial directament per la Conselleria d'Educació. La mesura pretén igualar la retribució d'aquest col·lectiu amb la del sector públic.",
+    "No obstant això, el decret‑llei que regula la concertada i que inclou aquest complement està sent qüestionat. El Govern ha sol·licitat un avís d'inconstitucionalitat com a pas previ a la presentació d'un recurs judicial. Mentrestant, els dos governs hauran de reunir‑se per intentar arribar a un acord que garanteixi la posada en marxa del complement."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El complement salarial se abonará a partir del 1 de enero mediante la Conselleria d’Educació",
+    "ca": "El complement salarial s'abonarà a partir de l'1 de gener a través de la Conselleria d'Educació",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El decreto‑ley que regula la concertada está bajo amenaza de inconstitucionalidad",
+    "ca": "El decret‑llei que regula la concertada està sota amenaça d'inconstitucionalitat",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Los gobiernos deberán reunirse para buscar un acuerdo",
+    "ca": "Els governs hauran de reunir‑se per buscar un acord",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:04:54.515Z",
+  "slug": "el-personal-de-escoletas-concertadas-0-3-recibira-la-equiparacion-66391",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864797.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/local/2026/11/27/2758547/personal-escoletas-concertado-cobrara-equiparacion-salarial-partir-del-enero.html"
+  }
+ },
+ {
+  "id": "st3a922c1e4c",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "f429cede526d",
+    "url": "https://www.ultimahora.es/opinion/tribuna/2026/11/27/2758521/pressupost-record-servei-mallorca.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Un pressupost rècord al servei de Mallorca",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:05:08.492Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "politica",
+  "es": {
+   "title": "El Consell de Mallorca aprueba un presupuesto récord",
+   "summary": "El Consell de Mallorca, presidido por Llorenç Galmés, ha presentado y aprobado un presupuesto histórico que garantiza estabilidad y planificación para la institución autonómica.",
+   "body": [
+    "El Consell de Mallorca ha presentado y aprobado, por cuarta vez consecutiva, un presupuesto que supera los registros anteriores, según informa Última Hora. La autoridad, encabezada por Llorenç Galmés, destaca que la correcta tramitación de los comptes es esencial para dignificar la política y mejorar la vida de los ciudadanos.",
+    "El artículo subraya que la gestión presupuestaria en tiempo y forma constituye un compromiso moral, citando a Martin Luther King. Con este nuevo presupuesto, la institución de autogobierno de la isla busca reforzar su capacidad de planificación y estabilidad financiera."
+   ]
+  },
+  "ca": {
+   "title": "El Consell de Mallorca aprova un pressupost rècord",
+   "summary": "El Consell de Mallorca, presidit per Llorenç Galmés, ha presentat i aprovat un pressupost històric que garanteix estabilitat i planificació per a la institució autonòmica.",
+   "body": [
+    "El Consell de Mallorca ha presentat i aprovat, per quarta vegada consecutiva, un pressupost que supera els rècords anteriors, segons informa Última Hora. La presidència, encapçalada per Llorenç Galmés, destaca que la correcta tramitació dels comptes és essencial per dignificar la política i millorar la vida dels ciutadans.",
+    "L’article subratlla que la gestió pressupostària en temps i forma constitueix un compromís moral, citant Martin Luther King. Amb aquest nou pressupost, la institució d’autogovern de l’illa pretén reforçar la seva capacitat de planificació i estabilitat financera."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El Consell de Mallorca ha aprovat un pressupost rècord",
+    "ca": "El Consell de Mallorca ha aprovat un pressupost rècord",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:05:08.492Z",
+  "slug": "el-consell-de-mallorca-aprueba-un-presupuesto-record-c1e4c",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/autor/social/rafel-bosch/12853.jpg",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/opinion/tribuna/2026/11/27/2758521/pressupost-record-servei-mallorca.html"
+  }
+ },
+ {
+  "id": "stb7de847e46",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "d4353870931b",
+    "url": "https://www.ultimahora.es/noticias/cultura/2026/11/27/2758407/little-rata-crece-muda-local-mas-grande-accesible.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Little Rata ‘crece’ y se muda a un local «más grande y accesible»",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:05:11.372Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "cultura",
+  "es": {
+   "title": "La librería infantil Little Rata se traslada en Palma y duplica su superficie",
+   "summary": "El establecimiento impulsado por Miquel Ferrer y Edy Pons cambia de local en el barrio de Blanquerna para ampliar su espacio de 80 a 160 metros cuadrados.",
+   "body": [
+    "La librería infantil y juvenil Little Rata, considerada el 'hermano pequeño' de Rata Corner, ha decidido cambiar de ubicación en Palma. El negocio, impulsado por Miquel Ferrer y Edy Pons, abandona el número 30 de la calle Antoni Marqués para instalarse en el número 16, en el mismo entorno de Blanquerna.",
+    "Según informa Última Hora, esta mudanza permite al establecimiento duplicar su superficie, pasando de los 80 metros cuadrados actuales a unos 160. Esta ampliación busca ofrecer más espacio para libros, lectores y actividades, manteniendo la esencia original del proyecto."
+   ]
+  },
+  "ca": {
+   "title": "La llibreria infantil Little Rata es trasllada a Palma i duplica la seva superfície",
+   "summary": "L'establiment impulsat per Miquel Ferrer i Edy Pons canvia de local al barri de Blanquerna per ampliar el seu espai de 80 a 160 metres quadrats.",
+   "body": [
+    "La llibreria infantil i juvenil Little Rata, considerada el 'germà petit' de Rata Corner, ha decidit canviar de ubicació a Palma. El negoci, impulsat per Miquel Ferrer i Edy Pons, abandona el número 30 del carrer Antoni Marqués per instal·lar-se al número 16, en el mateix entorn de Blanquerna.",
+    "Segons informa Última Hora, aquest trasllat permet a l'establiment duplicar la seva superfície, passant dels 80 metres quadrats actuals a uns 160. Aquesta ampliació busca oferir més espai per a llibres, lectors i activitats, mantenint l'essència original del projecte."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Little Rata se traslada del número 30 al 16 de la calle Antoni Marqués en Palma.",
+    "ca": "Little Rata es trasllada del número 30 al 16 del carrer Antoni Marqués a Palma.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La superficie del local se duplica, pasando de 80 a 160 metros cuadrados.",
+    "ca": "La superfície del local es duplica, passant de 80 a 160 metres quadrats.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Los impulsores del proyecto son Miquel Ferrer y Edy Pons.",
+    "ca": "Els impulsors del projecte són Miquel Ferrer i Edy Pons.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:05:11.372Z",
+  "slug": "la-libreria-infantil-little-rata-se-traslada-en-palma-y-duplica-su-47e46",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864529.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/cultura/2026/11/27/2758407/little-rata-crece-muda-local-mas-grande-accesible.html"
+  }
+ },
+ {
+  "id": "st4ecb3fa9c8",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "c9faf3250f4d",
+    "url": "https://www.ultimahora.es/noticias/part-forana/2026/11/27/2758291/campanet-prohibe-plazas-turisticas-inmuebles-protegidos.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Campanet prohíbe plazas turísticas en inmuebles protegidos",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:05:14.358Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "vivienda",
+  "es": {
+   "title": "Campanet prohíbe nuevas plazas turísticas en inmuebles protegidos",
+   "summary": "El Ayuntamiento de Campanet ha acordado no aplicar la excepción normativa que permitía crear alojamientos turísticos en edificaciones de valor patrimonial.",
+   "body": [
+    "El Butlletí Oficial de les Illes Balears (BOIB) ha publicado este jueves el acuerdo municipal por el cual Campanet cierra la puerta a una vía excepcional contemplada por la normativa autonómica. Esta medida establece la inaplicación de la excepción que permitía implantar establecimientos de alojamiento turístico en edificaciones con valor patrimonial.",
+    "Con esta decisión, el municipio impide la creación de nuevas plazas turísticas en este tipo de inmuebles dentro de todo su término municipal, limitando así una de las opciones legales para la expansión del sector turístico local."
+   ]
+  },
+  "ca": {
+   "title": "Campanet prohibeix noves places turístiques en immobles protegits",
+   "summary": "L'Ajuntament de Campanet ha acordat no aplicar l'excepció normativa que permetia crear allotjaments turístics en edificacions de valor patrimonial.",
+   "body": [
+    "El Butlletí Oficial de les Illes Balears (BOIB) ha publicat aquest dijous l'acord municipal pel qual Campanet tanca la porta a una via excepcional contemplada per la normativa autonòmica. Aquesta mesura estableix la inaplicació de l'excepció que permetia implantar establiments d'allotjament turístic en edificacions amb valor patrimonial.",
+    "Amb aquesta decisió, el municipi impedeix la creació de noves places turístiques en aquest tipus d'immobles dins de tot el seu terme municipal, limitant així una de les opcions legals per a l'expansió del sector turístic local."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El BOIB publica el acuerdo municipal de Campanet.",
+    "ca": "El BOIB publica l'acord municipal de Campanet.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Se prohíbe la creación de alojamientos turísticos en edificaciones de valor patrimonial.",
+    "ca": "Es prohibeix la creació d'allotjaments turístics en edificacions de valor patrimonial.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "La medida aplica a todo el término municipal de Campanet.",
+    "ca": "La mesura s'aplica a tot el terme municipal de Campanet.",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:05:14.358Z",
+  "slug": "campanet-prohibe-nuevas-plazas-turisticas-en-inmuebles-protegidos-fa9c8",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864387.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/part-forana/2026/11/27/2758291/campanet-prohibe-plazas-turisticas-inmuebles-protegidos.html"
+  }
+ },
+ {
+  "id": "stec65b99fe4",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "372e6a0d6170",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/27/2758133/acepta-cinco-anos-carcel-por-violar-novia-discapacidad-palma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Acepta cinco años de cárcel por violar a su novia con discapacidad en Palma",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:05:18.677Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Joven condenado a cinco años de cárcel por violar a su novia con discapacidad en Palma",
+   "summary": "Un hombre de 30 años ha sido sentenciado a cinco años de prisión y una multa de 1.080 euros por violar, coaccionar y vejear a su novia con discapacidad en Palma.",
+   "body": [
+    "Un joven español de 30 años, que ya se encontraba detenido por otro delito y tiene una minusvalía del 53 por ciento, se declaró culpable en la Audiencia Provincial de Palma. El tribunal le impuso una pena de cinco años de cárcel y una multa de 1.080 euros por violar a su novia con discapacidad, coaccionarla y vejearla. La sentencia también consideró la eximente incompleta de trastorno mental y la agravante de parentesco.",
+    "Según el informe judicial, el acusado ya estaba privado de libertad por otra causa cuando se dictó la condena. La pena incluye la obligación de pagar la multa establecida y el cumplimiento de la pena privativa de libertad en régimen ordinario."
+   ]
+  },
+  "ca": {
+   "title": "Jove condemnat a cinc anys de presó per violar la seva nòvia amb discapacitat a Palma",
+   "summary": "Un home de 30 anys ha estat sentenciat a cinc anys de presó i una multa de 1.080 euros per violar, coaccionar i assetjar la seva nòvia amb discapacitat a Palma.",
+   "body": [
+    "Un jove espanyol de 30 anys, que ja es trobava empresonat per un altre delicte i té una minusvàlia del 53 per cent, es va declarar culpable a l'Audiència Provincial de Palma. El tribunal li va imposar una pena de cinc anys de presó i una multa de 1.080 euros per violar la seva nòvia amb discapacitat, coaccionar‑la i assetjar‑la. La sentència també va tenir en compte l'exempció incompleta de trastorn mental i l'aggravant de parentesc.",
+    "Segons l'informe judicial, l'acusat ja estava privat de llibertat per una altra causa quan es va dictar la condemna. La pena inclou l'obligació de pagar la multa establerta i el compliment de la pena privativa de llibertat en règim ordinari."
+   ]
+  },
+  "facts": [
+   {
+    "es": "Sentència de cinc anys de presó i multa de 1.080 euros",
+    "ca": "Sentència de cinc anys de presó i multa de 1.080 euros",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Acusado de 30 años con minusvalía del 53 %",
+    "ca": "Acusat de 30 anys amb minusvàlia del 53 %",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:05:18.677Z",
+  "slug": "joven-condenado-a-cinco-anos-de-carcel-por-violar-a-su-novia-con-99fe4",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864413.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/sucesos/ultimas/2026/11/27/2758133/acepta-cinco-anos-carcel-por-violar-novia-discapacidad-palma.html"
+  }
+ },
+ {
+  "id": "stc5b5016af4",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "0ffea18e0c8d",
+    "url": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/27/2758021/alerta-roja-son-moix-llega-castellon-rodillo-domicilio-amenaza-critica-para-luis-garcia.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Alerta roja en Son Moix: llega el Castellón, un rodillo a domicilio y una amenaza crítica para Luis García",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:05:28.393Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sucesos",
+  "es": {
+   "title": "Alerta roja en Son Moix por la visita del CD Castellón",
+   "summary": "El estadio Son Moix recibirá al CD Castellón bajo una alerta roja, mientras se acerca el decisivo partido del 29 de noviembre que definirá el futuro del entrenador Luis García Fernández.",
+   "body": [
+    "El estadio Son Moix, sede del Real Mallorca, ha sido colocado bajo alerta roja de cara a la visita del CD Castellón, considerado por la prensa como un rival “rodillo a domicilio”. La medida se produce en un momento crítico de la temporada, con el futuro del entrenador Luis García Fernández en juego tras los resultados recientes del equipo balear.",
+    "Según Última Hora, el 29 de noviembre será la fecha clave que marcará el futuro de García Fernández como técnico del club. La alerta roja, anunciada como la primera del otoño, pretende reforzar la seguridad del recinto y del entorno del club ante la llegada del visitante, que ha mostrado un comportamiento irregular en la Liga Hypermotion."
+   ]
+  },
+  "ca": {
+   "title": "Alerta vermella a Son Moix per la visita del CD Castelló",
+   "summary": "L'estadi Son Moix rebrà el CD Castelló sota una alerta vermella, mentre s'acosta el partit decisiu del 29 de novembre que determinarà el futur de l'entrenador Luis García Fernández.",
+   "body": [
+    "L'estadi Son Moix, seu del Real Mallorca, ha estat situat sota alerta vermella d'entrada del CD Castelló, considerat per la premsa com un rival “rodillo a domicili”. La mesura arriba en un moment crític de la temporada, amb el futur de l'entrenador Luis García Fernández en joc després dels resultats recents del club balear.",
+    "Segons Última Hora, el 29 de novembre serà la data clau que marcarà el futur de García Fernández com a tècnic del club. L'alerta vermella, anunciada com la primera de la tardor, pretén reforçar la seguretat del recinte i de l'entorn del club davant l'arribada del visitant, que ha mostrat un comportament irregular a la Lliga Hypermotion."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El 29‑N marcará el futuro de Luis García Fernández como entrenador del Real Mallorca",
+    "ca": "El 29‑N marcarà el futur de Luis García Fernández com a entrenador del Real Mallorca",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El CD Castellón llega al Son Moix bajo alerta roja",
+    "ca": "El CD Castelló arriba al Son Moix sota alerta vermella",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:05:28.393Z",
+  "slug": "alerta-roja-en-son-moix-por-la-visita-del-cd-castellon-16af4",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864069.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/deportes/real-mallorca/2026/11/27/2758021/alerta-roja-son-moix-llega-castellon-rodillo-domicilio-amenaza-critica-para-luis-garcia.html"
+  }
+ },
+ {
+  "id": "st2f49a354df",
+  "createdAt": "2026-11-27T09:00:35.323Z",
+  "firstPublished": "2026-11-27T03:48:01.000Z",
+  "articles": [
+   {
+    "id": "2b8228535019",
+    "url": "https://www.ultimahora.es/noticias/palma/2026/11/27/2757997/llegado-momento-jubilarme-adios-joyeria-maria-rosa-tras-anos-palma.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "«Ha llegado el momento de jubilarme»: adiós a la joyería María Rosa tras 28 años en Palma",
+    "published": "2026-11-27T03:48:01.000Z"
+   }
+  ],
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T03:48:01.000Z",
+  "model": "groq/openai/gpt-oss-120b",
+  "writtenAt": "2026-11-27T09:05:43.223Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "Cierra la joyería María Rosa en Palma tras 28 años de actividad",
+   "summary": "La joyería situada en la calle Reis Catòlics 80 cesa sus operaciones después de casi tres décadas al mando de María Rosa Amengual.",
+   "body": [
+    "La joyería María Rosa, ubicada en el número 80 de la calle Reis Catòlics de Palma, anunciará el cierre de sus puertas tras 28 años de funcionamiento. El negocio, que comenzó como un proyecto personal de María Rosa Amengual, se ha convertido en un establecimiento familiar muy conocido entre sus clientes.",
+    "El cese de la actividad se produce por la decisión de la propietaria de jubilarse, poniendo fin a una etapa que empezó a finales de los años noventa. La tienda ha sido uno de los comercios con más trayectoria de la capital balear."
+   ]
+  },
+  "ca": {
+   "title": "Tanca la joieria Maria Rosa a Palma després de 28 anys d'activitat",
+   "summary": "La joieria situada al carrer Reis Catòlics 80 cessarà les seves operacions després de gairebé tres dècades al capdavant de Maria Rosa Amengual.",
+   "body": [
+    "La joieria Maria Rosa, ubicada al número 80 del carrer Reis Catòlics de Palma, anunciarà el tancament de les seves portes després de 28 anys de funcionament. El negoci, que va començar com un projecte personal de Maria Rosa Amengual, s'ha convertit en un establiment familiar molt conegut entre els seus clients.",
+    "El cessament de l'activitat es produeix per la decisió de la propietària de jubilar-se, posant fi a una etapa que va iniciar a finals dels anys noranta. La botiga ha estat un dels comerços amb més trajectòria de la capital balear."
+   ]
+  },
+  "facts": [
+   {
+    "es": "La joyería María Rosa cerrará sus puertas después de 28 años de actividad",
+    "ca": "La joieria Maria Rosa tancarà les seves portes després de 28 anys d'activitat",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Dirección: número 80 de la calle Reis Catòlics, Palma",
+    "ca": "Adreça: número 80 del carrer Reis Catòlics, Palma",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "Fundadora y propietaria: María Rosa Amengual",
+    "ca": "Fundadora i propietària: Maria Rosa Amengual",
+    "sources": [
+     "ultimahora"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:05:43.223Z",
+  "slug": "cierra-la-joyeria-maria-rosa-en-palma-tras-28-anos-de-actividad-354df",
+  "status": "single",
+  "image": {
+   "url": "https://uh.gsstatic.es/sfAttachPlugin/4864435.webp",
+   "sourceId": "ultimahora",
+   "articleUrl": "https://www.ultimahora.es/noticias/palma/2026/11/27/2757997/llegado-momento-jubilarme-adios-joyeria-maria-rosa-tras-anos-palma.html"
+  }
+ },
+ {
   "id": "ste58f7d812e",
   "createdAt": "2026-11-27T00:32:28.947Z",
   "firstPublished": "2026-11-26T23:11:09.000Z",
@@ -11,10 +1779,42 @@
     "lang": "es",
     "title": "Feijóo reprocha a Colau, \"y usted, calladita\"",
     "published": "2026-11-26T23:11:09.000Z"
+   },
+   {
+    "id": "444a7878a69c",
+    "url": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/27/2758765/dardo-feijoo-deja-petrificado-pedro-sanchez-debate-usted-conoce-pizzeria-luna-rosa-verdad-senor-sanchez.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "El dardo de Feijóo que deja petrificado a Pedro Sánchez en el debate: «Usted conoce la Pizzería Luna Rosa, ¿verdad, señor Sánchez?»",
+    "published": "2026-11-27T08:31:25.000Z"
+   },
+   {
+    "id": "efe0f1f3cd8b",
+    "url": "https://www.mallorcadiario.com/feijoo-acorrala-a-sanchez-con-la-corrupcion-en-un-bronco-debate-a-cuatro-marcado-por-los-reproches-cruzados",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Feijóo acorrala a Sánchez con la corrupción en un bronco debate a cuatro marcado por los reproches cruzados",
+    "published": "2026-11-27T08:06:52.000Z"
+   },
+   {
+    "id": "9d68c948b0f4",
+    "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/27/2758733/feijoo-retira-calladita-colau-pero-vuelve-utilizarlo-para-atacar-sumar.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Feijóo retira el «calladita» a Colau, pero vuelve a utilizarlo para atacar a Sumar",
+    "published": "2026-11-27T07:57:19.000Z"
+   },
+   {
+    "id": "773e7ecdfff3",
+    "url": "https://www.menorca.info/actualidad/elecciones-29n/2026/11/27/2758733/feijoo-retira-calladita-colau-pero-vuelve-utilizarlo-para-atacar-sumar.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Feijóo retira el «calladita» a Colau, pero vuelve a utilizarlo para atacar a Sumar",
+    "published": "2026-11-27T07:57:19.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-26T23:11:09.000Z",
+  "lastArticleAt": "2026-11-27T08:31:25.000Z",
   "model": "groq/openai/gpt-oss-20b",
   "writtenAt": "2026-11-27T00:35:44.785Z",
   "hidden": true
@@ -82,7 +1882,10 @@
    "url": "https://uh.gsstatic.es/sfAttachPlugin/4864967.webp",
    "sourceId": "ultimahora",
    "articleUrl": "https://www.ultimahora.es/deportes/otros-deportes/2026/11/26/2758349/jorge-gonzalez-experiencia-correr-para-descubrir-mundo-llega-librerias.html"
-  }
+  },
+  "distinctFrom": [
+   "st43b87be176"
+  ]
  },
  {
   "id": "stadb5332ba3",
@@ -96,51 +1899,94 @@
     "lang": "ca",
     "title": "Entrevista a José Vicente Marí Bosó, cap de llista per les Balears del PP al Congrés",
     "published": "2026-11-26T20:27:25.000Z"
+   },
+   {
+    "id": "11e068862e7c",
+    "url": "https://www.mallorcadiario.com/entrevista-jose-vicente-mari-boso-candidato-pp-congreso-29n",
+    "sourceId": "mallorcadiario",
+    "lang": "es",
+    "title": "Marí Bosó (PP): “La verdadera involución democrática ha sido la de Sánchez y Armengol\"",
+    "published": "2026-11-27T05:30:29.000Z"
+   },
+   {
+    "id": "d8a46da7383c",
+    "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/mari-boso-candidato-del-pp-al-congreso-la-solucion-al-problema-de-la-vivienda-es-ibiza-es-construir-mas/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "Marí Bosó, candidato del PP al Congreso: «La solución al problema de la vivienda en Ibiza es construir más»",
+    "published": "2026-11-27T05:01:00.000Z"
+   },
+   {
+    "id": "432e37b0aac4",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/jose-vicente-mari-boso-candidato-136548963.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "José Vicente Marí Bosó, candidato del PP: \"Hay sobrepoblación, pero es mejor que venga gente a vivir aquí que tener que marcharnos\"",
+    "published": "2026-11-27T05:00:44.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-26T20:27:25.000Z",
+  "lastArticleAt": "2026-11-27T05:30:29.000Z",
   "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-27T00:36:04.885Z",
+  "writtenAt": "2026-11-27T09:01:08.429Z",
   "islands": [
    "baleares"
   ],
   "topic": "politica",
   "es": {
-   "title": "José Vicente Marí Bosó encabeza la lista del PP en las Baleares para el Congreso",
-   "summary": "El candidato del Partido Popular, José Vicente Marí Bosó, ha sido presentado como cabeza de lista para las Islas Baleares en las próximas elecciones al Congreso.",
+   "title": "José Vicente Marí Bosó encabeza la lista del PP por Baleares al Congreso",
+   "summary": "El candidato del Partido Popular, José Vicente Marí Bosó, ha presentado sus propuestas para las elecciones del 29 de noviembre, centradas en la vivienda y la gestión del aeropuerto de Ibiza.",
    "body": [
-    "Según la información disponible, José Vicente Marí Bosó ha sido anunciado como candidato principal del Partido Popular para la candidatura balear al Congreso de los Diputados. La presentación se ha realizado en un acto público en el que el propio Marí Bosó ha manifestado su intención de representar a las islas en la cámara legislativa.",
-    "Esta candidatura forma parte de la estrategia del PP para las elecciones generales, buscando reforzar su presencia en la comunidad autónoma de las Islas Baleares."
+    "José Vicente Marí Bosó ha sido confirmado como número uno de la lista del Partido Popular para las elecciones al Congreso que se celebrarán el 29 de noviembre en las Islas Baleares. En diversas entrevistas, el candidato ha señalado que la sobrepoblación es un problema, pero que es preferible que la gente llegue a vivir a las islas que que los residentes tengan que marcharse.",
+    "Marí Bosó ha propuesto construir más viviendas en Ibiza como solución al déficit habitacional y ha defendido la posibilidad de paralizar la ampliación prevista del aeropuerto de Ibiza, apostando por la modernización de sus instalaciones. Además, ha criticado la gestión del Gobierno central y del Govern balear, calificándola de \"involución democrática\" y ha sugerido que la fórmula de gobierno de Marga Prohens podría aplicarse a nivel nacional."
    ]
   },
   "ca": {
-   "title": "José Vicente Marí Bosó encapçala la llista del PP a les Balears per al Congrés",
-   "summary": "El candidat del Partit Popular, José Vicente Marí Bosó, ha estat presentat com a cap de llista per a les Illes Balears a les properes eleccions al Congrés.",
+   "title": "José Vicente Marí Bosó encapçala la llista del PP per les Balears al Congrés",
+   "summary": "El candidat del Partit Popular, José Vicente Marí Bosó, ha presentat les seves propostes per a les eleccions del 29 de novembre, centrades en l'habitatge i la gestió de l'aeroport d'Eivissa.",
    "body": [
-    "Segons la informació disponible, José Vicente Marí Bosó ha estat anunciat com a candidat principal del Partit Popular per a la candidatura balear al Congrés dels Diputats. La presentació s'ha realitzada en un acte públic on el propi Marí Bosó ha manifestat la seva intenció de representar les illes a la cambra legislativa.",
-    "Aquesta candidatura forma part de l'estratègia del PP per a les eleccions generals, buscant reforçar la seva presència a la comunitat autònoma de les Illes Balears."
+    "José Vicente Marí Bosó ha estat confirmat com a número u de la llista del Partit Popular per a les eleccions al Congrés que se celebraran el 29 de novembre a les Illes Balears. En diverses entrevistes, el candidat ha assenyalat que la sobrepoblació és un problema, però que és preferible que la gent vingui a viure a les illes que que els residents hagin de marxar-se.",
+    "Marí Bosó ha proposat construir més habitatges a Eivissa com a solució al dèficit habitacional i ha defensat la possibilitat de paralitzar l'ampliació prevista de l'aeroport d'Eivissa, apostant per la modernització de les seves instal·lacions. A més, ha criticat la gestió del Govern central i del Govern balear, qualificant-la d'\"involució democràtica\" i ha suggerit que la fórmula de govern de Marga Prohens podria aplicar-se a nivell nacional."
    ]
   },
   "facts": [
    {
-    "es": "José Vicente Marí Bosó es el candidato principal del PP para las Baleares al Congreso",
-    "ca": "José Vicente Marí Bosó és el candidat principal del PP per a les Balears al Congrés",
+    "es": "José Vicente Marí Bosó es número uno de la lista del PP por Baleares al Congreso",
+    "ca": "José Vicente Marí Bosó és número u de la llista del PP per les Balears al Congrés",
     "sources": [
-     "ib3"
+     "diariodemallorca",
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Propone construir más viviendas en Ibiza y paralizar la ampliación del aeropuerto",
+    "ca": "Proposa construir més habitatges a Eivissa i paralitzar l'ampliació de l'aeroport",
+    "sources": [
+     "noudiari"
+    ]
+   },
+   {
+    "es": "Critica la gestión del Gobierno central y del Govern balear, calificándola de involución democrática",
+    "ca": "Critica la gestió del Govern central i del Govern balear, qualificant-la d'involució democràtica",
+    "sources": [
+     "mallorcadiario"
     ]
    }
   ],
   "discrepancies": [],
   "contradiction": false,
-  "updatedAt": "2026-11-27T00:36:04.885Z",
+  "updatedAt": "2026-11-27T09:01:08.430Z",
   "slug": "jose-vicente-mari-boso-encabeza-la-lista-del-pp-en-las-baleares-para-32ba3",
-  "status": "single",
+  "status": "verified",
   "image": {
    "url": "https://d3u5tmyuxvrrla.cloudfront.net/files_flutter/DLT20436697_1.webp",
    "sourceId": "ib3",
    "articleUrl": "https://ib3.org/entrevista-a-jose-vicente-mari-boso-cap-de-llista-per-les-balears-del-pp-al-congres"
-  }
+  },
+  "distinctFrom": [
+   "st6cc079a2eb",
+   "st98c056aef3"
+  ]
  },
  {
   "id": "ste9b42d0d09",
@@ -960,7 +2806,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/7eea163a-df21-4a71-a94d-1d9290bae514_16-9-aspect-ratio_default_0_x800y355.jpg",
    "sourceId": "diariodeibiza",
    "articleUrl": "https://www.diariodeibiza.es/ibiza/2026/11/26/obras-ibiza-15-meses-trabajos-136887613.html"
-  }
+  },
+  "distinctFrom": [
+   "stac03fcea3f"
+  ]
  },
  {
   "id": "st2dd2452d4b",
@@ -1688,7 +3537,10 @@
    "url": "https://ibi.gsstatic.es/sfAttachPlugin/4864409.webp",
    "sourceId": "periodicodeibiza",
    "articleUrl": "https://www.periodicodeibiza.es/pitiusas/ibiza/2026/11/26/2758309/sant-antoni-aprueba-creacion-espacio-dedicado-duelo-gestacional-perinatal-neonatal.html"
-  }
+  },
+  "distinctFrom": [
+   "stac03fcea3f"
+  ]
  },
  {
   "id": "st90d47386f3",
@@ -2491,7 +4343,8 @@
   },
   "distinctFrom": [
    "st414e9e4bdb",
-   "stf2964f91f8"
+   "stf2964f91f8",
+   "sta8a7da46df"
   ]
  },
  {
@@ -2680,7 +4533,8 @@
    "stb349950e85",
    "st5ead90865a",
    "st414e9e4bdb",
-   "st98121a4eeb"
+   "st98121a4eeb",
+   "sta8a7da46df"
   ]
  },
  {
@@ -3181,7 +5035,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/0a32423d-d6bf-429a-b38e-8ff8085a8bd7_16-9-aspect-ratio_default_0_x1000y435.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/26/junta-electoral-ordena-cort-inmediata-136876584.html"
-  }
+  },
+  "distinctFrom": [
+   "stfe5e0afd58"
+  ]
  },
  {
   "id": "stdab763db7a",
@@ -4381,10 +6238,130 @@
     "lang": "es",
     "title": "El naufragio del ‘Med Emre’ revive en Ibiza el recuerdo del vertido del ‘Don Pedro’",
     "published": "2026-11-26T09:44:00.000Z"
+   },
+   {
+    "id": "9dfde395d9ed",
+    "url": "https://www.noudiari.es/local-ibiza/el-marinero-fallecido-en-el-naufragio-de-ibiza-era-el-jefe-de-maquinas/",
+    "sourceId": "noudiari",
+    "lang": "es",
+    "title": "El marinero fallecido en el naufragio de Ibiza era el jefe de máquinas",
+    "published": "2026-11-27T08:59:26.000Z"
+   },
+   {
+    "id": "a92b5defc996",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/27/valencia-activa-plan-emergencias-naufragio-barco-ibiza-136913432.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "València activa su plan de emergencias tras el naufragio del barco 'Med Emre' a 20 millas de Ibiza",
+    "published": "2026-11-27T08:54:25.000Z"
+   },
+   {
+    "id": "e4b380ec879e",
+    "url": "https://www.arabalears.cat/societat/mariner-mort-naufragi-med-emre-eivissa-cap-maquines-turc-46-anys_1_5924667.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "El mariner mort en el naufragi del Med Emre a Eivissa era el cap de màquines, un turc de 46 anys",
+    "published": "2026-11-27T08:36:57.000Z"
+   },
+   {
+    "id": "328982bb0ee0",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/27/remolcador-maria-zambrano-barco-ibiza-gasoil-136911397.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "El remolcador 'María Zambrano' llega a la zona donde volcó el barco con 7.000 toneladas de gasoil frente a Ibiza",
+    "published": "2026-11-27T08:07:23.000Z"
+   },
+   {
+    "id": "669f790e5798",
+    "url": "https://www.diariodemallorca.es/sociedad/2026/11/27/jefe-maquinas-med-emre-victima-naufragio-barco-ibiza-136911721.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El muerto en el naufragio del barco en Ibiza era el jefe de máquinas, según la empresa: \"Nuestros pensamientos están con su familia\"",
+    "published": "2026-11-27T07:55:42.000Z"
+   },
+   {
+    "id": "e178c2d416b7",
+    "url": "https://www.diariodemallorca.es/sociedad/2026/11/27/entrada-masiva-agua-tanques-lastre-136911512.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "La entrada \"masiva\" de agua en los tanques de lastre podría haber causado el hundimiento del 'Med Emre'",
+    "published": "2026-11-27T07:48:35.000Z"
+   },
+   {
+    "id": "63c9206dbd4d",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/27/pacma-reclama-medidas-urgentes-naufragio-barco-ibiza-136909747.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "Pacma reclama medidas urgentes para evitar un vertido del 'Med Emre' en Ibiza: \"Las autoridades deben actuar conforme al principio de precaución\"",
+    "published": "2026-11-27T07:35:03.000Z"
+   },
+   {
+    "id": "ca5c57f41c10",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/27/jefe-maquinas-med-emre-victima-naufragio-barco-ibiza-136910341.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "El muerto en el naufragio del barco en Ibiza era el jefe de máquinas, según la empresa: \"Nuestros pensamientos están con su familia\"",
+    "published": "2026-11-27T07:15:55.000Z"
+   },
+   {
+    "id": "9e812d7034d6",
+    "url": "https://www.periodicodeibiza.es/pitiusas/ibiza/2026/11/27/2758715/sigue-ultima-hora-del-naufragio-del-buque-med-emre-ibiza.html",
+    "sourceId": "periodicodeibiza",
+    "lang": "es",
+    "title": "Sigue la última hora del naufragio del buque 'Med Emre' en Ibiza",
+    "published": "2026-11-27T07:05:00.000Z"
+   },
+   {
+    "id": "a1b2b87a56c9",
+    "url": "https://www.arabalears.cat/societat/desapareix-taca-gasoil-remolcador-ja-subjecta-vaixell-enfonsat-eivissa_1_5924557.html",
+    "sourceId": "arabalears",
+    "lang": "ca",
+    "title": "Desapareix la taca de gasoil i un remolcador ja subjecta el vaixell enfonsat a Eivissa",
+    "published": "2026-11-27T06:52:11.000Z"
+   },
+   {
+    "id": "d8defde17857",
+    "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/27/2758705/sigue-directo-ultima-hora-del-naufragio-del-buque-frente-ibiza.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "Sigue en directo la última hora del naufragio del buque frente a Ibiza",
+    "published": "2026-11-27T06:19:00.000Z"
+   },
+   {
+    "id": "0aaaf96e4546",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/27/2758705/sigue-directo-ultima-hora-del-naufragio-del-buque-frente-ibiza.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "Sigue en directo la última hora del naufragio del buque frente a Ibiza",
+    "published": "2026-11-27T06:19:00.000Z"
+   },
+   {
+    "id": "4cf8fb43cbc4",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/cientificos-mallorca-alertan-riesgo-ambiental-136887463.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Científicos de Mallorca alertan del riesgo ambiental del gasóleo del buque volcado en Ibiza: \"El tiempo de exposición será determinante\"",
+    "published": "2026-11-27T05:01:10.000Z"
+   },
+   {
+    "id": "d292127092ce",
+    "url": "https://www.ultimahora.es/opinion/editorial/2026/11/27/2758695/mediterraneo-mar-siempre-esta-peligro.html",
+    "sourceId": "ultimahora",
+    "lang": "es",
+    "title": "El Mediterráneo, un mar que siempre está en peligro",
+    "published": "2026-11-27T03:48:01.000Z"
+   },
+   {
+    "id": "599f8e67b7a2",
+    "url": "https://www.menorca.info/balears/noticias/2026/11/27/2758647/buque-volcado-frente-ibiza-afronta-jornada-clave-para-recuperar-7000-toneladas-gasoleo.html",
+    "sourceId": "menorcainfo",
+    "lang": "es",
+    "title": "El buque volcado frente a Ibiza afronta una jornada clave para recuperar las 7.000 toneladas de gasóleo",
+    "published": "2026-11-27T03:48:00.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-26T23:49:56.000Z",
+  "lastArticleAt": "2026-11-27T08:59:26.000Z",
   "model": "groq/qwen/qwen3.8-27b",
   "writtenAt": "2026-11-27T00:33:35.615Z",
   "islands": [
@@ -4883,10 +6860,18 @@
     "lang": "es",
     "title": "Detenidos dos exdirectores y la inspectora de una escuela de adultos de Palma por desviar más de 300.000 euros",
     "published": "2026-11-26T09:43:42.000Z"
+   },
+   {
+    "id": "ecb563a773b5",
+    "url": "https://www.diariodemallorca.es/mallorca/2026/11/27/acusan-detenidos-escuela-adultos-son-136887064.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "Acusan a varios detenidos de la escuela de adultos Son Canals de desviar el dinero para gastos particulares",
+    "published": "2026-11-27T05:01:46.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-26T12:48:43.000Z",
+  "lastArticleAt": "2026-11-27T05:01:46.000Z",
   "model": "gemini/gemini-flash-latest",
   "writtenAt": "2026-11-27T00:35:24.389Z",
   "islands": [
@@ -4946,7 +6931,10 @@
    "url": "https://estaticos-cdn.prensaiberica.es/clip/57953892-8aff-423c-8ec9-65d75f7f5afd_16-9-aspect-ratio_default_0.jpg",
    "sourceId": "diariodemallorca",
    "articleUrl": "https://www.diariodemallorca.es/mallorca/2026/11/26/detenidos-exdirectores-inspectora-escuela-adultos-136849927.html"
-  }
+  },
+  "distinctFrom": [
+   "stf2964f91f8"
+  ]
  },
  {
   "id": "stb6d5d2de54",
@@ -9861,10 +11849,82 @@
     "lang": "es",
     "title": "El GEM niega haber invadido la propiedad privada de Galatzó y estudia emprender acciones legales",
     "published": "2026-11-25T13:33:00.000Z"
+   },
+   {
+    "id": "1593df2a3466",
+    "url": "https://www.diariodemallorca.es/part-forana/2026/11/27/grup-excursionista-mallorca-estudia-acciones-136887698.html",
+    "sourceId": "diariodemallorca",
+    "lang": "es",
+    "title": "El Grup Excursionista de Mallorca estudia acciones legales por la agresión en el camino del Galatzó",
+    "published": "2026-11-27T05:01:00.000Z"
    }
   ],
-  "needsWrite": true,
-  "lastArticleAt": "2026-11-25T13:33:35.000Z"
+  "needsWrite": false,
+  "lastArticleAt": "2026-11-27T05:01:00.000Z",
+  "model": "groq/qwen/qwen3.8-27b",
+  "writtenAt": "2026-11-27T09:01:11.141Z",
+  "islands": [
+   "mallorca"
+  ],
+  "topic": "sociedad",
+  "es": {
+   "title": "El GEM niega invadir la finca de Galatzó y estudia acciones legales",
+   "summary": "El Grup Excursionista de Mallorca rechaza las acusaciones del propietario de la finca y anuncia que valorará medidas legales tras el altercado del 18 de noviembre.",
+   "body": [
+    "El Grup Excursionista de Mallorca (GEM) ha emitido un comunicado para desmentir las declaraciones del propietario de la finca situada en el puig de Galatzó. Según el dueño, unos 40 senderistas entraron sin autorización en su propiedad familiar, una versión que la entidad excursionista niega rotundamente, asegurando que no se produjo ninguna invasión de terreno privado.",
+    "El incidente tuvo lugar el pasado miércoles 18 de noviembre durante una excursión por la zona. El GEM denunció una presunta agresión por parte de varios individuos que reprocharon al grupo la entrada en una zona privada. Ante esta situación, la junta directiva de la entidad ha anunciado que estudiará la posibilidad de emprender acciones legales."
+   ]
+  },
+  "ca": {
+   "title": "El GEM nega haver invadit la finca de Galatzó i estudia accions legals",
+   "summary": "El Grup Excursionista de Mallorca rebutja les acusacions del propietari de la finca i anuncia que valorarà mesures legals després de l'altercat del 18 de novembre.",
+   "body": [
+    "El Grup Excursionista de Mallorca (GEM) ha emès un comunicat per desmentir les declaracions del propietari de la finca situada al puig de Galatzó. Segons el propietari, uns 40 excursionistes van entrar sense autorització a la seva propietat familiar, una versió que l'entitat excursionista nega rotundament, assegurant que no es va produir cap invasió de terreny privat.",
+    "L'incident va tenir lloc el passat dimecres 18 de novembre durant una sortida per la zona. El GEM va denunciar una presumpta agressió per part de diversos individus que van retreure al grup l'entrada en una zona privada. Davant d'aquesta situació, la junta directiva de l'entitat ha anunciat que estudiarà la possibilitat d'emprendre accions legals."
+   ]
+  },
+  "facts": [
+   {
+    "es": "El GEM niega haber invadido la propiedad privada del puig de Galatzó.",
+    "ca": "El GEM nega haver invadit la propietat privada del puig de Galatzó.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El propietario afirma que cerca de 40 senderistas entraron sin autorización.",
+    "ca": "El propietari afirma que prop de 40 excursionistes van entrar sense autorització.",
+    "sources": [
+     "ultimahora"
+    ]
+   },
+   {
+    "es": "El altercado ocurrió el 18 de noviembre de 2026.",
+    "ca": "L'altercat va tenir lloc el 18 de novembre de 2026.",
+    "sources": [
+     "diariodemallorca"
+    ]
+   },
+   {
+    "es": "El GEM estudia emprender acciones legales.",
+    "ca": "El GEM estudia prendre accions legals.",
+    "sources": [
+     "ultimahora",
+     "diariodemallorca"
+    ]
+   }
+  ],
+  "discrepancies": [],
+  "contradiction": false,
+  "updatedAt": "2026-11-27T09:01:11.141Z",
+  "slug": "el-gem-niega-invadir-la-finca-de-galatzo-y-estudia-acciones-legales-6cd39",
+  "status": "verified",
+  "image": {
+   "url": "https://estaticos-cdn.prensaiberica.es/clip/7064d96b-c3b7-41f7-adbf-df5405b49464_16-9-aspect-ratio_default_0_x251y129.jpg",
+   "sourceId": "diariodemallorca",
+   "articleUrl": "https://www.diariodemallorca.es/part-forana/2026/11/27/grup-excursionista-mallorca-estudia-acciones-136887698.html"
+  }
  },
  {
   "id": "sta00fa90f43",
@@ -16721,10 +18781,18 @@
     "lang": "es",
     "title": "Nassau Beach Club entra en el selecto ranking de los 100 mejores clubs del mundo",
     "published": "2026-11-25T10:08:24.000Z"
+   },
+   {
+    "id": "4bfc320aff2f",
+    "url": "https://www.diariodeibiza.es/ibiza/2026/11/27/club-ibiza-cuela-mejores-mundo-136895207.html",
+    "sourceId": "diariodeibiza",
+    "lang": "es",
+    "title": "El club de Ibiza se cuela entre los mejores del mundo",
+    "published": "2026-11-27T05:01:20.000Z"
    }
   ],
   "needsWrite": false,
-  "lastArticleAt": "2026-11-25T10:08:24.000Z",
+  "lastArticleAt": "2026-11-27T05:01:20.000Z",
   "writeErrors": 1,
   "model": "groq/openai/gpt-oss-120b",
   "writtenAt": "2026-11-25T14:17:03.049Z",
@@ -38228,26 +40296,6 @@
   }
  },
  {
-  "id": "stf4de936606",
-  "createdAt": "2026-11-20T01:13:38.188Z",
-  "firstPublished": "2026-11-19T22:12:00.000Z",
-  "articles": [
-   {
-    "id": "7fa1f7f30d32",
-    "url": "https://www.ultimahora.es/noticias/local/2026/11/19/2753709/gran-sinfonia-papel-pixeles-personas.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Una gran sinfonía de papel, píxeles... y personas",
-    "published": "2026-11-19T22:12:00.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-19T22:12:00.000Z",
-  "model": "groq/openai/gpt-oss-120b",
-  "writtenAt": "2026-11-20T01:16:00.159Z",
-  "hidden": true
- },
- {
   "id": "st4ac45d349d",
   "createdAt": "2026-11-20T01:13:38.188Z",
   "firstPublished": "2026-11-19T21:03:00.000Z",
@@ -38736,42 +40784,6 @@
    "sourceId": "ib3",
    "articleUrl": "https://ib3.org/lincendi-de-cala-morell-ja-esta-extingit-i-ara-sinvestiga"
   }
- },
- {
-  "id": "st82f807bad4",
-  "createdAt": "2026-11-20T01:13:38.188Z",
-  "firstPublished": "2026-11-19T19:00:00.000Z",
-  "articles": [
-   {
-    "id": "39320cbda1c8",
-    "url": "https://www.ultimahora.es/vips/quiosco-rosa/2026/11/19/2753431/chenoa-anima-los-villancicos-asi-suena-navidad-estas.html",
-    "sourceId": "ultimahora",
-    "lang": "es",
-    "title": "Chenoa se anima con los villancicos: así suena 'Navidad si tú estás'",
-    "published": "2026-11-19T19:00:00.000Z"
-   },
-   {
-    "id": "75f583e26006",
-    "url": "https://www.periodicodeibiza.es/vips/quiosco-rosa/2026/11/19/2753431/chenoa-anima-los-villancicos-asi-suena-navidad-estas.html",
-    "sourceId": "periodicodeibiza",
-    "lang": "es",
-    "title": "Chenoa se anima con los villancicos: así suena 'Navidad si tú estás'",
-    "published": "2026-11-19T19:00:00.000Z"
-   },
-   {
-    "id": "d449d01034f5",
-    "url": "https://www.menorca.info/vips/quiosco-rosa/2026/11/19/2753431/chenoa-anima-los-villancicos-asi-suena-navidad-estas.html",
-    "sourceId": "menorcainfo",
-    "lang": "es",
-    "title": "Chenoa se anima con los villancicos: así suena 'Navidad si tú estás'",
-    "published": "2026-11-19T19:00:00.000Z"
-   }
-  ],
-  "needsWrite": false,
-  "lastArticleAt": "2026-11-19T19:00:00.000Z",
-  "model": "groq/openai/gpt-oss-20b",
-  "writtenAt": "2026-11-20T01:17:17.153Z",
-  "hidden": true
  },
  {
   "id": "ste3d6b77b8b",
